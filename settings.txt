@@ -1,0 +1,27 @@
+# Settings for the agent. Lines starting with # are notes.
+# Your secret keys do NOT go in this file. On GitHub they go in Settings -> Secrets (see the guide).
+
+# Which free AI service and model to use (Groq's free tier).
+LLM_BASE_URL=https://api.groq.com/openai/v1
+LLM_MODEL=openai/gpt-oss-120b
+# Used if the first model is unavailable or its daily allowance is used up.
+LLM_FALLBACK_MODEL=openai/gpt-oss-20b
+
+# Seconds to wait between AI calls (keeps you inside Groq's free per-minute limit).
+LLM_PAUSE_SECONDS=25
+# Tokens per model per day the agent may use (Groq's free tier allows about 200,000).
+LLM_DAILY_TOKENS=180000
+
+# How many days of company news to read, and of industry news.
+NEWS_DAYS=30
+INDUSTRY_NEWS_DAYS=14
+
+# Audience Pulse: window in days, and how many titles per group to follow.
+PULSE_DAYS_BACK=90
+PULSE_DAYS_AHEAD=90
+PULSE_TITLES_PER_GROUP=12
+PULSE_UPCOMING_PER_GROUP=6
+
+# Benchmarks for the share-price charts.
+BENCHMARK_US=^GSPC
+BENCHMARK_EU=^STOXX
