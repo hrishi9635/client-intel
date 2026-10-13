@@ -1,0 +1,40 @@
+studio,parent,group,kind,match,tmdb_network_id
+Walt Disney Pictures,Disney,Tracked companies,film,Walt Disney Pictures|Disney,
+Walt Disney Animation Studios,Disney,Tracked companies,film,Walt Disney Animation Studios,
+Pixar,Disney,Tracked companies,film,Pixar|Pixar Animation Studios,
+Marvel Studios,Disney,Tracked companies,film,Marvel Studios|Marvel Television|Marvel Animation,
+Lucasfilm,Disney,Tracked companies,film,Lucasfilm|Lucasfilm Ltd.|Lucasfilm Animation,
+20th Century Studios,Disney,Tracked companies,film,20th Century Studios|20th Century Fox|20th Television,
+Searchlight Pictures,Disney,Tracked companies,film,Searchlight Pictures|Fox Searchlight Pictures,
+FX,Disney,Tracked companies,tv,FX Productions|FX|FX Networks,88
+ABC,Disney,Tracked companies,tv,ABC|ABC Signature|ABC Studios,2
+Disney+ originals,Disney,Tracked companies,streamer,Disney+,2739
+Hulu originals,Disney,Tracked companies,streamer,Hulu,453
+Warner Bros. Pictures,WBD / Skydance,Tracked companies,film,Warner Bros. Pictures|Warner Bros.|Warner Bros. Pictures Animation|Warner Bros. Television,
+New Line Cinema,WBD / Skydance,Tracked companies,film,New Line Cinema,
+DC Studios,WBD / Skydance,Tracked companies,film,DC Studios|DC Comics|DC Entertainment,
+HBO,WBD / Skydance,Tracked companies,streamer,HBO|HBO Films|HBO Documentary Films,49
+HBO Max originals,WBD / Skydance,Tracked companies,streamer,HBO Max|Max,3186
+Paramount Pictures,WBD / Skydance,Tracked companies,film,Paramount Pictures|Paramount|Paramount Animation|Nickelodeon Movies|Paramount Television Studios|Paramount Players,
+Skydance,WBD / Skydance,Tracked companies,film,Skydance|Skydance Media|Skydance Animation|Skydance Television,
+Paramount+ originals,WBD / Skydance,Tracked companies,streamer,Paramount+,4330
+CBS,WBD / Skydance,Tracked companies,tv,CBS|CBS Studios,16
+USA Network,Versant,Tracked companies,tv,USA Network,30
+Syfy,Versant,Tracked companies,tv,Syfy|SYFY|Sci Fi Channel,77
+E!,Versant,Tracked companies,tv,E!|E! Entertainment Television,76
+Oxygen,Versant,Tracked companies,tv,Oxygen|Oxygen True Crime,
+CNBC,Versant,Tracked companies,tv,CNBC,
+MS NOW,Versant,Tracked companies,tv,MS NOW|MSNBC,
+Golf Channel,Versant,Tracked companies,tv,Golf Channel,
+Universal Pictures,Comcast (NBCUniversal),Rest of industry,film,Universal Pictures|Universal|Focus Features|DreamWorks Animation|Illumination|Illumination Entertainment|Working Title Films,
+NBC & Peacock,Comcast (NBCUniversal),Rest of industry,streamer,NBC|Peacock|Universal Television,6
+Sony Pictures,Sony,Rest of industry,film,Sony Pictures|Columbia Pictures|Sony Pictures Animation|TriStar Pictures|Screen Gems|Sony Pictures Classics|Sony Pictures Television,
+Lionsgate,Lionsgate,Rest of industry,film,Lionsgate|Lions Gate Films|Lionsgate Films|Summit Entertainment|Starz,
+Amazon MGM Studios,Amazon,Rest of industry,film,Amazon MGM Studios|Amazon Studios|Metro-Goldwyn-Mayer|MGM|Amazon Prime Video,1024
+Apple,Apple,Rest of industry,streamer,Apple Studios|Apple Original Films|Apple TV+|Apple TV,2552
+Netflix,Netflix,Rest of industry,streamer,Netflix|Netflix Animation,213
+A24,A24,Rest of industry,film,A24,
+Neon,Neon,Rest of industry,film,NEON|Neon,
+Blumhouse,Blumhouse,Rest of industry,film,Blumhouse Productions|Blumhouse Television|Blumhouse,
+Legendary,Legendary,Rest of industry,film,Legendary Pictures|Legendary Entertainment|Legendary Television,
+Angel Studios,Angel Studios,Rest of industry,film,Angel Studios,

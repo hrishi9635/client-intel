@@ -1,0 +1,9 @@
+# Hand-checked numbers that WIN over everything else (official filings and Yahoo Finance).
+# One line per company, period and metric. Values in MILLIONS of the currency shown.
+# company = the short_name from companies.csv (for example Disney, Pearson, Wolters Kluwer)
+# period_end = last day of the period, YYYY-MM-DD
+# period_label = how you want it shown, e.g. Q3 2026 or H1 2026
+# metric = revenue, operating_income or net_income
+# Example (delete the # to use it):
+# Pearson,2026-06-30,H1 2026,revenue,1700,GBP,Pearson interim results press release
+company,period_end,period_label,metric,value,currency,source
