@@ -1,0 +1,79 @@
+# Runs the agent for free on GitHub's computers and saves the results back into the "data" folder.
+# The website (Streamlit) reads that folder, so it updates by itself.
+#
+#  Results agent - 4 times a day, around US and European results times (all times UTC):
+#     00:30 (US after-market, late)  11:30 (Europe morning)  14:30 (US pre-market)  21:30 (US after-market)
+#  Audience Pulse + Industry News - once a day at 05:45 UTC
+#  "Run workflow" button - run any part by hand, with an option to re-analyse everything
+name: Run the agent
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+    - cron: "30 11 * * *"
+    - cron: "30 14 * * *"
+    - cron: "30 21 * * *"
+    - cron: "45 5 * * *"
+  workflow_dispatch:
+    inputs:
+      part:
+        description: "Which part to run"
+        type: choice
+        options: [all, results, daily]
+        default: all
+      force:
+        description: "Re-analyse everything with AI (uses more of the free daily allowance)"
+        type: choice
+        options: ["no", "yes"]
+        default: "no"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: agent
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install add-ons
+        run: pip install -r requirements.txt
+      - name: Run the agent
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+          TMDB_KEY: ${{ secrets.TMDB_KEY }}
+          OMDB_KEY: ${{ secrets.OMDB_KEY }}
+          REDDIT_ID: ${{ secrets.REDDIT_ID }}
+          REDDIT_SECRET: ${{ secrets.REDDIT_SECRET }}
+        run: |
+          PART="results"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            PART="${{ github.event.inputs.part }}"
+          elif [ "${{ github.event.schedule }}" = "45 5 * * *" ]; then
+            PART="daily"
+          fi
+          FORCE=""
+          if [ "${{ github.event.inputs.force }}" = "yes" ]; then FORCE="--force"; fi
+          echo "Running part: $PART $FORCE"
+          python run_agent.py --part "$PART" $FORCE
+      - name: Save the new data
+        run: |
+          git config user.name "intel-agent"
+          git config user.email "intel-agent@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
+          git commit -m "Agent update $(date -u +%Y-%m-%d\ %H:%M) UTC"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            sleep 10
+          done
+          exit 1
