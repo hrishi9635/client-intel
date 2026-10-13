@@ -803,55 +803,131 @@
   "signals_at": "2026-10-13T19:22:39+00:00"
  },
  "Pearson": {
-  "results_found": false,
-  "period_label": null,
+  "results_found": true,
+  "period_label": "H1 2026",
   "fiscal_label": null,
-  "period_end": null,
+  "period_end": "2026-06-30",
   "results_date": "2026-07-31",
-  "headline": null,
+  "headline": "Pearson delivered 4% revenue growth and a 14% rise in adjusted operating profit in H1 2026.",
   "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
-   "operating_income_m": null,
+   "revenue_m": 1779,
+   "revenue_growth_yoy_pct": 4,
+   "operating_income_m": 252,
    "operating_margin_pct": null,
-   "net_income_m": null,
-   "eps": null
+   "net_income_m": 149,
+   "eps": 24.0
   },
-  "guidance": null,
-  "guidance_change": "unknown",
-  "segments": [],
-  "highlights": [],
-  "management_view": null,
-  "risks": [],
-  "sentiment": "Neutral",
-  "sentiment_reason": "No results data available",
-  "it_signals": [],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No spending information provided",
-  "talking_points": [],
-  "unverified_dropped": [],
+  "guidance": "Mid‑single‑digit underlying revenue growth and adjusted operating profit of £640m‑£685m for 2026.",
+  "guidance_change": "retained",
+  "segments": [
+   {
+    "name": "Virtual Learning",
+    "trend": "Up",
+    "note": "Revenue grew 19%"
+   },
+   {
+    "name": "Assessment & Qualifications",
+    "trend": "Up",
+    "note": "Returned to growth in Q2"
+   },
+   {
+    "name": "English Language Learning",
+    "trend": "Down",
+    "note": "Revenue declined 3%"
+   },
+   {
+    "name": "Higher Education",
+    "trend": "Down",
+    "note": "Challenging trading conditions"
+   },
+   {
+    "name": "Workforce Skills",
+    "trend": "Mixed",
+    "note": "Enterprise growth strong, AI‑driven upskilling initiatives"
+   }
+  ],
+  "highlights": [
+   "Underlying revenue grew 4% to £1,779m.",
+   "Adjusted operating profit rose 14% to £276m with margin expansion to 15.5%.",
+   "Free cash flow increased 66% to £259m.",
+   "Interim dividend up 5% and £350m share buyback completed.",
+   "New AI lab partnership and Adobe strategic account announced."
+  ],
+  "management_view": "Management sees strong momentum from virtual learning and AI‑driven upskilling, reinforcing confidence in 2026 guidance.",
+  "risks": [
+   "International Higher Education market headwinds.",
+   "Language Learning revenue pressure.",
+   "Investment and inflation partially offsetting cost efficiencies."
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Revenue and profit both beat prior year, with strong cash generation and strategic AI partnerships.",
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "New agreement with a leading AI lab to deliver a global certification programme.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
+    "source": "6-K",
+    "published": "2026-07-31"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Strategic partnership with Adobe to expand AI‑enabled learning solutions.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
+    "source": "6-K",
+    "published": "2026-07-31"
+   },
+   {
+    "type": "M&A / spin-off",
+    "detail": "Acquisition of Workera, an AI‑native enterprise assessment and skills verification business.",
+    "source_id": 30,
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-09-29"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Management highlighted ongoing AI product development, new AI lab partnership and acquisition of an AI assessment firm.",
+  "talking_points": [
+   "Discuss Pearson’s AI lab partnership and how it could create demand for AI‑focused cloud services.",
+   "Explore opportunities to support Pearson’s Adobe‑driven digital learning platform modernization.",
+   "Assess the impact of the Workera acquisition on Pearson’s data and assessment infrastructure needs."
+  ],
+  "unverified_dropped": [
+   "metrics.operating_margin_pct"
+  ],
   "sources": [
    {
-    "title": "Pearson 2026 Interim Results press release",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
-    "source": "company release",
+    "title": "PEARSON 2026 INTERIM RESULTS",
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
+    "source": "6-K",
     "published": "2026-07-31",
     "official": true
+   },
+   {
+    "title": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-09-29T07:00:00+00:00",
+    "official": false
    }
   ],
   "company": "Pearson",
   "mode": "results",
-  "analysed_at": "2026-10-13T19:23:05+00:00",
+  "analysed_at": "2026-10-13T21:57:56+00:00",
   "release": {
-   "form": "company release",
+   "form": "6-K",
    "filed": "2026-07-31",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
-   "title": "Pearson 2026 Interim Results press release",
-   "accession": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
-   "published": "2026-07-31T07:00:00+00:00"
+   "accepted": "2026-07-31T16:55:25.000Z",
+   "accession": "0001654954-26-007081",
+   "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
+   "title": "PEARSON 2026 INTERIM RESULTS",
+   "index": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081",
+   "published": "2026-07-31"
   },
-  "release_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
-  "signals_at": "2026-10-13T19:23:05+00:00"
+  "release_key": "0001654954-26-007081",
+  "signals_at": "2026-10-13T21:57:56+00:00"
  },
  "NYU": {
   "headline": "NIH awards NYU $3.3M to develop a digital PCR platform for neurosurgery",

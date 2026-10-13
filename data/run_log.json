@@ -1,5 +1,22 @@
 [
  {
+  "started": "2026-10-13T21:55:42+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: Pearson"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-10-13T21:58:24+00:00",
+  "ai_calls": 2,
+  "ai_tokens": 8293
+ },
+ {
   "started": "2026-10-13T19:15:04+00:00",
   "part": "all",
   "steps": [

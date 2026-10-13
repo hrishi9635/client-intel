@@ -82,5 +82,35 @@
   "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007941/a6735s.htm",
   "title": "DIRECTOR/PDMR SHAREHOLDING",
   "filed": "2026-08-28"
+ },
+ "0001654954-26-007720": {
+  "results": false,
+  "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007720/a1581r.htm",
+  "title": "DIRECTOR/PDMR SHAREHOLDING",
+  "filed": "2026-08-18"
+ },
+ "0001654954-26-007505": {
+  "results": false,
+  "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007505/a4118q.htm",
+  "title": "DIRECTOR/PDMR SHAREHOLDING",
+  "filed": "2026-08-12"
+ },
+ "0001654954-26-007124": {
+  "results": false,
+  "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007124/a9690o.htm",
+  "title": "REPORT OF FOREIGN PRIVATE ISSUER",
+  "filed": "2026-08-03"
+ },
+ "0001654954-26-007121": {
+  "results": false,
+  "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007121/a9680o.htm",
+  "title": "REPORT OF FOREIGN PRIVATE ISSUER",
+  "filed": "2026-08-03"
+ },
+ "0001654954-26-007081": {
+  "results": true,
+  "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
+  "title": "PEARSON 2026 INTERIM RESULTS",
+  "filed": "2026-07-31"
  }
 }
