@@ -1,0 +1,1120 @@
+{
+ "Disney": {
+  "results_found": true,
+  "period_label": "Q3 2026",
+  "fiscal_label": "fiscal Q3 2026",
+  "period_end": null,
+  "results_date": "2026-08-05",
+  "headline": "Disney reported Q3 revenue up 7% to $25.2 billion with operating income up 21%.",
+  "metrics": {
+   "revenue_m": 25200,
+   "revenue_growth_yoy_pct": 7,
+   "operating_income_m": 5600,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": 1.51
+  },
+  "guidance": "Target at least $9 billion in share repurchases, expect Q4 operating income of $4.9 billion and adjusted EPS growth of ~12% (excluding 53rd week).",
+  "guidance_change": "introduced",
+  "segments": [
+   {
+    "name": "Entertainment",
+    "trend": "Up",
+    "note": "Strong SVOD and theatrical releases"
+   },
+   {
+    "name": "Sports",
+    "trend": "Up",
+    "note": "Viewership gains for ESPN"
+   },
+   {
+    "name": "Experiences",
+    "trend": "Up",
+    "note": "Accelerating global guest growth"
+   }
+  ],
+  "highlights": [
+   "Revenue increased 7% YoY to $25.2 billion",
+   "Total segment operating income rose 21% to $5.6 billion",
+   "Adjusted EPS climbed to $2.06",
+   "Toy Story 5 drove strong consumer‑products growth",
+   "First day‑and‑date attraction update launched at Disney parks"
+  ],
+  "management_view": "Management said the strong Q3 results and reiterated full‑year outlook reinforce confidence in Disney’s unique position.",
+  "risks": [
+   "Macro‑economic uncertainty",
+   "Box‑office performance below expectations",
+   "Potential integration risk of new AI assets"
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Revenue and operating income both grew double‑digits.",
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "Disney bid $20 million for select assets of bankrupt AI startup Character.AI.",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTU1FOWVTcTN5dFhvRHdJTXRRZmpvTWJHUVJSQi1lcVVHV2tJTGUxWnl5b3BQb1BTNTdQZG5Kb0REb0VHcTZkSVZqUFkwTm13M2ZDdjVKRHl5WEIxcTRwUmoxUkpiNW5VWkU4Q0VNcmh0c3RHak9LM0NYaVp0WVVwSE9JeGtzMWh5cXA1RGdzeHRnbXlnbThuZUVnNS1fSkVBNlo5QXdWQm05S3JKS09maGtoSHd1VjZtUTBWY2NHRnhaVzVMUU5HLWVzeTJGdm5zeFZQc3VyQUdoaUx6NGxxYUktaw?oc=5",
+    "source": "New York Post",
+    "published": "2026-10-13"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "The $20 million AI asset acquisition signals increased technology spending.",
+  "talking_points": [
+   "Discuss how Disney plans to integrate Character.AI assets into its digital experiences.",
+   "Explore opportunities around Disney’s continued guest‑growth investments in parks.",
+   "Assess the impact of the $9 billion share‑repurchase program on cash availability for tech projects."
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "The Walt Disney Company 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
+    "source": "8-K",
+    "published": "2026-08-05",
+    "official": true
+   },
+   {
+    "title": "Character.AI files for bankruptcy amid torrent of legal problems, agrees to sell some assets to Disney for $20M",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTU1FOWVTcTN5dFhvRHdJTXRRZmpvTWJHUVJSQi1lcVVHV2tJTGUxWnl5b3BQb1BTNTdQZG5Kb0REb0VHcTZkSVZqUFkwTm13M2ZDdjVKRHl5WEIxcTRwUmoxUkpiNW5VWkU4Q0VNcmh0c3RHak9LM0NYaVp0WVVwSE9JeGtzMWh5cXA1RGdzeHRnbXlnbThuZUVnNS1fSkVBNlo5QXdWQm05S3JKS09maGtoSHd1VjZtUTBWY2NHRnhaVzVMUU5HLWVzeTJGdm5zeFZQc3VyQUdoaUx6NGxxYUktaw?oc=5",
+    "source": "New York Post",
+    "published": "2026-10-13T18:41:00+00:00",
+    "official": false
+   }
+  ],
+  "company": "Disney",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:17:25+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-05",
+   "accepted": "2026-08-05T14:30:54.000Z",
+   "accession": "0001744489-26-000056",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
+   "title": "The Walt Disney Company 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056",
+   "published": "2026-08-05"
+  },
+  "release_key": "0001744489-26-000056",
+  "signals_at": "2026-10-13T19:17:25+00:00"
+ },
+ "WBD / Skydance": {
+  "results_found": true,
+  "period_label": "Q2 2026",
+  "fiscal_label": "Q2 2026",
+  "period_end": "2026-06-30",
+  "results_date": "2026-08-04",
+  "headline": "Skydance raised its full‑year 2026 adjusted EBITDA outlook to $3.8‑$3.9 bn.",
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": "Full‑year 2026 adjusted EBITDA now expected at $3.8‑$3.9 bn (12.8% margin) and free‑cash‑flow conversion of at least 10%.",
+  "guidance_change": "raised",
+  "segments": [
+   {
+    "name": "Streaming (Paramount+)",
+    "trend": "Up",
+    "note": "Added ~2 m subscribers to reach 81.6 m, best retention quarter."
+   },
+   {
+    "name": "TV Media",
+    "trend": "Up",
+    "note": "Revenue down 7% YoY but profitability improved."
+   },
+   {
+    "name": "Studios",
+    "trend": "Mixed",
+    "note": "Theatrical slate nearly doubled to 15 films in 2026."
+   }
+  ],
+  "highlights": [
+   "Paramount+ subscriber base grew to 81.6 m, +2 m in Q2.",
+   "Full‑year adjusted EBITDA outlook raised to $3.8‑$3.9 bn.",
+   "Platform unification of Paramount+ and Pluto TV onto a single tech stack.",
+   "CBS delivered 7 of the top‑10 broadcast series, boosting TV Media profitability."
+  ],
+  "management_view": "Management says the company is delivering stronger streaming growth while driving efficiency across TV Media and studios.",
+  "risks": [
+   "Integration risk of the Warner Bros. Discovery combination.",
+   "Potential cost pressures if technology investments do not yield expected efficiencies."
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Guidance raised and subscriber growth beat expectations.",
+  "it_signals": [
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Paramount+ and Pluto TV moved onto a single technology stack to improve efficiency and accelerate innovation.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+    "source": "8-K",
+    "published": "2026-08-04"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Management highlighted technology‑stack unification and ongoing investments in streaming platforms.",
+  "talking_points": [
+   "Discuss how the unified tech stack for Paramount+ and Pluto TV can reduce operating costs.",
+   "Explore opportunities to support the accelerated streaming growth with AI‑driven personalization.",
+   "Assess the impact of the Warner Bros. Discovery integration on future technology road‑maps."
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+    "source": "8-K",
+    "published": "2026-08-04",
+    "official": true
+   }
+  ],
+  "company": "WBD / Skydance",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:18:19+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-04",
+   "accepted": "2026-08-05T00:03:41.000Z",
+   "accession": "0002041610-26-000052",
+   "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+   "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052",
+   "published": "2026-08-04"
+  },
+  "release_key": "0002041610-26-000052",
+  "signals_at": "2026-10-13T19:18:19+00:00"
+ },
+ "Versant": {
+  "results_found": true,
+  "period_label": "Q2 2026",
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-08-06",
+  "headline": "Versant Media posted $1.64 B revenue and $211 M net income in Q2 2026 while expanding its portfolio through acquisitions and new distribution deals.",
+  "metrics": {
+   "revenue_m": 1640,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": 211,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "none",
+  "segments": [],
+  "highlights": [
+   "Revenue of $1.64 B",
+   "Net income of $211 M",
+   "Completed $100 M Full Swing acquisition",
+   "Added Bundesliga rights and expanded Fandango platform",
+   "Declared $0.375 per share cash dividend and announced another $100 M accelerated share repurchase"
+  ],
+  "management_view": "Management said the quarter showed strong operating momentum, brand strength and continued investment in growth initiatives.",
+  "risks": [],
+  "sentiment": "Positive",
+  "sentiment_reason": "Results beat expectations and highlighted growth investments.",
+  "it_signals": [
+   {
+    "type": "M&A / spin-off",
+    "detail": "Completed the Full Swing acquisition.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+    "source": "8-K",
+    "published": "2026-08-06"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Expanded Fandango into a broader consumer entertainment platform and advanced direct‑to‑consumer initiatives at CNBC and MS NOW.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+    "source": "8-K",
+    "published": "2026-08-06"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Company is investing in acquisitions, new sports rights and digital platform expansion.",
+  "talking_points": [
+   "Versant’s recent Full Swing acquisition could create integration opportunities for technology partners.",
+   "The expansion of Fandango and direct‑to‑consumer initiatives suggest a need for scalable cloud and data solutions.",
+   "Ongoing share repurchase and dividend program indicate strong cash generation to fund further tech investments."
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Versant Media Group 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+    "source": "8-K",
+    "published": "2026-08-06",
+    "official": true
+   }
+  ],
+  "company": "Versant",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:18:47+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-06",
+   "accepted": "2026-08-06T11:15:06.000Z",
+   "accession": "0002067876-26-000038",
+   "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+   "title": "Versant Media Group 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038",
+   "published": "2026-08-06"
+  },
+  "release_key": "0002067876-26-000038",
+  "signals_at": "2026-10-13T19:18:47+00:00"
+ },
+ "Cox": {
+  "headline": "Cox Communications acquisition and AI platform integration signal growth and tech investment",
+  "highlights": [
+   "Cox Communications acquired for $34.5B by the nation's largest cable provider",
+   "VinSolutions embeds AI‑powered customer data platform into mutual clients’ CRM",
+   "Cox Automotive raises full‑year new‑vehicle sales forecast, September sales up 6.5% YoY"
+  ],
+  "risks": [
+   "Integration challenges following the $34.5B acquisition",
+   "Reliance on successful adoption of the AI platform"
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Both the acquisition and AI investment indicate strategic growth",
+  "segments": [
+   {
+    "name": "Cox Communications",
+    "trend": "Up",
+    "note": "Acquisition likely boosts revenue and market reach"
+   },
+   {
+    "name": "Cox Automotive",
+    "trend": "Flat",
+    "note": "Sales forecast increase but no major IT changes announced"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "VinSolutions AI‑powered customer data platform embedded into mutual clients’ CRM",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWNDUS1DR0JtZWE3bjJ6RzFrTDd6Y0kwQWdicjlDRFVaN2kzOW1pUzFZcHAwWXU3SzFtcm1aLVpuREdOY05wWlhyLXVFN2JlU3RscFFfZHBFM21qR1VCNnAwYlNMY1EyZTQzYkY5cFZ6YTlqa2plODZDM2tYQkdna056d1RvSzd5NU5scmNzRGhHVF92SUNHb3ZiYkZnWUYxcVIyazhaOG51T0QzOE80QnpfaE5zN0ZpejduMTc5Y0duVE1mLVdaMVJjVjNvWURBLXhIN1FKNXpTclJFTm40YzI2ZkVpUU1GaWdFRXlBRk9lRXhvOWxNSFVxdVI?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-08"
+   },
+   {
+    "type": "M&A / spin-off",
+    "detail": "Cox Communications acquired for $34.5B",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2pwY3k1M0JZTU5qVU8wX2YtN3FONk5MVjR2aVg0d3Z2SGV6R0lHNy1TSWVIaldBeEQzZFVjcUluTDZvLTI4b3Y0VmYyeUNnMWI0bHlhQkcyNFhHY21DUlFxWEFucDdndzhBNUZ2YW5wOGNrRXU5Mk5QUTlCZ003QzhZTE44Q0VUMHRZX2UzbFo?oc=5",
+    "source": "Omaha World-Herald",
+    "published": "2026-09-28"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "New AI platform and acquisition are expected to increase IT spend",
+  "talking_points": [
+   "Discuss integration strategy for Cox Communications post‑acquisition",
+   "Explore how the AI platform can enhance CRM capabilities for mutual clients",
+   "Assess potential cost savings or efficiencies from the acquisition"
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Cox Automotive's VinSolutions Embeds Fullpath's AI-Powered Customer Data Platform Directly into Mutual Clients' CRM",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWNDUS1DR0JtZWE3bjJ6RzFrTDd6Y0kwQWdicjlDRFVaN2kzOW1pUzFZcHAwWXU3SzFtcm1aLVpuREdOY05wWlhyLXVFN2JlU3RscFFfZHBFM21qR1VCNnAwYlNMY1EyZTQzYkY5cFZ6YTlqa2plODZDM2tYQkdna056d1RvSzd5NU5scmNzRGhHVF92SUNHb3ZiYkZnWUYxcVIyazhaOG51T0QzOE80QnpfaE5zN0ZpejduMTc5Y0duVE1mLVdaMVJjVjNvWURBLXhIN1FKNXpTclJFTm40YzI2ZkVpUU1GaWdFRXlBRk9lRXhvOWxNSFVxdVI?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-08T12:04:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Cox Communications acquired by nation's largest cable provider in $34.5B deal",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2pwY3k1M0JZTU5qVU8wX2YtN3FONk5MVjR2aVg0d3Z2SGV6R0lHNy1TSWVIaldBeEQzZFVjcUluTDZvLTI4b3Y0VmYyeUNnMWI0bHlhQkcyNFhHY21DUlFxWEFucDdndzhBNUZ2YW5wOGNrRXU5Mk5QUTlCZ003QzhZTE44Q0VUMHRZX2UzbFo?oc=5",
+    "source": "Omaha World-Herald",
+    "published": "2026-09-28T06:30:24+00:00",
+    "official": false
+   },
+   {
+    "title": "Cox Automotive Raises Full-Year New-Vehicle Sales Forecast; September Sales Expected to Increase 6.5% Year Over Year, as Asian Brands Gain Share",
+    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOY0RVRUZaS243azhfRGN0TVN1a2pkX2dlb0VHM1FyM3dJRXVSZGNfdk1Ici0zeHJUc0p6eXl2Skp5Y0EtWnB6UWVrYUtkclF2dFNNaVppUHEyczJmcDlNVThabmwyREx2aHkyLXhnVi0zN2N2cnFvYlNmRzd4VGdUQlp5RlZIT2RaN3hVU2ZZejVDQ01jSVB6RlU4VUFydjd1TkwyZXhVQ0N0X2wwZXl4d0h5aUhfM2NsYloyQ3MxMVFPOWRzcmtGU2R3OVhUVjdUOXFSOE85SVdhMlBmUmU5VXFUTGR1Z085Q1J6enk0MUZsczdXV25TUmVaQy1jaXBLbk5fZWlsMmVKRTljeDg0WEs4VXdPOUo5Q0hPVG5zODkzbG8?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-09-24T07:00:00+00:00",
+    "official": false
+   }
+  ],
+  "company": "Cox",
+  "mode": "signals",
+  "analysed_at": "2026-10-13T19:19:37+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-13T19:19:37+00:00"
+ },
+ "LA Times": {
+  "headline": "No relevant developments reported",
+  "highlights": [],
+  "risks": [],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No information",
+  "segments": [],
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No data on IT spend",
+  "talking_points": [],
+  "unverified_dropped": [],
+  "sources": [],
+  "company": "LA Times",
+  "mode": "signals",
+  "analysed_at": "2026-10-13T19:20:03+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-13T19:20:03+00:00"
+ },
+ "Caesars": {
+  "results_found": true,
+  "period_label": "Q2 2026",
+  "fiscal_label": null,
+  "period_end": "2026-06-30",
+  "results_date": "2026-07-28",
+  "headline": "Caesars reports Q2 2026 revenue of $3.0 billion and a net loss of $62 million",
+  "metrics": {
+   "revenue_m": 2993,
+   "revenue_growth_yoy_pct": 3,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": -62,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [
+   {
+    "name": "Las Vegas",
+    "trend": "Down",
+    "note": "Revenue down 3.5%"
+   },
+   {
+    "name": "Regional",
+    "trend": "Up",
+    "note": "Revenue up 9.4%"
+   },
+   {
+    "name": "Caesars Digital",
+    "trend": "Up",
+    "note": "Revenue up 2.3%"
+   },
+   {
+    "name": "Managed and Branded",
+    "trend": "Down",
+    "note": "Revenue down 23%"
+   }
+  ],
+  "highlights": [
+   "Net revenues $3.0 B",
+   "Net loss $62 M",
+   "Adjusted EBITDA $920 M",
+   "Caesars Digital Adjusted EBITDA $68 M",
+   "Las Vegas revenue down 3.5%",
+   "Regional revenue up 9.4%"
+  ],
+  "management_view": null,
+  "risks": null,
+  "sentiment": "Neutral",
+  "sentiment_reason": "mixed segment performance, net loss",
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No technology spending signals reported",
+  "talking_points": [
+   "Discuss how Caesars Digital’s revenue growth supports overall digital strategy",
+   "Explore the impact of the net loss on future capital allocation",
+   "Evaluate the significance of adjusted EBITDA decline for operational efficiency"
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Caesars Entertainment 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027/ex991-2026q2ceiearningsrel.htm",
+    "source": "8-K",
+    "published": "2026-07-28",
+    "official": true
+   }
+  ],
+  "company": "Caesars",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:20:29+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-07-28",
+   "accepted": "2026-07-28T20:11:18.000Z",
+   "accession": "0001590895-26-000027",
+   "url": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027/ex991-2026q2ceiearningsrel.htm",
+   "title": "Caesars Entertainment 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027",
+   "published": "2026-07-28"
+  },
+  "release_key": "0001590895-26-000027",
+  "signals_at": "2026-10-13T19:20:29+00:00"
+ },
+ "Bally's": {
+  "results_found": true,
+  "period_label": "Q2 2026",
+  "fiscal_label": null,
+  "period_end": "2026-06-30",
+  "results_date": "2026-08-14",
+  "headline": "Bally’s reports 20% consolidated revenue growth in Q2 2026, driven by strong Intralot B2C and North America Interactive performance",
+  "metrics": {
+   "revenue_m": 792.2,
+   "revenue_growth_yoy_pct": 20.5,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [
+   {
+    "name": "Casinos & Resorts",
+    "trend": "Up",
+    "note": "2.0% YoY"
+   },
+   {
+    "name": "Intralot B2C",
+    "trend": "Up",
+    "note": "22.3% YoY"
+   },
+   {
+    "name": "North America Interactive",
+    "trend": "Up",
+    "note": "16.9% YoY"
+   }
+  ],
+  "highlights": [
+   "Consolidated revenue $792.2m, up 20.5% YoY",
+   "Intralot B2C revenue $243.5m, up 22.3% YoY",
+   "North America Interactive revenue $66.1m, up 16.9% YoY",
+   "Bally’s acquiring evoke plc to expand sports betting",
+   "New lottery technology contracts in Australia, Chile, Greece, Ontario"
+  ],
+  "management_view": "Management highlighted solid Q2 results and progress on construction projects, emphasizing omni‑channel growth and technology investments",
+  "risks": [
+   "Market consolidation in UK slower than expected",
+   "Competitive pressure in lottery contracts",
+   "Construction delays for new casino projects"
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Strong revenue growth and strategic acquisitions",
+  "it_signals": [
+   {
+    "type": "M&A / spin-off",
+    "detail": "Acquisition of evoke plc, a global sports betting leader",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "source": "8-K",
+    "published": "2026-08-14"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Automation initiatives in North America Interactive improving profitability",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "source": "8-K",
+    "published": "2026-08-14"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "New lottery technology solution provider contracts with Victoria, Chile, Greece, Ontario",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "source": "8-K",
+    "published": "2026-08-14"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Company is investing in acquisitions and technology contracts to support growth",
+  "talking_points": [
+   "Discuss how Bally’s automation initiatives in North America Interactive could benefit our platform",
+   "Explore potential partnership opportunities for lottery technology solutions"
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "source": "8-K",
+    "published": "2026-08-14",
+    "official": true
+   }
+  ],
+  "company": "Bally's",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:20:56+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-14",
+   "accepted": "2026-08-14T20:23:09.000Z",
+   "accession": "0001747079-26-000082",
+   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+   "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082",
+   "published": "2026-08-14"
+  },
+  "release_key": "0001747079-26-000082",
+  "signals_at": "2026-10-13T19:20:56+00:00"
+ },
+ "Light & Wonder": {
+  "results_found": false,
+  "period_label": null,
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-08-04",
+  "headline": "No results data available in the provided sources",
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [],
+  "highlights": [],
+  "management_view": null,
+  "risks": [],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No results information",
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No technology spending signals identified",
+  "talking_points": [],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+    "source": "8-K",
+    "published": "2026-08-04",
+    "official": true
+   }
+  ],
+  "company": "Light & Wonder",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:21:21+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-04",
+   "accepted": "2026-08-05T01:04:24.000Z",
+   "accession": "0000750004-26-000032",
+   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+   "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
+   "published": "2026-08-04"
+  },
+  "release_key": "0000750004-26-000032",
+  "signals_at": "2026-10-13T19:21:21+00:00"
+ },
+ "Brightstar (IGT)": {
+  "results_found": true,
+  "period_label": "Q2 2026",
+  "fiscal_label": null,
+  "period_end": "2026-06-30",
+  "results_date": "2026-08-04",
+  "headline": "Brightstar Lottery reports Q2 2026 results and declares quarterly dividend",
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [],
+  "highlights": [],
+  "management_view": null,
+  "risks": [],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No financial data provided",
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No technology spending information disclosed",
+  "talking_points": [],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "a6-kx2q26earningsrelease.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120/a6-kx2q26earningsrelease.htm",
+    "source": "6-K",
+    "published": "2026-08-04",
+    "official": true
+   }
+  ],
+  "company": "Brightstar (IGT)",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:21:50+00:00",
+  "release": {
+   "form": "6-K",
+   "filed": "2026-08-04",
+   "accepted": "2026-08-04T10:41:41.000Z",
+   "accession": "0001628280-26-052120",
+   "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120/a6-kx2q26earningsrelease.htm",
+   "title": "a6-kx2q26earningsrelease.htm",
+   "index": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120",
+   "published": "2026-08-04"
+  },
+  "release_key": "0001628280-26-052120",
+  "signals_at": "2026-10-13T19:21:50+00:00"
+ },
+ "Wolters Kluwer": {
+  "results_found": false,
+  "period_label": null,
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-08-05",
+  "headline": "No results data available",
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [],
+  "highlights": [],
+  "management_view": null,
+  "risks": [],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No data",
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No information",
+  "talking_points": [],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Wolters Kluwer 2026 Half-Year Report",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+    "source": "company release",
+    "published": "2026-08-05",
+    "official": true
+   }
+  ],
+  "company": "Wolters Kluwer",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:22:13+00:00",
+  "release": {
+   "form": "company release",
+   "filed": "2026-08-05",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+   "title": "Wolters Kluwer 2026 Half-Year Report",
+   "accession": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+   "published": "2026-08-05T07:00:00+00:00"
+  },
+  "release_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+  "signals_at": "2026-10-13T19:22:13+00:00"
+ },
+ "Scholastic": {
+  "results_found": true,
+  "period_label": "Q1 2027",
+  "fiscal_label": "fiscal Q1 2027",
+  "period_end": "2026-08-31",
+  "results_date": "2026-09-24",
+  "headline": "Scholastic reports a $216.8 million revenue miss and a widening operating loss for its fiscal Q1 2027",
+  "metrics": {
+   "revenue_m": 216.8,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [],
+  "highlights": [
+   "Revenue fell 4% to $216.8 million",
+   "Management reaffirmed full‑year outlook",
+   "Company announced acquisition of Cottage Door Press for $71 million",
+   "No new guidance issued"
+  ],
+  "management_view": "Management said the company remains focused on its long‑term strategy while navigating a challenging market environment",
+  "risks": [
+   "Declining education revenue",
+   "Competitive pressure in children’s publishing",
+   "Execution risk around new acquisitions"
+  ],
+  "sentiment": "Negative",
+  "sentiment_reason": "Operating loss and revenue decline",
+  "it_signals": [
+   {
+    "type": "M&A / spin-off",
+    "detail": "Acquisition of Cottage Door Press for $71 million",
+    "source_id": 21,
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0dZa0dfdHNmVW9wRkdEUGdhQnZXcU9INWVueFhiZDNuMEp4ellXLVB0QXdZZmNLWk9aWVdOVTdoa0QwSVRjVGhVOWlDR2g5TGJlLThOSU1IYXRCZFlncVlZc19ueDVhaHlySGtSRWN2d2hSWms5UjNfQkVubnN3eWlZd0NWdklScUlPM2FrQm1Bb2RxMkN1LWxQaTFkd1NsdHl6OVJsay1uaDN2eUIxWklHMDBLaUhDSUJLelRxQWtaNFZWVmprZW0xXzVyTjVkTWd3X1dXS2RSdzA4UXJ6cnRScXBmR1dfTTR5YkRqaVE?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-09-29"
+   }
+  ],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No explicit statements about technology spending were disclosed in the results release",
+  "talking_points": [
+   "How will the Cottage Door acquisition impact Scholastic’s digital content strategy?",
+   "What cost‑control measures are being considered to address the widening operating loss?",
+   "How is Scholastic planning to invest in AI or digital platforms to drive future growth?"
+  ],
+  "unverified_dropped": [
+   "metrics.revenue_growth_yoy_pct",
+   "metrics.operating_margin_pct",
+   "highlights.1"
+  ],
+  "sources": [
+   {
+    "title": "Scholastic 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/866729/000086672926000022/schl-20260924.htm",
+    "source": "8-K",
+    "published": "2026-09-24",
+    "official": true
+   },
+   {
+    "title": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0dZa0dfdHNmVW9wRkdEUGdhQnZXcU9INWVueFhiZDNuMEp4ellXLVB0QXdZZmNLWk9aWVdOVTdoa0QwSVRjVGhVOWlDR2g5TGJlLThOSU1IYXRCZFlncVlZc19ueDVhaHlySGtSRWN2d2hSWms5UjNfQkVubnN3eWlZd0NWdklScUlPM2FrQm1Bb2RxMkN1LWxQaTFkd1NsdHl6OVJsay1uaDN2eUIxWklHMDBLaUhDSUJLelRxQWtaNFZWVmprZW0xXzVyTjVkTWd3X1dXS2RSdzA4UXJ6cnRScXBmR1dfTTR5YkRqaVE?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-09-29T07:00:00+00:00",
+    "official": false
+   }
+  ],
+  "company": "Scholastic",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:22:39+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-09-24",
+   "accepted": "2026-09-25T00:01:36.000Z",
+   "accession": "0000866729-26-000022",
+   "url": "https://www.sec.gov/Archives/edgar/data/866729/000086672926000022/schl-20260924.htm",
+   "title": "Scholastic 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/866729/000086672926000022",
+   "published": "2026-09-24"
+  },
+  "release_key": "0000866729-26-000022",
+  "signals_at": "2026-10-13T19:22:39+00:00"
+ },
+ "Pearson": {
+  "results_found": false,
+  "period_label": null,
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-07-31",
+  "headline": null,
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "unknown",
+  "segments": [],
+  "highlights": [],
+  "management_view": null,
+  "risks": [],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No results data available",
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No spending information provided",
+  "talking_points": [],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Pearson 2026 Interim Results press release",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
+    "source": "company release",
+    "published": "2026-07-31",
+    "official": true
+   }
+  ],
+  "company": "Pearson",
+  "mode": "results",
+  "analysed_at": "2026-10-13T19:23:05+00:00",
+  "release": {
+   "form": "company release",
+   "filed": "2026-07-31",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
+   "title": "Pearson 2026 Interim Results press release",
+   "accession": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
+   "published": "2026-07-31T07:00:00+00:00"
+  },
+  "release_key": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2Q0U0h3bVRIMHVDSXdvaFk5WHlQOEZmSnR0TWhTdy1YMUpKVTctLTlvbkhOdlBLbzdqZ1RRcjdraV9YTVBSZktuQnBOczZUNDF6NF9UV0ROQmNhYk9rVjVUc0cyQ2tmdHg2ZWJVaTRTWWtGRWZRYXhNc0VfeUJxM1VqNFprSEtXdVBXT01UXzJMaW14MmpORFJ2eXVkQlF3MVpUa0NzRTBmbndQVlI3VWlJXzRjbUU?oc=5",
+  "signals_at": "2026-10-13T19:23:05+00:00"
+ },
+ "NYU": {
+  "headline": "NIH awards NYU $3.3M to develop a digital PCR platform for neurosurgery",
+  "highlights": [
+   "NIH grant of $3.3M for a digital PCR platform",
+   "NYU Center on Technology Policy expands with new faculty",
+   "NYU’s involvement in tech policy signals growing tech focus"
+  ],
+  "risks": [
+   "Limited public information on long‑term funding beyond the grant"
+  ],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No clear positive or negative outcome reported",
+  "segments": [
+   {
+    "name": "Research & Development",
+    "trend": "Up",
+    "note": "Grant indicates investment in digital health tech"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "NIH grant to develop a neurosurgery digital PCR platform",
+    "source_id": 8,
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUxNT25zdVBPN29lQktuelduWUt3RmhOenRyZTk3Sk9mYWtRQl90TjBpNlR3NExlME5vNGxOTUNVWVlRVXZ6ekpTYUNBeU01UUhXbUt0c0IyTUhNN3NZMTJYdjVQVGJaUmxlTFhOS01EOFJiX05tUE9ZSW9aVV9LbWl0aWFiTVUxY09QU3ZwSzRqVGJDTDc2VFplekx1Um5EYWxraVhETXE0a3UyQVQwTw?oc=5",
+    "source": "GenomeWeb",
+    "published": "2026-10-07"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "NYU Center on Technology Policy adds new faculty, indicating tech policy focus",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVk1hZFA5bkltNG5UelN6dWN3RHdCZzNjYV9VTzd1RTE1NjRFZVRRRmprWmFhQzhoMjdta2dDSWZFTGt6azFUZVdhYVFYdEFCa0NRYXhVckZsbXlPRUJ4ZTVmV0d2UDczN2ZFYTI5OHJlYVVWQUxLTjFmbWlHQVZwRQ?oc=5",
+    "source": "Broadband Breakfast",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "NYU Center on Technology Policy adds new faculty, indicating tech policy focus",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0otU2V5MDBWc0pXaWI4Z1h4RVFwc0FrNTFqdWdydVRwV2tqS2E5VmVoV0NaZkJBNC1DZDlKaXF1T0VSM2xHMHhRZXZIUzJoeTk3SzMxdi1lT1phNmtYN0RSOUMyUHVoNU1Bd3QybmlCVXpjclJqcnM0UDlDbmNWQXdjanY5LWhrdEdOUVJMSQ?oc=5",
+    "source": "Fierce Network",
+    "published": "2026-10-13"
+   }
+  ],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "Only a single grant reported; broader IT spend not disclosed",
+  "talking_points": [
+   "How can NYU’s new digital PCR platform integrate with existing clinical data systems?",
+   "What opportunities exist for vendors to support NYU’s tech policy initiatives?",
+   "Could the NIH grant spur further investment in AI-driven diagnostics at NYU?"
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "NIH Awards NYU Team $3.3M for Neurosurgery Digital PCR Platform",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUxNT25zdVBPN29lQktuelduWUt3RmhOenRyZTk3Sk9mYWtRQl90TjBpNlR3NExlME5vNGxOTUNVWVlRVXZ6ekpTYUNBeU01UUhXbUt0c0IyTUhNN3NZMTJYdjVQVGJaUmxlTFhOS01EOFJiX05tUE9ZSW9aVV9LbWl0aWFiTVUxY09QU3ZwSzRqVGJDTDc2VFplekx1Um5EYWxraVhETXE0a3UyQVQwTw?oc=5",
+    "source": "GenomeWeb",
+    "published": "2026-10-07T14:36:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Levin Joins NYU Center on Technology Policy",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVk1hZFA5bkltNG5UelN6dWN3RHdCZzNjYV9VTzd1RTE1NjRFZVRRRmprWmFhQzhoMjdta2dDSWZFTGt6azFUZVdhYVFYdEFCa0NRYXhVckZsbXlPRUJ4ZTVmV0d2UDczN2ZFYTI5OHJlYVVWQUxLTjFmbWlHQVZwRQ?oc=5",
+    "source": "Broadband Breakfast",
+    "published": "2026-10-13T17:25:07+00:00",
+    "official": false
+   },
+   {
+    "title": "Blair Levin joins NYU Center on Technology Policy",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0otU2V5MDBWc0pXaWI4Z1h4RVFwc0FrNTFqdWdydVRwV2tqS2E5VmVoV0NaZkJBNC1DZDlKaXF1T0VSM2xHMHhRZXZIUzJoeTk3SzMxdi1lT1phNmtYN0RSOUMyUHVoNU1Bd3QybmlCVXpjclJqcnM0UDlDbmNWQXdjanY5LWhrdEdOUVJMSQ?oc=5",
+    "source": "Fierce Network",
+    "published": "2026-10-13T16:54:40+00:00",
+    "official": false
+   }
+  ],
+  "company": "NYU",
+  "mode": "signals",
+  "analysed_at": "2026-10-13T19:23:31+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-13T19:23:31+00:00"
+ },
+ "SLU": {
+  "headline": "Saint Louis University partners with World Wide Technology to expand AI collaboration and jersey partnership",
+  "highlights": [
+   "World Wide Technology becomes official jersey partner with SLU",
+   "AI focus added to partnership",
+   "SLU adds WWT patch to jerseys",
+   "SLU DPO trains student leaders as Data Privacy Champions"
+  ],
+  "risks": [
+   "Potential reliance on single vendor for AI initiatives"
+  ],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No financial or performance impact reported",
+  "segments": [
+   {
+    "name": "Education",
+    "trend": "Flat",
+    "note": "No enrollment or funding changes reported"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "World Wide Technology becomes official jersey partner and expands technology collaboration with AI focus",
+    "source_id": 10,
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUQyWVp0Vk5QQjZxWEN3NnRnUi1JQ1lOclFGRjJnVmFIemJPOThWTzdjbEFROEUwUHBkRTMwMXgtX2dMQTYwcjJwZV9ZNy1oakNUbjc1dUNUcUNuUEE1dENXNHpGVVozS3RJT3MyMGlabmlkSmZUYjFKSkVhZTlFY1BtMUlJUVFSMVNLd001RWk3S0I4ejZRdnI1ekZlZkdLOU9lbmFkXzJlemg2V2hVVFZKc0hlZUlQZ2JJU3BqSTZxM182X0gtZ3VXenZXbTVG?oc=5",
+    "source": "KSDK",
+    "published": "2026-10-08"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "World Wide Technology expands partnership with AI focus and jersey partnership",
+    "source_id": 11,
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
+    "source": "FOX 2",
+    "published": "2026-10-07"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "World Wide Technology to expand technology collaboration with SLU; becomes official jersey partner",
+    "source_id": 12,
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
+    "source": "slubillikens.com",
+    "published": "2026-10-07"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
+    "source": "STLtoday.com",
+    "published": "2026-10-07"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "SLU DPO trains student leaders as Data Privacy Champions",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjYtMFdTRnExVXB4dW1kN1lUc0V2bVNxXzVjXzRxTkltRjM4M05DT0cxUFptQ1RlNW5CQWEtOTZUSGs3eUhlVi05S3htR0F6bE96TDZ5Z2xxczdoXzY1WF9qN1hNc3V2QTh4NnVJQTBlLTFlZW53Wjg0ZEJ2ZnFqbldEUmdlWFNTVVdwaTVOcjNKcDVpYWc?oc=5",
+    "source": "Saint Louis University, Philippines",
+    "published": "2026-10-13"
+   }
+  ],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No financial details on IT spend disclosed",
+  "talking_points": [
+   "Discuss potential AI projects SLU could pursue with WWT",
+   "Explore data privacy training benefits for students",
+   "Assess impact of jersey partnership on brand and tech visibility"
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "SLU DPO trains student leaders as Data Privacy Champions",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjYtMFdTRnExVXB4dW1kN1lUc0V2bVNxXzVjXzRxTkltRjM4M05DT0cxUFptQ1RlNW5CQWEtOTZUSGs3eUhlVi05S3htR0F6bE96TDZ5Z2xxczdoXzY1WF9qN1hNc3V2QTh4NnVJQTBlLTFlZW53Wjg0ZEJ2ZnFqbldEUmdlWFNTVVdwaTVOcjNKcDVpYWc?oc=5",
+    "source": "Saint Louis University, Philippines",
+    "published": "2026-10-13T08:34:20+00:00",
+    "official": false
+   },
+   {
+    "title": "World Wide Technology begins partnership with SLU",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUQyWVp0Vk5QQjZxWEN3NnRnUi1JQ1lOclFGRjJnVmFIemJPOThWTzdjbEFROEUwUHBkRTMwMXgtX2dMQTYwcjJwZV9ZNy1oakNUbjc1dUNUcUNuUEE1dENXNHpGVVozS3RJT3MyMGlabmlkSmZUYjFKSkVhZTlFY1BtMUlJUVFSMVNLd001RWk3S0I4ejZRdnI1ekZlZkdLOU9lbmFkXzJlemg2V2hVVFZKc0hlZUlQZ2JJU3BqSTZxM182X0gtZ3VXenZXbTVG?oc=5",
+    "source": "KSDK",
+    "published": "2026-10-08T15:35:00+00:00",
+    "official": false
+   },
+   {
+    "title": "SLU, World Wide Technology expand partnership with AI focus, jersey partnership",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
+    "source": "FOX 2",
+    "published": "2026-10-07T22:28:52+00:00",
+    "official": false
+   },
+   {
+    "title": "World Wide Technology to Expand Technology Collaboration with SLU; Becomes Official Jersey Partner",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
+    "source": "slubillikens.com",
+    "published": "2026-10-07T18:25:31+00:00",
+    "official": false
+   },
+   {
+    "title": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
+    "source": "STLtoday.com",
+    "published": "2026-10-07T14:00:00+00:00",
+    "official": false
+   }
+  ],
+  "company": "SLU",
+  "mode": "signals",
+  "analysed_at": "2026-10-13T19:23:57+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-13T19:23:57+00:00"
+ },
+ "ACT": {
+  "headline": "Colleges are re‑requiring ACT scores for 2027 admissions",
+  "highlights": [
+   "Colleges list in source 1 shows renewed ACT requirement for 2027",
+   "Source 4 lists 2026 ACT exam dates in India",
+   "Sources 2 and 3 report perfect ACT scores by seniors"
+  ],
+  "risks": [
+   "Potential decline in test‑taking volume if colleges shift away from ACT",
+   "Uncertainty over digital testing adoption in India"
+  ],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No clear positive or negative trend identified",
+  "segments": [
+   {
+    "name": "Testing volumes",
+    "trend": "Flat",
+    "note": "No change in volume reported"
+   },
+   {
+    "name": "Digital testing",
+    "trend": "Flat",
+    "note": "No digital testing initiatives mentioned"
+   }
+  ],
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No IT investment or cost‑cutting information provided",
+  "talking_points": [
+   "Discuss opportunities to support colleges with digital ACT platforms",
+   "Explore potential for data analytics on ACT performance trends"
+  ],
+  "unverified_dropped": [],
+  "sources": [
+   {
+    "title": "Colleges Are Requiring SAT and ACT Scores Again — Here’s the Full List for 2027",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWJRVFpBMzdFeWl5dTRTZkU4Vnc3MEc2dXVnNEE5ZlNwMnNvM0VPRXd2MXZoXzcwWEx2R0N0TGdjSmpValZCN3RVWmRfY1dKcEh1NW1oVzBoaGhpZWptMjBnSkV6QjhIbmhOcHhGWHhOVkNiV3JPZU4wUklZTm5fVVJlalZ2aTJEOEl0akxFMXppbjRLTWw5cmkzajFEQVVPYXk3QlBMUmRxUU95MktTUUJfd2o?oc=5",
+    "source": "The College Investor",
+    "published": "2026-10-12T22:54:34+00:00",
+    "official": false
+   },
+   {
+    "title": "ACT Exam Dates in India 2026: Check ACT Test Dates, Last Registration Date, Result Date",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcXdLdjBPaHhqME4zdW1YOHlvbmFWbjFkVC1XZG51RXhVWWRxSzY1S2xfeWFsbExiajJYQzRoeUJVY19ORWNRVkRJVFFIam1MN1JIMEtFWE5MWXY2RWJmYnI3QTJhcnJPREk0S05B?oc=5",
+    "source": "Shiksha.com",
+    "published": "2026-10-06T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Three Lindbergh seniors earn perfect ACT scores",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFA0MTlBUHIteG8yWVdYanNNV1FqR280dHBISzNFY1ZkenZwZjlDZXc4eGRDWnJxQlhlYVdmTDBXU2FMU1FfVXlCaDhSTUllUnlSN05DaklmVDJBZDNxXzJQYU1RTWdVOGc2dHRTNW1sTnR0aDYzSUpwR29Oc182Yw?oc=5",
+    "source": "St. Louis Call Newspapers",
+    "published": "2026-10-06T15:07:33+00:00",
+    "official": false
+   },
+   {
+    "title": "Homestead seniors achieve perfect ACT scores",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclN1V29vWWg2ZmVoV0JsYnJTRDBmbm0wTjZGb0xTSzh3WmJlTWRMeFJyLWk2ZElHaTFva2dXMzg5X0g1bHpiTVNHTklac0pLYkJDMHNLS1lpOFdvTFdwUHJnVE82VWl4NnFjeXJkMEVEUGhocDFoUWJtcUVsUWwyWnhPczNNaUo2clFQb3ZYZEkwdzFaakgxMkZubWVHZndLcndfZFowWGxaVFJ4X2wzYVZRWUdWeF9DdjNGS3JHVVNjcGNySGc?oc=5",
+    "source": "Greater Milwaukee Today",
+    "published": "2026-10-06T11:10:00+00:00",
+    "official": false
+   }
+  ],
+  "company": "ACT",
+  "mode": "signals",
+  "analysed_at": "2026-10-13T19:24:23+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-13T19:24:23+00:00"
+ }
+}

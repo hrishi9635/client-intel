@@ -1,0 +1,240 @@
+{
+ "company_ids": {
+  "Walt Disney Pictures": [
+   2
+  ],
+  "Walt Disney Animation Studios": [
+   158526,
+   6125
+  ],
+  "Pixar": [
+   3
+  ],
+  "Marvel Studios": [
+   420,
+   13252
+  ],
+  "Lucasfilm": [
+   1,
+   108270
+  ],
+  "20th Century Studios": [
+   127928
+  ],
+  "Searchlight Pictures": [
+   127929,
+   43
+  ],
+  "Warner Bros. Pictures": [
+   174,
+   257419
+  ],
+  "New Line Cinema": [
+   12
+  ],
+  "DC Studios": [
+   184898
+  ],
+  "Paramount Pictures": [
+   4
+  ],
+  "Skydance": [
+   82819,
+   87731
+  ]
+ },
+ "omdb": {
+  "tt22084616": {
+   "imdb_rating": 8.0,
+   "imdb_votes": 327986.0,
+   "rt": 90.0,
+   "metascore": 66.0,
+   "box_office_usd": 954994964.0,
+   "_at": "2026-10-13"
+  },
+  "tt9288030": {
+   "imdb_rating": 8.0,
+   "imdb_votes": 311400.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt28498219": {
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0096697": {
+   "imdb_rating": 8.6,
+   "imdb_votes": 473790.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0364845": {
+   "imdb_rating": 7.8,
+   "imdb_votes": 178368.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt31510819": {
+   "imdb_rating": 8.3,
+   "imdb_votes": 131558.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0115147": {
+   "imdb_rating": 8.3,
+   "imdb_votes": 49905.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0413573": {
+   "imdb_rating": 7.6,
+   "imdb_votes": 378600.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt10986410": {
+   "imdb_rating": 8.7,
+   "imdb_votes": 464037.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt7587890": {
+   "imdb_rating": 8.0,
+   "imdb_votes": 137322.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0452046": {
+   "imdb_rating": 8.1,
+   "imdb_votes": 243849.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0185103": {
+   "imdb_rating": 7.7,
+   "imdb_votes": 11088.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt2057880": {
+   "imdb_rating": 5.6,
+   "imdb_votes": 1020.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt35538033": {
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": 96.0,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt32393988": {
+   "imdb_rating": 6.2,
+   "imdb_votes": 13228.0,
+   "rt": 57.0,
+   "metascore": 47.0,
+   "box_office_usd": 55689759.0,
+   "_at": "2026-10-13"
+  },
+  "tt0203259": {
+   "imdb_rating": 8.1,
+   "imdb_votes": 147907.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt3444938": {
+   "imdb_rating": 7.0,
+   "imdb_votes": 20366.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt0098844": {
+   "imdb_rating": 7.8,
+   "imdb_votes": 52301.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt33764258": {
+   "imdb_rating": 8.4,
+   "imdb_votes": 477953.0,
+   "rt": 94.0,
+   "metascore": 88.0,
+   "box_office_usd": 588976965.0,
+   "_at": "2026-10-13"
+  },
+  "tt3513388": {
+   "imdb_rating": 6.4,
+   "imdb_votes": 8773.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt11540908": {
+   "imdb_rating": 7.8,
+   "imdb_votes": 3419.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt31192372": {
+   "imdb_rating": 5.7,
+   "imdb_votes": 1565.0,
+   "rt": 53.0,
+   "metascore": 53.0,
+   "box_office_usd": 3443026.0,
+   "_at": "2026-10-13"
+  },
+  "tt31349844": {
+   "imdb_rating": 6.6,
+   "imdb_votes": 493.0,
+   "rt": null,
+   "metascore": 55.0,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  },
+  "tt9601292": {
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-13"
+  }
+ }
+}

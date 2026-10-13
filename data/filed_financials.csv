@@ -1,0 +1,820 @@
+company,ticker,period_end,period_label,months,metric,value,currency,source
+Bally's,,2018-03-31,Q1 2018,3,net_income,12.63,USD,SEC XBRL 10-K
+Bally's,,2018-03-31,Q1 2018,3,operating_income,24.88,USD,SEC XBRL 10-K
+Bally's,,2018-03-31,Q1 2018,3,revenue,104.81,USD,SEC XBRL 10-K
+Bally's,,2018-06-30,Q2 2018,3,net_income,20.3,USD,SEC XBRL 10-K
+Bally's,,2018-06-30,Q2 2018,3,operating_income,31.42,USD,SEC XBRL 10-K
+Bally's,,2018-06-30,Q2 2018,3,revenue,110.81,USD,SEC XBRL 10-K
+Bally's,,2018-09-30,Q3 2018,3,net_income,16.37,USD,SEC XBRL 10-K
+Bally's,,2018-09-30,Q3 2018,3,operating_income,29.65,USD,SEC XBRL 10-K
+Bally's,,2018-09-30,Q3 2018,3,revenue,110.49,USD,SEC XBRL 10-K
+Bally's,,2018-12-31,Q4 2018,3,net_income,22.13,USD,SEC XBRL 10-K
+Bally's,,2018-12-31,Q4 2018,3,operating_income,34.7,USD,SEC XBRL 10-K
+Bally's,,2018-12-31,Q4 2018,3,revenue,111.42,USD,SEC XBRL 10-K
+Bally's,,2019-03-31,Q1 2019,3,net_income,17.6,USD,SEC XBRL 10-K
+Bally's,,2019-03-31,Q1 2019,3,operating_income,30.31,USD,SEC XBRL 10-K
+Bally's,,2019-03-31,Q1 2019,3,revenue,120.63,USD,SEC XBRL 10-K
+Bally's,,2019-06-30,Q2 2019,3,net_income,17.18,USD,SEC XBRL 10-K
+Bally's,,2019-06-30,Q2 2019,3,operating_income,33.85,USD,SEC XBRL 10-K
+Bally's,,2019-06-30,Q2 2019,3,revenue,143.22,USD,SEC XBRL 10-K
+Bally's,,2019-09-30,Q3 2019,3,net_income,7.0,USD,SEC XBRL 10-K
+Bally's,,2019-09-30,Q3 2019,3,operating_income,21.45,USD,SEC XBRL 10-K
+Bally's,,2019-09-30,Q3 2019,3,revenue,129.31,USD,SEC XBRL 10-K
+Bally's,,2019-12-31,Q4 2019,3,net_income,13.36,USD,SEC XBRL 10-K
+Bally's,,2019-12-31,Q4 2019,3,operating_income,29.02,USD,SEC XBRL 10-K
+Bally's,,2019-12-31,Q4 2019,3,revenue,130.42,USD,SEC XBRL 10-K
+Bally's,,2020-03-31,Q1 2020,3,net_income,-8.88,USD,SEC XBRL 10-Q/A
+Bally's,,2020-03-31,Q1 2020,3,operating_income,-3.17,USD,SEC XBRL 10-K/A
+Bally's,,2020-03-31,Q1 2020,3,revenue,109.15,USD,SEC XBRL 10-K/A
+Bally's,,2020-06-30,Q2 2020,3,net_income,-23.55,USD,SEC XBRL 10-Q/A
+Bally's,,2020-06-30,Q2 2020,3,operating_income,-20.96,USD,SEC XBRL 10-K/A
+Bally's,,2020-06-30,Q2 2020,3,revenue,28.92,USD,SEC XBRL 10-K/A
+Bally's,,2020-09-30,Q3 2020,3,net_income,6.72,USD,SEC XBRL 10-Q/A
+Bally's,,2020-09-30,Q3 2020,3,operating_income,23.38,USD,SEC XBRL 10-Q/A
+Bally's,,2020-09-30,Q3 2020,3,revenue,116.62,USD,SEC XBRL 10-Q/A
+Bally's,,2020-12-31,Q4 2020,3,net_income,20.22,USD,SEC XBRL 10-K/A
+Bally's,,2020-12-31,Q4 2020,3,operating_income,-17.64,USD,SEC XBRL 10-K/A
+Bally's,,2020-12-31,Q4 2020,3,revenue,118.1,USD,SEC XBRL 10-K/A
+Bally's,,2021-03-31,Q1 2021,3,net_income,-10.71,USD,SEC XBRL 10-Q/A
+Bally's,,2021-03-31,Q1 2021,3,operating_income,29.47,USD,SEC XBRL 10-K/A
+Bally's,,2021-03-31,Q1 2021,3,revenue,192.27,USD,SEC XBRL 10-K/A
+Bally's,,2021-06-30,Q2 2021,3,net_income,68.94,USD,SEC XBRL 10-Q/A
+Bally's,,2021-06-30,Q2 2021,3,operating_income,80.53,USD,SEC XBRL 10-K/A
+Bally's,,2021-06-30,Q2 2021,3,revenue,267.73,USD,SEC XBRL 10-K/A
+Bally's,,2021-09-30,Q3 2021,3,net_income,-57.65,USD,SEC XBRL 10-Q/A
+Bally's,,2021-09-30,Q3 2021,3,operating_income,27.73,USD,SEC XBRL 10-Q/A
+Bally's,,2021-09-30,Q3 2021,3,revenue,314.78,USD,SEC XBRL 10-Q/A
+Bally's,,2021-12-31,Q4 2021,3,net_income,-115.29,USD,SEC XBRL 10-K/A
+Bally's,,2021-12-31,Q4 2021,3,operating_income,-44.36,USD,SEC XBRL 10-K/A
+Bally's,,2021-12-31,Q4 2021,3,revenue,547.66,USD,SEC XBRL 10-K/A
+Bally's,,2022-03-31,Q1 2022,3,net_income,1.89,USD,SEC XBRL 10-Q
+Bally's,,2022-03-31,Q1 2022,3,operating_income,22.52,USD,SEC XBRL 10-Q
+Bally's,,2022-03-31,Q1 2022,3,revenue,548.27,USD,SEC XBRL 10-Q
+Bally's,,2022-06-30,Q2 2022,3,net_income,59.5,USD,SEC XBRL 10-Q
+Bally's,,2022-06-30,Q2 2022,3,operating_income,85.32,USD,SEC XBRL 10-Q
+Bally's,,2022-06-30,Q2 2022,3,revenue,552.5,USD,SEC XBRL 10-Q
+Bally's,,2022-09-30,Q3 2022,3,net_income,0.59,USD,SEC XBRL 10-Q
+Bally's,,2022-09-30,Q3 2022,3,operating_income,53.66,USD,SEC XBRL 10-Q
+Bally's,,2022-09-30,Q3 2022,3,revenue,578.25,USD,SEC XBRL 10-Q
+Bally's,,2022-12-31,Q4 2022,3,net_income,-487.53,USD,SEC XBRL 10-K (full year minus 9 months)
+Bally's,,2022-12-31,Q4 2022,3,operating_income,-454.51,USD,SEC XBRL 10-K (full year minus 9 months)
+Bally's,,2022-12-31,Q4 2022,3,revenue,576.69,USD,SEC XBRL 10-K (full year minus 9 months)
+Bally's,,2023-03-31,Q1 2023,3,net_income,178.34,USD,SEC XBRL 10-Q
+Bally's,,2023-03-31,Q1 2023,3,operating_income,376.73,USD,SEC XBRL 10-Q
+Bally's,,2023-03-31,Q1 2023,3,revenue,598.72,USD,SEC XBRL 10-Q
+Bally's,,2023-06-30,Q2 2023,3,net_income,-25.65,USD,SEC XBRL 10-Q
+Bally's,,2023-06-30,Q2 2023,3,operating_income,5.98,USD,SEC XBRL 10-Q
+Bally's,,2023-06-30,Q2 2023,3,revenue,606.21,USD,SEC XBRL 10-Q
+Bally's,,2023-09-30,Q3 2023,3,net_income,-61.8,USD,SEC XBRL 10-Q
+Bally's,,2023-09-30,Q3 2023,3,operating_income,37.24,USD,SEC XBRL 10-Q
+Bally's,,2023-09-30,Q3 2023,3,revenue,632.48,USD,SEC XBRL 10-Q
+Bally's,,2023-12-31,Q4 2023,3,net_income,-278.38,USD,SEC XBRL DEFA14A (full year minus 9 months)
+Bally's,,2023-12-31,Q4 2023,3,operating_income,-315.94,USD,SEC XBRL 10-K (full year minus 9 months)
+Bally's,,2023-12-31,Q4 2023,3,revenue,611.67,USD,SEC XBRL 10-K (full year minus 9 months)
+Bally's,,2024-03-31,Q1 2024,3,net_income,-173.91,USD,SEC XBRL 10-Q
+Bally's,,2024-03-31,Q1 2024,3,operating_income,-73.95,USD,SEC XBRL 10-Q
+Bally's,,2024-03-31,Q1 2024,3,revenue,618.48,USD,SEC XBRL 10-Q
+Bally's,,2024-06-30,Q2 2024,3,net_income,-60.2,USD,SEC XBRL 10-Q
+Bally's,,2024-06-30,Q2 2024,3,operating_income,5.57,USD,SEC XBRL 10-Q
+Bally's,,2024-06-30,Q2 2024,3,revenue,621.66,USD,SEC XBRL 10-Q
+Bally's,,2024-09-30,Q3 2024,3,net_income,-247.85,USD,SEC XBRL 10-Q
+Bally's,,2024-09-30,Q3 2024,3,operating_income,-157.66,USD,SEC XBRL 10-Q
+Bally's,,2024-09-30,Q3 2024,3,revenue,629.97,USD,SEC XBRL 10-Q
+Bally's,,2024-12-31,Q4 2024,3,net_income,-85.79,USD,SEC XBRL DEFA14A (full year minus 9 months)
+Bally's,,2024-12-31,Q4 2024,3,operating_income,-32.29,USD,SEC XBRL 10-K/A (full year minus 9 months)
+Bally's,,2024-12-31,Q4 2024,3,revenue,580.37,USD,SEC XBRL 10-K/A (full year minus 9 months)
+Bally's,,2025-06-30,Q2 2025,3,net_income,-228.44,USD,SEC XBRL 10-Q
+Bally's,,2025-06-30,Q2 2025,3,operating_income,-2.44,USD,SEC XBRL 10-Q
+Bally's,,2025-06-30,Q2 2025,3,revenue,657.53,USD,SEC XBRL 10-Q
+Bally's,,2025-09-30,Q3 2025,3,net_income,-102.91,USD,SEC XBRL 10-Q
+Bally's,,2025-09-30,Q3 2025,3,operating_income,0.99,USD,SEC XBRL 10-Q
+Bally's,,2025-09-30,Q3 2025,3,revenue,663.72,USD,SEC XBRL 10-Q
+Bally's,,2026-03-31,Q1 2026,3,net_income,-161.91,USD,SEC XBRL 10-Q
+Bally's,,2026-03-31,Q1 2026,3,operating_income,91.61,USD,SEC XBRL 10-Q
+Bally's,,2026-03-31,Q1 2026,3,revenue,755.72,USD,SEC XBRL 10-Q
+Bally's,,2026-06-30,Q2 2026,3,net_income,-146.07,USD,SEC XBRL 10-Q
+Bally's,,2026-06-30,Q2 2026,3,operating_income,-34.02,USD,SEC XBRL 10-Q
+Bally's,,2026-06-30,Q2 2026,3,revenue,792.23,USD,SEC XBRL 10-Q
+Caesars,,2013-03-31,Q1 2013,3,net_income,2.09,USD,SEC XBRL 10-K
+Caesars,,2013-03-31,Q1 2013,3,operating_income,6.03,USD,SEC XBRL 10-K
+Caesars,,2013-03-31,Q1 2013,3,revenue,72.61,USD,SEC XBRL 10-K
+Caesars,,2013-06-30,Q2 2013,3,net_income,6.55,USD,SEC XBRL 10-K
+Caesars,,2013-06-30,Q2 2013,3,operating_income,10.5,USD,SEC XBRL 10-K
+Caesars,,2013-06-30,Q2 2013,3,revenue,76.86,USD,SEC XBRL 10-K
+Caesars,,2013-09-30,Q3 2013,3,net_income,3.18,USD,SEC XBRL 10-Q
+Caesars,,2013-09-30,Q3 2013,3,operating_income,7.09,USD,SEC XBRL 10-K
+Caesars,,2013-09-30,Q3 2013,3,revenue,74.95,USD,SEC XBRL 10-K
+Caesars,,2013-12-31,Q4 2013,3,net_income,7.08,USD,SEC XBRL 10-K
+Caesars,,2013-12-31,Q4 2013,3,operating_income,1.03,USD,SEC XBRL 10-K
+Caesars,,2013-12-31,Q4 2013,3,revenue,65.83,USD,SEC XBRL 10-K
+Caesars,,2014-03-31,Q1 2014,3,net_income,-2.33,USD,SEC XBRL 10-K
+Caesars,,2014-03-31,Q1 2014,3,operating_income,1.55,USD,SEC XBRL 10-K
+Caesars,,2014-03-31,Q1 2014,3,revenue,57.03,USD,SEC XBRL 10-K
+Caesars,,2014-06-30,Q2 2014,3,net_income,2.91,USD,SEC XBRL 10-K
+Caesars,,2014-06-30,Q2 2014,3,operating_income,6.78,USD,SEC XBRL 10-K
+Caesars,,2014-06-30,Q2 2014,3,revenue,61.75,USD,SEC XBRL 10-K
+Caesars,,2014-09-30,Q3 2014,3,net_income,-4.06,USD,SEC XBRL 10-K
+Caesars,,2014-09-30,Q3 2014,3,operating_income,2.78,USD,SEC XBRL 10-K
+Caesars,,2014-09-30,Q3 2014,3,revenue,78.95,USD,SEC XBRL 10-K
+Caesars,,2014-12-31,Q4 2014,3,net_income,-10.83,USD,SEC XBRL 10-K
+Caesars,,2014-12-31,Q4 2014,3,operating_income,6.45,USD,SEC XBRL 10-K
+Caesars,,2014-12-31,Q4 2014,3,revenue,164.09,USD,SEC XBRL 10-K
+Caesars,,2015-03-31,Q1 2015,3,net_income,-6.17,USD,SEC XBRL 8-K
+Caesars,,2015-03-31,Q1 2015,3,operating_income,12.07,USD,SEC XBRL 8-K
+Caesars,,2015-03-31,Q1 2015,3,revenue,167.45,USD,SEC XBRL 10-K
+Caesars,,2015-06-30,Q2 2015,3,net_income,4.78,USD,SEC XBRL 8-K
+Caesars,,2015-06-30,Q2 2015,3,operating_income,23.03,USD,SEC XBRL 8-K
+Caesars,,2015-06-30,Q2 2015,3,revenue,182.63,USD,SEC XBRL 10-K
+Caesars,,2015-09-30,Q3 2015,3,net_income,5.42,USD,SEC XBRL 8-K
+Caesars,,2015-09-30,Q3 2015,3,operating_income,24.12,USD,SEC XBRL 8-K
+Caesars,,2015-09-30,Q3 2015,3,revenue,183.54,USD,SEC XBRL 10-K
+Caesars,,2015-12-31,Q4 2015,3,net_income,110.22,USD,SEC XBRL 8-K
+Caesars,,2015-12-31,Q4 2015,3,operating_income,13.4,USD,SEC XBRL 8-K
+Caesars,,2015-12-31,Q4 2015,3,revenue,186.16,USD,SEC XBRL 10-K
+Caesars,,2016-03-31,Q1 2016,3,net_income,3.38,USD,SEC XBRL 10-K
+Caesars,,2016-03-31,Q1 2016,3,operating_income,18.28,USD,SEC XBRL 10-K
+Caesars,,2016-03-31,Q1 2016,3,revenue,213.57,USD,SEC XBRL 10-K
+Caesars,,2016-06-30,Q2 2016,3,net_income,10.74,USD,SEC XBRL 10-K
+Caesars,,2016-06-30,Q2 2016,3,operating_income,29.59,USD,SEC XBRL 10-K
+Caesars,,2016-06-30,Q2 2016,3,revenue,231.31,USD,SEC XBRL 10-K
+Caesars,,2016-09-30,Q3 2016,3,net_income,9.45,USD,SEC XBRL 10-K
+Caesars,,2016-09-30,Q3 2016,3,operating_income,27.74,USD,SEC XBRL 10-K
+Caesars,,2016-09-30,Q3 2016,3,revenue,241.56,USD,SEC XBRL 10-K
+Caesars,,2016-12-31,Q4 2016,3,net_income,0.96,USD,SEC XBRL 10-K
+Caesars,,2016-12-31,Q4 2016,3,operating_income,13.1,USD,SEC XBRL 10-K
+Caesars,,2016-12-31,Q4 2016,3,revenue,206.45,USD,SEC XBRL 10-K
+Caesars,,2017-03-31,Q1 2017,3,net_income,0.94,USD,SEC XBRL 10-K
+Caesars,,2017-03-31,Q1 2017,3,operating_income,14.03,USD,SEC XBRL 10-K
+Caesars,,2017-03-31,Q1 2017,3,revenue,202.39,USD,SEC XBRL 10-Q
+Caesars,,2017-06-30,Q2 2017,3,net_income,-46.19,USD,SEC XBRL 10-K
+Caesars,,2017-06-30,Q2 2017,3,operating_income,-30.47,USD,SEC XBRL 10-K
+Caesars,,2017-06-30,Q2 2017,3,revenue,373.61,USD,SEC XBRL 10-K
+Caesars,,2017-09-30,Q3 2017,3,net_income,29.69,USD,SEC XBRL 10-K
+Caesars,,2017-09-30,Q3 2017,3,operating_income,81.49,USD,SEC XBRL 10-K
+Caesars,,2017-09-30,Q3 2017,3,revenue,470.75,USD,SEC XBRL 10-K
+Caesars,,2017-12-31,Q4 2017,3,net_income,88.94,USD,SEC XBRL 10-K
+Caesars,,2017-12-31,Q4 2017,3,operating_income,29.76,USD,SEC XBRL 10-K
+Caesars,,2017-12-31,Q4 2017,3,revenue,428.22,USD,SEC XBRL 10-K
+Caesars,,2018-03-31,Q1 2018,3,net_income,20.86,USD,SEC XBRL 10-K
+Caesars,,2018-03-31,Q1 2018,3,operating_income,54.19,USD,SEC XBRL 10-K
+Caesars,,2018-03-31,Q1 2018,3,revenue,440.19,USD,SEC XBRL 10-Q
+Caesars,,2018-06-30,Q2 2018,3,net_income,36.8,USD,SEC XBRL 10-K
+Caesars,,2018-06-30,Q2 2018,3,operating_income,77.41,USD,SEC XBRL 10-K
+Caesars,,2018-06-30,Q2 2018,3,revenue,456.8,USD,SEC XBRL 10-K
+Caesars,,2018-09-30,Q3 2018,3,net_income,37.7,USD,SEC XBRL 10-K
+Caesars,,2018-09-30,Q3 2018,3,operating_income,91.77,USD,SEC XBRL 10-K
+Caesars,,2018-09-30,Q3 2018,3,revenue,487.25,USD,SEC XBRL 10-K
+Caesars,,2018-12-31,Q4 2018,3,net_income,-0.12,USD,SEC XBRL 10-K
+Caesars,,2018-12-31,Q4 2018,3,operating_income,86.73,USD,SEC XBRL 10-K
+Caesars,,2018-12-31,Q4 2018,3,revenue,671.76,USD,SEC XBRL 10-K
+Caesars,,2019-03-31,Q1 2019,3,net_income,38.23,USD,SEC XBRL 10-Q
+Caesars,,2019-03-31,Q1 2019,3,operating_income,123.6,USD,SEC XBRL 10-Q
+Caesars,,2019-03-31,Q1 2019,3,revenue,635.82,USD,SEC XBRL 10-Q
+Caesars,,2019-06-30,Q2 2019,3,net_income,18.94,USD,SEC XBRL 10-Q
+Caesars,,2019-06-30,Q2 2019,3,operating_income,102.55,USD,SEC XBRL 10-Q
+Caesars,,2019-06-30,Q2 2019,3,revenue,637.12,USD,SEC XBRL 10-Q
+Caesars,,2019-09-30,Q3 2019,3,net_income,37.0,USD,SEC XBRL 10-Q
+Caesars,,2019-09-30,Q3 2019,3,operating_income,125.0,USD,SEC XBRL 10-Q
+Caesars,,2019-09-30,Q3 2019,3,revenue,663.0,USD,SEC XBRL 10-Q
+Caesars,,2019-12-31,Q4 2019,3,net_income,-13.22,USD,SEC XBRL 10-K
+Caesars,,2019-12-31,Q4 2019,3,operating_income,58.91,USD,SEC XBRL 10-K
+Caesars,,2019-12-31,Q4 2019,3,revenue,592.12,USD,SEC XBRL 10-K
+Caesars,,2020-03-31,Q1 2020,3,net_income,-176.0,USD,SEC XBRL 10-Q
+Caesars,,2020-03-31,Q1 2020,3,operating_income,-123.0,USD,SEC XBRL 10-Q
+Caesars,,2020-03-31,Q1 2020,3,revenue,473.0,USD,SEC XBRL 10-Q
+Caesars,,2020-06-30,Q2 2020,3,net_income,-100.0,USD,SEC XBRL 10-Q
+Caesars,,2020-06-30,Q2 2020,3,operating_income,-79.0,USD,SEC XBRL 10-Q
+Caesars,,2020-06-30,Q2 2020,3,revenue,127.0,USD,SEC XBRL 10-Q
+Caesars,,2020-09-30,Q3 2020,3,net_income,-926.0,USD,SEC XBRL 10-Q
+Caesars,,2020-09-30,Q3 2020,3,operating_income,-131.0,USD,SEC XBRL 10-Q
+Caesars,,2020-09-30,Q3 2020,3,revenue,1443.0,USD,SEC XBRL 10-Q
+Caesars,,2020-12-31,Q4 2020,3,net_income,-555.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2020-12-31,Q4 2020,3,operating_income,-50.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2020-12-31,Q4 2020,3,revenue,1585.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2021-03-31,Q1 2021,3,net_income,-423.0,USD,SEC XBRL 10-Q
+Caesars,,2021-03-31,Q1 2021,3,operating_income,216.0,USD,SEC XBRL 10-Q
+Caesars,,2021-03-31,Q1 2021,3,revenue,1792.0,USD,SEC XBRL 10-Q
+Caesars,,2021-06-30,Q2 2021,3,net_income,71.0,USD,SEC XBRL 10-Q
+Caesars,,2021-06-30,Q2 2021,3,operating_income,590.0,USD,SEC XBRL 10-Q
+Caesars,,2021-06-30,Q2 2021,3,revenue,2502.0,USD,SEC XBRL 10-Q
+Caesars,,2021-09-30,Q3 2021,3,net_income,-233.0,USD,SEC XBRL 10-Q
+Caesars,,2021-09-30,Q3 2021,3,operating_income,532.0,USD,SEC XBRL 10-Q
+Caesars,,2021-09-30,Q3 2021,3,revenue,2685.0,USD,SEC XBRL 10-Q
+Caesars,,2021-12-31,Q4 2021,3,net_income,-431.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Caesars,,2021-12-31,Q4 2021,3,operating_income,122.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2021-12-31,Q4 2021,3,revenue,2591.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2022-03-31,Q1 2022,3,net_income,-680.0,USD,SEC XBRL 10-Q
+Caesars,,2022-03-31,Q1 2022,3,operating_income,-10.0,USD,SEC XBRL 10-Q
+Caesars,,2022-03-31,Q1 2022,3,revenue,2292.0,USD,SEC XBRL 10-Q
+Caesars,,2022-06-30,Q2 2022,3,net_income,-123.0,USD,SEC XBRL 10-Q
+Caesars,,2022-06-30,Q2 2022,3,operating_income,602.0,USD,SEC XBRL 10-Q
+Caesars,,2022-06-30,Q2 2022,3,revenue,2821.0,USD,SEC XBRL 10-Q
+Caesars,,2022-09-30,Q3 2022,3,net_income,52.0,USD,SEC XBRL 10-Q
+Caesars,,2022-09-30,Q3 2022,3,operating_income,659.0,USD,SEC XBRL 10-Q
+Caesars,,2022-09-30,Q3 2022,3,revenue,2887.0,USD,SEC XBRL 10-Q
+Caesars,,2022-12-31,Q4 2022,3,net_income,-159.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Caesars,,2022-12-31,Q4 2022,3,operating_income,488.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2022-12-31,Q4 2022,3,revenue,2821.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2023-03-31,Q1 2023,3,net_income,-136.0,USD,SEC XBRL 10-Q
+Caesars,,2023-03-31,Q1 2023,3,operating_income,603.0,USD,SEC XBRL 10-Q
+Caesars,,2023-03-31,Q1 2023,3,revenue,2830.0,USD,SEC XBRL 10-Q
+Caesars,,2023-06-30,Q2 2023,3,net_income,920.0,USD,SEC XBRL 10-Q
+Caesars,,2023-06-30,Q2 2023,3,operating_income,609.0,USD,SEC XBRL 10-Q
+Caesars,,2023-06-30,Q2 2023,3,revenue,2879.0,USD,SEC XBRL 10-Q
+Caesars,,2023-09-30,Q3 2023,3,net_income,74.0,USD,SEC XBRL 10-Q
+Caesars,,2023-09-30,Q3 2023,3,operating_income,724.0,USD,SEC XBRL 10-Q
+Caesars,,2023-09-30,Q3 2023,3,revenue,2994.0,USD,SEC XBRL 10-Q
+Caesars,,2023-12-31,Q4 2023,3,net_income,-30.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Caesars,,2023-12-31,Q4 2023,3,operating_income,536.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2023-12-31,Q4 2023,3,revenue,2825.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2024-03-31,Q1 2024,3,net_income,-158.0,USD,SEC XBRL 10-Q
+Caesars,,2024-03-31,Q1 2024,3,operating_income,485.0,USD,SEC XBRL 10-Q
+Caesars,,2024-03-31,Q1 2024,3,revenue,2742.0,USD,SEC XBRL 10-Q
+Caesars,,2024-06-30,Q2 2024,3,net_income,-122.0,USD,SEC XBRL 10-Q
+Caesars,,2024-06-30,Q2 2024,3,operating_income,506.0,USD,SEC XBRL 10-Q
+Caesars,,2024-06-30,Q2 2024,3,revenue,2830.0,USD,SEC XBRL 10-Q
+Caesars,,2024-09-30,Q3 2024,3,net_income,-9.0,USD,SEC XBRL 10-Q
+Caesars,,2024-09-30,Q3 2024,3,operating_income,644.0,USD,SEC XBRL 10-Q
+Caesars,,2024-09-30,Q3 2024,3,revenue,2874.0,USD,SEC XBRL 10-Q
+Caesars,,2024-12-31,Q4 2024,3,net_income,78.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Caesars,,2024-12-31,Q4 2024,3,operating_income,669.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2024-12-31,Q4 2024,3,revenue,2799.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2025-03-31,Q1 2025,3,net_income,-115.0,USD,SEC XBRL 10-Q
+Caesars,,2025-03-31,Q1 2025,3,operating_income,488.0,USD,SEC XBRL 10-Q
+Caesars,,2025-03-31,Q1 2025,3,revenue,2794.0,USD,SEC XBRL 10-Q
+Caesars,,2025-06-30,Q2 2025,3,net_income,-82.0,USD,SEC XBRL 10-Q
+Caesars,,2025-06-30,Q2 2025,3,operating_income,526.0,USD,SEC XBRL 10-Q
+Caesars,,2025-06-30,Q2 2025,3,revenue,2907.0,USD,SEC XBRL 10-Q
+Caesars,,2025-09-30,Q3 2025,3,net_income,-55.0,USD,SEC XBRL 10-Q
+Caesars,,2025-09-30,Q3 2025,3,operating_income,513.0,USD,SEC XBRL 10-Q
+Caesars,,2025-09-30,Q3 2025,3,revenue,2869.0,USD,SEC XBRL 10-Q
+Caesars,,2025-12-31,Q4 2025,3,net_income,-185.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Caesars,,2025-12-31,Q4 2025,3,operating_income,331.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2025-12-31,Q4 2025,3,revenue,2916.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Caesars,,2026-03-31,Q1 2026,3,net_income,-98.0,USD,SEC XBRL 10-Q
+Caesars,,2026-03-31,Q1 2026,3,operating_income,500.0,USD,SEC XBRL 10-Q
+Caesars,,2026-03-31,Q1 2026,3,revenue,2870.0,USD,SEC XBRL 10-Q
+Caesars,,2026-06-30,Q2 2026,3,net_income,-62.0,USD,SEC XBRL 10-Q
+Caesars,,2026-06-30,Q2 2026,3,operating_income,513.0,USD,SEC XBRL 10-Q
+Caesars,,2026-06-30,Q2 2026,3,revenue,2993.0,USD,SEC XBRL 10-Q
+Disney,,2016-12-31,Q4 2016,3,net_income,2479.0,USD,SEC XBRL 8-K
+Disney,,2016-12-31,Q4 2016,3,operating_income,3956.0,USD,SEC XBRL 8-K
+Disney,,2016-12-31,Q4 2016,3,revenue,14784.0,USD,SEC XBRL 8-K
+Disney,,2017-04-01,Q1 2017,3,net_income,2388.0,USD,SEC XBRL 8-K
+Disney,,2017-04-01,Q1 2017,3,operating_income,3996.0,USD,SEC XBRL 8-K
+Disney,,2017-04-01,Q1 2017,3,revenue,13336.0,USD,SEC XBRL 8-K
+Disney,,2017-07-01,Q2 2017,3,net_income,2366.0,USD,SEC XBRL 8-K
+Disney,,2017-07-01,Q2 2017,3,operating_income,4011.0,USD,SEC XBRL 8-K
+Disney,,2017-07-01,Q2 2017,3,revenue,14238.0,USD,SEC XBRL 8-K
+Disney,,2017-09-30,Q3 2017,3,net_income,1747.0,USD,SEC XBRL 8-K
+Disney,,2017-09-30,Q3 2017,3,operating_income,2812.0,USD,SEC XBRL 8-K
+Disney,,2017-09-30,Q3 2017,3,revenue,12779.0,USD,SEC XBRL 8-K
+Disney,,2017-12-30,Q4 2017,3,net_income,4423.0,USD,SEC XBRL 10-K
+Disney,,2017-12-30,Q4 2017,3,operating_income,3986.0,USD,SEC XBRL 10-K
+Disney,,2017-12-30,Q4 2017,3,revenue,15351.0,USD,SEC XBRL 10-K
+Disney,,2018-03-31,Q1 2018,3,net_income,2937.0,USD,SEC XBRL 10-K
+Disney,,2018-03-31,Q1 2018,3,operating_income,4237.0,USD,SEC XBRL 10-K
+Disney,,2018-03-31,Q1 2018,3,revenue,14548.0,USD,SEC XBRL 10-K
+Disney,,2018-06-30,Q2 2018,3,net_income,2916.0,USD,SEC XBRL 10-K
+Disney,,2018-06-30,Q2 2018,3,operating_income,4189.0,USD,SEC XBRL 10-K
+Disney,,2018-06-30,Q2 2018,3,revenue,15229.0,USD,SEC XBRL 10-K
+Disney,,2018-09-29,Q3 2018,3,net_income,2322.0,USD,SEC XBRL 10-K
+Disney,,2018-09-29,Q3 2018,3,operating_income,3277.0,USD,SEC XBRL 10-K
+Disney,,2018-09-29,Q3 2018,3,revenue,14306.0,USD,SEC XBRL 10-K
+Disney,,2018-12-29,Q4 2018,3,net_income,2788.0,USD,SEC XBRL 8-K
+Disney,,2018-12-29,Q4 2018,3,operating_income,3655.0,USD,SEC XBRL 8-K
+Disney,,2018-12-29,Q4 2018,3,revenue,15303.0,USD,SEC XBRL 8-K
+Disney,,2019-03-30,Q1 2019,3,net_income,5452.0,USD,SEC XBRL 8-K
+Disney,,2019-03-30,Q1 2019,3,operating_income,3815.0,USD,SEC XBRL 8-K
+Disney,,2019-03-30,Q1 2019,3,revenue,14924.0,USD,SEC XBRL 8-K
+Disney,,2019-06-29,Q2 2019,3,net_income,1760.0,USD,SEC XBRL 8-K
+Disney,,2019-06-29,Q2 2019,3,operating_income,3952.0,USD,SEC XBRL 8-K
+Disney,,2019-06-29,Q2 2019,3,revenue,20262.0,USD,SEC XBRL 8-K
+Disney,,2019-09-28,Q3 2019,3,net_income,1054.0,USD,SEC XBRL 8-K
+Disney,,2019-09-28,Q3 2019,3,operating_income,3425.0,USD,SEC XBRL 8-K
+Disney,,2019-09-28,Q3 2019,3,revenue,19118.0,USD,SEC XBRL 8-K
+Disney,,2019-12-28,Q4 2019,3,net_income,2107.0,USD,SEC XBRL 8-K
+Disney,,2019-12-28,Q4 2019,3,operating_income,3996.0,USD,SEC XBRL 8-K
+Disney,,2019-12-28,Q4 2019,3,revenue,20877.0,USD,SEC XBRL 8-K
+Disney,,2020-03-28,Q1 2020,3,net_income,460.0,USD,SEC XBRL 10-Q
+Disney,,2020-03-28,Q1 2020,3,operating_income,2407.0,USD,SEC XBRL 10-Q
+Disney,,2020-03-28,Q1 2020,3,revenue,18025.0,USD,SEC XBRL 10-Q
+Disney,,2020-06-27,Q2 2020,3,net_income,-4721.0,USD,SEC XBRL 10-Q
+Disney,,2020-06-27,Q2 2020,3,operating_income,1099.0,USD,SEC XBRL 10-Q
+Disney,,2020-06-27,Q2 2020,3,revenue,11779.0,USD,SEC XBRL 10-Q
+Disney,,2020-10-03,Q3 2020,3,net_income,-710.0,USD,SEC XBRL 8-K
+Disney,,2020-10-03,Q3 2020,3,operating_income,606.0,USD,SEC XBRL 8-K
+Disney,,2020-10-03,Q3 2020,3,revenue,14707.0,USD,SEC XBRL 8-K
+Disney,,2021-01-02,Q4 2020,3,net_income,17.0,USD,SEC XBRL 10-Q
+Disney,,2021-01-02,Q4 2020,3,operating_income,1332.0,USD,SEC XBRL 10-Q
+Disney,,2021-01-02,Q4 2020,3,revenue,16249.0,USD,SEC XBRL 10-Q
+Disney,,2021-04-03,Q1 2021,3,net_income,901.0,USD,SEC XBRL 10-Q
+Disney,,2021-04-03,Q1 2021,3,operating_income,2465.0,USD,SEC XBRL 10-Q
+Disney,,2021-04-03,Q1 2021,3,revenue,15613.0,USD,SEC XBRL 10-Q
+Disney,,2021-07-03,Q2 2021,3,net_income,918.0,USD,SEC XBRL 10-Q
+Disney,,2021-07-03,Q2 2021,3,operating_income,2382.0,USD,SEC XBRL 10-Q
+Disney,,2021-07-03,Q2 2021,3,revenue,17022.0,USD,SEC XBRL 10-Q
+Disney,,2021-10-02,Q3 2021,3,net_income,159.0,USD,SEC XBRL 10-K/A (full year minus 9 months)
+Disney,,2021-10-02,Q3 2021,3,operating_income,1587.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2021-10-02,Q3 2021,3,revenue,18534.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2022-01-01,Q4 2021,3,net_income,1104.0,USD,SEC XBRL 10-Q
+Disney,,2022-01-01,Q4 2021,3,operating_income,3258.0,USD,SEC XBRL 10-Q
+Disney,,2022-01-01,Q4 2021,3,revenue,21819.0,USD,SEC XBRL 10-Q
+Disney,,2022-04-02,Q1 2022,3,net_income,470.0,USD,SEC XBRL 10-Q
+Disney,,2022-04-02,Q1 2022,3,operating_income,3699.0,USD,SEC XBRL 10-Q
+Disney,,2022-04-02,Q1 2022,3,revenue,19249.0,USD,SEC XBRL 10-Q
+Disney,,2022-07-02,Q2 2022,3,net_income,1409.0,USD,SEC XBRL 10-Q
+Disney,,2022-07-02,Q2 2022,3,operating_income,3567.0,USD,SEC XBRL 10-Q
+Disney,,2022-07-02,Q2 2022,3,revenue,21504.0,USD,SEC XBRL 10-Q
+Disney,,2022-10-01,Q3 2022,3,net_income,162.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2022-10-01,Q3 2022,3,operating_income,1597.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2022-10-01,Q3 2022,3,revenue,20150.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2022-12-31,Q4 2022,3,net_income,1279.0,USD,SEC XBRL 10-Q
+Disney,,2022-12-31,Q4 2022,3,operating_income,3043.0,USD,SEC XBRL 10-Q
+Disney,,2022-12-31,Q4 2022,3,revenue,23512.0,USD,SEC XBRL 10-Q
+Disney,,2023-04-01,Q1 2023,3,net_income,1271.0,USD,SEC XBRL 10-Q
+Disney,,2023-04-01,Q1 2023,3,operating_income,3285.0,USD,SEC XBRL 10-Q
+Disney,,2023-04-01,Q1 2023,3,revenue,21815.0,USD,SEC XBRL 10-Q
+Disney,,2023-07-01,Q2 2023,3,net_income,-460.0,USD,SEC XBRL 10-Q
+Disney,,2023-07-01,Q2 2023,3,operating_income,3559.0,USD,SEC XBRL 10-Q
+Disney,,2023-07-01,Q2 2023,3,revenue,22330.0,USD,SEC XBRL 10-Q
+Disney,,2023-09-30,Q3 2023,3,net_income,264.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2023-09-30,Q3 2023,3,operating_income,2976.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2023-09-30,Q3 2023,3,revenue,21241.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2023-12-30,Q4 2023,3,net_income,1911.0,USD,SEC XBRL 10-Q
+Disney,,2023-12-30,Q4 2023,3,operating_income,3876.0,USD,SEC XBRL 10-Q
+Disney,,2023-12-30,Q4 2023,3,revenue,23549.0,USD,SEC XBRL 10-Q
+Disney,,2024-03-30,Q1 2024,3,net_income,-20.0,USD,SEC XBRL 10-Q
+Disney,,2024-03-30,Q1 2024,3,operating_income,3845.0,USD,SEC XBRL 10-Q
+Disney,,2024-03-30,Q1 2024,3,revenue,22083.0,USD,SEC XBRL 10-Q
+Disney,,2024-06-29,Q2 2024,3,net_income,2621.0,USD,SEC XBRL 10-Q
+Disney,,2024-06-29,Q2 2024,3,operating_income,4225.0,USD,SEC XBRL 10-Q
+Disney,,2024-06-29,Q2 2024,3,revenue,23155.0,USD,SEC XBRL 10-Q
+Disney,,2024-09-28,Q3 2024,3,net_income,460.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2024-09-28,Q3 2024,3,operating_income,3655.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2024-09-28,Q3 2024,3,revenue,22574.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2024-12-28,Q4 2024,3,net_income,2554.0,USD,SEC XBRL 10-Q
+Disney,,2024-12-28,Q4 2024,3,operating_income,5060.0,USD,SEC XBRL 10-Q
+Disney,,2024-12-28,Q4 2024,3,revenue,24690.0,USD,SEC XBRL 10-Q
+Disney,,2025-03-29,Q1 2025,3,net_income,3275.0,USD,SEC XBRL 10-Q
+Disney,,2025-03-29,Q1 2025,3,operating_income,4436.0,USD,SEC XBRL 10-Q
+Disney,,2025-03-29,Q1 2025,3,revenue,23621.0,USD,SEC XBRL 10-Q
+Disney,,2025-06-28,Q2 2025,3,net_income,5262.0,USD,SEC XBRL 10-Q
+Disney,,2025-06-28,Q2 2025,3,operating_income,4575.0,USD,SEC XBRL 10-Q
+Disney,,2025-06-28,Q2 2025,3,revenue,23650.0,USD,SEC XBRL 10-Q
+Disney,,2025-09-27,Q3 2025,3,net_income,1313.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2025-09-27,Q3 2025,3,operating_income,3480.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2025-09-27,Q3 2025,3,revenue,22464.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2025-12-27,Q4 2025,3,net_income,2402.0,USD,SEC XBRL 10-Q
+Disney,,2025-12-27,Q4 2025,3,operating_income,4600.0,USD,SEC XBRL 10-Q
+Disney,,2025-12-27,Q4 2025,3,revenue,25981.0,USD,SEC XBRL 10-Q
+Disney,,2026-03-28,Q1 2026,3,net_income,2247.0,USD,SEC XBRL 10-Q
+Disney,,2026-03-28,Q1 2026,3,operating_income,4603.0,USD,SEC XBRL 10-Q
+Disney,,2026-03-28,Q1 2026,3,revenue,25168.0,USD,SEC XBRL 10-Q
+Disney,,2026-06-27,Q2 2026,3,net_income,2638.0,USD,SEC XBRL 10-Q
+Disney,,2026-06-27,Q2 2026,3,operating_income,5555.0,USD,SEC XBRL 10-Q
+Disney,,2026-06-27,Q2 2026,3,revenue,25248.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-06-30,Q2 2009,3,net_income,20.35,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-06-30,Q2 2009,3,operating_income,26.53,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-06-30,Q2 2009,3,revenue,225.03,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-09-30,Q3 2009,3,net_income,15.11,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-09-30,Q3 2009,3,operating_income,29.95,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-09-30,Q3 2009,3,revenue,239.15,USD,SEC XBRL 10-Q
+Light & Wonder,,2009-12-31,Q4 2009,3,net_income,-50.14,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2009-12-31,Q4 2009,3,operating_income,-69.46,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2009-12-31,Q4 2009,3,revenue,232.88,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2010-03-31,Q1 2010,3,net_income,4.89,USD,SEC XBRL 10-Q
+Light & Wonder,,2010-03-31,Q1 2010,3,operating_income,21.5,USD,SEC XBRL 10-K
+Light & Wonder,,2010-03-31,Q1 2010,3,revenue,216.34,USD,SEC XBRL 10-K
+Light & Wonder,,2010-06-30,Q2 2010,3,net_income,-4.34,USD,SEC XBRL 10-Q
+Light & Wonder,,2010-06-30,Q2 2010,3,operating_income,26.53,USD,SEC XBRL 10-K
+Light & Wonder,,2010-06-30,Q2 2010,3,revenue,233.03,USD,SEC XBRL 10-K
+Light & Wonder,,2010-09-30,Q3 2010,3,net_income,8.7,USD,SEC XBRL 10-Q
+Light & Wonder,,2010-09-30,Q3 2010,3,operating_income,21.75,USD,SEC XBRL 10-K
+Light & Wonder,,2010-09-30,Q3 2010,3,revenue,221.06,USD,SEC XBRL 10-K
+Light & Wonder,,2010-12-31,Q4 2010,3,net_income,-158.45,USD,SEC XBRL 10-K
+Light & Wonder,,2010-12-31,Q4 2010,3,operating_income,-11.04,USD,SEC XBRL 10-K
+Light & Wonder,,2010-12-31,Q4 2010,3,revenue,212.07,USD,SEC XBRL 10-K
+Light & Wonder,,2011-03-31,Q1 2011,3,net_income,-6.93,USD,SEC XBRL 10-Q
+Light & Wonder,,2011-03-31,Q1 2011,3,operating_income,14.35,USD,SEC XBRL 10-K
+Light & Wonder,,2011-03-31,Q1 2011,3,revenue,196.66,USD,SEC XBRL 10-K
+Light & Wonder,,2011-06-30,Q2 2011,3,net_income,7.02,USD,SEC XBRL 10-Q
+Light & Wonder,,2011-06-30,Q2 2011,3,operating_income,28.86,USD,SEC XBRL 10-K
+Light & Wonder,,2011-06-30,Q2 2011,3,revenue,220.25,USD,SEC XBRL 10-K
+Light & Wonder,,2011-09-30,Q3 2011,3,net_income,-4.12,USD,SEC XBRL 10-K
+Light & Wonder,,2011-09-30,Q3 2011,3,operating_income,21.38,USD,SEC XBRL 10-K
+Light & Wonder,,2011-09-30,Q3 2011,3,revenue,222.74,USD,SEC XBRL 10-K
+Light & Wonder,,2011-12-31,Q4 2011,3,net_income,-8.53,USD,SEC XBRL 10-K
+Light & Wonder,,2011-12-31,Q4 2011,3,operating_income,19.23,USD,SEC XBRL 10-K
+Light & Wonder,,2011-12-31,Q4 2011,3,revenue,239.08,USD,SEC XBRL 10-K
+Light & Wonder,,2012-03-31,Q1 2012,3,net_income,1.8,USD,SEC XBRL 10-K
+Light & Wonder,,2012-03-31,Q1 2012,3,operating_income,24.9,USD,SEC XBRL 10-K
+Light & Wonder,,2012-03-31,Q1 2012,3,revenue,231.2,USD,SEC XBRL 10-K
+Light & Wonder,,2012-06-30,Q2 2012,3,net_income,-12.6,USD,SEC XBRL 10-K
+Light & Wonder,,2012-06-30,Q2 2012,3,operating_income,11.4,USD,SEC XBRL 10-K
+Light & Wonder,,2012-06-30,Q2 2012,3,revenue,226.0,USD,SEC XBRL 10-K
+Light & Wonder,,2012-09-30,Q3 2012,3,net_income,-27.1,USD,SEC XBRL 10-K
+Light & Wonder,,2012-09-30,Q3 2012,3,operating_income,16.5,USD,SEC XBRL 10-K
+Light & Wonder,,2012-09-30,Q3 2012,3,revenue,224.6,USD,SEC XBRL 10-K
+Light & Wonder,,2012-12-31,Q4 2012,3,net_income,-24.7,USD,SEC XBRL 10-K
+Light & Wonder,,2012-12-31,Q4 2012,3,operating_income,10.1,USD,SEC XBRL 10-K
+Light & Wonder,,2012-12-31,Q4 2012,3,revenue,246.8,USD,SEC XBRL 10-K
+Light & Wonder,,2013-03-31,Q1 2013,3,net_income,-13.2,USD,SEC XBRL 10-K
+Light & Wonder,,2013-03-31,Q1 2013,3,operating_income,11.1,USD,SEC XBRL 10-K
+Light & Wonder,,2013-03-31,Q1 2013,3,revenue,219.6,USD,SEC XBRL 10-K
+Light & Wonder,,2013-06-30,Q2 2013,3,net_income,-13.0,USD,SEC XBRL 10-K
+Light & Wonder,,2013-06-30,Q2 2013,3,operating_income,12.4,USD,SEC XBRL 10-K
+Light & Wonder,,2013-06-30,Q2 2013,3,revenue,235.0,USD,SEC XBRL 10-K
+Light & Wonder,,2013-09-30,Q3 2013,3,net_income,-0.5,USD,SEC XBRL 10-K
+Light & Wonder,,2013-09-30,Q3 2013,3,operating_income,25.7,USD,SEC XBRL 10-K
+Light & Wonder,,2013-09-30,Q3 2013,3,revenue,234.4,USD,SEC XBRL 10-K
+Light & Wonder,,2013-12-31,Q4 2013,3,net_income,-3.5,USD,SEC XBRL 10-K
+Light & Wonder,,2013-12-31,Q4 2013,3,operating_income,-67.5,USD,SEC XBRL 10-K
+Light & Wonder,,2013-12-31,Q4 2013,3,revenue,401.9,USD,SEC XBRL 10-K
+Light & Wonder,,2014-03-31,Q1 2014,3,net_income,-45.0,USD,SEC XBRL 8-K
+Light & Wonder,,2014-03-31,Q1 2014,3,operating_income,-12.1,USD,SEC XBRL 8-K
+Light & Wonder,,2014-03-31,Q1 2014,3,revenue,388.1,USD,SEC XBRL 8-K
+Light & Wonder,,2014-06-30,Q2 2014,3,net_income,-72.4,USD,SEC XBRL 8-K
+Light & Wonder,,2014-06-30,Q2 2014,3,operating_income,3.6,USD,SEC XBRL 8-K
+Light & Wonder,,2014-06-30,Q2 2014,3,revenue,416.9,USD,SEC XBRL 8-K
+Light & Wonder,,2014-09-30,Q3 2014,3,net_income,-69.8,USD,SEC XBRL 8-K
+Light & Wonder,,2014-09-30,Q3 2014,3,operating_income,-7.8,USD,SEC XBRL 8-K
+Light & Wonder,,2014-09-30,Q3 2014,3,revenue,415.6,USD,SEC XBRL 8-K
+Light & Wonder,,2014-12-31,Q4 2014,3,net_income,-47.1,USD,SEC XBRL 8-K
+Light & Wonder,,2014-12-31,Q4 2014,3,operating_income,-156.4,USD,SEC XBRL 8-K
+Light & Wonder,,2014-12-31,Q4 2014,3,revenue,565.8,USD,SEC XBRL 8-K
+Light & Wonder,,2015-03-31,Q1 2015,3,net_income,-86.4,USD,SEC XBRL 10-K
+Light & Wonder,,2015-03-31,Q1 2015,3,operating_income,18.1,USD,SEC XBRL 10-K
+Light & Wonder,,2015-03-31,Q1 2015,3,revenue,658.7,USD,SEC XBRL 10-K
+Light & Wonder,,2015-06-30,Q2 2015,3,net_income,-102.2,USD,SEC XBRL 10-K
+Light & Wonder,,2015-06-30,Q2 2015,3,operating_income,-0.1,USD,SEC XBRL 10-K
+Light & Wonder,,2015-06-30,Q2 2015,3,revenue,691.5,USD,SEC XBRL 10-K
+Light & Wonder,,2015-09-30,Q3 2015,3,net_income,-1078.2,USD,SEC XBRL 10-K
+Light & Wonder,,2015-09-30,Q3 2015,3,operating_income,-988.2,USD,SEC XBRL 10-K
+Light & Wonder,,2015-09-30,Q3 2015,3,revenue,671.6,USD,SEC XBRL 10-K
+Light & Wonder,,2015-12-31,Q4 2015,3,net_income,-127.5,USD,SEC XBRL 10-K
+Light & Wonder,,2015-12-31,Q4 2015,3,operating_income,-54.4,USD,SEC XBRL 10-K
+Light & Wonder,,2015-12-31,Q4 2015,3,revenue,737.0,USD,SEC XBRL 10-K
+Light & Wonder,,2016-03-31,Q1 2016,3,net_income,-92.3,USD,SEC XBRL 10-K
+Light & Wonder,,2016-03-31,Q1 2016,3,operating_income,50.3,USD,SEC XBRL 10-K
+Light & Wonder,,2016-03-31,Q1 2016,3,revenue,682.0,USD,SEC XBRL 10-K
+Light & Wonder,,2016-06-30,Q2 2016,3,net_income,-51.7,USD,SEC XBRL 10-K
+Light & Wonder,,2016-06-30,Q2 2016,3,operating_income,59.1,USD,SEC XBRL 10-K
+Light & Wonder,,2016-06-30,Q2 2016,3,revenue,729.2,USD,SEC XBRL 10-K
+Light & Wonder,,2016-09-30,Q3 2016,3,net_income,-98.9,USD,SEC XBRL 10-K
+Light & Wonder,,2016-09-30,Q3 2016,3,operating_income,33.5,USD,SEC XBRL 10-K
+Light & Wonder,,2016-09-30,Q3 2016,3,revenue,720.0,USD,SEC XBRL 10-K
+Light & Wonder,,2016-12-31,Q4 2016,3,net_income,-110.8,USD,SEC XBRL 10-K
+Light & Wonder,,2016-12-31,Q4 2016,3,operating_income,-12.3,USD,SEC XBRL 10-K
+Light & Wonder,,2016-12-31,Q4 2016,3,revenue,752.2,USD,SEC XBRL 10-K
+Light & Wonder,,2017-03-31,Q1 2017,3,net_income,-100.8,USD,SEC XBRL 10-K
+Light & Wonder,,2017-03-31,Q1 2017,3,operating_income,88.0,USD,SEC XBRL 10-K
+Light & Wonder,,2017-03-31,Q1 2017,3,revenue,725.4,USD,SEC XBRL 10-Q
+Light & Wonder,,2017-06-30,Q2 2017,3,net_income,-39.1,USD,SEC XBRL 10-K
+Light & Wonder,,2017-06-30,Q2 2017,3,operating_income,117.3,USD,SEC XBRL 10-K
+Light & Wonder,,2017-06-30,Q2 2017,3,revenue,766.3,USD,SEC XBRL 10-Q
+Light & Wonder,,2017-09-30,Q3 2017,3,net_income,-59.3,USD,SEC XBRL 10-K
+Light & Wonder,,2017-09-30,Q3 2017,3,operating_income,90.6,USD,SEC XBRL 10-K
+Light & Wonder,,2017-09-30,Q3 2017,3,revenue,768.9,USD,SEC XBRL 10-Q
+Light & Wonder,,2017-12-31,Q4 2017,3,net_income,-43.1,USD,SEC XBRL 10-K
+Light & Wonder,,2017-12-31,Q4 2017,3,operating_income,97.2,USD,SEC XBRL 10-K
+Light & Wonder,,2017-12-31,Q4 2017,3,revenue,823.0,USD,SEC XBRL 10-K
+Light & Wonder,,2018-03-31,Q1 2018,3,net_income,-202.0,USD,SEC XBRL 10-K
+Light & Wonder,,2018-03-31,Q1 2018,3,operating_income,49.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2018-03-31,Q1 2018,3,revenue,812.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2018-06-30,Q2 2018,3,net_income,-6.0,USD,SEC XBRL 10-K
+Light & Wonder,,2018-06-30,Q2 2018,3,operating_income,99.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2018-06-30,Q2 2018,3,revenue,845.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2018-09-30,Q3 2018,3,net_income,-352.0,USD,SEC XBRL 10-K
+Light & Wonder,,2018-09-30,Q3 2018,3,operating_income,-205.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2018-09-30,Q3 2018,3,revenue,821.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2018-12-31,Q4 2018,3,net_income,207.0,USD,SEC XBRL 10-K
+Light & Wonder,,2018-12-31,Q4 2018,3,operating_income,321.2,USD,SEC XBRL 10-K
+Light & Wonder,,2018-12-31,Q4 2018,3,revenue,886.0,USD,SEC XBRL 10-K
+Light & Wonder,,2019-03-31,Q1 2019,3,net_income,-24.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-03-31,Q1 2019,3,operating_income,123.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-03-31,Q1 2019,3,revenue,837.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-06-30,Q2 2019,3,net_income,-77.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-06-30,Q2 2019,3,operating_income,128.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-06-30,Q2 2019,3,revenue,845.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-09-30,Q3 2019,3,net_income,14.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-09-30,Q3 2019,3,operating_income,143.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-09-30,Q3 2019,3,revenue,855.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2019-12-31,Q4 2019,3,net_income,-43.0,USD,SEC XBRL 10-K
+Light & Wonder,,2019-12-31,Q4 2019,3,operating_income,-104.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2019-12-31,Q4 2019,3,revenue,863.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-03-31,Q1 2020,3,net_income,-159.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-03-31,Q1 2020,3,operating_income,-32.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2020-03-31,Q1 2020,3,revenue,479.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-06-30,Q2 2020,3,net_income,-203.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-06-30,Q2 2020,3,operating_income,-56.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2020-06-30,Q2 2020,3,revenue,308.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-09-30,Q3 2020,3,net_income,-117.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-09-30,Q3 2020,3,operating_income,-30.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2020-09-30,Q3 2020,3,revenue,432.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-12-31,Q4 2020,3,net_income,-90.0,USD,SEC XBRL 10-K
+Light & Wonder,,2020-12-31,Q4 2020,3,operating_income,-10.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2020-12-31,Q4 2020,3,revenue,480.0,USD,SEC XBRL 10-K
+Light & Wonder,,2021-03-31,Q1 2021,3,net_income,-15.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-03-31,Q1 2021,3,operating_income,4.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-03-31,Q1 2021,3,revenue,453.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-06-30,Q2 2021,3,net_income,109.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-06-30,Q2 2021,3,operating_income,68.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-06-30,Q2 2021,3,revenue,581.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-09-30,Q3 2021,3,net_income,182.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-09-30,Q3 2021,3,operating_income,34.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-09-30,Q3 2021,3,revenue,539.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2021-12-31,Q4 2021,3,net_income,95.0,USD,SEC XBRL 10-K
+Light & Wonder,,2021-12-31,Q4 2021,3,operating_income,4.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2021-12-31,Q4 2021,3,revenue,580.0,USD,SEC XBRL 10-K
+Light & Wonder,,2022-03-31,Q1 2022,3,net_income,26.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-03-31,Q1 2022,3,operating_income,40.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-03-31,Q1 2022,3,revenue,572.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-06-30,Q2 2022,3,net_income,3291.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-06-30,Q2 2022,3,operating_income,46.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-06-30,Q2 2022,3,revenue,610.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-09-30,Q3 2022,3,net_income,328.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-09-30,Q3 2022,3,operating_income,89.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-09-30,Q3 2022,3,revenue,648.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2022-12-31,Q4 2022,3,net_income,30.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Light & Wonder,,2022-12-31,Q4 2022,3,operating_income,98.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2022-12-31,Q4 2022,3,revenue,682.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2023-03-31,Q1 2023,3,net_income,22.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-03-31,Q1 2023,3,operating_income,102.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-03-31,Q1 2023,3,revenue,670.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-06-30,Q2 2023,3,net_income,-1.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-06-30,Q2 2023,3,operating_income,113.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-06-30,Q2 2023,3,revenue,731.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-09-30,Q3 2023,3,net_income,75.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-09-30,Q3 2023,3,operating_income,147.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-09-30,Q3 2023,3,revenue,731.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2023-12-31,Q4 2023,3,net_income,67.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Light & Wonder,,2023-12-31,Q4 2023,3,operating_income,156.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2023-12-31,Q4 2023,3,revenue,771.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2024-03-31,Q1 2024,3,net_income,82.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-03-31,Q1 2024,3,operating_income,165.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-03-31,Q1 2024,3,revenue,756.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-06-30,Q2 2024,3,net_income,82.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-06-30,Q2 2024,3,operating_income,175.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-06-30,Q2 2024,3,revenue,818.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-09-30,Q3 2024,3,net_income,64.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-09-30,Q3 2024,3,operating_income,159.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-09-30,Q3 2024,3,revenue,817.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2024-12-31,Q4 2024,3,net_income,108.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Light & Wonder,,2024-12-31,Q4 2024,3,operating_income,168.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2024-12-31,Q4 2024,3,revenue,797.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2025-03-31,Q1 2025,3,net_income,82.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-03-31,Q1 2025,3,operating_income,170.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-03-31,Q1 2025,3,revenue,774.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-06-30,Q2 2025,3,net_income,95.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-06-30,Q2 2025,3,operating_income,202.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-06-30,Q2 2025,3,revenue,809.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-09-30,Q3 2025,3,net_income,114.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-09-30,Q3 2025,3,operating_income,229.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-09-30,Q3 2025,3,revenue,841.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2025-12-31,Q4 2025,3,net_income,-15.0,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Light & Wonder,,2025-12-31,Q4 2025,3,operating_income,83.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2025-12-31,Q4 2025,3,revenue,890.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Light & Wonder,,2026-03-31,Q1 2026,3,net_income,52.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2026-03-31,Q1 2026,3,operating_income,130.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2026-03-31,Q1 2026,3,revenue,790.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2026-06-30,Q2 2026,3,net_income,120.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2026-06-30,Q2 2026,3,operating_income,223.0,USD,SEC XBRL 10-Q
+Light & Wonder,,2026-06-30,Q2 2026,3,revenue,828.0,USD,SEC XBRL 10-Q
+Scholastic,,2009-08-31,Q3 2009,3,net_income,-23.0,USD,SEC XBRL 10-Q
+Scholastic,,2009-08-31,Q3 2009,3,operating_income,35.3,USD,SEC XBRL 10-Q
+Scholastic,,2009-08-31,Q3 2009,3,revenue,315.6,USD,SEC XBRL 10-Q
+Scholastic,,2009-12-01,Q4 2009,3,net_income,55.5,USD,SEC XBRL 10-Q
+Scholastic,,2009-12-01,Q4 2009,3,operating_income,105.6,USD,SEC XBRL 10-Q
+Scholastic,,2009-12-01,Q4 2009,3,revenue,660.1,USD,SEC XBRL 10-Q
+Scholastic,,2010-02-28,Q1 2010,3,net_income,-5.6,USD,SEC XBRL 10-Q
+Scholastic,,2010-02-28,Q1 2010,3,operating_income,-0.5,USD,SEC XBRL 10-Q
+Scholastic,,2010-02-28,Q1 2010,3,revenue,398.8,USD,SEC XBRL 10-Q
+Scholastic,,2010-05-31,Q2 2010,3,net_income,29.2,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2010-05-31,Q2 2010,3,operating_income,62.4,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2010-05-31,Q2 2010,3,revenue,519.7,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2010-08-31,Q3 2010,3,net_income,-35.2,USD,SEC XBRL 10-Q
+Scholastic,,2010-08-31,Q3 2010,3,operating_income,-46.3,USD,SEC XBRL 10-Q
+Scholastic,,2010-08-31,Q3 2010,3,revenue,290.4,USD,SEC XBRL 10-Q
+Scholastic,,2010-11-30,Q4 2010,3,net_income,74.9,USD,SEC XBRL 10-Q
+Scholastic,,2010-11-30,Q4 2010,3,operating_income,129.1,USD,SEC XBRL 10-Q
+Scholastic,,2010-11-30,Q4 2010,3,revenue,667.9,USD,SEC XBRL 10-Q
+Scholastic,,2011-02-28,Q1 2011,3,net_income,-25.1,USD,SEC XBRL 10-Q
+Scholastic,,2011-02-28,Q1 2011,3,operating_income,-30.0,USD,SEC XBRL 10-Q
+Scholastic,,2011-02-28,Q1 2011,3,revenue,384.3,USD,SEC XBRL 10-Q
+Scholastic,,2011-05-31,Q2 2011,3,net_income,24.8,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2011-05-31,Q2 2011,3,operating_income,50.9,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2011-05-31,Q2 2011,3,revenue,535.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2011-08-31,Q3 2011,3,net_income,-27.1,USD,SEC XBRL 10-Q
+Scholastic,,2011-08-31,Q3 2011,3,operating_income,-33.2,USD,SEC XBRL 10-Q
+Scholastic,,2011-08-31,Q3 2011,3,revenue,318.0,USD,SEC XBRL 10-Q
+Scholastic,,2011-11-30,Q4 2011,3,net_income,82.8,USD,SEC XBRL 10-Q
+Scholastic,,2011-11-30,Q4 2011,3,operating_income,140.0,USD,SEC XBRL 10-Q
+Scholastic,,2011-11-30,Q4 2011,3,revenue,685.3,USD,SEC XBRL 10-Q
+Scholastic,,2012-02-29,Q1 2012,3,net_income,-10.3,USD,SEC XBRL 10-Q
+Scholastic,,2012-02-29,Q1 2012,3,operating_income,-11.9,USD,SEC XBRL 10-Q
+Scholastic,,2012-02-29,Q1 2012,3,revenue,467.0,USD,SEC XBRL 10-Q
+Scholastic,,2012-05-31,Q2 2012,3,net_income,57.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2012-05-31,Q2 2012,3,operating_income,90.4,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2012-05-31,Q2 2012,3,revenue,668.8,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2012-08-31,Q3 2012,3,net_income,-32.1,USD,SEC XBRL 10-Q
+Scholastic,,2012-08-31,Q3 2012,3,operating_income,-47.0,USD,SEC XBRL 10-Q
+Scholastic,,2012-08-31,Q3 2012,3,revenue,293.4,USD,SEC XBRL 10-Q
+Scholastic,,2012-11-30,Q4 2012,3,net_income,61.8,USD,SEC XBRL 10-Q
+Scholastic,,2012-11-30,Q4 2012,3,operating_income,102.0,USD,SEC XBRL 10-Q
+Scholastic,,2012-11-30,Q4 2012,3,revenue,613.5,USD,SEC XBRL 10-Q
+Scholastic,,2013-02-28,Q1 2013,3,net_income,-20.1,USD,SEC XBRL 10-Q
+Scholastic,,2013-02-28,Q1 2013,3,operating_income,-27.4,USD,SEC XBRL 10-Q
+Scholastic,,2013-02-28,Q1 2013,3,revenue,378.6,USD,SEC XBRL 10-Q
+Scholastic,,2013-05-31,Q2 2013,3,net_income,21.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2013-05-31,Q2 2013,3,operating_income,-6.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2013-05-31,Q2 2013,3,revenue,264.3,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2013-08-31,Q3 2013,3,net_income,-29.9,USD,SEC XBRL 10-Q
+Scholastic,,2013-08-31,Q3 2013,3,operating_income,-45.9,USD,SEC XBRL 10-Q
+Scholastic,,2013-08-31,Q3 2013,3,revenue,276.3,USD,SEC XBRL 10-Q
+Scholastic,,2013-11-30,Q4 2013,3,net_income,58.3,USD,SEC XBRL 10-Q
+Scholastic,,2013-11-30,Q4 2013,3,operating_income,94.7,USD,SEC XBRL 10-Q
+Scholastic,,2013-11-30,Q4 2013,3,revenue,623.2,USD,SEC XBRL 10-Q
+Scholastic,,2014-02-28,Q1 2014,3,net_income,-12.1,USD,SEC XBRL 10-Q
+Scholastic,,2014-02-28,Q1 2014,3,operating_income,-34.3,USD,SEC XBRL 10-Q
+Scholastic,,2014-02-28,Q1 2014,3,revenue,373.5,USD,SEC XBRL 10-Q
+Scholastic,,2014-05-31,Q2 2014,3,net_income,28.1,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2014-05-31,Q2 2014,3,operating_income,-4.1,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2014-05-31,Q2 2014,3,revenue,288.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2014-08-31,Q3 2014,3,net_income,-34.1,USD,SEC XBRL 10-Q
+Scholastic,,2014-08-31,Q3 2014,3,operating_income,-86.8,USD,SEC XBRL 10-Q
+Scholastic,,2014-08-31,Q3 2014,3,revenue,190.5,USD,SEC XBRL 10-Q
+Scholastic,,2014-11-30,Q4 2014,3,net_income,68.5,USD,SEC XBRL 10-Q
+Scholastic,,2014-11-30,Q4 2014,3,operating_income,110.9,USD,SEC XBRL 10-Q
+Scholastic,,2014-11-30,Q4 2014,3,revenue,611.1,USD,SEC XBRL 10-Q
+Scholastic,,2015-02-28,Q1 2015,3,net_income,-22.1,USD,SEC XBRL 10-Q
+Scholastic,,2015-02-28,Q1 2015,3,operating_income,-24.7,USD,SEC XBRL 10-Q
+Scholastic,,2015-02-28,Q1 2015,3,revenue,346.5,USD,SEC XBRL 10-Q
+Scholastic,,2015-05-31,Q2 2015,3,net_income,282.3,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2015-05-31,Q2 2015,3,operating_income,33.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2015-05-31,Q2 2015,3,revenue,487.7,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2015-08-31,Q3 2015,3,net_income,-49.4,USD,SEC XBRL 10-Q
+Scholastic,,2015-08-31,Q3 2015,3,operating_income,-79.5,USD,SEC XBRL 10-Q
+Scholastic,,2015-08-31,Q3 2015,3,revenue,191.2,USD,SEC XBRL 10-Q
+Scholastic,,2015-11-30,Q4 2015,3,net_income,64.9,USD,SEC XBRL 10-Q
+Scholastic,,2015-11-30,Q4 2015,3,operating_income,105.1,USD,SEC XBRL 10-Q
+Scholastic,,2015-11-30,Q4 2015,3,revenue,601.8,USD,SEC XBRL 10-Q
+Scholastic,,2016-02-29,Q1 2016,3,net_income,-9.0,USD,SEC XBRL 10-Q
+Scholastic,,2016-02-29,Q1 2016,3,operating_income,-16.4,USD,SEC XBRL 10-Q
+Scholastic,,2016-02-29,Q1 2016,3,revenue,366.0,USD,SEC XBRL 10-Q
+Scholastic,,2016-05-31,Q2 2016,3,net_income,34.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2016-05-31,Q2 2016,3,operating_income,62.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2016-05-31,Q2 2016,3,revenue,513.8,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2016-08-31,Q3 2016,3,net_income,-39.6,USD,SEC XBRL 10-Q
+Scholastic,,2016-08-31,Q3 2016,3,operating_income,-62.5,USD,SEC XBRL 10-Q
+Scholastic,,2016-08-31,Q3 2016,3,revenue,282.7,USD,SEC XBRL 10-Q
+Scholastic,,2016-11-30,Q4 2016,3,net_income,67.9,USD,SEC XBRL 10-Q
+Scholastic,,2016-11-30,Q4 2016,3,operating_income,112.1,USD,SEC XBRL 10-Q
+Scholastic,,2016-11-30,Q4 2016,3,revenue,623.1,USD,SEC XBRL 10-Q
+Scholastic,,2017-02-28,Q1 2017,3,net_income,-15.4,USD,SEC XBRL 10-Q
+Scholastic,,2017-02-28,Q1 2017,3,operating_income,-24.7,USD,SEC XBRL 10-Q
+Scholastic,,2017-02-28,Q1 2017,3,revenue,336.2,USD,SEC XBRL 10-Q
+Scholastic,,2017-05-31,Q2 2017,3,net_income,39.4,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2017-05-31,Q2 2017,3,operating_income,64.3,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2017-05-31,Q2 2017,3,revenue,499.6,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2017-08-31,Q3 2017,3,net_income,-63.7,USD,SEC XBRL 10-Q
+Scholastic,,2017-08-31,Q3 2017,3,operating_income,-101.8,USD,SEC XBRL 10-Q
+Scholastic,,2017-08-31,Q3 2017,3,revenue,189.2,USD,SEC XBRL 10-Q
+Scholastic,,2017-11-30,Q4 2017,3,net_income,57.1,USD,SEC XBRL 10-Q
+Scholastic,,2017-11-30,Q4 2017,3,operating_income,107.2,USD,SEC XBRL 10-Q
+Scholastic,,2017-11-30,Q4 2017,3,revenue,598.3,USD,SEC XBRL 10-Q
+Scholastic,,2018-02-28,Q1 2018,3,net_income,-49.2,USD,SEC XBRL 10-Q
+Scholastic,,2018-02-28,Q1 2018,3,operating_income,-23.7,USD,SEC XBRL 10-Q
+Scholastic,,2018-02-28,Q1 2018,3,revenue,344.7,USD,SEC XBRL 10-Q
+Scholastic,,2018-05-31,Q2 2018,3,net_income,50.8,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2018-05-31,Q2 2018,3,operating_income,73.9,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2018-05-31,Q2 2018,3,revenue,496.2,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2018-08-31,Q3 2018,3,net_income,-61.3,USD,SEC XBRL 10-Q
+Scholastic,,2018-08-31,Q3 2018,3,operating_income,-83.8,USD,SEC XBRL 10-Q
+Scholastic,,2018-08-31,Q3 2018,3,revenue,218.4,USD,SEC XBRL 10-Q
+Scholastic,,2018-11-30,Q4 2018,3,net_income,71.6,USD,SEC XBRL 10-Q
+Scholastic,,2018-11-30,Q4 2018,3,operating_income,98.2,USD,SEC XBRL 10-Q
+Scholastic,,2018-11-30,Q4 2018,3,revenue,604.7,USD,SEC XBRL 10-Q
+Scholastic,,2019-02-28,Q1 2019,3,net_income,-12.6,USD,SEC XBRL 10-Q
+Scholastic,,2019-02-28,Q1 2019,3,operating_income,-21.4,USD,SEC XBRL 10-Q
+Scholastic,,2019-02-28,Q1 2019,3,revenue,360.1,USD,SEC XBRL 10-Q
+Scholastic,,2019-05-31,Q2 2019,3,net_income,17.9,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2019-05-31,Q2 2019,3,operating_income,32.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2019-05-31,Q2 2019,3,revenue,470.7,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2019-08-31,Q3 2019,3,net_income,-58.5,USD,SEC XBRL 10-Q
+Scholastic,,2019-08-31,Q3 2019,3,operating_income,-87.4,USD,SEC XBRL 10-Q
+Scholastic,,2019-08-31,Q3 2019,3,revenue,232.6,USD,SEC XBRL 10-Q
+Scholastic,,2019-11-30,Q4 2019,3,net_income,71.0,USD,SEC XBRL 10-Q
+Scholastic,,2019-11-30,Q4 2019,3,operating_income,105.1,USD,SEC XBRL 10-Q
+Scholastic,,2019-11-30,Q4 2019,3,revenue,597.2,USD,SEC XBRL 10-Q
+Scholastic,,2020-02-29,Q1 2020,3,net_income,-43.3,USD,SEC XBRL 10-Q
+Scholastic,,2020-02-29,Q1 2020,3,operating_income,-60.0,USD,SEC XBRL 10-Q
+Scholastic,,2020-02-29,Q1 2020,3,revenue,373.3,USD,SEC XBRL 10-Q
+Scholastic,,2020-05-31,Q2 2020,3,net_income,-13.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2020-05-31,Q2 2020,3,operating_income,-46.2,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2020-05-31,Q2 2020,3,revenue,284.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2020-08-31,Q3 2020,3,net_income,-39.8,USD,SEC XBRL 10-Q
+Scholastic,,2020-08-31,Q3 2020,3,operating_income,-57.0,USD,SEC XBRL 10-Q
+Scholastic,,2020-08-31,Q3 2020,3,revenue,215.2,USD,SEC XBRL 10-Q
+Scholastic,,2020-11-30,Q4 2020,3,net_income,35.1,USD,SEC XBRL 10-Q
+Scholastic,,2020-11-30,Q4 2020,3,operating_income,48.8,USD,SEC XBRL 10-Q
+Scholastic,,2020-11-30,Q4 2020,3,revenue,406.2,USD,SEC XBRL 10-Q
+Scholastic,,2021-02-28,Q1 2021,3,net_income,-13.9,USD,SEC XBRL 10-Q
+Scholastic,,2021-02-28,Q1 2021,3,operating_income,-24.2,USD,SEC XBRL 10-Q
+Scholastic,,2021-02-28,Q1 2021,3,revenue,277.5,USD,SEC XBRL 10-Q
+Scholastic,,2021-05-31,Q2 2021,3,net_income,7.6,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2021-05-31,Q2 2021,3,operating_income,9.7,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2021-05-31,Q2 2021,3,revenue,401.4,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2021-08-31,Q3 2021,3,net_income,-24.2,USD,SEC XBRL 10-Q
+Scholastic,,2021-08-31,Q3 2021,3,operating_income,-32.0,USD,SEC XBRL 10-Q
+Scholastic,,2021-08-31,Q3 2021,3,revenue,259.8,USD,SEC XBRL 10-Q
+Scholastic,,2021-11-30,Q4 2021,3,net_income,68.3,USD,SEC XBRL 10-Q
+Scholastic,,2021-11-30,Q4 2021,3,operating_income,83.4,USD,SEC XBRL 10-Q
+Scholastic,,2021-11-30,Q4 2021,3,revenue,524.2,USD,SEC XBRL 10-Q
+Scholastic,,2022-02-28,Q1 2022,3,net_income,-15.3,USD,SEC XBRL 10-Q
+Scholastic,,2022-02-28,Q1 2022,3,operating_income,-19.5,USD,SEC XBRL 10-Q
+Scholastic,,2022-02-28,Q1 2022,3,revenue,344.5,USD,SEC XBRL 10-Q
+Scholastic,,2022-05-31,Q2 2022,3,net_income,52.12,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Scholastic,,2022-05-31,Q2 2022,3,operating_income,65.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2022-05-31,Q2 2022,3,revenue,514.4,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2022-08-31,Q3 2022,3,net_income,-45.5,USD,SEC XBRL 10-Q
+Scholastic,,2022-08-31,Q3 2022,3,operating_income,-58.1,USD,SEC XBRL 10-Q
+Scholastic,,2022-08-31,Q3 2022,3,revenue,262.9,USD,SEC XBRL 10-Q
+Scholastic,,2022-11-30,Q4 2022,3,net_income,75.3,USD,SEC XBRL 10-Q
+Scholastic,,2022-11-30,Q4 2022,3,operating_income,100.1,USD,SEC XBRL 10-Q
+Scholastic,,2022-11-30,Q4 2022,3,revenue,587.9,USD,SEC XBRL 10-Q
+Scholastic,,2023-02-28,Q1 2023,3,net_income,-19.2,USD,SEC XBRL 10-Q
+Scholastic,,2023-02-28,Q1 2023,3,operating_income,-27.7,USD,SEC XBRL 10-Q
+Scholastic,,2023-02-28,Q1 2023,3,revenue,324.9,USD,SEC XBRL 10-Q
+Scholastic,,2023-05-31,Q2 2023,3,net_income,75.72,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Scholastic,,2023-05-31,Q2 2023,3,operating_income,92.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2023-05-31,Q2 2023,3,revenue,528.3,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2023-08-31,Q3 2023,3,net_income,-74.2,USD,SEC XBRL 10-Q
+Scholastic,,2023-08-31,Q3 2023,3,operating_income,-99.1,USD,SEC XBRL 10-Q
+Scholastic,,2023-08-31,Q3 2023,3,revenue,228.5,USD,SEC XBRL 10-Q
+Scholastic,,2023-11-30,Q4 2023,3,net_income,76.9,USD,SEC XBRL 10-Q
+Scholastic,,2023-11-30,Q4 2023,3,operating_income,101.3,USD,SEC XBRL 10-Q
+Scholastic,,2023-11-30,Q4 2023,3,revenue,562.6,USD,SEC XBRL 10-Q
+Scholastic,,2024-02-29,Q1 2024,3,net_income,-26.5,USD,SEC XBRL 10-Q
+Scholastic,,2024-02-29,Q1 2024,3,operating_income,-34.9,USD,SEC XBRL 10-Q
+Scholastic,,2024-02-29,Q1 2024,3,revenue,323.7,USD,SEC XBRL 10-Q
+Scholastic,,2024-05-31,Q2 2024,3,net_income,35.93,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Scholastic,,2024-05-31,Q2 2024,3,operating_income,47.2,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2024-05-31,Q2 2024,3,revenue,474.9,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2024-08-31,Q3 2024,3,net_income,-62.5,USD,SEC XBRL 10-Q
+Scholastic,,2024-08-31,Q3 2024,3,operating_income,-88.5,USD,SEC XBRL 10-Q
+Scholastic,,2024-08-31,Q3 2024,3,revenue,237.2,USD,SEC XBRL 10-Q
+Scholastic,,2024-11-30,Q4 2024,3,net_income,48.8,USD,SEC XBRL 10-Q
+Scholastic,,2024-11-30,Q4 2024,3,operating_income,74.7,USD,SEC XBRL 10-Q
+Scholastic,,2024-11-30,Q4 2024,3,revenue,544.6,USD,SEC XBRL 10-Q
+Scholastic,,2025-02-28,Q1 2025,3,net_income,-3.6,USD,SEC XBRL 10-Q
+Scholastic,,2025-02-28,Q1 2025,3,operating_income,-23.9,USD,SEC XBRL 10-Q
+Scholastic,,2025-02-28,Q1 2025,3,revenue,335.4,USD,SEC XBRL 10-Q
+Scholastic,,2025-05-31,Q2 2025,3,net_income,15.41,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Scholastic,,2025-05-31,Q2 2025,3,operating_income,53.5,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2025-05-31,Q2 2025,3,revenue,508.3,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2025-08-31,Q3 2025,3,net_income,-71.1,USD,SEC XBRL 10-Q
+Scholastic,,2025-08-31,Q3 2025,3,operating_income,-92.2,USD,SEC XBRL 10-Q
+Scholastic,,2025-08-31,Q3 2025,3,revenue,225.6,USD,SEC XBRL 10-Q
+Scholastic,,2025-11-30,Q4 2025,3,net_income,55.9,USD,SEC XBRL 10-Q
+Scholastic,,2025-11-30,Q4 2025,3,operating_income,82.9,USD,SEC XBRL 10-Q
+Scholastic,,2025-11-30,Q4 2025,3,revenue,551.1,USD,SEC XBRL 10-Q
+Scholastic,,2026-02-28,Q1 2026,3,net_income,62.5,USD,SEC XBRL 10-Q
+Scholastic,,2026-02-28,Q1 2026,3,operating_income,-26.9,USD,SEC XBRL 10-Q
+Scholastic,,2026-02-28,Q1 2026,3,revenue,329.1,USD,SEC XBRL 10-Q
+Scholastic,,2026-05-31,Q2 2026,3,net_income,9.43,USD,SEC XBRL DEF 14A (full year minus 9 months)
+Scholastic,,2026-05-31,Q2 2026,3,operating_income,51.4,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2026-05-31,Q2 2026,3,revenue,476.1,USD,SEC XBRL 10-K (full year minus 9 months)
+Scholastic,,2026-08-31,Q3 2026,3,net_income,-71.2,USD,SEC XBRL 10-Q
+Scholastic,,2026-08-31,Q3 2026,3,operating_income,-92.2,USD,SEC XBRL 10-Q
+Scholastic,,2026-08-31,Q3 2026,3,revenue,216.8,USD,SEC XBRL 10-Q
+Versant,,2025-03-31,Q1 2025,3,net_income,367.0,USD,SEC XBRL 10-Q
+Versant,,2025-03-31,Q1 2025,3,operating_income,499.0,USD,SEC XBRL 10-Q
+Versant,,2025-03-31,Q1 2025,3,revenue,1706.0,USD,SEC XBRL 10-Q
+Versant,,2025-06-30,Q2 2025,3,net_income,302.0,USD,SEC XBRL 10-Q
+Versant,,2025-06-30,Q2 2025,3,operating_income,410.0,USD,SEC XBRL 10-Q
+Versant,,2025-06-30,Q2 2025,3,revenue,1708.0,USD,SEC XBRL 10-Q
+Versant,,2026-03-31,Q1 2026,3,net_income,286.0,USD,SEC XBRL 10-Q
+Versant,,2026-03-31,Q1 2026,3,operating_income,442.0,USD,SEC XBRL 10-Q
+Versant,,2026-03-31,Q1 2026,3,revenue,1687.0,USD,SEC XBRL 10-Q
+Versant,,2026-06-30,Q2 2026,3,net_income,211.0,USD,SEC XBRL 10-Q
+Versant,,2026-06-30,Q2 2026,3,operating_income,367.0,USD,SEC XBRL 10-Q
+Versant,,2026-06-30,Q2 2026,3,revenue,1644.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2024-09-30,Q3 2024,3,net_income,1.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2024-09-30,Q3 2024,3,operating_income,337.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2024-09-30,Q3 2024,3,revenue,6731.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2024-12-31,Q4 2024,3,net_income,-224.0,USD,SEC XBRL 10-K (full year minus 9 months)
+WBD / Skydance,,2024-12-31,Q4 2024,3,operating_income,129.0,USD,SEC XBRL 10-K (full year minus 9 months)
+WBD / Skydance,,2024-12-31,Q4 2024,3,revenue,7984.0,USD,SEC XBRL 10-K (full year minus 9 months)
+WBD / Skydance,,2025-03-31,Q1 2025,3,net_income,152.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2025-03-31,Q1 2025,3,operating_income,550.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2025-03-31,Q1 2025,3,revenue,7192.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2025-06-30,Q2 2025,3,net_income,57.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2025-06-30,Q2 2025,3,operating_income,399.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2025-06-30,Q2 2025,3,revenue,6849.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-03-31,Q1 2026,3,net_income,168.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-03-31,Q1 2026,3,operating_income,616.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-03-31,Q1 2026,3,revenue,7347.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-06-30,Q2 2026,3,net_income,41.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-06-30,Q2 2026,3,operating_income,475.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-06-30,Q2 2026,3,revenue,6913.0,USD,SEC XBRL 10-Q

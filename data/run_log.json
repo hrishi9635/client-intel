@@ -1,0 +1,21 @@
+[
+ {
+  "started": "2026-10-13T19:15:04+00:00",
+  "part": "all",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: Disney, WBD / Skydance, Versant, Cox, LA Times, Caesars, Bally's, Light & Wonder, Brightstar (IGT), Wolters Kluwer, Scholastic, Pearson, NYU, SLU, ACT",
+   "audience pulse: 26 titles, 21 with AI notes",
+   "industry news: 470 stories"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-10-13T19:29:34+00:00",
+  "ai_calls": 28,
+  "ai_tokens": 72549
+ }
+]

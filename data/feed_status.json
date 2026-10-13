@@ -1,0 +1,118 @@
+[
+ {
+  "area": "Movies & TV",
+  "name": "Deadline",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null
+ },
+ {
+  "area": "Movies & TV",
+  "name": "Variety",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null
+ },
+ {
+  "area": "Movies & TV",
+  "name": "The Hollywood Reporter",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null
+ },
+ {
+  "area": "Movies & TV",
+  "name": "IndieWire",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null
+ },
+ {
+  "area": "Education",
+  "name": "Inside Higher Ed",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null,
+  "checked": "2026-10-13T19:27+00:00"
+ },
+ {
+  "area": "Education",
+  "name": "EdSurge",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null,
+  "checked": "2026-10-13T19:27+00:00"
+ },
+ {
+  "area": "Education",
+  "name": "The Hechinger Report",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null,
+  "checked": "2026-10-13T19:27+00:00"
+ },
+ {
+  "area": "Education",
+  "name": "Times Higher Education",
+  "ok": true,
+  "via": "Google News (site search)",
+  "error": null,
+  "checked": "2026-10-13T19:27+00:00"
+ },
+ {
+  "area": "Publishing",
+  "name": "Publishers Weekly",
+  "ok": true,
+  "via": "Google News (site search)",
+  "error": null,
+  "checked": "2026-10-13T19:28+00:00"
+ },
+ {
+  "area": "Publishing",
+  "name": "The Bookseller",
+  "ok": true,
+  "via": "Google News (site search)",
+  "error": null,
+  "checked": "2026-10-13T19:28+00:00"
+ },
+ {
+  "area": "Publishing",
+  "name": "Nieman Lab",
+  "ok": true,
+  "via": "Google News (site search)",
+  "error": null,
+  "checked": "2026-10-13T19:28+00:00"
+ },
+ {
+  "area": "Gaming",
+  "name": "CDC Gaming Reports",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null,
+  "checked": "2026-10-13T19:29+00:00"
+ },
+ {
+  "area": "Gaming",
+  "name": "Casino.org News",
+  "ok": true,
+  "via": "Google News (site search)",
+  "error": null,
+  "checked": "2026-10-13T19:29+00:00"
+ },
+ {
+  "area": "Gaming",
+  "name": "iGaming Business",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null,
+  "checked": "2026-10-13T19:29+00:00"
+ },
+ {
+  "area": "Gaming",
+  "name": "Legal Sports Report",
+  "ok": true,
+  "via": "RSS feed",
+  "error": null,
+  "checked": "2026-10-13T19:29+00:00"
+ }
+]
