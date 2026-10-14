@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:27:51+00:00",
+ "updated": "2026-10-14T06:08:19+00:00",
  "titles": [
   {
    "key": "movie-969681",
@@ -20,9 +20,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 946.6,
-   "tmdb_vote": 8.452,
-   "tmdb_votes": 5305,
+   "popularity": 842.9,
+   "tmdb_vote": 8.458,
+   "tmdb_votes": 5374,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -57,7 +57,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "664c95023aac",
+   "input_hash": "958e9557cedb",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -101,9 +101,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 448.1,
+   "popularity": 445.8,
    "tmdb_vote": 8.135,
-   "tmdb_votes": 3486,
+   "tmdb_votes": 3490,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -138,7 +138,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "c98adde44d89",
+   "input_hash": "ed91250adf4e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -180,8 +180,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
    "popularity": 377.7,
-   "tmdb_vote": 7.964,
-   "tmdb_votes": 267,
+   "tmdb_vote": 7.913,
+   "tmdb_votes": 280,
    "imdb_id": "tt28498219",
    "tmdb_url": "https://www.themoviedb.org/movie/1148365",
    "tmdb_reviews": [
@@ -204,7 +204,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "51215cfd725d",
+   "input_hash": "7375c148cc99",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -223,6 +223,66 @@
      "key"
     ],
     "analysed_at": "2026-10-13T19:25:15+00:00"
+   }
+  },
+  {
+   "key": "tv-4614",
+   "kind": "tv",
+   "tmdb_id": 4614,
+   "title": "NCIS",
+   "studio": "CBS",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "CBS",
+    "Paramount Television",
+    "Belisarius Productions",
+    "CBS Studios"
+   ],
+   "release_date": "2026-10-06",
+   "first_air_date": "2003-09-23",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+   "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+   "popularity": 347.8,
+   "tmdb_vote": 7.6,
+   "tmdb_votes": 2591,
+   "imdb_id": "tt0364845",
+   "tmdb_url": "https://www.themoviedb.org/tv/4614",
+   "tmdb_reviews": [
+    {
+     "author": "drystyx",
+     "rating": 1.0,
+     "text": "Written to depress young men. It seems that Bellisario writes mostly the same depressing and predictable story each time. Everything is contrived to kill women with dark hair and dark eyes. I don't know if he was jilted by too many brunettes as a kid, or if he's just into worship of Hitler and the Nazi ideology. Either way, it makes for a depressing show for any young man. I watched about five of these shows, and it was always the same. He bent over backwards for the Nazi ideology, for whatever ",
+     "url": "https://www.themoviedb.org/review/643eef19aad9c205419f39e9"
+    }
+   ],
+   "imdb_rating": 7.8,
+   "imdb_votes": 178368.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "7bf5c46b1194",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -50,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "depressing",
+     "predictable",
+     "contrived"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Critics find the episode depressing and predictable.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-13T19:25:41+00:00"
    }
   },
   {
@@ -308,136 +368,6 @@
    }
   },
   {
-   "key": "tv-4614",
-   "kind": "tv",
-   "tmdb_id": 4614,
-   "title": "NCIS",
-   "studio": "CBS",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "CBS",
-    "Paramount Television",
-    "Belisarius Productions",
-    "CBS Studios"
-   ],
-   "release_date": "2026-10-06",
-   "first_air_date": "2003-09-23",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-   "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 324.9,
-   "tmdb_vote": 7.6,
-   "tmdb_votes": 2591,
-   "imdb_id": "tt0364845",
-   "tmdb_url": "https://www.themoviedb.org/tv/4614",
-   "tmdb_reviews": [
-    {
-     "author": "drystyx",
-     "rating": 1.0,
-     "text": "Written to depress young men. It seems that Bellisario writes mostly the same depressing and predictable story each time. Everything is contrived to kill women with dark hair and dark eyes. I don't know if he was jilted by too many brunettes as a kid, or if he's just into worship of Hitler and the Nazi ideology. Either way, it makes for a depressing show for any young man. I watched about five of these shows, and it was always the same. He bent over backwards for the Nazi ideology, for whatever ",
-     "url": "https://www.themoviedb.org/review/643eef19aad9c205419f39e9"
-    }
-   ],
-   "imdb_rating": 7.8,
-   "imdb_votes": 178368.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "7bf5c46b1194",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -50,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "depressing",
-     "predictable",
-     "contrived"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Critics find the episode depressing and predictable.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-13T19:25:41+00:00"
-   }
-  },
-  {
-   "key": "tv-247718",
-   "kind": "tv",
-   "tmdb_id": 247718,
-   "title": "MobLand",
-   "studio": "Paramount+ originals",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Paramount+",
-    "Paramount+",
-    "MTV Entertainment Studios",
-    "101 Studios",
-    "Toff Guy Films"
-   ],
-   "release_date": "2026-10-09",
-   "first_air_date": "2025-03-30",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 317.0,
-   "tmdb_vote": 8.504,
-   "tmdb_votes": 1020,
-   "imdb_id": "tt31510819",
-   "tmdb_url": "https://www.themoviedb.org/tv/247718",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 7.0,
-     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
-     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
-    },
-    {
-     "author": "mukundala",
-     "rating": 7.0,
-     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
-     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
-    }
-   ],
-   "imdb_rating": 8.3,
-   "imdb_votes": 131558.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "a6ba62fbe3d5",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 50,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "entertaining gangster story",
-     "Guy Ritchie involvement",
-     "Pierce Brosnan performance"
-    ],
-    "complaints": [
-     "predictable stereotypes",
-     "implausible plot twists"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Positive reviews praise performances and plot, but note some clichés.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-13T19:25:41+00:00"
-   }
-  },
-  {
    "key": "tv-2224",
    "kind": "tv",
    "tmdb_id": 2224,
@@ -457,7 +387,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 314.2,
+   "popularity": 311.3,
    "tmdb_vote": 6.42,
    "tmdb_votes": 670,
    "imdb_id": "tt0115147",
@@ -491,9 +421,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 285.1,
-   "tmdb_vote": 8.204,
-   "tmdb_votes": 11074,
+   "popularity": 295.4,
+   "tmdb_vote": 8.205,
+   "tmdb_votes": 11077,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -522,7 +452,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "3b2c10ce18ed",
+   "input_hash": "2818b7b36d22",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -545,6 +475,76 @@
    }
   },
   {
+   "key": "tv-247718",
+   "kind": "tv",
+   "tmdb_id": 247718,
+   "title": "MobLand",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "Paramount+",
+    "MTV Entertainment Studios",
+    "101 Studios",
+    "Toff Guy Films"
+   ],
+   "release_date": "2026-10-09",
+   "first_air_date": "2025-03-30",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "popularity": 276.4,
+   "tmdb_vote": 8.507,
+   "tmdb_votes": 1022,
+   "imdb_id": "tt31510819",
+   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 7.0,
+     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
+     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
+    },
+    {
+     "author": "mukundala",
+     "rating": 7.0,
+     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
+     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
+    }
+   ],
+   "imdb_rating": 8.3,
+   "imdb_votes": 131558.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "85e3b98c44ce",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 50,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "entertaining gangster story",
+     "Guy Ritchie involvement",
+     "Pierce Brosnan performance"
+    ],
+    "complaints": [
+     "predictable stereotypes",
+     "implausible plot twists"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Positive reviews praise performances and plot, but note some clichés.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-13T19:25:41+00:00"
+   }
+  },
+  {
    "key": "tv-97546",
    "kind": "tv",
    "tmdb_id": 97546,
@@ -564,9 +564,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
    "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-   "popularity": 265.0,
-   "tmdb_vote": 8.4,
-   "tmdb_votes": 2753,
+   "popularity": 268.4,
+   "tmdb_vote": 8.362,
+   "tmdb_votes": 2755,
    "imdb_id": "tt10986410",
    "tmdb_url": "https://www.themoviedb.org/tv/97546",
    "tmdb_reviews": [
@@ -595,7 +595,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "28a27ccf4cda",
+   "input_hash": "5c8f3823c6c2",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -611,88 +611,6 @@
     "buzz": "High",
     "box_office_verdict": "not stated",
     "summary": "Highly praised for originality and humor.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-13T19:26:07+00:00"
-   }
-  },
-  {
-   "key": "tv-79744",
-   "kind": "tv",
-   "tmdb_id": 79744,
-   "title": "The Rookie",
-   "studio": "ABC",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "ABC",
-    "ABC Studios",
-    "Entertainment One",
-    "Lionsgate Television",
-    "ABC Signature"
-   ],
-   "release_date": "2026-05-04",
-   "first_air_date": "2018-10-16",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-   "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-   "popularity": 252.0,
-   "tmdb_vote": 8.54,
-   "tmdb_votes": 3567,
-   "imdb_id": "tt7587890",
-   "tmdb_url": "https://www.themoviedb.org/tv/79744",
-   "tmdb_reviews": [
-    {
-     "author": "superbro",
-     "rating": 10.0,
-     "text": "Wow wow wow thats all I can say I watched the premeire of this show and it was a all out blast this is not a show that takes itsself too seriously or jokes too much it's kinda in the middle just rhe way I love it hilarious and also kick-ass the guy from castle is upbeat and charming. As well I love love loved this show it was fantastic no doubt one of the falls best",
-     "url": "https://www.themoviedb.org/review/5bca5294c3a36840aa01c352"
-    },
-    {
-     "author": "Dean",
-     "rating": 10.0,
-     "text": "What a great show! No propaganda, agenda or any political BS. Characters are very well developed. You care about them, you love them. I really can't say anything bad about this show. It's great. Definitely deserves 10/10!",
-     "url": "https://www.themoviedb.org/review/667a865c4641262f1a566eaa"
-    },
-    {
-     "author": "misubisu",
-     "rating": 7.0,
-     "text": "**Score: 7/10 — A Fun, Flawed, and Unapologetically Idealistic Procedural** *The Rookie* succeeds because of [not in spite of] its well crafted contradictions... It is a show that is at once deeply entertaining and profoundly naive, a character-driven workplace drama wrapped in the glossy, sun-drenched packaging of a police recruitment ad. For what it sets out to do—provide optimistic, weekly escapism with a beloved cast—it earns its keep, even as its disconnect from reality grows more pronounce",
-     "url": "https://www.themoviedb.org/review/667f757e5d2fbf285257304b"
-    },
-    {
-     "author": "ephraimk",
-     "rating": 9.0,
-     "text": "Really good. Like really good. The way it navigated through the drama following George Floyd's death was really good. A balance between a need for reform and a need for police. Well done.",
-     "url": "https://www.themoviedb.org/review/67a7d77c58d93cefedc8c3bd"
-    }
-   ],
-   "imdb_rating": 8.0,
-   "imdb_votes": 137322.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "641bed29a70a",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 70,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "Great characters",
-     "No political BS",
-     "Well developed"
-    ],
-    "complaints": [
-     "Flawed and naive",
-     "Not in spite of contradictions"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Positive reception with some criticism of idealism.",
     "unverified_dropped": [
      "key"
     ],
@@ -719,9 +637,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-   "popularity": 239.6,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 4195,
+   "popularity": 251.0,
+   "tmdb_vote": 8.294,
+   "tmdb_votes": 4196,
    "imdb_id": "tt0452046",
    "tmdb_url": "https://www.themoviedb.org/tv/4057",
    "tmdb_reviews": [],
@@ -731,7 +649,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "679592717df0"
+   "input_hash": "a3f9c6be6b63"
   },
   {
    "key": "tv-4656",
@@ -748,7 +666,7 @@
     "The New TNN",
     "WWE Home Video"
    ],
-   "release_date": "2026-10-05",
+   "release_date": "2026-10-12",
    "first_air_date": "1993-01-11",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
@@ -768,6 +686,40 @@
    "input_hash": "095dce7a99fe"
   },
   {
+   "key": "tv-1433",
+   "kind": "tv",
+   "tmdb_id": 1433,
+   "title": "American Dad!",
+   "studio": "20th Century Studios",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "FOX",
+    "TBS",
+    "20th Century Fox Television",
+    "Underdog Productions",
+    "Fuzzy Door Productions"
+   ],
+   "release_date": "2026-09-13",
+   "first_air_date": "2005-02-06",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+   "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith fam",
+   "popularity": 224.7,
+   "tmdb_vote": 7.022,
+   "tmdb_votes": 2466,
+   "imdb_id": "tt0397306",
+   "tmdb_url": "https://www.themoviedb.org/tv/1433",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.4,
+   "imdb_votes": 145904.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "061d82419f33"
+  },
+  {
    "key": "movie-1003596",
    "kind": "movie",
    "tmdb_id": 1003596,
@@ -785,7 +737,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 100.7,
+   "popularity": 108.2,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -833,7 +785,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 586.2,
+   "popularity": 580.4,
    "tmdb_vote": 4.94,
    "tmdb_votes": 100,
    "imdb_id": "tt2057880",
@@ -846,6 +798,66 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "3a718f44bad5"
+  },
+  {
+   "key": "tv-61818",
+   "kind": "tv",
+   "tmdb_id": 61818,
+   "title": "Late Night with Seth Meyers",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Universal Television",
+    "Sethmaker Shoemeyers Productions",
+    "Broadway Video"
+   ],
+   "release_date": "2026-10-08",
+   "first_air_date": "2014-02-25",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
+   "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
+   "popularity": 502.2,
+   "tmdb_vote": 5.1,
+   "tmdb_votes": 136,
+   "imdb_id": "tt3513388",
+   "tmdb_url": "https://www.themoviedb.org/tv/61818",
+   "tmdb_reviews": [
+    {
+     "author": "AshenArcanist",
+     "rating": 1.0,
+     "text": "From Letterman to Seth, Late Night has lost it's way. Seth is boring, predictable and just not funny or entertaining. Moreover, he's a poor interviewer who seems to do little to no research into his guests. It's all self-aggrandizement where he is the focus.",
+     "url": "https://www.themoviedb.org/review/65b10e78a3144001515a9088"
+    }
+   ],
+   "imdb_rating": 6.4,
+   "imdb_votes": 8773.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "c335bf50d303",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -80,
+    "critics_vs_audience": "Audience higher",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "boring",
+     "predictable",
+     "not funny"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Critics panned the show, audience lukewarm.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-13T19:27:25+00:00"
+   }
   },
   {
    "key": "movie-1423191",
@@ -867,9 +879,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 581.1,
+   "popularity": 479.9,
    "tmdb_vote": 7.3,
-   "tmdb_votes": 909,
+   "tmdb_votes": 914,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -904,7 +916,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "15398c83cb1d",
+   "input_hash": "ae43c6d08d36",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -950,9 +962,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just ent",
-   "popularity": 533.4,
-   "tmdb_vote": 7.728,
-   "tmdb_votes": 687,
+   "popularity": 478.0,
+   "tmdb_vote": 7.726,
+   "tmdb_votes": 705,
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
@@ -975,7 +987,7 @@
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "371d456bb301",
+   "input_hash": "864df4145f25",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1018,7 +1030,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 438.8,
+   "popularity": 456.0,
    "tmdb_vote": 8.0,
    "tmdb_votes": 4375,
    "imdb_id": "tt0203259",
@@ -1069,6 +1081,40 @@
    }
   },
   {
+   "key": "tv-549",
+   "kind": "tv",
+   "tmdb_id": 549,
+   "title": "Law & Order",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Wolf Entertainment",
+    "Universal Television",
+    "Universal Media Studios",
+    "Studios USA"
+   ],
+   "release_date": "2026-10-08",
+   "first_air_date": "1990-09-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+   "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
+   "popularity": 428.4,
+   "tmdb_vote": 7.286,
+   "tmdb_votes": 733,
+   "imdb_id": "tt0098844",
+   "tmdb_url": "https://www.themoviedb.org/tv/549",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.8,
+   "imdb_votes": 52301.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "7b87f2705f89"
+  },
+  {
    "key": "tv-59941",
    "kind": "tv",
    "tmdb_id": 59941,
@@ -1087,7 +1133,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 424.1,
+   "popularity": 426.4,
    "tmdb_vote": 5.8,
    "tmdb_votes": 394,
    "imdb_id": "tt3444938",
@@ -1129,40 +1175,6 @@
    }
   },
   {
-   "key": "tv-549",
-   "kind": "tv",
-   "tmdb_id": 549,
-   "title": "Law & Order",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Wolf Entertainment",
-    "Universal Television",
-    "Universal Media Studios",
-    "Studios USA"
-   ],
-   "release_date": "2026-10-08",
-   "first_air_date": "1990-09-13",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
-   "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 415.3,
-   "tmdb_vote": 7.286,
-   "tmdb_votes": 733,
-   "imdb_id": "tt0098844",
-   "tmdb_url": "https://www.themoviedb.org/tv/549",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.8,
-   "imdb_votes": 52301.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "7b87f2705f89"
-  },
-  {
    "key": "movie-1368337",
    "kind": "movie",
    "tmdb_id": 1368337,
@@ -1179,9 +1191,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 402.7,
-   "tmdb_vote": 8.011,
-   "tmdb_votes": 4110,
+   "popularity": 376.5,
+   "tmdb_vote": 8.012,
+   "tmdb_votes": 4116,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1216,7 +1228,7 @@
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
    "trade": [],
-   "input_hash": "f69a7c6c5e3b",
+   "input_hash": "cb254f928b6e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1243,66 +1255,6 @@
    }
   },
   {
-   "key": "tv-61818",
-   "kind": "tv",
-   "tmdb_id": 61818,
-   "title": "Late Night with Seth Meyers",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Universal Television",
-    "Sethmaker Shoemeyers Productions",
-    "Broadway Video"
-   ],
-   "release_date": "2026-10-08",
-   "first_air_date": "2014-02-25",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
-   "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 390.0,
-   "tmdb_vote": 5.1,
-   "tmdb_votes": 136,
-   "imdb_id": "tt3513388",
-   "tmdb_url": "https://www.themoviedb.org/tv/61818",
-   "tmdb_reviews": [
-    {
-     "author": "AshenArcanist",
-     "rating": 1.0,
-     "text": "From Letterman to Seth, Late Night has lost it's way. Seth is boring, predictable and just not funny or entertaining. Moreover, he's a poor interviewer who seems to do little to no research into his guests. It's all self-aggrandizement where he is the focus.",
-     "url": "https://www.themoviedb.org/review/65b10e78a3144001515a9088"
-    }
-   ],
-   "imdb_rating": 6.4,
-   "imdb_votes": 8773.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "c335bf50d303",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -80,
-    "critics_vs_audience": "Audience higher",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "boring",
-     "predictable",
-     "not funny"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Critics panned the show, audience lukewarm.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-13T19:27:25+00:00"
-   }
-  },
-  {
    "key": "tv-288673",
    "kind": "tv",
    "tmdb_id": 288673,
@@ -1321,9 +1273,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
    "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious tele",
-   "popularity": 321.2,
-   "tmdb_vote": 8.486,
-   "tmdb_votes": 209,
+   "popularity": 326.4,
+   "tmdb_vote": 8.478,
+   "tmdb_votes": 228,
    "imdb_id": "tt11540908",
    "tmdb_url": "https://www.themoviedb.org/tv/288673",
    "tmdb_reviews": [
@@ -1346,7 +1298,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6cf327d6f1ce",
+   "input_hash": "214948a410ea",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1387,9 +1339,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-   "popularity": 301.2,
-   "tmdb_vote": 7.3,
-   "tmdb_votes": 500,
+   "popularity": 275.7,
+   "tmdb_vote": 7.311,
+   "tmdb_votes": 520,
    "imdb_id": "tt31192372",
    "tmdb_url": "https://www.themoviedb.org/movie/1101412",
    "tmdb_reviews": [
@@ -1412,7 +1364,7 @@
    "metascore": 53.0,
    "box_office_usd": 3443026.0,
    "trade": [],
-   "input_hash": "a25c92693300",
+   "input_hash": "f35095b00db1",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1437,6 +1389,75 @@
    }
   },
   {
+   "key": "movie-1236045",
+   "kind": "movie",
+   "tmdb_id": 1236045,
+   "title": "Animals",
+   "studio": "Artists Equity",
+   "parent": "Artists Equity",
+   "group": "Rest of industry",
+   "companies": [
+    "Artists Equity",
+    "Makeready",
+    "Fifth Season"
+   ],
+   "release_date": "2026-10-09",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+   "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+   "popularity": 269.1,
+   "tmdb_vote": 7.4,
+   "tmdb_votes": 315,
+   "imdb_id": "tt31049299",
+   "tmdb_url": "https://www.themoviedb.org/movie/1236045",
+   "tmdb_reviews": [
+    {
+     "author": "Dean",
+     "rating": 3.0,
+     "text": "Just another predictable, agenda-driven Hollywood production. Every time I watch something made in Los Angeles, I know it will be crap. So glad to be far away from that environment.",
+     "url": "https://www.themoviedb.org/review/6aca6bdcb02e5f0b3663b3b6"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [
+    {
+     "title": "‘Animals’ Makes Drone Photography Look Forgettable, but It Doesn’t Need to Be",
+     "link": "https://www.indiewire.com/features/craft/animals-movie-netflix-drone-shots-forgettable-1235221465/",
+     "source": "IndieWire",
+     "published": "2026-10-13",
+     "snippet": "IndieWire spoke with a couple of shooters (positive) about the (negative) overuse of drone cinematography."
+    }
+   ],
+   "input_hash": "85488f7dab81",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 74,
+    "critics_vs_audience": "Audience higher",
+    "gap_note": "Critics mixed, audience positive",
+    "praises": [
+     "shooters appreciated",
+     "positive aspects noted"
+    ],
+    "complaints": [
+     "predictable agenda-driven",
+     "overuse of drone cinematography"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Audience leans positive while critics note predictability and drone overuse",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-14T06:08:19+00:00"
+   }
+  },
+  {
    "key": "movie-1377237",
    "kind": "movie",
    "tmdb_id": 1377237,
@@ -1456,9 +1477,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from ",
-   "popularity": 283.0,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 501,
+   "popularity": 262.4,
+   "tmdb_vote": 8.315,
+   "tmdb_votes": 518,
    "imdb_id": "tt31349844",
    "tmdb_url": "https://www.themoviedb.org/movie/1377237",
    "tmdb_reviews": [
@@ -1487,7 +1508,7 @@
    "metascore": 55.0,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "90ff2a3d6161",
+   "input_hash": "00c59534f338",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1512,69 +1533,6 @@
    }
   },
   {
-   "key": "movie-1228834",
-   "kind": "movie",
-   "tmdb_id": 1228834,
-   "title": "The Fix",
-   "studio": "Astral Future",
-   "parent": "Astral Future",
-   "group": "Rest of industry",
-   "companies": [
-    "Astral Future",
-    "Dreamtime Entertainment",
-    "Oakhurst Entertainment",
-    "BondIt Media Capital",
-    "Latigo Films"
-   ],
-   "release_date": "2026-09-10",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
-   "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
-   "popularity": 282.5,
-   "tmdb_vote": 6.839,
-   "tmdb_votes": 59,
-   "imdb_id": "tt9601292",
-   "tmdb_url": "https://www.themoviedb.org/movie/1228834",
-   "tmdb_reviews": [
-    {
-     "author": "Sierbahnn",
-     "rating": 6.0,
-     "text": "This is gritty and convoluted just like a heist movie should be. Zachary doesn't do a very good job in it, and Liam is in it far too little. The hang-up of the group trying to atone for past mistakes becomes almost like exposition. It doesn't quite land, and therefore the ending doesn't feel very earned. I still enjoyed the movie, but it isn't a particularly good version of a heist like this.",
-     "url": "https://www.themoviedb.org/review/6ab62fc4521ecc648ea8216c"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "483d49ed669a",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "gritty",
-     "enjoyed"
-    ],
-    "complaints": [
-     "convoluted",
-     "ending not earned"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Mixed reviews noting gritty style but criticizing plot and ending.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-13T19:27:51+00:00"
-   }
-  },
-  {
    "key": "movie-1294189",
    "kind": "movie",
    "tmdb_id": 1294189,
@@ -1591,7 +1549,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "popularity": 184.0,
+   "popularity": 163.5,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt13611778",
