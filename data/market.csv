@@ -1,11 +1,11 @@
 company,name,ticker,price,price_currency,price_date,market_cap_m,currency,market_cap_usd_m,return_1m,return_3m,return_1y,high_52w,low_52w,pe_ttm,next_results
-Disney,The Walt Disney Company,DIS,108.58,USD,2026-10-13,187484.0,USD,187484.0,1.91,13.26,-0.92,115.0,91.72,21.8,2026-11-17
-WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,9.27,USD,2026-10-13,46741.0,USD,46741.0,-12.14,2.11,-45.39,17.11,7.77,111.8,2026-11-09
-Versant,Versant Media Group,VSNT,31.06,USD,2026-10-13,4323.0,USD,4323.0,-15.48,-9.68,,45.93,26.54,3.7,2026-11-03
-Caesars,Caesars Entertainment,CZR,29.47,USD,2026-10-13,6005.0,USD,6005.0,-0.67,-1.27,33.11,30.41,18.14,,2026-10-27
-Bally's,Bally's Corporation,BALY,13.76,USD,2026-10-13,694.0,USD,694.0,50.05,5.36,7.84,19.46,8.84,,2026-11-09
-Light & Wonder,Light & Wonder,LNW.AX,115.05,AUD,2026-10-14,5992.0,USD,5992.0,-6.33,3.09,-6.62,182.5,102.66,22.1,
-Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.96,USD,2026-10-13,1820.0,USD,1820.0,-7.78,-5.12,-36.88,15.82,9.74,7.3,2026-11-10
-Wolters Kluwer,Wolters Kluwer,WKL.AS,78.16,EUR,2026-10-14,17386.0,EUR,19520.0,10.52,25.5,-25.87,109.61,54.85,,
-Scholastic,Scholastic,SCHL,39.26,USD,2026-10-13,723.0,USD,723.0,12.14,-15.48,41.3,47.04,26.54,12.7,2026-12-17
-Pearson,Pearson,PSON.L,13.26,GBP,2026-10-14,7967.0,GBP,10545.0,11.25,7.77,21.75,13.26,8.91,,
+Disney,The Walt Disney Company,DIS,108.11,USD,2026-10-14,186670.0,USD,186670.0,-0.44,11.28,-1.82,115.0,91.72,21.7,2026-11-17
+WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,6.77,USD,2026-10-14,34133.0,USD,34133.0,-37.43,-26.47,-60.44,17.11,6.77,81.7,2026-11-09
+Versant,Versant Media Group,VSNT,30.55,USD,2026-10-14,4252.0,USD,4252.0,-17.7,-14.19,,45.93,26.54,3.6,2026-11-03
+Caesars,Caesars Entertainment,CZR,29.38,USD,2026-10-14,5986.0,USD,5986.0,-1.03,-2.51,30.38,30.41,18.14,,2026-10-27
+Bally's,Bally's Corporation,BALY,13.52,USD,2026-10-14,682.0,USD,682.0,37.4,0.15,-1.31,19.46,8.84,,2026-11-09
+Light & Wonder,Light & Wonder,LNW.AX,115.05,AUD,2026-10-14,5988.0,USD,5988.0,-6.33,3.09,-6.62,182.5,102.66,22.1,
+Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.65,USD,2026-10-14,1764.0,USD,1764.0,-9.68,-8.19,-38.74,15.82,9.65,7.1,2026-11-10
+Wolters Kluwer,Wolters Kluwer,WKL.AS,78.18,EUR,2026-10-14,17390.0,EUR,19513.0,10.55,25.53,-25.85,109.61,54.85,,
+Scholastic,Scholastic,SCHL,39.13,USD,2026-10-14,720.0,USD,720.0,10.85,-15.65,38.74,47.04,26.54,12.7,2026-12-17
+Pearson,Pearson,PSON.L,13.11,GBP,2026-10-14,7880.0,GBP,10421.0,10.03,6.59,20.42,13.26,8.91,,
