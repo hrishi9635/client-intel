@@ -3,23 +3,39 @@
   {
    "date": "2026-10-13",
    "mood": "Positive"
+  },
+  {
+   "date": "2026-10-15",
+   "mood": "Mixed"
   }
  ],
  "Publishing": [
   {
    "date": "2026-10-13",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-15",
+   "mood": "Negative"
   }
  ],
  "Lottery": [
   {
    "date": "2026-10-13",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-15",
+   "mood": "Mixed"
   }
  ],
  "Gaming": [
   {
    "date": "2026-10-13",
+   "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-15",
    "mood": "Mixed"
   }
  ]
