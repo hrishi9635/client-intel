@@ -7,6 +7,10 @@
   {
    "date": "2026-10-15",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-16",
+   "mood": "Mixed"
   }
  ],
  "Publishing": [
@@ -16,6 +20,10 @@
   },
   {
    "date": "2026-10-15",
+   "mood": "Negative"
+  },
+  {
+   "date": "2026-10-16",
    "mood": "Negative"
   }
  ],
@@ -27,6 +35,10 @@
   {
    "date": "2026-10-15",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-16",
+   "mood": "Mixed"
   }
  ],
  "Gaming": [
@@ -37,6 +49,10 @@
   {
    "date": "2026-10-15",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-16",
+   "mood": "Positive"
   }
  ]
 }
