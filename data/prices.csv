@@ -1,6 +1,6 @@
 date,company,close
 2025-10-16,Disney,108.3116
-2025-10-17,Disney,109.0903
+2025-10-17,Disney,109.0904
 2025-10-20,Disney,110.3619
 2025-10-21,Disney,112.6685
 2025-10-22,Disney,111.466
@@ -15,7 +15,7 @@ date,company,close
 2025-11-04,Disney,109.8789
 2025-11-05,Disney,109.7705
 2025-11-06,Disney,108.9129
-2025-11-07,Disney,109.1594
+2025-11-07,Disney,109.1593
 2025-11-10,Disney,110.6379
 2025-11-11,Disney,113.2107
 2025-11-12,Disney,114.985
@@ -29,7 +29,7 @@ date,company,close
 2025-11-24,Disney,100.485
 2025-11-25,Disney,101.8354
 2025-11-26,Disney,101.9537
-2025-11-28,Disney,102.9789
+2025-11-28,Disney,102.9788
 2025-12-01,Disney,105.246
 2025-12-02,Disney,103.3337
 2025-12-03,Disney,104.2307
@@ -250,7 +250,7 @@ date,company,close
 2026-10-13,Disney,108.58
 2026-10-14,Disney,108.99
 2026-10-15,Disney,110.68
-2026-10-16,Disney,110.17
+2026-10-16,Disney,110.59
 2025-10-16,WBD / Skydance,16.5922
 2025-10-17,WBD / Skydance,16.4646
 2025-10-20,WBD / Skydance,16.6806
@@ -397,9 +397,9 @@ date,company,close
 2026-05-13,WBD / Skydance,10.3721
 2026-05-14,WBD / Skydance,10.0154
 2026-05-15,WBD / Skydance,9.7975
-2026-05-18,WBD / Skydance,9.7281
+2026-05-18,WBD / Skydance,9.7282
 2026-05-19,WBD / Skydance,9.8074
-2026-05-20,WBD / Skydance,10.0353
+2026-05-20,WBD / Skydance,10.0352
 2026-05-21,WBD / Skydance,10.1838
 2026-05-22,WBD / Skydance,10.3622
 2026-05-26,WBD / Skydance,10.273
@@ -502,7 +502,7 @@ date,company,close
 2026-10-13,WBD / Skydance,9.27
 2026-10-14,WBD / Skydance,7.06
 2026-10-15,WBD / Skydance,7.26
-2026-10-16,WBD / Skydance,6.965
+2026-10-16,WBD / Skydance,6.91
 2025-12-15,Versant,44.188
 2025-12-16,Versant,45.9304
 2025-12-17,Versant,45.7465
@@ -533,7 +533,7 @@ date,company,close
 2026-01-26,Versant,32.0303
 2026-01-27,Versant,32.1077
 2026-01-28,Versant,32.5143
-2026-01-29,Versant,31.7979
+2026-01-29,Versant,31.798
 2026-01-30,Versant,31.5366
 2026-02-02,Versant,31.4495
 2026-02-03,Versant,29.9298
@@ -713,7 +713,7 @@ date,company,close
 2026-10-13,Versant,31.06
 2026-10-14,Versant,30.98
 2026-10-15,Versant,31.24
-2026-10-16,Versant,31.6
+2026-10-16,Versant,31.77
 2025-10-16,Caesars,21.73
 2025-10-17,Caesars,21.45
 2025-10-20,Caesars,22.2
@@ -965,7 +965,7 @@ date,company,close
 2026-10-13,Caesars,29.47
 2026-10-14,Caesars,29.3
 2026-10-15,Caesars,29.25
-2026-10-16,Caesars,28.845
+2026-10-16,Caesars,28.8
 2025-10-16,Bally's,12.76
 2025-10-17,Bally's,13.07
 2025-10-20,Bally's,12.8
@@ -1217,7 +1217,7 @@ date,company,close
 2026-10-13,Bally's,13.76
 2026-10-14,Bally's,13.6
 2026-10-15,Bally's,13.42
-2026-10-16,Bally's,12.96
+2026-10-16,Bally's,13.02
 2025-10-16,Light & Wonder,121.75
 2025-10-17,Light & Wonder,117.06
 2025-10-20,Light & Wonder,113.1
@@ -1515,7 +1515,7 @@ date,company,close
 2025-12-11,Brightstar (IGT),15.0541
 2025-12-12,Brightstar (IGT),15.0541
 2025-12-15,Brightstar (IGT),15.1012
-2025-12-16,Brightstar (IGT),14.9031
+2025-12-16,Brightstar (IGT),14.9032
 2025-12-17,Brightstar (IGT),14.79
 2025-12-18,Brightstar (IGT),15.1484
 2025-12-19,Brightstar (IGT),15.1767
@@ -1724,7 +1724,7 @@ date,company,close
 2026-10-13,Brightstar (IGT),9.96
 2026-10-14,Brightstar (IGT),9.56
 2026-10-15,Brightstar (IGT),9.7
-2026-10-16,Brightstar (IGT),9.515
+2026-10-16,Brightstar (IGT),9.5
 2025-10-16,Wolters Kluwer,105.1928
 2025-10-17,Wolters Kluwer,104.8566
 2025-10-20,Wolters Kluwer,105.8653
@@ -1819,7 +1819,7 @@ date,company,close
 2026-02-25,Wolters Kluwer,61.2328
 2026-02-26,Wolters Kluwer,63.5
 2026-02-27,Wolters Kluwer,65.4213
-2026-03-02,Wolters Kluwer,65.4789
+2026-03-02,Wolters Kluwer,65.479
 2026-03-03,Wolters Kluwer,65.3829
 2026-03-04,Wolters Kluwer,65.0563
 2026-03-05,Wolters Kluwer,65.7287
@@ -1992,7 +1992,7 @@ date,company,close
 2025-10-28,Scholastic,28.1841
 2025-10-29,Scholastic,28.067
 2025-10-30,Scholastic,28.067
-2025-10-31,Scholastic,28.185
+2025-10-31,Scholastic,28.1849
 2025-11-03,Scholastic,28.0178
 2025-11-04,Scholastic,27.6541
 2025-11-05,Scholastic,27.8704
@@ -2007,7 +2007,7 @@ date,company,close
 2025-11-18,Scholastic,27.9195
 2025-11-19,Scholastic,27.4181
 2025-11-20,Scholastic,27.3395
-2025-11-21,Scholastic,28.3128
+2025-11-21,Scholastic,28.3127
 2025-11-24,Scholastic,28.3226
 2025-11-25,Scholastic,29.3057
 2025-11-26,Scholastic,29.345
@@ -2045,7 +2045,7 @@ date,company,close
 2026-01-14,Scholastic,33.3265
 2026-01-15,Scholastic,33.995
 2026-01-16,Scholastic,33.818
-2026-01-20,Scholastic,32.7465
+2026-01-20,Scholastic,32.7464
 2026-01-21,Scholastic,33.8573
 2026-01-22,Scholastic,34.575
 2026-01-23,Scholastic,34.1424
@@ -2232,7 +2232,7 @@ date,company,close
 2026-10-13,Scholastic,39.26
 2026-10-14,Scholastic,38.94
 2026-10-15,Scholastic,38.65
-2026-10-16,Scholastic,37.505
+2026-10-16,Scholastic,37.67
 2025-10-16,Pearson,10.9373
 2025-10-17,Pearson,11.1923
 2025-10-20,Pearson,10.8823
@@ -2487,7 +2487,6 @@ date,company,close
 2026-10-14,Pearson,13.1
 2026-10-15,Pearson,13.53
 2026-10-16,Pearson,13.745
-2025-10-16,S&P 500,6629.07
 2025-10-17,S&P 500,6664.01
 2025-10-20,S&P 500,6735.13
 2025-10-21,S&P 500,6735.35
@@ -2738,7 +2737,7 @@ date,company,close
 2026-10-13,S&P 500,7805.45
 2026-10-14,S&P 500,7718.94
 2026-10-15,S&P 500,7744.06
-2026-10-16,S&P 500,7656.98
+2026-10-16,S&P 500,7659.44
 2025-10-16,STOXX Europe 600,571.66
 2025-10-17,STOXX Europe 600,566.24
 2025-10-20,STOXX Europe 600,572.1

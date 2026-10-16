@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T06:11:39+00:00",
+ "updated": "2026-10-16T20:39:58+00:00",
  "titles": [
   {
    "key": "movie-969681",
@@ -20,9 +20,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 768.8,
+   "popularity": 713.4,
    "tmdb_vote": 8.5,
-   "tmdb_votes": 5498,
+   "tmdb_votes": 5537,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -57,7 +57,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "4bf3dda4a44e",
+   "input_hash": "e5c5976b8b4e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -103,8 +103,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
    "popularity": 450.8,
-   "tmdb_vote": 8.023,
-   "tmdb_votes": 11074,
+   "tmdb_vote": 8.024,
+   "tmdb_votes": 11075,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -139,29 +139,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6317adf283f4",
+   "input_hash": "1ae503ab112f",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 0,
+    "audience_score": 20,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "fun and legendary",
-     "heart and wacky",
-     "favorite show"
+     "fun",
+     "right amount of heart",
+     "relatable characters"
     ],
     "complaints": [
-     "stale and tired",
-     "long past use by"
+     "humor feels stale",
+     "use‑by date jokes",
+     "celebrity promo feels forced"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Mixed reviews highlight both classic charm and perceived decline.",
+    "summary": "The Simpsons draws mixed reactions, praised for its nostalgic heart but criticized as past its prime.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-13T19:25:41+00:00"
+    "analysed_at": "2026-10-16T20:39:58+00:00"
    }
   },
   {
@@ -186,7 +187,7 @@
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
    "popularity": 442.3,
    "tmdb_vote": 8.132,
-   "tmdb_votes": 3500,
+   "tmdb_votes": 3502,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -221,7 +222,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "88982ba0db57",
+   "input_hash": "cbc753176c41",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -248,66 +249,6 @@
    }
   },
   {
-   "key": "tv-4614",
-   "kind": "tv",
-   "tmdb_id": 4614,
-   "title": "NCIS",
-   "studio": "CBS",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "CBS",
-    "Paramount Television",
-    "Belisarius Productions",
-    "CBS Studios"
-   ],
-   "release_date": "2026-10-13",
-   "first_air_date": "2003-09-23",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
-   "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 405.7,
-   "tmdb_vote": 7.6,
-   "tmdb_votes": 2594,
-   "imdb_id": "tt0364845",
-   "tmdb_url": "https://www.themoviedb.org/tv/4614",
-   "tmdb_reviews": [
-    {
-     "author": "drystyx",
-     "rating": 1.0,
-     "text": "Written to depress young men. It seems that Bellisario writes mostly the same depressing and predictable story each time. Everything is contrived to kill women with dark hair and dark eyes. I don't know if he was jilted by too many brunettes as a kid, or if he's just into worship of Hitler and the Nazi ideology. Either way, it makes for a depressing show for any young man. I watched about five of these shows, and it was always the same. He bent over backwards for the Nazi ideology, for whatever ",
-     "url": "https://www.themoviedb.org/review/643eef19aad9c205419f39e9"
-    }
-   ],
-   "imdb_rating": 7.8,
-   "imdb_votes": 178368.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "fb7c730e1701",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": "",
-    "praises": [],
-    "complaints": [
-     "predictable story",
-     "depressing tone",
-     "contrived female deaths"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers find the new season bleak and formulaic.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:09:26+00:00"
-   }
-  },
-  {
    "key": "movie-1148365",
    "kind": "movie",
    "tmdb_id": 1148365,
@@ -325,8 +266,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
    "popularity": 391.6,
-   "tmdb_vote": 7.884,
-   "tmdb_votes": 329,
+   "tmdb_vote": 7.912,
+   "tmdb_votes": 341,
    "imdb_id": "tt28498219",
    "tmdb_url": "https://www.themoviedb.org/movie/1148365",
    "tmdb_reviews": [
@@ -355,7 +296,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "fec64a646c20",
+   "input_hash": "a48cb13587cc",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -382,6 +323,74 @@
    }
   },
   {
+   "key": "tv-4614",
+   "kind": "tv",
+   "tmdb_id": 4614,
+   "title": "NCIS",
+   "studio": "CBS",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "CBS",
+    "Paramount Television",
+    "Belisarius Productions",
+    "CBS Studios"
+   ],
+   "release_date": "2026-10-13",
+   "first_air_date": "2003-09-23",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+   "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+   "popularity": 386.3,
+   "tmdb_vote": 7.6,
+   "tmdb_votes": 2594,
+   "imdb_id": "tt0364845",
+   "tmdb_url": "https://www.themoviedb.org/tv/4614",
+   "tmdb_reviews": [
+    {
+     "author": "drystyx",
+     "rating": 1.0,
+     "text": "Written to depress young men. It seems that Bellisario writes mostly the same depressing and predictable story each time. Everything is contrived to kill women with dark hair and dark eyes. I don't know if he was jilted by too many brunettes as a kid, or if he's just into worship of Hitler and the Nazi ideology. Either way, it makes for a depressing show for any young man. I watched about five of these shows, and it was always the same. He bent over backwards for the Nazi ideology, for whatever ",
+     "url": "https://www.themoviedb.org/review/643eef19aad9c205419f39e9"
+    }
+   ],
+   "imdb_rating": 7.8,
+   "imdb_votes": 178368.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [
+    {
+     "title": "‘NCIS: Origins’ Boss Talks Mark Harmon & Michael Weatherly Reunion Is “An Episode No Fan Will Want To Miss” As New Photos Drop",
+     "link": "https://deadline.com/2026/10/ncis-origins-mark-harmon-michael-weatherly-interview-photos-1237165975/",
+     "source": "Deadline",
+     "published": "2026-10-16",
+     "snippet": "EXCLUSIVE: David J. North, NCIS: Origins showrunner and executive producer, has heard the NCIS fans’ excitement over the big upcoming Mark Harmon and Michael Weatherly reunion in the Origins prequel, and now he’s teasing that more surprises are ahead. Deadline also has four new images from the upcoming third episode titled “Return of the Mack” […]"
+    }
+   ],
+   "input_hash": "43a7182d686f",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -80,
+    "critics_vs_audience": "Unclear",
+    "gap_note": "",
+    "praises": [],
+    "complaints": [
+     "predictable story",
+     "depressing tone",
+     "contrived female deaths"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Viewers find the new season bleak and formulaic.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-16T06:09:26+00:00"
+   }
+  },
+  {
    "key": "tv-1416",
    "kind": "tv",
    "tmdb_id": 1416,
@@ -403,7 +412,7 @@
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
    "popularity": 345.4,
    "tmdb_vote": 8.2,
-   "tmdb_votes": 11080,
+   "tmdb_votes": 11081,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -432,7 +441,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1ffc44a726a4",
+   "input_hash": "4d039a8666f5",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -491,40 +500,6 @@
    "input_hash": "a50e8b4c33b1"
   },
   {
-   "key": "tv-4057",
-   "kind": "tv",
-   "tmdb_id": 4057,
-   "title": "Criminal Minds",
-   "studio": "CBS",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "CBS",
-    "Paramount+",
-    "Touchstone Television",
-    "The Mark Gordon Company",
-    "Paramount Television"
-   ],
-   "release_date": "2026-07-23",
-   "first_air_date": "2005-09-22",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
-   "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-   "popularity": 311.8,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 4197,
-   "imdb_id": "tt0452046",
-   "tmdb_url": "https://www.themoviedb.org/tv/4057",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.1,
-   "imdb_votes": 243849.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "017e3b45e566"
-  },
-  {
    "key": "tv-213375",
    "kind": "tv",
    "tmdb_id": 213375,
@@ -543,8 +518,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
    "popularity": 290.4,
-   "tmdb_vote": 9.106,
-   "tmdb_votes": 71,
+   "tmdb_vote": 9.045,
+   "tmdb_votes": 77,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -561,7 +536,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "135006a56730",
+   "input_hash": "530304d3c21b",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -603,8 +578,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
    "popularity": 279.0,
-   "tmdb_vote": 8.507,
-   "tmdb_votes": 1032,
+   "tmdb_vote": 8.508,
+   "tmdb_votes": 1037,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -627,7 +602,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "56e96084ea3d",
+   "input_hash": "22659d0cafa4",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -736,77 +711,72 @@
    }
   },
   {
-   "key": "tv-97546",
+   "key": "tv-4057",
    "kind": "tv",
-   "tmdb_id": 97546,
-   "title": "Ted Lasso",
-   "studio": "Warner Bros. Pictures",
+   "tmdb_id": 4057,
+   "title": "Criminal Minds",
+   "studio": "CBS",
    "parent": "WBD / Skydance",
    "group": "Tracked companies",
    "companies": [
-    "Apple TV",
-    "Doozer",
-    "Warner Bros. Television",
-    "Universal Television",
-    "Ruby's Tuna"
+    "CBS",
+    "Paramount+",
+    "Touchstone Television",
+    "The Mark Gordon Company",
+    "Paramount Television"
    ],
-   "release_date": "2026-10-06",
-   "first_air_date": "2020-08-14",
+   "release_date": "2026-07-23",
+   "first_air_date": "2005-09-22",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-   "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-   "popularity": 252.0,
-   "tmdb_vote": 8.362,
-   "tmdb_votes": 2760,
-   "imdb_id": "tt10986410",
-   "tmdb_url": "https://www.themoviedb.org/tv/97546",
-   "tmdb_reviews": [
-    {
-     "author": "TopCatUK",
-     "rating": 9.0,
-     "text": "An amazingly original, funny and lively show. A great cast with visible chemistry. The show will have you laughing and leave you feeling like you’ve had a really good hug after each episode. Unique in modern times.",
-     "url": "https://www.themoviedb.org/review/61565ca5dd731b0042a9f2de"
-    },
-    {
-     "author": "willhess17",
-     "rating": 9.0,
-     "text": "I started watching this show as someone who doesn't care at all about football (soccer) and had no expectations for the series. Season 1 starts off slow and the Ted Lasso character is a bit annoying at first, but about halfway through the first season it all really started to click for me and season 2 was just fantastic. Another reviewer talked about the chemistry among the show's cast and I completely agree. I felt like they build the side characters well and a nice amount of the showtime focus",
-     "url": "https://www.themoviedb.org/review/62e9fa41aede5900617e30e2"
-    },
-    {
-     "author": "staino",
-     "rating": 10.0,
-     "text": "Absolutely fantastic, really not in to football so started watching with some reluctance but honestly the best series I’ve seen in a long while with every episode delivering a real feel good factor with every episode! Can’t recommend enough!",
-     "url": "https://www.themoviedb.org/review/64aa8ea4d1a89300c5757575"
-    }
-   ],
-   "imdb_rating": 8.7,
-   "imdb_votes": 464037.0,
+   "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+   "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+   "popularity": 269.7,
+   "tmdb_vote": 8.3,
+   "tmdb_votes": 4197,
+   "imdb_id": "tt0452046",
+   "tmdb_url": "https://www.themoviedb.org/tv/4057",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.1,
+   "imdb_votes": 243849.0,
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "b29f4b372f88",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 90,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "original and funny",
-     "great cast chemistry",
-     "feel‑good factor"
-    ],
-    "complaints": [],
-    "buzz": "High",
-    "box_office_verdict": "not stated",
-    "summary": "Widely praised as an original, funny and feel‑good series with strong chemistry.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:10:19+00:00"
-   }
+   "input_hash": "017e3b45e566"
+  },
+  {
+   "key": "tv-4656",
+   "kind": "tv",
+   "tmdb_id": 4656,
+   "title": "Raw",
+   "studio": "USA Network",
+   "parent": "Versant",
+   "group": "Tracked companies",
+   "companies": [
+    "USA Network",
+    "Spike",
+    "Netflix",
+    "The New TNN",
+    "WWE Home Video"
+   ],
+   "release_date": "2026-10-12",
+   "first_air_date": "1993-01-11",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "popularity": 229.4,
+   "tmdb_vote": 6.772,
+   "tmdb_votes": 380,
+   "imdb_id": "tt0185103",
+   "tmdb_url": "https://www.themoviedb.org/tv/4656",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.7,
+   "imdb_votes": 11088.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "875dc4aa34e5"
   },
   {
    "key": "movie-1003596",
@@ -824,7 +794,7 @@
    "release_date": "2026-12-16",
    "first_air_date": null,
    "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
    "popularity": 123.7,
    "tmdb_vote": null,
@@ -978,8 +948,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
    "popularity": 457.7,
-   "tmdb_vote": 5.8,
-   "tmdb_votes": 394,
+   "tmdb_vote": 5.789,
+   "tmdb_votes": 395,
    "imdb_id": "tt3444938",
    "tmdb_url": "https://www.themoviedb.org/tv/59941",
    "tmdb_reviews": [
@@ -996,11 +966,11 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "5989f9cc0942",
+   "input_hash": "c8cd5493b290",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
-    "audience_score": 20,
+    "audience_score": -70,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [],
@@ -1011,11 +981,11 @@
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "Negative reception.",
+    "summary": "The Tonight Show Starring Jimmy Fallon receives strongly negative audience feedback.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-13T19:26:59+00:00"
+    "analysed_at": "2026-10-16T20:39:58+00:00"
    }
   },
   {
@@ -1109,16 +1079,8 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "trade": [
-    {
-     "title": "‘Law & Order’ Season 26, Episode 2 Recap: What Happened To Det. Vincent Riley In Reid Scott’s Final Episode?",
-     "link": "https://deadline.com/2026/10/law-and-order-season-26-episode-2-recap-vincent-riley-reid-scott-final-episode-1237150631/",
-     "source": "Deadline",
-     "published": "2026-10-16",
-     "snippet": "SPOILER ALERT: This post contains details on Law & Order Season 26, Episode 2, which aired on NBC on Thursday, October 15. Earlier this year, Deadline reported that Reid Scott, who plays Senior Detective Vincent Riley, was leaving the NBC procedural. Scott’s exit finally aired in the second episode of Season 26 titled “Into the […]"
-    }
-   ],
-   "input_hash": "cee652007c25",
+   "trade": [],
+   "input_hash": "2bcbb0367946",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1157,8 +1119,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
    "popularity": 397.5,
-   "tmdb_vote": 7.726,
-   "tmdb_votes": 737,
+   "tmdb_vote": 7.732,
+   "tmdb_votes": 749,
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
@@ -1181,7 +1143,7 @@
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "f0d06661896d",
+   "input_hash": "77631a03ae22",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1225,8 +1187,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
    "popularity": 366.5,
-   "tmdb_vote": 8.011,
-   "tmdb_votes": 4137,
+   "tmdb_vote": 8.0,
+   "tmdb_votes": 4142,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1261,7 +1223,7 @@
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
    "trade": [],
-   "input_hash": "6ef3d3dbbc15",
+   "input_hash": "ebe99d85704b",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1281,80 +1243,6 @@
     "buzz": "High",
     "box_office_verdict": "not stated",
     "summary": "Epic scale praised by fans but criticized for length and tone.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:10:47+00:00"
-   }
-  },
-  {
-   "key": "tv-288673",
-   "kind": "tv",
-   "tmdb_id": 288673,
-   "title": "Carrie",
-   "studio": "Amazon MGM Studios",
-   "parent": "Amazon",
-   "group": "Rest of industry",
-   "companies": [
-    "Prime Video",
-    "Amazon MGM Studios",
-    "Red Room Pictures",
-    "Reunion Pacific Entertainment"
-   ],
-   "release_date": "2026-10-07",
-   "first_air_date": "2026-10-07",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-   "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious tele",
-   "popularity": 324.8,
-   "tmdb_vote": 8.428,
-   "tmdb_votes": 277,
-   "imdb_id": "tt11540908",
-   "tmdb_url": "https://www.themoviedb.org/tv/288673",
-   "tmdb_reviews": [
-    {
-     "author": "Ryan Ting",
-     "rating": null,
-     "text": "Mike Flanagan (Oculus: Origin of Evil, Dr. Sleep, The Exorcist: Martyrs) created this television series on Amazon Prime Video based on the best selling novel by Stephen King. Mary Elizabeth \"Sissy\" Spacek, Emily Bergl, Angela Bettis & Chloë Grace Moretz were playing Carrieta \"Carrie\" White in film & TV. Now, a 22 year old actress from Manitoba, Canada named Summer H. Howell will portray the titular character where after her father's sudden, untimely death thrusts her into the unforgiving ecosyst",
-     "url": "https://www.themoviedb.org/review/6ac9d118d9a621cef579fdd6"
-    },
-    {
-     "author": "Harish Napa Janakiraman",
-     "rating": 8.0,
-     "text": "The debut season delivers a genuinely good and atmospheric horror drama that successfully breathes new life into an iconic tale. Expanding the story across eight episodes allows the narrative to build a remarkable setup, grounding the tragic descent in the cruel realities of modern social media, cyberbullying, and suffocating small town claustrophobia. Summer H. Howell gives an extraordinary lead performance, balancing fragile vulnerability and quiet heartbreak with an unsettling, raw power as C",
-     "url": "https://www.themoviedb.org/review/6acc50c4c0faa4f80bb7b9d2"
-    }
-   ],
-   "imdb_rating": 7.8,
-   "imdb_votes": 3419.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [
-    {
-     "title": "‘DWTS’ Pro Val Chmerkovskiy Apologizes to Carrie Ann Inaba for “Careless” Will Smith Oscars Slap Reference: “I Will Do Better”",
-     "link": "https://www.hollywoodreporter.com/tv/tv-news/dwts-val-apologizes-carrie-ann-inaba-will-smith-oscars-slap-1236733459/",
-     "source": "The Hollywood Reporter",
-     "published": "2026-10-16",
-     "snippet": "The dancer made a post writing, “You almost saw Fresh Prince enter the ballroom last night,\" which prompted the judge to respond with her own social post that read, \"So this is what we are doing now?\""
-    }
-   ],
-   "input_hash": "e00a82fad525",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 70,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "atmospheric horror",
-     "modern social‑media angle",
-     "strong lead performance"
-    ],
-    "complaints": [],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Fresh horror take that modernizes the classic tale.",
     "unverified_dropped": [
      "key"
     ],
@@ -1382,8 +1270,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
    "popularity": 296.6,
-   "tmdb_vote": 7.331,
-   "tmdb_votes": 950,
+   "tmdb_vote": 7.3,
+   "tmdb_votes": 956,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -1417,8 +1305,16 @@
    "rt": 96.0,
    "metascore": null,
    "box_office_usd": null,
-   "trade": [],
-   "input_hash": "1e124211eb7c",
+   "trade": [
+    {
+     "title": "The Best Horror Movies of 2026 (So Far), Ranked: ‘Obsession,’ ‘Resident Evil,’ ‘Backrooms’ and More",
+     "link": "https://variety.com/lists/best-horror-movies-2026-ranked/",
+     "source": "Variety",
+     "published": "2026-10-16",
+     "snippet": "2026 has already been a wild year for horror, from low-budget box office hits (“Backrooms,” “Obsession”) to sequels the world could have lived without (“Scream 7,” “The Strangers – Chapter 3”). In a year loaded with scary movies, many of them were good-to-great, a welcome surprise that kept multiplexes busy. Below are the year’s standouts, […]"
+    }
+   ],
+   "input_hash": "dd47b88d2204",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1445,6 +1341,72 @@
    }
   },
   {
+   "key": "tv-288673",
+   "kind": "tv",
+   "tmdb_id": 288673,
+   "title": "Carrie",
+   "studio": "Amazon MGM Studios",
+   "parent": "Amazon",
+   "group": "Rest of industry",
+   "companies": [
+    "Prime Video",
+    "Amazon MGM Studios",
+    "Red Room Pictures",
+    "Reunion Pacific Entertainment"
+   ],
+   "release_date": "2026-10-07",
+   "first_air_date": "2026-10-07",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+   "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious tele",
+   "popularity": 296.2,
+   "tmdb_vote": 8.397,
+   "tmdb_votes": 291,
+   "imdb_id": "tt11540908",
+   "tmdb_url": "https://www.themoviedb.org/tv/288673",
+   "tmdb_reviews": [
+    {
+     "author": "Ryan Ting",
+     "rating": null,
+     "text": "Mike Flanagan (Oculus: Origin of Evil, Dr. Sleep, The Exorcist: Martyrs) created this television series on Amazon Prime Video based on the best selling novel by Stephen King. Mary Elizabeth \"Sissy\" Spacek, Emily Bergl, Angela Bettis & Chloë Grace Moretz were playing Carrieta \"Carrie\" White in film & TV. Now, a 22 year old actress from Manitoba, Canada named Summer H. Howell will portray the titular character where after her father's sudden, untimely death thrusts her into the unforgiving ecosyst",
+     "url": "https://www.themoviedb.org/review/6ac9d118d9a621cef579fdd6"
+    },
+    {
+     "author": "Harish Napa Janakiraman",
+     "rating": 8.0,
+     "text": "The debut season delivers a genuinely good and atmospheric horror drama that successfully breathes new life into an iconic tale. Expanding the story across eight episodes allows the narrative to build a remarkable setup, grounding the tragic descent in the cruel realities of modern social media, cyberbullying, and suffocating small town claustrophobia. Summer H. Howell gives an extraordinary lead performance, balancing fragile vulnerability and quiet heartbreak with an unsettling, raw power as C",
+     "url": "https://www.themoviedb.org/review/6acc50c4c0faa4f80bb7b9d2"
+    }
+   ],
+   "imdb_rating": 7.8,
+   "imdb_votes": 3419.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "8b2244e1fe28",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 70,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "atmospheric horror",
+     "modern social‑media angle",
+     "strong lead performance"
+    ],
+    "complaints": [],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Fresh horror take that modernizes the classic tale.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-16T06:10:47+00:00"
+   }
+  },
+  {
    "key": "movie-1236045",
    "kind": "movie",
    "tmdb_id": 1236045,
@@ -1463,8 +1425,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
    "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
    "popularity": 262.6,
-   "tmdb_vote": 7.227,
-   "tmdb_votes": 376,
+   "tmdb_vote": 7.178,
+   "tmdb_votes": 384,
    "imdb_id": "tt31049299",
    "tmdb_url": "https://www.themoviedb.org/movie/1236045",
    "tmdb_reviews": [
@@ -1481,7 +1443,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a75ffa069101",
+   "input_hash": "a0783f7ab208",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -1582,8 +1544,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
    "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from ",
    "popularity": 237.4,
-   "tmdb_vote": 8.317,
-   "tmdb_votes": 571,
+   "tmdb_vote": 8.303,
+   "tmdb_votes": 577,
    "imdb_id": "tt31349844",
    "tmdb_url": "https://www.themoviedb.org/movie/1377237",
    "tmdb_reviews": [
@@ -1612,7 +1574,7 @@
    "metascore": 55.0,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "50536cba7465",
+   "input_hash": "bc1eafaaf447",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
