@@ -25,3 +25,9 @@ PULSE_UPCOMING_PER_GROUP=6
 # Benchmarks for the share-price charts.
 BENCHMARK_US=^GSPC
 BENCHMARK_EU=^STOXX
+
+# Web addresses of the dashboard copies (backups). Fill these in once each copy is set up;
+# they appear as links on every copy, in the e-mail and in Telegram messages.
+SITE_STREAMLIT=
+SITE_CLOUDFLARE=
+SITE_HUGGINGFACE=
