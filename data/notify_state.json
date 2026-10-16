@@ -1,4 +1,9 @@
 {
- "email": {},
+ "email": {
+  "announced": [
+   "Scholastic|0000866729-26-000022"
+  ],
+  "last_weekly": "2026-10-16"
+ },
  "telegram": {}
 }
