@@ -26,6 +26,11 @@ on:
         type: choice
         options: ["no", "yes"]
         default: "no"
+      notify:
+        description: "Send the e-mail / Telegram round-up now"
+        type: choice
+        options: ["no", "yes"]
+        default: "no"
 
 permissions:
   contents: write
@@ -65,11 +70,28 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "yes" ]; then FORCE="--force"; fi
           echo "Running part: $PART $FORCE"
           python run_agent.py --part "$PART" $FORCE
+      # ---- backup copies: each step may fail without affecting the agent or the others ----
+      - name: Build the static copy (Cloudflare Pages)
+        continue-on-error: true
+        run: python build_site.py
+      - name: Send e-mail digest and Telegram alerts
+        continue-on-error: true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTIFY_FORCE: ${{ github.event.inputs.notify }}
+        run: |
+          pip install reportlab
+          python notify.py
       - name: Save the new data
         run: |
           git config user.name "intel-agent"
           git config user.email "intel-agent@users.noreply.github.com"
           git add data
+          if [ -d docs ]; then git add docs; fi
           if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
           git commit -m "Agent update $(date -u +%Y-%m-%d\ %H:%M) UTC"
           for i in 1 2 3; do
@@ -77,3 +99,11 @@ jobs:
             sleep 10
           done
           exit 1
+      - name: Update the Hugging Face copy
+        continue-on-error: true
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_SPACE: ${{ secrets.HF_SPACE }}
+        run: |
+          pip install huggingface_hub
+          python deploy_hf.py
