@@ -50,7 +50,7 @@
    "rt": 90.0,
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt9288030": {
    "imdb_rating": 8.0,
@@ -58,7 +58,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt28498219": {
    "imdb_rating": null,
@@ -66,7 +66,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0096697": {
    "imdb_rating": 8.6,
@@ -74,7 +74,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0364845": {
    "imdb_rating": 7.8,
@@ -82,7 +82,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt31510819": {
    "imdb_rating": 8.3,
@@ -90,7 +90,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0115147": {
    "imdb_rating": 8.3,
@@ -98,7 +98,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0413573": {
    "imdb_rating": 7.6,
@@ -106,7 +106,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt10986410": {
    "imdb_rating": 8.7,
@@ -122,7 +122,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0452046": {
    "imdb_rating": 8.1,
@@ -130,7 +130,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0185103": {
    "imdb_rating": 7.7,
@@ -138,7 +138,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt2057880": {
    "imdb_rating": 5.6,
@@ -146,7 +146,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt35538033": {
    "imdb_rating": null,
@@ -154,7 +154,7 @@
    "rt": 96.0,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt32393988": {
    "imdb_rating": 6.2,
@@ -162,7 +162,7 @@
    "rt": 57.0,
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0203259": {
    "imdb_rating": 8.1,
@@ -170,7 +170,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt3444938": {
    "imdb_rating": 7.0,
@@ -178,7 +178,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt0098844": {
    "imdb_rating": 7.8,
@@ -186,7 +186,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt33764258": {
    "imdb_rating": 8.4,
@@ -194,7 +194,7 @@
    "rt": 94.0,
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt3513388": {
    "imdb_rating": 6.4,
@@ -202,7 +202,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt11540908": {
    "imdb_rating": 7.8,
@@ -210,7 +210,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-10-13"
+   "_at": "2026-10-17"
   },
   "tt31192372": {
    "imdb_rating": 5.7,
@@ -275,6 +275,14 @@
    "metascore": null,
    "box_office_usd": null,
    "_at": "2026-10-16"
+  },
+  "tt27369017": {
+   "imdb_rating": 6.9,
+   "imdb_votes": 4367.0,
+   "rt": 78.0,
+   "metascore": 66.0,
+   "box_office_usd": 2647000.0,
+   "_at": "2026-10-17"
   }
  }
 }

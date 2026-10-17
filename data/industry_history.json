@@ -11,6 +11,10 @@
   {
    "date": "2026-10-16",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-17",
+   "mood": "Mixed"
   }
  ],
  "Publishing": [
@@ -25,6 +29,10 @@
   {
    "date": "2026-10-16",
    "mood": "Negative"
+  },
+  {
+   "date": "2026-10-17",
+   "mood": "Mixed"
   }
  ],
  "Lottery": [
@@ -38,6 +46,10 @@
   },
   {
    "date": "2026-10-16",
+   "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-17",
    "mood": "Mixed"
   }
  ],
@@ -53,6 +65,10 @@
   {
    "date": "2026-10-16",
    "mood": "Positive"
+  },
+  {
+   "date": "2026-10-17",
+   "mood": "Mixed"
   }
  ]
 }
