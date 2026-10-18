@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:05:02+00:00",
+ "updated": "2026-10-18T06:04:27+00:00",
  "titles": [
   {
    "key": "movie-969681",
@@ -20,9 +20,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 660.7,
-   "tmdb_vote": 8.5,
-   "tmdb_votes": 5584,
+   "popularity": 663.5,
+   "tmdb_vote": 8.466,
+   "tmdb_votes": 5631,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -57,7 +57,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "bc0b3457ffde",
+   "input_hash": "0c069d108c92",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -102,9 +102,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 437.9,
+   "popularity": 431.1,
    "tmdb_vote": 8.024,
-   "tmdb_votes": 11075,
+   "tmdb_votes": 11078,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -139,7 +139,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1ae503ab112f",
+   "input_hash": "3a8a0c402835",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -185,9 +185,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 414.8,
-   "tmdb_vote": 8.132,
-   "tmdb_votes": 3503,
+   "popularity": 411.8,
+   "tmdb_vote": 8.131,
+   "tmdb_votes": 3507,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -222,7 +222,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "498db49c75ac",
+   "input_hash": "1a440502793e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -267,7 +267,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 395.9,
+   "popularity": 405.1,
    "tmdb_vote": 7.6,
    "tmdb_votes": 2594,
    "imdb_id": "tt0364845",
@@ -326,8 +326,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
    "popularity": 370.0,
-   "tmdb_vote": 7.896,
-   "tmdb_votes": 356,
+   "tmdb_vote": 7.817,
+   "tmdb_votes": 379,
    "imdb_id": "tt28498219",
    "tmdb_url": "https://www.themoviedb.org/movie/1148365",
    "tmdb_reviews": [
@@ -356,7 +356,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9174e5a1bb3c",
+   "input_hash": "8c2edcfc6ec8",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -402,9 +402,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 351.0,
-   "tmdb_vote": 8.2,
-   "tmdb_votes": 11081,
+   "popularity": 361.0,
+   "tmdb_vote": 8.206,
+   "tmdb_votes": 11084,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -433,7 +433,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "4d039a8666f5",
+   "input_hash": "fac7a13b91eb",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -477,9 +477,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 314.3,
-   "tmdb_vote": 6.42,
-   "tmdb_votes": 670,
+   "popularity": 324.6,
+   "tmdb_vote": 6.422,
+   "tmdb_votes": 672,
    "imdb_id": "tt0115147",
    "tmdb_url": "https://www.themoviedb.org/tv/2224",
    "tmdb_reviews": [],
@@ -489,7 +489,66 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a50e8b4c33b1"
+   "input_hash": "7b49fda7799f"
+  },
+  {
+   "key": "tv-213375",
+   "kind": "tv",
+   "tmdb_id": 213375,
+   "title": "VisionQuest",
+   "studio": "Disney+ originals",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "Disney+",
+    "Marvel Studios",
+    "Kevin Feige Productions"
+   ],
+   "release_date": "2026-10-13",
+   "first_air_date": "2026-10-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "popularity": 306.4,
+   "tmdb_vote": 9.072,
+   "tmdb_votes": 90,
+   "imdb_id": "tt23112594",
+   "tmdb_url": "https://www.themoviedb.org/tv/213375",
+   "tmdb_reviews": [
+    {
+     "author": "Sejian",
+     "rating": 5.0,
+     "text": "I am genuinely glad to finally see *Not Vision* and Paul Bettany return, but seriously, like this? Queue the vague trying-to-be-spoiler-free criticisms of every episode! -- Episode 1: ♪ Tell me why! - Everyone inside, but not the guy outside? Really? Did he even need to be there? Had he not been there, it'd seem less stupid. - Is all of it gonna be this nonsensical? Episode 2: ♪ Let the baddies hit the floor! - I think someone forgot the s'mores. Methinks there's enough glass on the ground that ",
+     "url": "https://www.themoviedb.org/review/6ad03f4acafe90634d1b88f3"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "ff86478c7e1e",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "vague criticisms",
+     "nonsensical episodes",
+     "unnecessary characters"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Viewers find VisionQuest confusing and filled with unnecessary elements.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-18T06:04:27+00:00"
+   }
   },
   {
    "key": "tv-247718",
@@ -506,14 +565,14 @@
     "101 Studios",
     "Toff Guy Films"
    ],
-   "release_date": "2026-10-09",
+   "release_date": "2026-10-16",
    "first_air_date": "2025-03-30",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 286.0,
-   "tmdb_vote": 8.513,
-   "tmdb_votes": 1041,
+   "popularity": 277.0,
+   "tmdb_vote": 8.518,
+   "tmdb_votes": 1048,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -536,7 +595,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "59ccadec4e5c",
+   "input_hash": "afcb3bd83d22",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -563,64 +622,6 @@
    }
   },
   {
-   "key": "tv-213375",
-   "kind": "tv",
-   "tmdb_id": 213375,
-   "title": "VisionQuest",
-   "studio": "Disney+ originals",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "Disney+",
-    "Marvel Studios",
-    "Kevin Feige Productions"
-   ],
-   "release_date": "2026-10-13",
-   "first_air_date": "2026-10-13",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 283.2,
-   "tmdb_vote": 9.1,
-   "tmdb_votes": 79,
-   "imdb_id": "tt23112594",
-   "tmdb_url": "https://www.themoviedb.org/tv/213375",
-   "tmdb_reviews": [
-    {
-     "author": "Sejian",
-     "rating": 5.0,
-     "text": "I am genuinely glad to finally see *Not Vision* and Paul Bettany return, but seriously, like this? Queue the vague trying-to-be-spoiler-free criticisms of every episode! -- Episode 1: ♪ Tell me why! - Everyone inside, but not the guy outside? Really? Did he even need to be there? Had he not been there, it'd seem less stupid. - Is all of it gonna be this nonsensical? Episode 2: ♪ Let the baddies hit the floor! - I think someone forgot the s'mores. Methinks there's enough glass on the ground that ",
-     "url": "https://www.themoviedb.org/review/6ad03f4acafe90634d1b88f3"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "069440348254",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "vague criticisms",
-     "stupid episode premise"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers find the series confusing and poorly executed.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-15T06:10:16+00:00"
-   }
-  },
-  {
    "key": "tv-4057",
    "kind": "tv",
    "tmdb_id": 4057,
@@ -640,9 +641,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-   "popularity": 269.7,
+   "popularity": 276.0,
    "tmdb_vote": 8.3,
-   "tmdb_votes": 4197,
+   "tmdb_votes": 4198,
    "imdb_id": "tt0452046",
    "tmdb_url": "https://www.themoviedb.org/tv/4057",
    "tmdb_reviews": [],
@@ -652,7 +653,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "017e3b45e566"
+   "input_hash": "ee99deed3a9b"
   },
   {
    "key": "tv-79744",
@@ -674,9 +675,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-   "popularity": 262.6,
-   "tmdb_vote": 8.537,
-   "tmdb_votes": 3573,
+   "popularity": 265.2,
+   "tmdb_vote": 8.5,
+   "tmdb_votes": 3572,
    "imdb_id": "tt7587890",
    "tmdb_url": "https://www.themoviedb.org/tv/79744",
    "tmdb_reviews": [
@@ -711,29 +712,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "d7b291fe741c",
+   "input_hash": "4db6aed94dfc",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
-    "audience_score": 90,
+    "audience_score": 80,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "hilarious",
-     "well developed characters",
-     "entertaining"
+     "fun and engaging",
+     "well‑developed characters",
+     "balanced handling of serious topics"
     ],
-    "complaints": [
-     "flawed",
-     "naive"
-    ],
+    "complaints": [],
     "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "A fun, character‑driven procedural that many viewers love despite some naive flaws.",
+    "summary": "The Rookie is praised for its entertaining tone, strong characters, and thoughtful drama.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-15T06:10:16+00:00"
+    "analysed_at": "2026-10-18T06:04:27+00:00"
    }
   },
   {
@@ -756,7 +754,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 229.1,
+   "popularity": 235.8,
    "tmdb_vote": 6.772,
    "tmdb_votes": 380,
    "imdb_id": "tt0185103",
@@ -788,7 +786,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 123.7,
+   "popularity": 111.4,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -836,7 +834,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 549.8,
+   "popularity": 637.7,
    "tmdb_vote": 4.9,
    "tmdb_votes": 100,
    "imdb_id": "tt2057880",
@@ -849,76 +847,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "bca9858c7611"
-  },
-  {
-   "key": "tv-2734",
-   "kind": "tv",
-   "tmdb_id": 2734,
-   "title": "Law & Order: Special Victims Unit",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Wolf Entertainment",
-    "Universal Television",
-    "Studios USA",
-    "Universal Media Studios"
-   ],
-   "release_date": "2026-10-08",
-   "first_air_date": "1999-09-20",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-   "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 481.4,
-   "tmdb_vote": 7.96,
-   "tmdb_votes": 4380,
-   "imdb_id": "tt0203259",
-   "tmdb_url": "https://www.themoviedb.org/tv/2734",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 3.0,
-     "text": "This series is a poster child for the way the US wants the world, to perceive its justice system. Hard working, earnest police, backed by an imperfect but mostly well meaning, justice system. Of course, if you look behind the veil nothing could be further from the truth. The justice system and not just in the US, mind you is abusive and broken. More often than not failing victims and on a certain level, criminals, who often started out as victims of its indifference and outright cruelty. I find ",
-     "url": "https://www.themoviedb.org/review/66c1325eecbb1915cc898af9"
-    },
-    {
-     "author": "Nicki",
-     "rating": 9.0,
-     "text": "**26 SEASONS** there's a reason SVU is the longest-running primetime live-action series on American television. Every year this show is a must watch. The storylines are compelling and the actors are usually current, former or up-and-coming stars. Some \"fans\" have complained about the changing of cast members but I think it's what keeps the show fresh. Hoping for many more seasons with Benson to come.",
-     "url": "https://www.themoviedb.org/review/6708dd1b8d487f6541286af6"
-    }
-   ],
-   "imdb_rating": 8.1,
-   "imdb_votes": 147907.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "a2d5ae5d3582",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": "polarized reviews",
-    "praises": [
-     "compelling storylines",
-     "long‑running series",
-     "fresh cast changes"
-    ],
-    "complaints": [
-     "portrayal of abusive justice system",
-     "cast turnover concerns"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Reviews range from highly critical of its justice portrayal to enthusiastic about its longevity and storylines.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:10:19+00:00"
-   }
   },
   {
    "key": "tv-59941",
@@ -939,7 +867,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 455.3,
+   "popularity": 460.2,
    "tmdb_vote": 5.789,
    "tmdb_votes": 395,
    "imdb_id": "tt3444938",
@@ -1000,9 +928,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 429.0,
+   "popularity": 431.7,
    "tmdb_vote": 7.3,
-   "tmdb_votes": 733,
+   "tmdb_votes": 735,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
    "tmdb_reviews": [],
@@ -1012,7 +940,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2bcbb0367946",
+   "input_hash": "196b42eca04d",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1024,6 +952,76 @@
     "buzz": "Low",
     "box_office_verdict": "not stated",
     "summary": "Only a recap headline is available, offering no clear audience sentiment.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-16T06:10:19+00:00"
+   }
+  },
+  {
+   "key": "tv-2734",
+   "kind": "tv",
+   "tmdb_id": 2734,
+   "title": "Law & Order: Special Victims Unit",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Wolf Entertainment",
+    "Universal Television",
+    "Studios USA",
+    "Universal Media Studios"
+   ],
+   "release_date": "2026-10-08",
+   "first_air_date": "1999-09-20",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+   "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+   "popularity": 415.0,
+   "tmdb_vote": 7.96,
+   "tmdb_votes": 4381,
+   "imdb_id": "tt0203259",
+   "tmdb_url": "https://www.themoviedb.org/tv/2734",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 3.0,
+     "text": "This series is a poster child for the way the US wants the world, to perceive its justice system. Hard working, earnest police, backed by an imperfect but mostly well meaning, justice system. Of course, if you look behind the veil nothing could be further from the truth. The justice system and not just in the US, mind you is abusive and broken. More often than not failing victims and on a certain level, criminals, who often started out as victims of its indifference and outright cruelty. I find ",
+     "url": "https://www.themoviedb.org/review/66c1325eecbb1915cc898af9"
+    },
+    {
+     "author": "Nicki",
+     "rating": 9.0,
+     "text": "**26 SEASONS** there's a reason SVU is the longest-running primetime live-action series on American television. Every year this show is a must watch. The storylines are compelling and the actors are usually current, former or up-and-coming stars. Some \"fans\" have complained about the changing of cast members but I think it's what keeps the show fresh. Hoping for many more seasons with Benson to come.",
+     "url": "https://www.themoviedb.org/review/6708dd1b8d487f6541286af6"
+    }
+   ],
+   "imdb_rating": 8.1,
+   "imdb_votes": 147907.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "2a831d70cbaa",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 0,
+    "critics_vs_audience": "Unclear",
+    "gap_note": "polarized reviews",
+    "praises": [
+     "compelling storylines",
+     "long‑running series",
+     "fresh cast changes"
+    ],
+    "complaints": [
+     "portrayal of abusive justice system",
+     "cast turnover concerns"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Reviews range from highly critical of its justice portrayal to enthusiastic about its longevity and storylines.",
     "unverified_dropped": [
      "key"
     ],
@@ -1049,7 +1047,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 419.9,
+   "popularity": 412.5,
    "tmdb_vote": 5.1,
    "tmdb_votes": 136,
    "imdb_id": "tt3513388",
@@ -1111,8 +1109,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
    "popularity": 374.3,
-   "tmdb_vote": 7.728,
-   "tmdb_votes": 762,
+   "tmdb_vote": 7.711,
+   "tmdb_votes": 783,
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
@@ -1135,7 +1133,7 @@
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "5de3926de622",
+   "input_hash": "5886a96ad147",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1179,8 +1177,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
    "popularity": 349.4,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4146,
+   "tmdb_vote": 8.009,
+   "tmdb_votes": 4154,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1215,7 +1213,7 @@
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
    "trade": [],
-   "input_hash": "396bf2e98feb",
+   "input_hash": "7e51beb51cb2",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1242,222 +1240,6 @@
    }
   },
   {
-   "key": "movie-1423191",
-   "kind": "movie",
-   "tmdb_id": 1423191,
-   "title": "Resident Evil",
-   "studio": "Sony Pictures",
-   "parent": "Sony",
-   "group": "Rest of industry",
-   "companies": [
-    "Constantin Film",
-    "Subconscious",
-    "Vertigo Entertainment",
-    "Davis Films",
-    "Columbia Pictures"
-   ],
-   "release_date": "2026-09-16",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-   "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 296.6,
-   "tmdb_vote": 7.311,
-   "tmdb_votes": 966,
-   "imdb_id": "tt35538033",
-   "tmdb_url": "https://www.themoviedb.org/movie/1423191",
-   "tmdb_reviews": [
-    {
-     "author": "magik_7o",
-     "rating": null,
-     "text": "This film is good, i really like the cast and the trame. This film have some problem in the second part of the film. The finale scene is bad. I can accepted that if you tell me there is going to be another movie. But this film is still good.",
-     "url": "https://www.themoviedb.org/review/6aaea8027d78cf7d7666f72e"
-    },
-    {
-     "author": "Nick",
-     "rating": 9.0,
-     "text": "Zach Cregger takes Capcom's zombie-outbreak survival horror and does exactly what a video game adaptation should do: capture the *feeling* of the games instead of slavishly recreating cutscenes. Rather than shoehorning in Leon or Claire, he builds an original story around Bryan (Austin Abrams), a hapless medical courier who stumbles into an outbreak near Raccoon City — and it works because Cregger clearly loves this world rather than just licensing it. The tense, blood-soaked gore is offset by m",
-     "url": "https://www.themoviedb.org/review/6aaf837733ff6bc5d9064ac1"
-    },
-    {
-     "author": "michaelgtr",
-     "rating": null,
-     "text": "RE? NO, a generic comedy horror. It's really hard to accept that 'comedy horror' genre is a thing, like this one. A Uber courier (with no car) sets out to make a delivery-sparking uproarious laughter in what looks like a festival of stupidity-and ends up dead. RE (game saga) centers on an imminent pathological outbreak that triggers a massive socio-economic transformation of society. A group attempts to expose the details regarding the responsible corporation-which defends itself by weaponizing ",
-     "url": "https://www.themoviedb.org/review/6aafff1600014ffbe29763a2"
-    },
-    {
-     "author": "TheFilmCritics.org",
-     "rating": 7.0,
-     "text": "The best kind of survival horror knows that darkness is not merely a lack of light—it is a promise that something is waiting just beyond it. That instinct serves *Resident Evil* remarkably well, delivering a film that finally understands the eerie isolation and creeping dread that made the games so enduring. The atmosphere is easily one of the movie's greatest strengths. Dark corridors, quiet stretches and an almost oppressive sense of isolation give the film the texture of survival horror rathe",
-     "url": "https://www.themoviedb.org/review/6ab2e91bdf9e806692253e8c"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": 96.0,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [
-    {
-     "title": "Austin Abrams Still Won’t Admit Which Was Tougher to Shoot, ‘Whalefall’ or ‘Resident Evil’",
-     "link": "https://www.hollywoodreporter.com/movies/movie-features/whalefall-austin-abrams-resident-evil-1236733923/",
-     "source": "The Hollywood Reporter",
-     "published": "2026-10-16",
-     "snippet": "The actor dives deep into 'Whalefall,' and partakes in a 'Resident Evil' post-mortem speed round."
-    }
-   ],
-   "input_hash": "1bf1d37d65f9",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 30,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "good cast",
-     "captures game feeling",
-     "strong atmosphere"
-    ],
-    "complaints": [
-     "second part problems",
-     "finale scene bad",
-     "generic comedy horror"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "A mixed reception with praise for cast and game feel but criticism of pacing and tone.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:11:13+00:00"
-   }
-  },
-  {
-   "key": "tv-288673",
-   "kind": "tv",
-   "tmdb_id": 288673,
-   "title": "Carrie",
-   "studio": "Amazon MGM Studios",
-   "parent": "Amazon",
-   "group": "Rest of industry",
-   "companies": [
-    "Prime Video",
-    "Amazon MGM Studios",
-    "Red Room Pictures",
-    "Reunion Pacific Entertainment"
-   ],
-   "release_date": "2026-10-07",
-   "first_air_date": "2026-10-07",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-   "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious tele",
-   "popularity": 278.7,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 302,
-   "imdb_id": "tt11540908",
-   "tmdb_url": "https://www.themoviedb.org/tv/288673",
-   "tmdb_reviews": [
-    {
-     "author": "Ryan Ting",
-     "rating": null,
-     "text": "Mike Flanagan (Oculus: Origin of Evil, Dr. Sleep, The Exorcist: Martyrs) created this television series on Amazon Prime Video based on the best selling novel by Stephen King. Mary Elizabeth \"Sissy\" Spacek, Emily Bergl, Angela Bettis & Chloë Grace Moretz were playing Carrieta \"Carrie\" White in film & TV. Now, a 22 year old actress from Manitoba, Canada named Summer H. Howell will portray the titular character where after her father's sudden, untimely death thrusts her into the unforgiving ecosyst",
-     "url": "https://www.themoviedb.org/review/6ac9d118d9a621cef579fdd6"
-    },
-    {
-     "author": "Harish Napa Janakiraman",
-     "rating": 8.0,
-     "text": "The debut season delivers a genuinely good and atmospheric horror drama that successfully breathes new life into an iconic tale. Expanding the story across eight episodes allows the narrative to build a remarkable setup, grounding the tragic descent in the cruel realities of modern social media, cyberbullying, and suffocating small town claustrophobia. Summer H. Howell gives an extraordinary lead performance, balancing fragile vulnerability and quiet heartbreak with an unsettling, raw power as C",
-     "url": "https://www.themoviedb.org/review/6acc50c4c0faa4f80bb7b9d2"
-    }
-   ],
-   "imdb_rating": 7.8,
-   "imdb_votes": 3419.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "8288ee862199",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 70,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "atmospheric horror",
-     "modern social‑media angle",
-     "strong lead performance"
-    ],
-    "complaints": [],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Fresh horror take that modernizes the classic tale.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:10:47+00:00"
-   }
-  },
-  {
-   "key": "movie-1236045",
-   "kind": "movie",
-   "tmdb_id": 1236045,
-   "title": "Animals",
-   "studio": "Artists Equity",
-   "parent": "Artists Equity",
-   "group": "Rest of industry",
-   "companies": [
-    "Artists Equity",
-    "Makeready",
-    "Fifth Season"
-   ],
-   "release_date": "2026-10-09",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-   "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-   "popularity": 244.8,
-   "tmdb_vote": 7.152,
-   "tmdb_votes": 402,
-   "imdb_id": "tt31049299",
-   "tmdb_url": "https://www.themoviedb.org/movie/1236045",
-   "tmdb_reviews": [
-    {
-     "author": "Dean",
-     "rating": 3.0,
-     "text": "Just another predictable, agenda-driven Hollywood production. Every time I watch something made in Los Angeles, I know it will be crap. So glad to be far away from that environment.",
-     "url": "https://www.themoviedb.org/review/6aca6bdcb02e5f0b3663b3b6"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "613e422c58b5",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -50,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "predictable",
-     "agenda-driven",
-     "low quality"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Viewed as a predictable, agenda‑driven production.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-16T06:11:13+00:00"
-   }
-  },
-  {
    "key": "movie-1058424",
    "kind": "movie",
    "tmdb_id": 1058424,
@@ -1475,9 +1257,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/qW1m7bcsRb2lo8xG2v0p4mARyH8.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 240.1,
-   "tmdb_vote": 6.881,
-   "tmdb_votes": 215,
+   "popularity": 294.7,
+   "tmdb_vote": 6.89,
+   "tmdb_votes": 231,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1512,7 +1294,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "6c2ed0a7fc2d",
+   "input_hash": "c736b117c9a0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1538,6 +1320,163 @@
    }
   },
   {
+   "key": "tv-288673",
+   "kind": "tv",
+   "tmdb_id": 288673,
+   "title": "Carrie",
+   "studio": "Amazon MGM Studios",
+   "parent": "Amazon",
+   "group": "Rest of industry",
+   "companies": [
+    "Prime Video",
+    "Amazon MGM Studios",
+    "Red Room Pictures",
+    "Reunion Pacific Entertainment"
+   ],
+   "release_date": "2026-10-07",
+   "first_air_date": "2026-10-07",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+   "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious tele",
+   "popularity": 273.2,
+   "tmdb_vote": 8.329,
+   "tmdb_votes": 331,
+   "imdb_id": "tt11540908",
+   "tmdb_url": "https://www.themoviedb.org/tv/288673",
+   "tmdb_reviews": [
+    {
+     "author": "Ryan Ting",
+     "rating": null,
+     "text": "Mike Flanagan (Oculus: Origin of Evil, Dr. Sleep, The Exorcist: Martyrs) created this television series on Amazon Prime Video based on the best selling novel by Stephen King. Mary Elizabeth \"Sissy\" Spacek, Emily Bergl, Angela Bettis & Chloë Grace Moretz were playing Carrieta \"Carrie\" White in film & TV. Now, a 22 year old actress from Manitoba, Canada named Summer H. Howell will portray the titular character where after her father's sudden, untimely death thrusts her into the unforgiving ecosyst",
+     "url": "https://www.themoviedb.org/review/6ac9d118d9a621cef579fdd6"
+    },
+    {
+     "author": "Harish Napa Janakiraman",
+     "rating": 8.0,
+     "text": "The debut season delivers a genuinely good and atmospheric horror drama that successfully breathes new life into an iconic tale. Expanding the story across eight episodes allows the narrative to build a remarkable setup, grounding the tragic descent in the cruel realities of modern social media, cyberbullying, and suffocating small town claustrophobia. Summer H. Howell gives an extraordinary lead performance, balancing fragile vulnerability and quiet heartbreak with an unsettling, raw power as C",
+     "url": "https://www.themoviedb.org/review/6acc50c4c0faa4f80bb7b9d2"
+    }
+   ],
+   "imdb_rating": 7.8,
+   "imdb_votes": 3419.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [
+    {
+     "title": "‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’",
+     "link": "https://variety.com/2026/tv/news/dancing-with-the-stars-pulls-val-chmerkovskiy-carrie-ann-inaba-slap-joke-1236915031/",
+     "source": "Variety",
+     "published": "2026-10-17",
+     "snippet": "“Dancing With the Stars” is benching Val Chmerkovskiy after his recent joke about judge Carrie Ann Inaba. “The well-being of everyone who works on ‘Dancing with the Stars’ is non-negotiable. Val’s social media post was inappropriate and does not reflect the values or standards expected of anyone connected with the show,” BBC Studios said in […]"
+    }
+   ],
+   "input_hash": "75055228ba4e",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 70,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "atmospheric horror",
+     "modern social‑media angle",
+     "strong lead performance"
+    ],
+    "complaints": [],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Fresh horror take that modernizes the classic tale.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-16T06:10:47+00:00"
+   }
+  },
+  {
+   "key": "movie-1423191",
+   "kind": "movie",
+   "tmdb_id": 1423191,
+   "title": "Resident Evil",
+   "studio": "Sony Pictures",
+   "parent": "Sony",
+   "group": "Rest of industry",
+   "companies": [
+    "Constantin Film",
+    "Subconscious",
+    "Vertigo Entertainment",
+    "Davis Films",
+    "Columbia Pictures"
+   ],
+   "release_date": "2026-09-16",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+   "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+   "popularity": 270.4,
+   "tmdb_vote": 7.3,
+   "tmdb_votes": 971,
+   "imdb_id": "tt35538033",
+   "tmdb_url": "https://www.themoviedb.org/movie/1423191",
+   "tmdb_reviews": [
+    {
+     "author": "magik_7o",
+     "rating": null,
+     "text": "This film is good, i really like the cast and the trame. This film have some problem in the second part of the film. The finale scene is bad. I can accepted that if you tell me there is going to be another movie. But this film is still good.",
+     "url": "https://www.themoviedb.org/review/6aaea8027d78cf7d7666f72e"
+    },
+    {
+     "author": "Nick",
+     "rating": 9.0,
+     "text": "Zach Cregger takes Capcom's zombie-outbreak survival horror and does exactly what a video game adaptation should do: capture the *feeling* of the games instead of slavishly recreating cutscenes. Rather than shoehorning in Leon or Claire, he builds an original story around Bryan (Austin Abrams), a hapless medical courier who stumbles into an outbreak near Raccoon City — and it works because Cregger clearly loves this world rather than just licensing it. The tense, blood-soaked gore is offset by m",
+     "url": "https://www.themoviedb.org/review/6aaf837733ff6bc5d9064ac1"
+    },
+    {
+     "author": "michaelgtr",
+     "rating": null,
+     "text": "RE? NO, a generic comedy horror. It's really hard to accept that 'comedy horror' genre is a thing, like this one. A Uber courier (with no car) sets out to make a delivery-sparking uproarious laughter in what looks like a festival of stupidity-and ends up dead. RE (game saga) centers on an imminent pathological outbreak that triggers a massive socio-economic transformation of society. A group attempts to expose the details regarding the responsible corporation-which defends itself by weaponizing ",
+     "url": "https://www.themoviedb.org/review/6aafff1600014ffbe29763a2"
+    },
+    {
+     "author": "TheFilmCritics.org",
+     "rating": 7.0,
+     "text": "The best kind of survival horror knows that darkness is not merely a lack of light—it is a promise that something is waiting just beyond it. That instinct serves *Resident Evil* remarkably well, delivering a film that finally understands the eerie isolation and creeping dread that made the games so enduring. The atmosphere is easily one of the movie's greatest strengths. Dark corridors, quiet stretches and an almost oppressive sense of isolation give the film the texture of survival horror rathe",
+     "url": "https://www.themoviedb.org/review/6ab2e91bdf9e806692253e8c"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": 96.0,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "3871955fc453",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 30,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "good cast",
+     "captures game feeling",
+     "strong atmosphere"
+    ],
+    "complaints": [
+     "second part problems",
+     "finale scene bad",
+     "generic comedy horror"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "A mixed reception with praise for cast and game feel but criticism of pacing and tone.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-16T06:11:13+00:00"
+   }
+  },
+  {
    "key": "tv-82873",
    "kind": "tv",
    "tmdb_id": 82873,
@@ -1554,7 +1493,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-   "popularity": 238.2,
+   "popularity": 252.5,
    "tmdb_vote": 6.2,
    "tmdb_votes": 73,
    "imdb_id": "tt9022950",
@@ -1596,6 +1535,65 @@
    }
   },
   {
+   "key": "movie-1236045",
+   "kind": "movie",
+   "tmdb_id": 1236045,
+   "title": "Animals",
+   "studio": "Artists Equity",
+   "parent": "Artists Equity",
+   "group": "Rest of industry",
+   "companies": [
+    "Artists Equity",
+    "Makeready",
+    "Fifth Season"
+   ],
+   "release_date": "2026-10-09",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+   "overview": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+   "popularity": 242.5,
+   "tmdb_vote": 7.065,
+   "tmdb_votes": 454,
+   "imdb_id": "tt31049299",
+   "tmdb_url": "https://www.themoviedb.org/movie/1236045",
+   "tmdb_reviews": [
+    {
+     "author": "Dean",
+     "rating": 3.0,
+     "text": "Just another predictable, agenda-driven Hollywood production. Every time I watch something made in Los Angeles, I know it will be crap. So glad to be far away from that environment.",
+     "url": "https://www.themoviedb.org/review/6aca6bdcb02e5f0b3663b3b6"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "01a8b3f84b76",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -50,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "predictable",
+     "agenda-driven",
+     "low quality"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Viewed as a predictable, agenda‑driven production.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-16T06:11:13+00:00"
+   }
+  },
+  {
    "key": "movie-1294189",
    "kind": "movie",
    "tmdb_id": 1294189,
@@ -1612,7 +1610,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "popularity": 138.8,
+   "popularity": 143.1,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt13611778",
