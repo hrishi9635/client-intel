@@ -1,6 +1,6 @@
 date,company,close
 2025-10-16,Disney,108.3116
-2025-10-17,Disney,109.0904
+2025-10-17,Disney,109.0903
 2025-10-20,Disney,110.3619
 2025-10-21,Disney,112.6685
 2025-10-22,Disney,111.466
@@ -15,7 +15,7 @@ date,company,close
 2025-11-04,Disney,109.8789
 2025-11-05,Disney,109.7705
 2025-11-06,Disney,108.9129
-2025-11-07,Disney,109.1593
+2025-11-07,Disney,109.1594
 2025-11-10,Disney,110.6379
 2025-11-11,Disney,113.2107
 2025-11-12,Disney,114.985
@@ -29,7 +29,7 @@ date,company,close
 2025-11-24,Disney,100.485
 2025-11-25,Disney,101.8354
 2025-11-26,Disney,101.9537
-2025-11-28,Disney,102.9788
+2025-11-28,Disney,102.9789
 2025-12-01,Disney,105.246
 2025-12-02,Disney,103.3337
 2025-12-03,Disney,104.2307
@@ -269,7 +269,7 @@ date,company,close
 2025-11-06,WBD / Skydance,14.5305
 2025-11-07,WBD / Skydance,14.825
 2025-11-10,WBD / Skydance,14.9723
-2025-11-11,WBD / Skydance,16.4351
+2025-11-11,WBD / Skydance,16.4352
 2025-11-12,WBD / Skydance,15.2865
 2025-11-13,WBD / Skydance,15.0901
 2025-11-14,WBD / Skydance,15.3945
@@ -533,7 +533,7 @@ date,company,close
 2026-01-26,Versant,32.0303
 2026-01-27,Versant,32.1077
 2026-01-28,Versant,32.5143
-2026-01-29,Versant,31.798
+2026-01-29,Versant,31.7979
 2026-01-30,Versant,31.5366
 2026-02-02,Versant,31.4495
 2026-02-03,Versant,29.9298
@@ -1819,7 +1819,7 @@ date,company,close
 2026-02-25,Wolters Kluwer,61.2328
 2026-02-26,Wolters Kluwer,63.5
 2026-02-27,Wolters Kluwer,65.4213
-2026-03-02,Wolters Kluwer,65.4789
+2026-03-02,Wolters Kluwer,65.479
 2026-03-03,Wolters Kluwer,65.3829
 2026-03-04,Wolters Kluwer,65.0563
 2026-03-05,Wolters Kluwer,65.7287
