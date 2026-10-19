@@ -3,21 +3,31 @@
   "Education": {
    "area": "Education",
    "mood": "Mixed",
-   "mood_reason": "Test scores are rising while enrollment pressures and data‑security risks create divergent signals for the sector",
+   "mood_reason": "Test scores are improving in some states while enrollment declines pressure many universities.",
    "themes": [
     "AI",
     "Enrolment",
-    "Regulation",
-    "Digital",
+    "Funding",
+    "Technology",
     "Policy"
    ],
    "top_stories": [
     {
+     "title": "Are rising ACT scores signaling COVID ‘recovery’ in Utah schools?",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTlUNkRnREpCandTWU1PMlVMMlhHWEVLQ01oMkpEckdtamhjdnBmQmI1a1ZRdElUcmhpZ2tFX2pUbFlrZ0plc1cwaVBTVWlEOUF1anp5VXNEMnJERFdKQWR4SHM2aExDRkQ1dndfMjRJNkREaHRLMlJqbHE4dTR1RzBKaDhrTTBFeGJWUEdzMlprR3BGRVpJVWZldWN0S3c0UzI3TXlqMA?oc=5",
+     "source": "Deseret News",
+     "published": "2026-10-15",
+     "why": "Rising ACT scores in Utah suggest post‑COVID academic recovery.",
+     "mentions": [
+      "ACT"
+     ]
+    },
+    {
      "title": "1 in 3 ACT test-takers retook the exam — and raised their scores",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOERaYV8tWndxbVd6OUdoVVFfY2c5UUs5a0lIdXhiVlVrN0ItQzFFcEk2eDVoVFRNNThoaC0zWmxKeV9mbTV5SHRoczUzMkpoX2FHVTZwMXRnelNlMmJvS3AxeFBRRUM0RXM4Um5vRVVSeDRFYW9iaTRsTTk1VlJpOXNiYXREOFpxS2JXa3hDdHFqV0o5TXYwc2VBbHZNSzFQbFFmOHI3cw?oc=5",
-     "source": "Higher Ed Dive",
-     "published": "2026-10-14",
-     "why": "One‑third of ACT takers retook the exam and improved scores, indicating demand for test preparation services",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmRzNFR1c3VmMlFJVTQzY2s1bEk1N1NmMTRocnhPVEFKeWRkNUhzRGlKTkh2NFVjNjVMdzhta0FrcnkydlFlRGZNcGdkbzlSaGZKaEREYXBwdU9NX0lZMVEzX2JHZVYtVWpDckZLamxYSlRUdERtZ1d6TUlFYjA0ZFRvQTRSREplbDdkbFZWX1JvREJ0SUVUQ2hzODdqQWY2?oc=5",
+     "source": "K-12 Dive",
+     "published": "2026-10-15",
+     "why": "One‑third of test‑takers retook the ACT and improved, highlighting the impact of test‑prep and coaching.",
      "mentions": [
       "ACT"
      ]
@@ -27,74 +37,74 @@
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWJRVFpBMzdFeWl5dTRTZkU4Vnc3MEc2dXVnNEE5ZlNwMnNvM0VPRXd2MXZoXzcwWEx2R0N0TGdjSmpValZCN3RVWmRfY1dKcEh1NW1oVzBoaGhpZWptMjBnSkV6QjhIbmhOcHhGWHhOVkNiV3JPZU4wUklZTm5fVVJlalZ2aTJEOEl0akxFMXppbjRLTWw5cmkzajFEQVVPYXk3QlBMUmRxUU95MktTUUJfd2o?oc=5",
      "source": "The College Investor",
      "published": "2026-10-12",
-     "why": "Colleges reinstating SAT/ACT requirements revives a major admissions data stream",
+     "why": "Colleges reinstating SAT/ACT requirements for 2027 will drive demand for assessment services.",
      "mentions": [
       "ACT"
      ]
     },
     {
-     "title": "Hackers steal personal data of millions of California students in massive breach",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkJhQlRoWUNLRDhBOGgxeWpPN25kOFRHQ0ZVSnFiaHM0S2w3aUhVTHVwTGtCWFUyWUtKRnI3QUFJTTNNVmZZNTV6VzZKaGVTTUtsMTdFdjR0azNJRWlqTmlCUWJvS0N0M2ZRVVJjUzdPQjRHOWduN0ZFM3pSOG1TLURQWW5TMDJyVUh3?oc=5",
-     "source": "Los Angeles Times",
-     "published": "2026-10-17",
-     "why": "A massive breach exposed millions of California students' personal data, highlighting cybersecurity gaps",
+     "title": "Kiwi edtech SupaHuman chalks up $2.6 million Series for Australian plans",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmJvV3pRVThkdHdxWmxzRGhvLXFvU1BYZFZTeUhSQy0yTEpGUFlXSTYyZkM3Uy1La180d1BmZUYwZ1pjcWE1dzVGdVRaanFDcjh1cmV4eGJpb0VoZ25ZN0dmZjZIbjBDUU8yZUJwb3N5X1Y1dzd6bkc0ZWJKQ0N6OWZrcFp4ckpZTW5JQ0xKSGNaUDI0Z3VDeVRJbEZmeVJLSWs1RGVuUHFxdVJySnJ1bDZjSnRWQQ?oc=5",
+     "source": "Startup Daily",
+     "published": "2026-10-19",
+     "why": "Australian edtech SupaHuman secured $2.6 M, showing investor appetite for scalable learning platforms.",
      "mentions": []
     },
     {
-     "title": "UMass Boston Offers AI Education Microcredential Program",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS01fUW9PYzc0QTdwTzB2X1JUdnhraWZlUlZiTnNjTTVqVFNGdGJ4MVJJaVJmaXpIV1BVUmRQaENDanlDZEJPN1M5aG1Ta3VHZDN0QW05VGV2SThTRDdYcHowU1JJLWdUdDQ2eXA1SU5udldVV25OZDNTelVEWWZmRVY3bTdWMHFXaXhqM3NlaEdlZTI2bXpTeEZR?oc=5",
-     "source": "UMass Boston",
-     "published": "2026-10-16",
-     "why": "UMass Boston launched an AI micro‑credential, showing growing market for short, tech‑focused programs",
+     "title": "OpenAI’s educator AI workshops yield reusable tools, but teachers want more practice",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXlzZzdZTHlXaEIxZmppdEg3WHE1Qm5xTVp1aGw1UlpiSFNsdUVyNUhfdHpYMHJIWG9ud0ppeDQtdG4xLTFtc3RSUG5qZDN4NEowblRqNWRzd2xvSGxFOTFKdWw4a1p6emt3ZDFuN21jTU1NWmI0MElqc2JKeFdJa25IMU5UclQtMTBqbEg1Y19VcHBnaWNOWXBDQmdzby1BZV90X2gtQlItUW85dzBKZzQxRmNjNjJkTkZ0LTdKOWo?oc=5",
+     "source": "EdTech Innovation Hub",
+     "published": "2026-10-19",
+     "why": "OpenAI’s educator workshops produced reusable AI tools, but teachers need more hands‑on practice.",
      "mentions": []
     },
     {
-     "title": "Georgia Tech Partnership Expands AI Education at CAU | Newswise",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblM3WEVLQmpESjg2eGgxeHVQWW5IWVQ5d1gwMVI2XzJTbEZDNTBOZGc0NWJWeHhNOXdFbElBU2x1OExJaV9HNEMwdnlGajlJUmFqZkVtQVpXbFFFSkp6T0Q3ekdTSjB5eHNROHBfUVJBSjhHUFpBLUFiVWthVFNMWUhpcHlBZHp6MVROQUx1UdIBjwFBVV95cUxQblM3WEVLQmpESjg2eGgxeHVQWW5IWVQ5d1gwMVI2XzJTbEZDNTBOZGc0NWJWeHhNOXdFbElBU2x1OExJaV9HNEMwdnlGajlJUmFqZkVtQVpXbFFFSkp6T0Q3ekdTSjB5eHNROHBfUVJBSjhHUFpBLUFiVWthVFNMWUhpcHlBZHp6MVROQUx1UQ?oc=5",
-     "source": "Newswise",
-     "published": "2026-10-16",
-     "why": "Georgia Tech’s partnership expands AI education at a Chinese university, signaling cross‑border curriculum collaborations",
+     "title": "Salesforce offers free Slack Enterprise access to UK college and university students",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTNVU3libnFiclNWNXFDYzcweHV6MFJOR2xnN1RoS0QxQ19fVDd2V0JOeERJd0o0VkxIcnhRN1lJLTdoRlg0dURmdlhaTFNNT1JkXzFtNFFpREQ0TkFhbGk1TEd6eHJNQ2lRd0gteWd2UGVtamxEM0dFbUwtaldHbDVZa1N2OU1mVDhIRmRwbUR6MkZmQVQ0bzRESE85c1lUZGlVcFBwVkVQZkZhOEROSXlDRUh2engwdGFPRmJONFZ0Wk0?oc=5",
+     "source": "EdTech Innovation Hub",
+     "published": "2026-10-18",
+     "why": "Salesforce is giving UK students free Slack Enterprise, expanding cloud collaboration in higher education.",
      "mentions": []
     },
     {
-     "title": "Delaware State University approaching 7,000 students as fall enrollment runs ahead of last year’s record",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDNmZnBWamtjLXpFd1p5d3d3QjR3QXk2ZjdfdGZQVVBUMEhvT1dYdHVybGFTLUZCYWNqajByU3ZaZjJwLTA2NDY1TUZrTll1UVd4SGlHT3p6SVF5OW9lQ0R0YUpVMnc0eFFQVHQ2dG51MXZRM0J6Vnp3c1ZkblN4ZEpQVl9mOEtFNEg3aW1LU3pfdV93Q1FjNE9OdjVXS25ReDdnRk5jZTFWVGNKRjU0UDd4MlY4blcyYTRQd3FwN1pteDhWWFFoUkdSR19HS0RmTHI4?oc=5",
-     "source": "AFRO News",
-     "published": "2026-10-16",
-     "why": "Delaware State University nears 7,000 fall enrollees, a record that may drive infrastructure scaling",
-     "mentions": []
-    },
-    {
-     "title": "AI’s rapid expansion across California universities raises new concerns for educators, administrators and policymakers",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSDUwbHgtbVdZendOMmQxWThSU3ZhVzYtcnY4b1F1bEVsUVo1UlZuNzc5QUhEbXZ2OGdkd19jSmx0dEphY1pMa1UwRThlSDdrNkFXQ2dzVW1jdF9JaXFoTWZMUnVqZUhsR1BZWk1laUFDNkNPVnluaW5MVlRCVUp0Q0JHRHBFeGVPZ1BLNE14azBRRjFmMGc3TGRVUnZwNTJBbTR4OXd6TjdreTlzeHE3djFuNWJYYTlwUk5vRnFpeTZ5SzdnRWxOb1pxRktNR0NpUE5jODBWNkNXODNxcFpOLW1WVFE?oc=5",
-     "source": "CSULA University Times",
-     "published": "2026-10-16",
-     "why": "Rapid AI adoption across California campuses raises policy and governance concerns for administrators",
+     "title": "AI training for state university teachers to be mandatory soon",
+     "link": "https://www.msn.com/en-in/news/other/ai-training-for-state-university-teachers-to-be-mandatory-soon/ar-AA2eu7uT",
+     "source": "msn.com",
+     "published": "2026-10-18",
+     "why": "A state in India will mandate AI training for university teachers, creating a large market for AI‑enabled teaching tech.",
      "mentions": []
     }
    ],
-   "it_implications": "Institutions will need robust cloud and security platforms to protect student data and support AI‑driven learning tools. Vendors that can deliver scalable AI infrastructure, compliance‑ready analytics, and secure integration services are likely to see increased demand. Service providers should also prepare for hybrid‑cloud deployments to accommodate enrollment spikes and new micro‑credential programs.",
+   "it_implications": "Institutions will need robust, secure cloud collaboration tools and AI‑driven analytics to support test‑prep, enrollment management, and curriculum innovation. Vendors that can deliver scalable AI platforms, integration services, and training will see heightened demand.",
    "tracked_mentions": [
     {
-     "company": "LA Times",
-     "note": "Reported the California student data breach"
+     "company": "Pearson",
+     "note": "Not directly mentioned, but its assessment portfolio is relevant to the SAT/ACT reinstatement trend."
+    },
+    {
+     "company": "NYU",
+     "note": "No specific mention in the selected items."
+    },
+    {
+     "company": "ACT",
+     "note": "Cited in stories about score improvements and test‑retake trends."
     }
    ],
    "unverified_dropped": [],
-   "analysed_at": "2026-10-18T06:04:53+00:00",
-   "input_hash": "dbf70865f3fa",
-   "stories_count": 592
+   "analysed_at": "2026-10-19T06:14:58+00:00",
+   "input_hash": "8e2f7a2136ca",
+   "stories_count": 598
   },
   "Publishing": {
    "area": "Publishing",
    "mood": "Mixed",
-   "mood_reason": "Major AI licensing moves and big layoffs create both opportunity and risk",
+   "mood_reason": "Industry sees big M&A and AI moves but also significant layoffs",
    "themes": [
     "AI",
+    "M&A",
     "Layoffs",
     "Regulation",
-    "Digital",
-    "Labour"
+    "Digital"
    ],
    "top_stories": [
     {
@@ -102,25 +112,35 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFJic2dCN2tTWk8yb2Z2clJGZEZmUkhJNENkOWE5Um5YRjRzN2tkenY1VXB1aDdfemZkQjNzenpmNzlIdWZrS0lLd0h5YXczWG9oZWV3VlpZdzNRd0RRbG40MHp5UnplT3lVWjJIV1h5d2NXMnBqSWlsODRNWF9CN1Z0NmtIYTNaWnNTUUUzMFBWOGdBWmdldF9uYWtSam1PeDVEbWlyWjZLdk5wLWVIZFAwRQ?oc=5",
      "source": "Business Insider",
      "published": "2026-10-16",
-     "why": "Disney is buying 66 Character.AI staff for $60 M, showing media firms are investing heavily in generative‑AI talent",
+     "why": "Disney is spending $60 M to acquire 66 Character.AI staff, showing major investment in generative‑AI talent for content creation",
      "mentions": [
       "Disney"
      ]
     },
     {
-     "title": "Google now pays 400 publications to feed AI features in Google News",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0dad0IzcmZjS1ZZN0FjeEhEVEtIMXViOUptOHRVSGJTMUl3YTc3ZnlFb1VTMDNMc3piZEZlN0xVREtOZ0l0WVBZUUhGelQtRlgxUmJWdkpnRUdGSTlVM25hNkJXT3VoNHBBc25aS3c2X2lHNWhZN1ZFcFVoRVNaejZuOTlSdU1CaGpuMkVB?oc=5",
-     "source": "PPC Land",
+     "title": "Paramount, Warner Bros. Discovery complete $81B merger – and hint at layoffs",
+     "link": "https://nypost.com/2026/10/06/business/david-ellisons-81b-merger-of-paramount-and-warner-bros-discovery-officially-completed/",
+     "source": "nypost.com",
+     "published": "2026-10-06",
+     "why": "Paramount and Warner Bros. Discovery completed an $81 B merger, reshaping the media landscape and likely triggering integration costs",
+     "mentions": [
+      "WBD / Skydance"
+     ]
+    },
+    {
+     "title": "Meta AI Terms Alarm Publishers Ahead of Oct. 30 [2026]",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nUTdEWHpPeDdMZXBPNDNiYnhUaXBVVFlPNk5SOS03NWpnTWh2alpIS0o5ak1zNFBXNXBnMHA5MnZyZE1XMkhMSHJFSVJDekVBM1VLWHh3UnJnWjRSZm1WNGx3UWRNY0tiVnc?oc=5",
+     "source": "shattered.io",
      "published": "2026-10-18",
-     "why": "Google will pay over 400 publishers to license their content for AI features, signalling a new revenue model for news outlets",
+     "why": "Meta’s new AI terms have alarmed publishers, raising concerns over data scraping and content licensing",
      "mentions": []
     },
     {
-     "title": "Meta Scrubs AI Training Language After Privacy Backlash",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmlUdjBMZmNDVGJ1Wk1RdGszYk9KckpmQWV0dTJ0LUwteFBPdFktdDB0cUJXV0FnSi1QcnJiamdZS1Jfc3BrS2txUG1PSG8tcmZfYTJBVGxqZE5qQllkVVQ0bDV6czhwcUo3dXNlbVlLd1Y0T0RyaWxJVHpYTnU3OV9EX0RxbDhPQzVCZVo1Y0lwQQ?oc=5",
-     "source": "The Tech Buzz",
-     "published": "2026-10-17",
-     "why": "Meta removed the word “train” from its commercial terms after privacy backlash, indicating heightened scrutiny of AI data use",
+     "title": "Harry Potter Publisher Wins $21 Million From Anthropic, Shares Proceeds With Authors",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelg0X1JwMGVXaC15VjIzbkhELXItVC1KSy1kNXZrNGgtMXB5aGNQWmwwc2RkUjV6Q1EzUXlRc3dSaTZrS0NVZThkQUtCWTVDVGNlU3I3VUFna1NrT2hBMDkycU5KR1dWY1RzM3Q5V2dvSGRDZXp4OUswV0lrS2NRRThCMUNhcXl2dk11RkNvajJNMGs3OXlTV3VPTElCcHpzNmZodG5NZE54YWFt?oc=5",
+     "source": "Seoul Economic Daily",
+     "published": "2026-10-18",
+     "why": "The Harry Potter publisher secured a $21 M settlement from Anthropic and will share proceeds with authors, highlighting AI‑related litigation risk",
      "mentions": []
     },
     {
@@ -128,58 +148,44 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWN4UHNmNWlaTWRjTHRmd1JtVERsSUZfelo3NkFrTUpLZUVEc2hQcUkwVmQ2Si05ZFIyay1MTFd3VU9oOHFPYVREam1wSUxyQmlrejdBVTRONldpTzktRjNQM0FQQnd3YlFnazdCdnBaYk12WGFyQjZRN2dIUkprczEzam14Mm1YZWpHRUlqdi1Id3QtQk9sVUY1V2Y1a2NZRE1kSk9B?oc=5",
      "source": "Big News Network.com",
      "published": "2026-10-17",
-     "why": "Netflix cut 6% of its workforce, the largest layoff since 2022, reflecting pressure on streaming margins",
-     "mentions": []
-    },
-    {
-     "title": "News generative AI deals revealed: Who is suing, who is signing?",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
-     "source": "Press Gazette",
-     "published": "2026-10-16",
-     "why": "Press Gazette detailed new generative‑AI deals, highlighting a surge in content‑AI partnerships and related litigation risk",
+     "why": "Netflix announced a 6 % workforce cut, the largest layoff since 2022, indicating pressure on streaming margins",
      "mentions": []
     }
    ],
-   "it_implications": "Publishers and media companies will need secure data‑sharing platforms and compliance tools to manage AI licensing and privacy requirements. Service providers that can deliver scalable content‑licensing infrastructure and automated audit capabilities will see increased demand. At the same time, firms facing workforce reductions will look for cost‑effective automation solutions to maintain operations.",
+   "it_implications": "Vendors should prepare for increased demand for AI‑infrastructure and compliance tools as publishers and studios integrate generative models. Consolidation will drive larger, more complex IT environments, requiring robust integration, security, and data‑governance services. Ongoing layoffs may tighten budgets, prompting clients to seek cost‑effective cloud and automation solutions.",
    "tracked_mentions": [
     {
      "company": "Disney",
-     "note": "Hiring 66 Character.AI staff for $60 M"
+     "note": "Paying $60 M to hire 66 Character.AI staff"
+    },
+    {
+     "company": "Scholastic",
+     "note": "Signed two new picture‑book titles in the Leaf Thief series"
     }
    ],
    "unverified_dropped": [],
-   "analysed_at": "2026-10-18T06:05:25+00:00",
-   "input_hash": "08e67ce874d1",
-   "stories_count": 394
+   "analysed_at": "2026-10-19T06:15:24+00:00",
+   "input_hash": "b415888684ca",
+   "stories_count": 405
   },
   "Lottery": {
    "area": "Lottery",
    "mood": "Mixed",
-   "mood_reason": "Brightstar’s licensing wins and refinancing are positive, but share volatility and debt concerns temper optimism",
+   "mood_reason": "Strong corporate moves coexist with high‑profile jackpot draws and regulatory scrutiny",
    "themes": [
-    "Regulation",
     "M&A",
-    "Funding",
+    "Regulation",
     "Earnings",
-    "Technology"
+    "Technology",
+    "Consumer demand"
    ],
    "top_stories": [
-    {
-     "title": "Stifel sets USD 19.00 target for Brightstar Lottery stock",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWl9sUDNaUU1kelVpc2pvdnVpVlN5MjNlRWdJX1g1N0lqWi1jUmcySldzR19vZ0szTWw0bTJrQk5sak41ZlVwRzJBMHpkc1JtRlk5VE8wZTFLZXFfVmxGWXRjMTF0M0lzQnBmVllBNHdxbHVpZ1pNMkhWODdCSkNfR1NTOU5WM2prbzE2aWVaYXg0czdCNlFLVFZfMnNyc3UwR0F1Q2JILWlQQVFKeF9WV1FTYW5HQlE?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-10-15",
-     "why": "Analyst sets a USD 19 target, indicating market skepticism on Brightstar’s valuation",
-     "mentions": [
-      "Brightstar (IGT)"
-     ]
-    },
     {
      "title": "Brightstar Lottery secures rights to Pan Am-themed lottery games",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDhselIwODl0MXQ3UHpvOFZzR2szSXhxcUNyNnFFbVZ0YnBab2pGa0FkVk5KSHpfdVB3Y0U0cS1WdFpuN3A1c193cFd6eEFBMV8yNWJZa0czRk5lZFAzUGRxNFptQnhFYlFtbHUxWkhpckFiS21CU0pIOFR2MUFiOXUtNVhTVEt1Q05hTXdQTjhqa28wYS02NGN0WGJfclNaRjQtOVVGN1RDQkRJSEFTbmdORnZkdzlBd0xmNDg4VmprV1hrajBEY3ltRQ?oc=5",
      "source": "Gaming Intelligence",
      "published": "2026-10-15",
-     "why": "Brightstar secures exclusive omnichannel rights to the Pan Am brand, expanding its product portfolio",
+     "why": "Brightstar secured exclusive omnichannel licensing rights to the Pan Am brand, expanding its portfolio.",
      "mentions": [
       "Brightstar (IGT)"
      ]
@@ -189,122 +195,356 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZmI1NVZzeVBSZDNvWWdzdVZhd3pEYnRiXzFhYmVaLWVEVXhmWF9FelpHOUk0YkpUR3hpVE9icDBVSklYOFF5ZERJTXJUZVg0Z2tnYXdEdHJoTE01OFFfSFVJZlMtNk5uSk54Y0pGcHVaTGRFems3U1dnOVQ1S1l4SE1pRUs5NlhZN016LW1YZ2s1LTlsSG00QzB4TnRvMExIdTBsWjhGNA?oc=5",
      "source": "Yahoo Finance",
      "published": "2026-10-07",
-     "why": "A EUR 500 million refinancing plan could reshape Brightstar’s capital structure",
+     "why": "Brightstar’s €500 million refinancing could reshape its capital structure and growth funding.",
      "mentions": [
       "Brightstar (IGT)"
      ]
     },
     {
-     "title": "Brightstar Lottery reports EUR 342.21 million debt tender: 9 analysts hold Brightstar Lottery stock",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGsxeE9DVVczN0RYY1JXMFZEaERoeGZiNUl5SDltMHNUdExhUVlSeU1fc2duZGFnY1RLZ1hQNUFPX05PaDhGc29NdjhpNWFuRXJkWFZmRmxQaGdaNVNwcUNKb2h4b1IyRG9nMjR0M3ZsWkZ2eU4za25YUWxhSC1nUDVjS0VGVDB4MVBZcHBYLWpiRlZxRkI0MTdJOTFScXVZWi0zMDdlVUVNNlpTWmttbk5yQ2lWSWV3YzJEWWNrdFZfZTF3M0tSdFJMbWdKTE9lZTV6LVB2dC1hX0RZUFdnZjBjejZxbUc0dWZrYzV3?oc=5",
-     "source": "AD HOC NEWS",
-     "published": "2026-10-05",
-     "why": "Debt tender of EUR 342.21 million shows active debt management but raises funding risk",
-     "mentions": [
-      "Brightstar (IGT)"
-     ]
+     "title": "Powerball jackpot climbs to $607 million for October 19 drawing - Here's what Monday night's winner could",
+     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONDlycVVwdHBEaU5vNVR1dU1Zd2ItVXpwbF9LTDl4NGtLX24zSEE4bXFjMExOQjZMM1EtdkFsQllqU3VGZGhUYTc1R0FleElLYkNkYndVNjVyYnpsdDNSNVRQZ2tSczVJa0JqSkdVUnM5SlFtMDk5bHRidU00cUFIMFlkWndlNjJlTXJHVWQ5NDRwNm14RXVYbUpBVllLVFVldlZsZ3lCVDRIQUFFMUhONDBRSVBidXY4cHN1R1l6bk4xT3l2RDlMMmRwQ3ZaZ0dFWXhWbGpreVhOaFFKcWhxWDNHVlhBazZ2ZTVRUkJ0T1pmM0JsZklHLVFVM3ZYb3o3dThaMUFJONIBjAJBVV95cUxNdEl0eWRfTDl5b2xUZlduYXNWSmVmR0N0ZTVWOVVUbU5uMzhaemNfeE1pTDBDSmp5NWtMeHJ4ekdHM183bjVfVFBOM0F4R2c5czZzdWxJVWpDMExUU0NxOWh0TUx5WEtBUDgzamU1b09WM2tycTllUHA0Q0V0aFhOaVpCb2RCbGNXVjB0R0JsVXUxam1fR2VhcE0xT0E1cEE4RnozdzVFN05oY0FvX0JFMEx2WjVXbFRGVkN6Y21Jbi1FY01wUW9heDRITWFnRlctMVMtc25kRGE2c2FDaEVacTgtSGFrNWlPc01FLXFXTkpPWGFwYWROZFRvUFFTLVpVQTJ4T3FoN1RyM1Q4?oc=5",
+     "source": "The Economic Times",
+     "published": "2026-10-19",
+     "why": "The Powerball jackpot reached $607 million, driving massive consumer interest and ticket sales.",
+     "mentions": []
     },
     {
-     "title": "OpenBet Completes Migration of Loterie Romande JouezSport Omnichannel Platform",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcG5ib0JERjhMUW5NWE11Qnk0SUNxX09mTkJrbmVERzJrMjVCeDB1UnF6RFh0QzAtWXBQTFk0ZnhPRFM5TVdlNnd0Rm16YjVrZV9ETzJUcFlfS1V4SEt5Q1k1QVJ0MzBOSXNzQjVUYmg5RFV1ZTVKaFRPMlNJV2FsbkYzZGcxajV2ZXdzOUVzRWFLUThid1cyanNfcHBfZ1pJLUxheEhyeEI1RC1ZSjRlUXU2X0RQbnUzSlFKQ05INHJXTlg5TlMzSUs2VQ?oc=5",
-     "source": "SCCG Management",
-     "published": "2026-10-16",
-     "why": "OpenBet completes migration of Loterie Romande’s omnichannel platform, highlighting demand for integrated tech solutions",
+     "title": "Aristocrat Interactive’s NeoGames Studio expands Kentucky Lottery’s eInstant games offering",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdUFVSUxDY2h2NGw5TXdwcmhMQ3JITzhhREhkYjRYbHUxUEhtbk9VdTl5N1d0Q2oyMGdBQVg4UXh3SDFjRWdjWmFHVjVla0FvSzFkaWpvYVBtUDY5Z0RWcGhxcWNiQWxWVE42ZHFRbzhQT3pFSnVIX001ajRoVXR1XzlVWVd6SnVkUmRGTmsyRDBPak56dTdGcUdRVjhQSGVjc3lQWGlZaTYxLVk0SU5Xck50VkROTHItMGNvZXN0OTUtX3dZX0RnVThB?oc=5",
+     "source": "Asia Gaming Brief (AGB)",
+     "published": "2026-10-18",
+     "why": "Aristocrat’s NeoGames studio added eInstant games for the Kentucky Lottery, showing continued digital product expansion.",
+     "mentions": []
+    },
+    {
+     "title": "UK National Audit Office to Investigate How UKGC Handled the Fourth National Lottery License",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2p0amZ3Y1UzVmdxRkJqUTdzUEMzM2d5d3R2VXN5RE1rcmhQbF9BNU5oZ3FtSk92Q3AzbU9tZjFXaXpxcTNBbTlNVjdkSDhLMVVxVUpJYjExUnFfQy13VEZsVnQyYlpyUTZuYUxkZGQ5R01OMDVNdlRDVm5jSWl2Y2NYbl9fUmVFZmRFbVBXNVIwMnJNeEo1bjhNRjZ2LU9QY3A1anlVOFpfVXNFTTBpT0c0SDdYNUF3R1RSRWhtd1F5a3U3Tmc?oc=5",
+     "source": "Gambling News",
+     "published": "2026-10-15",
+     "why": "The UK National Audit Office will investigate the Fourth National Lottery licence, highlighting regulatory oversight risks.",
      "mentions": []
     }
    ],
-   "it_implications": "The migration and omnichannel licensing underscore a growing need for scalable, secure platform integration and real‑time data services. Vendors that can support large‑scale refinancing analytics and legacy system modernization will find increased demand from lottery operators seeking efficiency and regulatory compliance.",
+   "it_implications": "The licensing win and refinancing signal demand for robust omnichannel platforms and financing solutions, creating opportunities for system integrators and cloud providers. High‑value jackpots and new eInstant games increase transaction volumes, requiring scalable, secure infrastructure. Regulatory probes underscore the need for compliance‑focused analytics and reporting tools for lottery operators.",
    "tracked_mentions": [],
    "unverified_dropped": [],
-   "analysed_at": "2026-10-18T06:05:51+00:00",
-   "input_hash": "4e69e681b55e",
-   "stories_count": 105
+   "analysed_at": "2026-10-19T06:15:51+00:00",
+   "input_hash": "765e7eddddf9",
+   "stories_count": 103
   },
   "Gaming": {
    "area": "Gaming",
    "mood": "Mixed",
-   "mood_reason": "Strong earnings growth for casino operators contrasts with tightening betting regulations and legal uncertainty.",
+   "mood_reason": "The sector sees strong earnings and new entertainment offerings but also tighter betting regulations and market volatility.",
    "themes": [
     "Regulation",
     "Earnings",
-    "Technology",
     "Legalisation",
-    "Policy"
+    "Consumer demand",
+    "Technology"
    ],
    "top_stories": [
     {
-     "title": "Spotting Winners: Bally's (NYSE:BALY) And Consumer Discretionary - Casino Operator Stocks In Q1",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFc1enFtR1dlUzlEcloySlJ0aDQ5aHBOempUOFhYWkRNM3VTQnFUeDY0RWhELVV4Y1lNWE9Ia055S0J5NXNYdllEQTJWdUhUdUtxTnc2TFJOSjlzTngwb0pwLTNPMXVLaFRrWXFhRW9GRXlFWTF4UFJyd1hwM0VQY3ItRzBMYmFvZUM3TjJCdXczWmdCT1NwV3hWVTc1TjYxTE1rdVlyUmJaMmh5LVlVOTUxY3VkVzBENkloWmtRSkp4Qk1qeHJQVXgxa2VVYXhDS1RDUGhiYTRwVHFpMHoxRTV0V2Fmdw?oc=5",
-     "source": "TradingView",
-     "published": "2026-10-16",
-     "why": "Bally's earnings highlight robust consumer discretionary demand in Q1.",
+     "title": "Q1 Earnings Roundup: Bally's (NYSE:BALY) And The Rest Of The Consumer Discretionary - Casino Operator Segment",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHlibzdtcTJYdXJ6N0lLbUtZOFI1a0ZITEhGT3hsT2lmVGZVcjJMQ3R4Y29PQkZYcFluam0zUHNXOHZRNE1PeXJfeFBxRTdZUmNPQTBNaF8xQVUwOFYyM1FTa2Nra2oySUZmSzNUeUdGMU1FWTV0SGowN2YyX2h0UFc1MnNwT1p4cUdfWUZVTm1nX0syeG9Ba3M3N0I?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-10-13",
+     "why": "Bally's earnings highlight solid performance in the consumer discretionary casino segment.",
      "mentions": [
       "Bally's"
      ]
     },
     {
-     "title": "BetMGM Reports Q3 iGaming Growth Amid MI Jackpot Launch",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHVISHV3VkVJMEcwUU9kd0dHbEwzVkRnX3hka0FDN3dYV3pSX3g2Mk0wME1uVkYyWEFJX2JRazZvU0JtRVRDLUNWUmVrQVN0Nnh2ZDN4NlJVaDJRSEQ4VmU1VG1lRHE1TlBicExha2p1YmM3NWdjOW44b2R2X3hZeXVaNF9TVHVVWHJsMVBib3MyUlR1YnQzbkFQU1ZrVFkyMHVZNWVSZHdLR0E?oc=5",
-     "source": "PlayMichigan",
-     "published": "2026-10-16",
-     "why": "BetMGM reports iGaming growth, showing the impact of new jackpot products.",
+     "title": "Macau Q3 Casino Revenue Falls 3.7% as Mass Baccarat Slows",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWdldTJyZGUzYjVRcURSN1NwakNEdzRDWWF2bE5yOVd0Zmp5Q0duQjBjejJFTnBUZEhYSXlseThTVWxXOWFKQ1BEWTdyMF9pVXhXUjQ2OVZrVkRVYXc2WFVQMVZzYUw3X3A4MDFIcWhCR2p5S0RVcllaclEtS1k2VlNEWk1YMmFmYmN0UHBKYw?oc=5",
+     "source": "iGamingToday.com",
+     "published": "2026-10-19",
+     "why": "Macau’s casino revenue dip signals pressure on Asian gaming markets.",
      "mentions": []
     },
     {
-     "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGkzY2hGN0FnSlVBM1RBTGlTZGZzN2NIWW5MQWE1OWVQemszZFFGRGp2YjVfWjFVNlFkOU5JMWNoWWNUbWdMUFJfdVF1VDFuZzI2bGEtcEhHNFY1azFnOElwaFNRNmw5Yzd5aDkwbENtN0VXWVpxMkt6RnFEVDVMQXE4QjlGQjlBcjlYWU5DM0RZbWJDSW1oYkNaU0Y5ZVRkOVVF0gGoAUFVX3lxTFBSSFRzXzdJVkNqb01zemY2NmRONVJPMnJrbHhhZDQ2dW1FZ2k0Q2hBc2dTdi1DMXAzZHByaVAybjNNOUNIRTVoblRTNnF2cWRHYl9vcHhoSTFZVm1XdVoyY2t0dDdHVTk2MHl0ZFlTQkl5THZIUi14eS0xUWEzTlhmWDJzWi1OSHV0bU5FVVY5dWswamtUNWMyUURTX19xLVN0R25uZzJuQw?oc=5",
-     "source": "CNBC",
-     "published": "2026-10-16",
-     "why": "NBA adopts AI to detect suspicious wagers, indicating deeper tech integration in sports betting compliance.",
-     "mentions": []
-    },
-    {
-     "title": "NBA, sportsbooks to restrict bets on single plays, other ‘low-likelihood, high-payout’ wagers",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlZnc3BCX1ctYXQ2Sjg0Vm5VOWFWLWEtWTJDOGhyLUlYRzFFRmpnVlVkVlh6VDhaYlpRcTRpWkY4cGUtSExib1hKZGJzYVJBSWV3clVhSl9FRVJwT1VvNDl5VDNHTXFXZ3dKS1NJYTFFR2hzWklVZVNWaVhDNG5Mb2FLOVBIbHB6Tl91WXA4VUI0NEZt?oc=5",
-     "source": "The New York Times",
-     "published": "2026-10-16",
-     "why": "NBA and sportsbooks agree to restrict high‑payoff bets, tightening the regulatory environment.",
-     "mentions": []
-    },
-    {
-     "title": "Alberta iGaming Transition Period Ends; Grey Market Officially Over",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONk1jVjdOcjc5ai1CRkZFZnFYU1VsQ0toOU5NMW5CNTN1TFllakFBY2kwR0tVTGgydGdrVEhNSjA4VEE0clZob2JhdmlWNGlKRThLOWNUX3hWZlM3QkRXc2dWWTI1SXpqOFcwT1BpbTkwZDFHVE56NDliYXg2WHJEWUZWY3poWEpxMGpENmRhOUZOYkNQV1FzaWNpeDZVcmdMakFHSGZmbWlNckxCUGtrTWVQODg?oc=5",
-     "source": "TheLines.com",
-     "published": "2026-10-17",
-     "why": "Alberta ends its iGaming transition, ending the grey market and reshaping regional licensing.",
-     "mentions": []
-    },
-    {
-     "title": "Where are Online Casinos Legal in the US? A 2026 State-by-State Guide (October 2026)",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmLVBvRG1DTWxxZGtLQkp6ZW9MemcxaFJRcU5TNkFPZ29SMlkyMTBjQ1R4cDhLZkZiRHB6LUNwbHV5V2VyMjh1RG42R3huVGhjSElHRWRaRlpJTkFrU0ZnNHFBSm8wQ21wNXBhdXJxdTI?oc=5",
-     "source": "SportsLine",
-     "published": "2026-10-16",
-     "why": "State‑by‑state guide maps online casino legality, guiding market entry decisions.",
+     "title": "NBA tightens sports betting rules",
+     "link": "https://www.msn.com/en-us/sports/basketball/nba-tightens-sports-betting-rules/vi-AA2ev5Ue",
+     "source": "msn.com",
+     "published": "2026-10-18",
+     "why": "NBA’s new betting‑oversight rules tighten compliance for sportsbooks.",
      "mentions": []
     },
     {
      "title": "NBA, sportsbooks reportedly agree to ban multiple types of bets",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZG5haW5ld2M0OXU1LUdCTHFwUlZqQXZtdnRHV2d0MnVjbmw5MmRRYmtSQTlObXozQnRaR0pkUWJSdDlWSE1zek45TUl4MXRRNGZqUTdwb3VrMFdFRGlhZFdncFV1NkdJc3IyUm0zd1MtVXFqNXMtRkl1S0ZLVVJlaF9SMjVLUmhhYW1hX09B?oc=5",
      "source": "Yahoo Sports",
-     "published": "2026-10-17",
-     "why": "NBA and sportsbooks negotiate bet bans, signaling industry‑wide policy shifts.",
+     "published": "2026-10-18",
+     "why": "NBA and sportsbooks agreeing to ban certain bet types further restrict product offerings.",
+     "mentions": []
+    },
+    {
+     "title": "BetMGM Reports Q3 iGaming Growth Amid MI Jackpot Launch",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHVISHV3VkVJMEcwUU9kd0dHbEwzVkRnX3hka0FDN3dYV3pSX3g2Mk0wME1uVkYyWEFJX2JRazZvU0JtRVRDLUNWUmVrQVN0Nnh2ZDN4NlJVaDJRSEQ4VmU1VG1lRHE1TlBicExha2p1YmM3NWdjOW44b2R2X3hZeXVaNF9TVHVVWHJsMVBib3MyUlR1YnQzbkFQU1ZrVFkyMHVZNWVSZHdLR0E?oc=5",
+     "source": "PlayMichigan",
+     "published": "2026-10-16",
+     "why": "BetMGM’s Q3 iGaming growth shows the impact of new jackpot products on user acquisition.",
+     "mentions": []
+    },
+    {
+     "title": "Las Vegas Airport Plans Multibillion-Dollar Expansion",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTM0cl9lZThKOUtTakMtYUJROWZxOG94NzlGcmlSblNUNWEtT2FCOS1GM1NseHJyY1RhY01ReXVocUx0Zko5S3ZOZE9uOHpLOGc3X28wR0FteTFOTWw3dnlSenFpU01TVWhXdktDaFczU1JDUkd2NHYwcE5vbmJxSmFuMUVjclFtR1E?oc=5",
+     "source": "Casino.org",
+     "published": "2026-10-16",
+     "why": "Las Vegas Airport’s multibillion‑dollar expansion creates demand for integrated tech infrastructure.",
+     "mentions": []
+    },
+    {
+     "title": "U.S. sports betting: Where all 50 states stand on online sports betting sites",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSnNmUnpnLS13WlEyY0xBMnhHQVFtNUNhazlON0JaMTFvZzJ5UVR1MjdLa3dvOHVOSnhQdTJNSkFkNjlCTy1Ra096TFdCQUZjX21XOEQ3QnhvMVdMa2dZUW1jVVNPRmc0alkwQmZxV0ZWTFRWSm5MYzY1Wkp6TVRuRC1VWU9YOUVJM05wV2Q3TWZWYXZLRnNsSnp6NGVyZFBveTZaT3JZeXIxN3RsQlNnN0VNeTkzTzFaWTBEUDZUZjIyT0JMRmQ2Y1J0RWRCTm1NNWl4S09YNm90YnlFNjE2Ug?oc=5",
+     "source": "CBS Sports",
+     "published": "2026-10-16",
+     "why": "A state‑by‑state guide to legal sports betting maps the evolving regulatory landscape.",
      "mentions": []
     }
    ],
-   "it_implications": "Operators will need advanced analytics and AI platforms to comply with tighter betting rules, driving demand for real‑time monitoring solutions. The end of grey markets and clearer state regulations create opportunities for cloud‑based licensing and compliance services. Growth in iGaming jackpots pushes vendors to deliver scalable, high‑availability infrastructure.",
+   "it_implications": "Operators will need robust compliance platforms to adapt to tighter betting rules, while growth in iGaming and venue expansions drive demand for scalable cloud services, data analytics, and digital signage solutions. Vendors that can deliver secure, real‑time transaction processing and integrate with legacy casino systems will be well positioned.",
    "tracked_mentions": [
     {
+     "company": "Caesars",
+     "note": "Multiple items celebrate Caesars Palace’s top‑rated hotel status and new entertainment residencies."
+    },
+    {
      "company": "Bally's",
-     "note": "Featured in earnings analysis (item 1)."
+     "note": "Earnings roundup underscores Bally's strong financial results in the casino segment."
     }
    ],
    "unverified_dropped": [],
-   "analysed_at": "2026-10-18T06:06:17+00:00",
-   "input_hash": "8442aa003322",
-   "stories_count": 412
+   "analysed_at": "2026-10-19T06:16:17+00:00",
+   "input_hash": "7aab7d7c80c4",
+   "stories_count": 419
   }
  },
  "items": [
+  {
+   "area": "Education",
+   "title": "OPINION: In a prison writing workshop, I found refuge and a road to understanding the “untold stories” inside us",
+   "link": "https://hechingerreport.org/opinion-prison-writing-workshop-i-found-refuge/",
+   "source": "The Hechinger Report",
+   "published": "2026-10-19T06:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Kiwi edtech SupaHuman chalks up $2.6 million Series for Australian plans",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmJvV3pRVThkdHdxWmxzRGhvLXFvU1BYZFZTeUhSQy0yTEpGUFlXSTYyZkM3Uy1La180d1BmZUYwZ1pjcWE1dzVGdVRaanFDcjh1cmV4eGJpb0VoZ25ZN0dmZjZIbjBDUU8yZUJwb3N5X1Y1dzd6bkc0ZWJKQ0N6OWZrcFp4ckpZTW5JQ0xKSGNaUDI0Z3VDeVRJbEZmeVJLSWs1RGVuUHFxdVJySnJ1bDZjSnRWQQ?oc=5",
+   "source": "Startup Daily",
+   "published": "2026-10-19T05:42:27+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "College Enrollment Is Up, but Completion Isn’t. Coaching Can Help Close the Gap",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlJHMnJDcXR1U0g5ZzZva1kzYmZvbHdzSmt3c1hMY1pNemcwSy1Qb1hiSHY0VFEySDAtZ25yQWVQSG9QV2RsUkQ2Q2dycnpQNWJfY0xGR092NzZ2TzdNUmNwdThULWRfWFFsVm9VS3otbzNQbHVDSGlDbmVrMTNHbWFRajRveWJVSkszbWc5clE0TUdyT3o3aVJwcXZfMXF4aXU4RG5qNE9OOEZ3UE13ak54M0NpYURQRC0zc2NhNGtjVzNoNXhjY0RpOTVqeWlibWNKdEdHWXM0SFJL?oc=5",
+   "source": "RealClearEducation",
+   "published": "2026-10-19T03:23:21+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "ETIH Innovation Awards 2027: 26 Categories Open [2026]",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5NUFRSFVCSFJEM3RYTXRZVFpCNWEwdXZCOC1UX0k5RHliVWgyYnVOMXhKblc2NVVtUGw5QlFNaF9wVTBFVHJkVllEUXJLS1JDV2RiQVNFNlBkVHExcjBOekRJZExrQTVaSTVjNEVvWENhczJCYmt3VzhiSTU?oc=5",
+   "source": "https://tech-insider.org/",
+   "published": "2026-10-19T01:22:49+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "New program at University of Arkansas at Little Rock aimed at educating future AI professionals",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRjhqajhPbkI5QWJSbXNnMFJFT2tPTkhVenRqN0RWVzlDamVNRm93Z003ZmZPNTkwSDBoNm9rT3hCXy00TmNPVnJNUDU1TjhHU0liN0VBX3JtaW9CT3UxbEFFa3F0WDJsZnV3N2dVOGN6R0NuaDlaRmtGVTZjTXlWd1NlVWw1dERsV2NrbGYtckdWV1RhTEE?oc=5",
+   "source": "Northwest Arkansas Democrat-Gazette",
+   "published": "2026-10-19T00:45:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "ETIH Innovation Awards 2027 are back: 26 categories open for entries worldwide",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDJIeHJCOENjd3dkQzJEdzN5TDZRYmc4ZC1NcDR5RmxIenFSUXAxRjJsVXRvczJ0YlZvSFJFV3VTRV92VnA2NmJmVWRmQkJvOVpYdFdkS2JIRjVwZ3dDa0VsQXVUbXFCeXNsamUzYVhHRVBMck1MZndpNHllS1pEUl90UlJSdF9OQXBrb3l1TXFEV3dFYmppQUZYemF3WTl5NnNobmZraXpxZzBlaU5CemJfZ1lRSDMxNWc?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-10-19T00:30:46+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "OpenAI’s educator AI workshops yield reusable tools, but teachers want more practice",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaXlzZzdZTHlXaEIxZmppdEg3WHE1Qm5xTVp1aGw1UlpiSFNsdUVyNUhfdHpYMHJIWG9ud0ppeDQtdG4xLTFtc3RSUG5qZDN4NEowblRqNWRzd2xvSGxFOTFKdWw4a1p6emt3ZDFuN21jTU1NWmI0MElqc2JKeFdJa25IMU5UclQtMTBqbEg1Y19VcHBnaWNOWXBDQmdzby1BZV90X2gtQlItUW85dzBKZzQxRmNjNjJkTkZ0LTdKOWo?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-10-19T00:00:09+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Watch Cornell University’s Basu on US-China AI Race",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVJINmNNbWwzblI0XzhrMV9ZZ2doaHMyeW5STVN6MFdyY0RMY1U4Y2piTkY5N053N2g5RElfSHRDMm5oNkhfNnNzS1A1ZkZyakxrZE42Z2o1NEpsTGhyQXkzeWtWTzlDT25EN2ZLam1FY2FsdWR3NVlWZmR2THlaNXlKcHQyWWVLMEN2cnRoZVBxT1RhcExxQnhMYWhQZ2NLa1E?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-10-19T00:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Salesforce offers free Slack Enterprise access to UK college and university students",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTNVU3libnFiclNWNXFDYzcweHV6MFJOR2xnN1RoS0QxQ19fVDd2V0JOeERJd0o0VkxIcnhRN1lJLTdoRlg0dURmdlhaTFNNT1JkXzFtNFFpREQ0TkFhbGk1TEd6eHJNQ2lRd0gteWd2UGVtamxEM0dFbUwtaldHbDVZa1N2OU1mVDhIRmRwbUR6MkZmQVQ0bzRESE85c1lUZGlVcFBwVkVQZkZhOEROSXlDRUh2engwdGFPRmJONFZ0Wk0?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-10-18T23:45:47+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "QED Science adds preprint scoring to personalized research discovery",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalpCMl92eTFfLWNwWnp4cXRCeGx2U24ydVRpR0JjaGl2ZnRnV0hUenZ2NzlCNHoyV3ZNOTVLQklBU1FXVkNONmktTW9JZ0hSd1h3WkdvY0tnTi1qMXAyem9nMnYyaXU0Y2o4YjZleGRkY3V2RDVBNlNvaElLd1liWElPdFF5MTM5aEpycFFJdVlHa3RHbTNyQ0VlaDFfaDVWZ0N5VjYySHhtcDBjNXc?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-10-18T23:15:39+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "IIT Bombay student suicide highlights caste oppression",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlNyLWlJT2gwUUxKLVdGbWNvMVUyRTY5RjN5TGFjY1VTNXlNMmFlYVJkOENKTFNpVWlMVXhmTklBcE5iNlNiWXM0amhCc1NRUEFQeHVIREVpREQxZmdkOF91UEFnVEV1NWVtQXRZRnVnSmI3S0I2bWkxSUl3UlJpNlcxZEVlU205TWFUcWxVVGYyVnk1NlJIZkFBbmgxb2c4?oc=5",
+   "source": "Times Higher Education",
+   "published": "2026-10-18T23:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Dying to climb the Ivy? How to survive the race for a top spot",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeG5OODMtZWFDRmlvaFlyV0VnZ0p6TTIxa0F5cG5SN0tFMDRjTjd0SDJMeFNUMDdPMmtkNnRPckhmc3kxNE9Hb1RMY1JXQ0FFMzk5MVJfYmxwRG9tZnE5TFVmZmV3b243Z1ZnSUs4ZHBMSjBwUVlCYlFHdVNMbVBaeUFQMDZsYVY1d3RFMmhidW55SGgzSWxKbDZqa2FvY28zdFByd1J4T1hrM0ty?oc=5",
+   "source": "New York Post",
+   "published": "2026-10-18T22:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Found 7 Full Time, Biloxi jobs",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfVEk2SV9zdmE2Y1ZhRlZXaTl2aTRnNDgyWldSeUdXN0U5UzdrMzVsUjNtX2lEVVNucDhGWFdhM2VTWXFDVE1PYlFzYkpBVkl2VGZYR0J4em9yeWhqb3RaTzZoRDRoT0di?oc=5",
+   "source": "Inside Higher Ed",
+   "published": "2026-10-18T21:03:06+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Roselle Public Schools Host Virtual Academic and Test Anxiety Forum",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUVJTnlOYkVsVGJ1VkJUazFSaEFHbnJNLWFlWV96bnNnSzBQdzBxcWZLbmE2dzVRRmh2LVdpZW45YnByVzIzYU1udDJNQ2s0RG54S3FBRzBSN19UZ1FPMllZWnNncTN1b2V2bG1lbS1ZVnpwVllzY2UweC1oUE9ValFjMldQTHFWaUhBZktiMzNlNWdwYlA3YktfYmQzdXhLZFc4ZTNmQkx5LW5Nb1Y1ZWN5UVE?oc=5",
+   "source": "TAPinto",
+   "published": "2026-10-18T21:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Facilities Management & Sustainability C-Level & Executive Directors jobs",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONVJZQlFvVWIwRDJEOWFqYVU2blRtMGhaT2FVWDBLZTZrRk9MdVFVV01GNEFaSmxuQ1BHNmZZczZmcXpqamotbXF6dWd5QlRyaERKclVnSklzUm9sakRiX1VwVGdrelpTWl9QNi1Qb1EtWDdPSllfby1rczBRSVZGelJlOWttMDhocWtNNW9fanBqVFE3N0JPZGUxTXVwcjNJclhFaDdRWUtLcjI4azVLSFFEeUtabkt0T1FLUmE3WjMxbmNhRklCekNUNS1jQ2xZeVJFNDhTcGFRYW5YZjI3anVLS0ktY2RyTjdB?oc=5",
+   "source": "Inside Higher Ed",
+   "published": "2026-10-18T17:27:35+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Test Scores Show California Students Struggling With Reading and Math",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemFTR1BBSjg5QjdHWTY4aDZuR3hmWWVTZmpETmViS1Y1RFhMT29TTjAzZTlsX3RVWm9HMUVMUkZxUF9yQ0ZFOFM5WV80WDE0Ul9GMl9YbDVNc1NOQ25kU1RZZWRqTUpOLWJ0QWJJMlFQMWsyY1VhMWlZRHpqMHJNS1VvNGt1NXNFcm1maUF0WEVtcTRrMlV5NENsQWVmZzZvYWZ0YTJVNUNKVjhUeWdfTlhR0gGyAUFVX3lxTE16YVNHUEFKODlCN0dZNjhoNm5HeGZZZVNmakROZWJLVjVEWExPb1NOMDNlOWxfdFVab0cxRUxSRnFQX3JDRkU4UzlZXzRYMTRSX0YyX1hsNU1zU05DbmRTVFllZGpNSk4tYnRBYkkyUVAxazJjVWExaVlEemowck1LVW80a3U1c0VybWZpQXRYRW1xNGsyVXk0Q2xBZWZnNm9hZnRhMlU1Q0pWOFR5Z19OWFE?oc=5",
+   "source": "Le·gal In·sur·rec·tion",
+   "published": "2026-10-18T17:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "HKU and Global Cybersecurity Alliance jointly establish Centre for AI and Cybersecurity Research",
+   "link": "https://www.manilatimes.net/2026/10/19/tmt-newswire/pr-newswire/hku-and-global-cybersecurity-alliance-jointly-establish-centre-for-ai-and-cybersecurity-research/2448348",
+   "source": "manilatimes.net",
+   "published": "2026-10-18T16:59:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "GMIF2026: AI Inference Powers the \"Token Factory\" and Drives System-Level Rethinking of Memory & Storage",
+   "link": "https://finance.yahoo.com/technology/ai/articles/gmif2026-ai-inference-powers-token-030000667.html",
+   "source": "finance.yahoo.com",
+   "published": "2026-10-18T16:59:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "It's a 'paradox': How AI hiring tools try to prevent bias",
+   "link": "https://www.msn.com/en-us/news/money/its-a-paradox-how-ai-hiring-tools-try-to-prevent-bias/ar-AA2enC52",
+   "source": "msn.com",
+   "published": "2026-10-18T15:51:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Zhejiang University Issues Model AI Law as China Moves Toward National Legislation",
+   "link": "https://www.caixinglobal.com/2026-10-19/zhejiang-university-issues-model-ai-law-as-china-moves-toward-national-legislation-102494706.html",
+   "source": "caixinglobal.com",
+   "published": "2026-10-18T15:44:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Redefining Standard of Care: Texas Oncology’s Model for Universal Biomarker Testing",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JJZ01TN1dyUEQzZDFYSHRNaEpyOEJDamYtRXhyTUprelZmUHRwS0FjbzdQczZ5MmcwYWRSX1RQNUhmblRzWkFNR3NjSlIyWTUwd0ozR1hVNXlUZDdaYzJCZERsVUVEeER4MnRacEhYVFVGTWhvYmVLWFp2NUdGeS1ST3ZKTVJ1UG52c2pMTmlhdWJzNE1rbTZnMFhzYVRMMDd3T21KNV9jeVpW?oc=5",
+   "source": "The American Journal of Managed Care",
+   "published": "2026-10-18T12:36:50+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "How to enter the ETIH Innovation Awards 2027",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZy1ieVlQcWRNdlIzcWUxamIzbFozS0JBdFl5QXkzUS1vRlNiaUJ6WFhJcktselRBSE1uZVRMSFI1Vk5mMk5ncG94NktTS1Fud01jZEJNMTVFVXduMUJVRGdXNUhwUlBqVFV5T2wyNm5xWUdnRGNUY0RFWDdTVHdHTUFyNVpRSDU0c25abExHMW5OVG1lb1hSZ0dtLUctekRidlJTRUVuYjZwRlQ2?oc=5",
+   "source": "EdTech Innovation Hub",
+   "published": "2026-10-18T11:42:45+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Adams State University is welcoming more students as enrollment declines elsewhere",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPWjB5YTA2am80SjJOdVUzRWswMG1Hb3lJTEdGSnFxb19JZEpXQzN4ekg1Smd1cU50Z1g4U2RwTlhtVE9lU0tkeUVfaVNCM1Z4c2dUcjBTN2hNejIzY0lnSnlRd0J3ckgzaVozZXBXM1JKQVltMlZn?oc=5",
+   "source": "Colorado Public Radio",
+   "published": "2026-10-18T10:01:55+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Ohio universities face consolidation pressures as enrollment drops",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVktzRTNtaHdZaHNXWG1NRnRkcWRVaUVnLWNDS0gzbGU1YzNWMFkzMDJvcm9fdExEeGJ3d3FEREpTLUZ0cTJwdXdCZFB3VXhOcDFIVkRzSWNJcDd1ZEZYMFNwTGh5ZWNNdVRfeVgwaEQ4RU5HV3RaZDJrQ2hkc1dJSV9SZXFJWjVpZ0ZhNVd6VzhlSTZKMlhWWWlvWXQ1ZUhKUVloYlpLRlozd1RVQTIxNTJnVzVkaGlocHhfXzZSU0YtM09aM3JHcUJVN3hVdllSV1E?oc=5",
+   "source": "The Columbus Dispatch",
+   "published": "2026-10-18T09:01:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "AI training for state university teachers to be mandatory soon",
+   "link": "https://www.msn.com/en-in/news/other/ai-training-for-state-university-teachers-to-be-mandatory-soon/ar-AA2eu7uT",
+   "source": "msn.com",
+   "published": "2026-10-18T08:13:02+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "The growing rebellion against screens in schools",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYnI2LXBiR3d5aG5iME1XSnhubEIzTm9VZlVDY1dSaXFzNmdCelF5bDE4YTM5UGxhZnBrcWNJRzRrUWVQX2NQbzNkbWxtbF9MSmFWdUlXMVMwcWo1TG5FdEVFN1dDaFZUcDltd3YtQ21Za3RIb0l1WlpJQXNJVkVabjdDSWdlUQ?oc=5",
+   "source": "The Spectator",
+   "published": "2026-10-18T04:53:39+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "Higher Education News, Events and Jobs",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM2NGUDlPTHFnRWFzekdhZFpvVGxHTFdNbzc5MkM2NkE4eWVBU2lVN1Y5andYQmFXUnBSUnJ0UjFrbW4wZTNBdFhGT3dMSjlSS1VUM2pHSk96WUthN00ydUpvblMwQUNLallqdFNlV3h1eDJDNUdJTUtiUExFRmhoSFV3VjRqRzBJUnZzSnJjNjE5LVU?oc=5",
+   "source": "Inside Higher Ed",
+   "published": "2026-10-18T03:15:43+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "In the AI era, it's not just the smart who win. The 'power to create value from scratch' shared by the University of Tokyo's new faculty and martial arts",
+   "link": "https://note.com/dandy_toucan7622/n/n2de20764b9b5?hl=en",
+   "source": "note.com",
+   "published": "2026-10-17T23:13:00+00:00",
+   "mentions": []
+  },
   {
    "area": "Education",
    "title": "Meet Jared Cooney Horvath, the neuroscientist taking on screens in schools",
@@ -315,18 +555,10 @@
   },
   {
    "area": "Education",
-   "title": "How Conversational AI Could Reshape Business And Society",
-   "link": "https://www.forbes.com/sites/anjanasusarla/2026/10/18/how-conversational-ai-could-reshape-business-and-society/",
-   "source": "forbes.com",
-   "published": "2026-10-17T21:10:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Harvard and Cambridge to attend Hong Kong forum on role of humanities in AI age",
-   "link": "https://www.msn.com/en-xl/money/general/harvard-and-cambridge-to-attend-hong-kong-forum-on-role-of-humanities-in-ai-age/ar-AA2esWtH",
-   "source": "msn.com",
-   "published": "2026-10-17T21:00:16+00:00",
+   "title": "Wider societal impact ‘is the reason we became academics’",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnd5b2NkU2NWOEI5Nk00a1dRNzdqSTkwZUZ0VkZPQ2VmdVdhNkkyc3ZxTW8xN215bzhSQXA2V2tPbklmWlp2QlczRHhRQlVROE9vMzQ0djAtS3NEVWwwSUcybXVxeFFSOVdwNDMwclY4d081NWI1aEZ3OUhOVW5zb1BHYmtSNVFnNFZJTGJhaFhTX29Z?oc=5",
+   "source": "Times Higher Education",
+   "published": "2026-10-17T23:01:00+00:00",
    "mentions": []
   },
   {
@@ -335,22 +567,6 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQal9zQlNaTThRaGpiTTV2X2Y2Y21tVlp4TTQwVmtwSWpRcks1V2R3QW5NWFNDRENmLUw0NndNMlRHTThwUjJaRFRjSzBkVXg1bDRENHI5aVlIMkcwbzA5c2cwNzViZWNFaGwwY3dRZm5qMUYxNzdEeGR2cTRmbmpIOVZGQjg2cFB4bDh3OGRZVWVlLU51X1BLWXpxbWczTzJZaXZjb0E2V0dYeWVLNERMeDdR?oc=5",
    "source": "MyChesCo",
    "published": "2026-10-17T19:34:05+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "$137 Million in A.I.-Generated Ads Flood the Midterms",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVEtX3pON0QtaEJ1RThfMzhTMEVSbVA2WVJhYXNXTm5fRV94Wm54aUhjbi1tWEdDaVZHbWVPUzY0eEczTWFRUkYzVGx6U3E2MFFSY3dheTlLenVqaVpYdlpQLUp0bm5NaEpRWUpHNEFNcW5tay03MWVmUXpVSFFRYjNfNWdmTEp0aGlSS25SZw?oc=5",
-   "source": "The New York Times",
-   "published": "2026-10-17T18:24:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "University of California got rid of the SAT in admissions; it may be on its way back",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpjS0gxZWVGcGJWU2pMWjZia0ExNkwxTTlTd1BSRDZqVThlcGJ4TXhSZ0JTNmpRRXlRT2poZ1FYNVMyazRBQTBzTU5WQ1BmODhHUi1YN1RpcG1FdC1oa2RxZk56Z280LW5kSldHaXViSFVhWnM2RWJuU25oTVNoS2MzUGJ1cmNHZUowUl9PcF9scm9YYjhGTDA3VkY2LTVQYVV2amh3TkxtN3RjclBFRg?oc=5",
-   "source": "Santa Cruz Sentinel",
-   "published": "2026-10-17T18:20:48+00:00",
    "mentions": []
   },
   {
@@ -403,26 +619,18 @@
   },
   {
    "area": "Education",
-   "title": "University of Texas researchers model oilfield wastewater as a cooling source for AI data centers",
-   "link": "https://cryptobriefing.com/texas-wastewater-ai-data-center-cooling/",
-   "source": "cryptobriefing.com",
-   "published": "2026-10-17T10:03:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "With too many outstanding graduates, the Minister suggested reducing the enrollment scale.",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVZRZzRwWUUyY1B0ZEl0cF96em4yYUVBVEZvUnMzOHZKSWVIeEpNeDRoelY3c0ZBSkZpNGVjU2tTNWd6WmYzZW9TTXdiMFZpVFF0ZERoV0NYWkFNTk1rOENPZXAxb21lQk1LbENzZmJKdU9HZVdGYlNieGlndUFGNTBwOFl0ejJsU2ZCeFRPcnVHc0ZCZW45VE5KRjg4MXhuV2tiVjlWVjFfZw?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-17T09:11:15+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Found 19,565 Employer, Full Time, United States jobs",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGhYT1R1RG9JYWtDZmZibW1qYVNGRkNOMEZRWHJqSW1GV0hUNVlQd3AzTWZFT0ZWTncxSENsekFNbE40MUZtM1lvYTNDbWVZNjVIRTN4dE9hV0FCRi16UF9iVDEzOUc0dThlUmhsRXliQmJhZU5DQkhXamVWOVhrVTlNUQ?oc=5",
    "source": "Inside Higher Ed",
    "published": "2026-10-17T08:39:03+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "$137 Million in A.I.-Generated Ads Flood the Midterms",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVEtX3pON0QtaEJ1RThfMzhTMEVSbVA2WVJhYXNXTm5fRV94Wm54aUhjbi1tWEdDaVZHbWVPUzY0eEczTWFRUkYzVGx6U3E2MFFSY3dheTlLenVqaVpYdlpQLUp0bm5NaEpRWUpHNEFNcW5tay03MWVmUXpVSFFRYjNfNWdmTEp0aGlSS25SZw?oc=5",
+   "source": "The New York Times",
+   "published": "2026-10-17T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -499,6 +707,14 @@
   },
   {
    "area": "Education",
+   "title": "They’re back: Bay Area high school students sweat out entrance exams again",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS1c3eGloelNjeTNMNEYzdnp3UW90ZFQyU1V5T3IxOUh0ZHV6aXZNUlM3UGk4ZkEzMjE0WERCVjJHbGJNMVh3Z2cyNWxXN29ZT0dxY1d0WDhPSWVhN3otZE9vekNESm1JV2tLd0pnQURXOXlwRVRTV1NWVU9kdWNBbEFJRkxmVm15VEh0NkhVZU94WE5HOU01NlRBTnI2cFdiRG1HQmVrRXc0XzkyeUYwenNR?oc=5",
+   "source": "The Mercury News",
+   "published": "2026-10-16T23:51:18+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
    "title": "Hackers steal sensitive personal info from millions of California students in massive breach",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaDUySUVvNFV4UlR0RDhxRnRmeU1fWTIzSEV0bjVtWVpUQ3k5ZExNV0ttdjktQ2tqN0g0ekZydmwzSFpNWjh6T0tOQTYxMXZib1QzLXdULVo4ZzhQTFpSaW9FbVR6YmkzOS1fbXJLaWN2Y3lNQVdwMGw0dXlsZkZCZ1FzcVJ4MjJ4d0J0YTBQdHZRMWk1cnVBVXBiZ0IxeUp1X3BCZw?oc=5",
    "source": "New York Post",
@@ -547,22 +763,6 @@
   },
   {
    "area": "Education",
-   "title": "AI reading of graduate names at Oakland University commencement draws pushback from some students",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNCV1hIVmw4aHF3VjVzRzgxajBnSnJzbVkxZjdnaXpNMml2YWtadDFsOXhOMlJIUUVsWXl1bmJUY1lYOFJrSDhPcm5Ec3lSQk9YTS1tZWNiLTlQWGpUNlowdzdSSndJaTBYSWwtT3pNUlZadjJjTk5POG0tRkZiT3BMUksxcFJoV0VBTmVXWUdTTmFDZkNTbW1VZXpPbldHd1dzOXV6enlxbTNhalktWWlCWnRZaWlFWUE?oc=5",
-   "source": "WXYZ 7 News Detroit",
-   "published": "2026-10-16T22:56:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Higher Education News, Events and Jobs",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdDQ1ZXQzSXFUQnJNdmpDTWtzR1kwV1dmbktUQ1JpVmxFSk04bm5uME8yUGZweHlxRmNxckpaUG54X0lEWlI0QVN0aDZ3bXVaVFFaaTRfVllobDFHM1k5NGR0TzNPYXZaSHlsVnhDamhFTXdCNVRUdTFiejNFVC1SMmgtTWdQc21nemRsTXlBdmVaeEE?oc=5",
-   "source": "Inside Higher Ed",
-   "published": "2026-10-16T22:52:11+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Yale workers demand fair contract, and reins on AI, in largest university rally in decades",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDVzQ1pLbFJVRVRYLTIwZ1FWMjNsV2NJMDBDb1JrcGszaGZnU0lZNlA1VFg5WmxmRUhfb0ZuN2ZkU2pDY3ZJcFFuNUdfbHljZ3ZJelpwMDlJOGI3b1JGNllMcmhzSHoyZWFyZ3J5Ri1QLUN3WlZDTXVXeVB5NURySTZlVVlPLVR1WlRPcVhSXzgzSDBRVThvVURLVW4wakktdkZxd0d3YlRFdWZJTEU2eGJyRk9qTFZnYzlKQWZOcG5UbG5TdnZkLQ?oc=5",
    "source": "Connecticut Public",
@@ -595,6 +795,14 @@
   },
   {
    "area": "Education",
+   "title": "Georgia Superintendent of Schools: Incumbent, challenger both call for cutting back on standardized testing",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZUJkQjNxV3ZaYzhwcHl4amt0eGEyWWNsZGJZd19zTFFXZVpTMWtFZ0psMG9SWTVpSjJOcGdIQ1Iwb092VTZiRmQ4Uy1nT0lwZnljOXdQREw0WlFRai10X3kxZEV0TTZOdVNaN3JEQkJQV1MtWFQ3VkRzZnZKeTZIOVI1bzdnczRwNlItbTZOZXhXTVpXVHRla1lXNlNyUTFvZGRXMWJNMkxya3Q2V2I3NDRfcEt5QXh2T3dTZW94R1NmRFY4ZmJqemxDSmhsUUFxVjU0WVRTS0hleXhreUphSl9B?oc=5",
+   "source": "Albany Herald",
+   "published": "2026-10-16T21:30:12+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
    "title": "Idaho State University Reports Another Year of High Student Enrollment",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkZXWTN2clNuR21VWXYyXzVJVzV3bmxTQ3g0YjJNQW5NMVdlY1E1Z1NkWnpXbUoyLVBtaTU0NnptekV6Z3hfRzJnZlZmZU1YR0phcW5sOVlwOWJCNlZsT2J6a3c4TGZGVC1wX1QtdGxhbjVNT1hMdGY2SEk5QlB4THJQQXNveUVwcEhjZW9pb2ZGNEpUMzhvcllXMGJoV3RoSkFCR2VXbjZ4Ty1vV1F3?oc=5",
    "source": "Idaho State University",
@@ -619,10 +827,10 @@
   },
   {
    "area": "Education",
-   "title": "Reaching Backward",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IX3A5TGtvS1ZpTkJLYnlfcjJiS1lRbl95OHpYMm9UeDJLRTNyNGhPUndOckd4ZzRzZkFrWWxuSGJteWh3SUxjTEhzWHI5b05HOWNzQ0lyZmsyMC1CbjRGNnFhVDNZZE1wcUcwNkt6c3FsVGpGd05SX2NZUFA?oc=5",
-   "source": "The EDU Ledger",
-   "published": "2026-10-16T20:34:41+00:00",
+   "title": "AI reading of graduate names at Oakland University commencement draws pushback from some students",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNCV1hIVmw4aHF3VjVzRzgxajBnSnJzbVkxZjdnaXpNMml2YWtadDFsOXhOMlJIUUVsWXl1bmJUY1lYOFJrSDhPcm5Ec3lSQk9YTS1tZWNiLTlQWGpUNlowdzdSSndJaTBYSWwtT3pNUlZadjJjTk5POG0tRkZiT3BMUksxcFJoV0VBTmVXWUdTTmFDZkNTbW1VZXpPbldHd1dzOXV6enlxbTNhalktWWlCWnRZaWlFWUE?oc=5",
+   "source": "WXYZ 7 News Detroit",
+   "published": "2026-10-16T20:03:00+00:00",
    "mentions": []
   },
   {
@@ -643,14 +851,6 @@
   },
   {
    "area": "Education",
-   "title": "USF Unveils New AI and Cybersecurity College Building",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTkRzQmRxakMybmdMVXZrYW1WSTNPcjBncjBYUWlNalBHSnhKbFgzdG0yNFhObVBiOWR1aDVhaUV3VjNqd3o0NXRyY2JCeEdfNDl2UndYNzhHM0VBMmZvS0xWNV9TNWdwWG9XQ0FR?oc=5",
-   "source": "TBBW",
-   "published": "2026-10-16T19:18:30+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Trustees Announce AI Certificate, Advance Florida Expansion",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNellXU2FiYkxSZnQwbGlqU0VaYXZ1amF0TVVVaEU5X3VORHdVbzNBMDl3ZXZpRnA3VzdmWU10M1Njb1dVZTk2VXpwOV9fQWY5SzhfeFFmZTdGQVUwQ2IzcXJiZzdBTG5jNlZibzhKUjZxN2VVckc4SmdZdzg4V3NwQThTMEJsRXlEc3c0Xzkwb05VQzJCTEF1X0wwWQ?oc=5",
    "source": "Cedarville University",
@@ -667,18 +867,10 @@
   },
   {
    "area": "Education",
-   "title": "Professional Fields jobs | Employer, Tenured & Tenure-Track, Four-Year Institution, Asia | page 2",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEQzcmp0SWg4MDg0ZlZPN1otS08wRDQ3bmE2SFV1WFRSRVJ6SEdHRHVwai16dGZCVzBXX0M5NG4zZEZLYnFFNVRBeVgtUGNjOVNPM2IyeDhmMU00cjUwcy15cmM5c0lHU0tTUjBVbTJReU95a0Q3TGJ3RFdVZ25LTWtiOGhsU0Q5SjM1cGtkc3BXengtTnIwSkFuZ3VWUFNLUGhNbDA0QmNWVGlReEdoRG1yYUU2alZfUTJiQWo0NzM?oc=5",
-   "source": "Inside Higher Ed",
-   "published": "2026-10-16T18:40:56+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "AI 305 Conference brings tech leaders to campus to explore AI’s impact",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVExMjR2b21DeVpmQjFMeWVkLTY4SkZTVTNjOTJYdHBMOGxMQ0w1TWJSajJWNUY5S2h1MGo4TklmZ2lNcGhNa1dvNXhoTktIWFFrd1NNU0FZZU5Bd1BjZFpKTmlQTGM4NGF4LUxfdjd6TjI1VTJzT2Y5SFVpUEdhSDktTExYM0FI?oc=5",
-   "source": "Florida International University",
-   "published": "2026-10-16T18:28:00+00:00",
+   "title": "President Kim says USC will re-consider SAT admission requirement",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hVE54ZEptMmJkOHJwb253VFBfM0Vfc3JmeDNmbW1uZkU4MV9JOXRGblZKLVlEMlgxMi12amhQZWFZUEtHRHNqMDNHNTE2S040V0pDbEI0bGNORmZKLXFEaWw1MzNyT3puOFFXZ3FYUVFXQQ?oc=5",
+   "source": "Los Angeles Times",
+   "published": "2026-10-16T18:22:58+00:00",
    "mentions": []
   },
   {
@@ -715,14 +907,6 @@
   },
   {
    "area": "Education",
-   "title": "Students outraged after Stanford University uses AI to alter race, appearances in promotional photo",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1hoemxIUTYzckY1Yy1zYzRoZ19ia19Pem14dmVpanpxbVJpSk5ZQkpzUGxXN0VCV3JVelZNc0tuTXg4aW1WSGtnbHVSTWtFdDdxOURnOTE2cXc0SFFNTzB0M1gyQzV5RmtlMEtvVFlPcHVpVmZad3pmN29UdGIxZlRKclNmTEhIemUwai1rMXM0U0J6eW5xR0p3elJ0YWQx0gGmAUFVX3lxTE8yQzgySngxdG81TURBNXptcUxiQm8wa0Qzcl9tWEQtc0wyVWRXcWdodWZlemlJOGFNUkI3M3dOVG5HNTNQbWNEamNuem1VbktxMk1iYTdXRmktclJUU0Q3U3lDWmhkUkVEdWVuRVJULUxtYXlhSEFZXzdQN1BZRVVaV01TQXJuRk9Fcms5RmlOc0txLUdSU0U3LW5tQmVBLVZJc0c5WGc?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "2026-10-16T15:47:39+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Google HBCU RISE Summit Equips FAMU Students, Faculty with AI Skills",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnEzNXBacDlCLUpkTnhQTGhnWk9fNm5GUHZjOS1zc1d2U0dQMnhMaDlLMy12QVpCaVhzY3B6dF9JQk93YlY3d2JCaDA2dVEyNFJfTlhrWjl5YW42RjlrcW9xbXBUeWQ2TmRENDR1eFJRbHJIOV9aV3YwTXhmZ2VfMkhIdjlMMlVwdWI2YklpWFFrRks2dktBY0t2VXBUMHc?oc=5",
    "source": "Florida A&M University - FAMU",
@@ -734,23 +918,7 @@
    "title": "From Volleyball Player to Dean of Enrollment and Student Services at FSCC",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYklUZzVOcjBoNmMweHdJZ0JZbklqU2pLOFY1M1huM0hWMDRmdDRoM1B2dVE5bjA3eURJM0MzWEF0QlZQR1ozZldnbG9fY2VubWhTWWV1bDRPeEpzRU1rZzJGLUR0OTM0S0JaY1pWOUpHazcySTd3cFJ2Ung4aEx3Q0d2WEw0c2dFSEFoTkpBN1l5YlpUdmc?oc=5",
    "source": "Western New Mexico University",
-   "published": "2026-10-16T15:30:50+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "The growing rebellion against screens in schools",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYnI2LXBiR3d5aG5iME1XSnhubEIzTm9VZlVDY1dSaXFzNmdCelF5bDE4YTM5UGxhZnBrcWNJRzRrUWVQX2NQbzNkbWxtbF9MSmFWdUlXMVMwcWo1TG5FdEVFN1dDaFZUcDltd3YtQ21Za3RIb0l1WlpJQXNJVkVabjdDSWdlUQ?oc=5",
-   "source": "The Spectator",
-   "published": "2026-10-16T15:10:10+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "74 Educational Products Analyzed: What Strategies Are Driving the Fastest-Growing Companies in the Industry?",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZQzg1aTZUa0k2Z2VlNlNra1pYOTl4NWlYUmp6V0p3YWduNEZXdk80ZkNucld5VHE2Z3FwWEk1VDdlUUhaU0trR1ZQSzVmalJPVVRN?oc=5",
-   "source": "36Kr",
-   "published": "2026-10-16T14:42:54+00:00",
+   "published": "2026-10-16T15:00:59+00:00",
    "mentions": []
   },
   {
@@ -779,26 +947,10 @@
   },
   {
    "area": "Education",
-   "title": "Howard University and Google are teaching AI to understand Black voices",
-   "link": "https://www.msn.com/en-us/news/other/howard-university-and-google-are-teaching-ai-to-understand-black-voices/ar-AA2eo1Zf",
-   "source": "msn.com",
-   "published": "2026-10-16T13:30:34+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Edtech’s Second Attempt: Can AI Deliver the Learning—and Profits—the First Wave Promised?",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajRSQzB2UkJtZjFoLVBQVDlRVUltWHh5cUthbHlOelZvV3Y1V1p4emdoZWpHdks2d1RucnV4c1RNWWVESXVxYlZfQXd5SU9RYmRKYnJtd2g4ZHdJN2FzRjY3dWNHRTF5ek9wNEU5X0hOaU1CUGwzd1pxeldLeWhDa0ZValNjUUwyTXJKLVBkVjNjd3plcVJQNkdBUUs4VGxob0hzLTBxZTBRV25uQmpTWmtQNEY4Nnh0RnFpekJR?oc=5",
    "source": "Open Magazine",
    "published": "2026-10-16T13:28:30+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "From Shark Tank to Seed Round: EdTech Week Names Eight Finalists Chasing the Path Skillmaker Blazed to $4.5M",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVGV2QWIxUVpteG5UZzFCTkpSWjdqcGZQbGVaYldQTWtoaDRxQTFDYXBIVS1xM19tbldiSW9QRnJleEFRcUpuOVZ2cVRUel93b0hTdWlVVFJocXhmd2FxV0hUZmNyXzlkMFhiUm1TTFBSNjdvZ3lmQWd3d3lZMDhiY2FrQmp5Z0s3QllmZFVxSDBOMllXclhCejBnN0VDWUJwZHNLWU5oc3g2eVRfUVRzZ0FzN2JFNnRZanFCLXpzTnpXNlkyVTVMWjVGUl9jTHlEd0dWd3oyby0xdm1BUzNKZllsVEVuM0E?oc=5",
-   "source": "PRWeb",
-   "published": "2026-10-16T13:02:00+00:00",
    "mentions": []
   },
   {
@@ -811,10 +963,10 @@
   },
   {
    "area": "Education",
-   "title": "Redefining Standard of Care: Texas Oncology’s Model for Universal Biomarker Testing",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JJZ01TN1dyUEQzZDFYSHRNaEpyOEJDamYtRXhyTUprelZmUHRwS0FjbzdQczZ5MmcwYWRSX1RQNUhmblRzWkFNR3NjSlIyWTUwd0ozR1hVNXlUZDdaYzJCZERsVUVEeER4MnRacEhYVFVGTWhvYmVLWFp2NUdGeS1ST3ZKTVJ1UG52c2pMTmlhdWJzNE1rbTZnMFhzYVRMMDd3T21KNV9jeVpW?oc=5",
-   "source": "The American Journal of Managed Care",
-   "published": "2026-10-16T12:26:56+00:00",
+   "title": "University of Nevada cybersecurity conference to explore risks, rewards of AI",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZWIzendVMVQwNnJBSldYM1J1Z294d1Uta0NtZnNPMlJ6ajhJM3k5akkzWkZEUlNzZkJ4WnlOcm8tRm1hSWN0QV9PY1B5Nzh6c2w3bHFOOUtXS3hmcVJpOU5DelZyTG9HbC1uLUw3M3FlNWNkM1kwdnU4WDRuQTYzS1pQNzNUZlkyMVh5U1dwdWdrV25Qb21FVGxnMWY0VWFXYnpRdlRHWUdhLWU2U2hLQ19uZ0J4V1A3cXVpWmdZcjVuME50X1ZvY1RRQWtsVXdHZXpNWnNtZE1xaHJoWHo4V1pBdGE3X1lpbkJfZUo1TkM?oc=5",
+   "source": "KTVN",
+   "published": "2026-10-16T12:31:00+00:00",
    "mentions": []
   },
   {
@@ -867,14 +1019,6 @@
   },
   {
    "area": "Education",
-   "title": "Human Judgement Is the Most Powerful Technology in the AI Age",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2JvRHRJd2Iydl9nWnc1RkpLZ1h3TVlNdWU1NWZNakZWci1KTUN4VTFxREJkam9fX2ZVLXZuRTB1ZG1HUVM0U1VOTGJYOGZHbWJNMlpLOE12Z19DdV8yUGstc3VHTGdlbnN6Ri1RdjNlYnpGMXRJZmc5YWVhbnNXNmJuNXJST0UxVmZLTkxIRWxQOERPeExNR1lhbUtpNW8?oc=5",
-   "source": "Time Magazine",
-   "published": "2026-10-16T10:00:03+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Jean Chalopin on AI, Education, and Giving 300 Million Children a Chance to Learn",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVFyWV9BNUxmRngxQkZhWUx4TnhadUxVNmNDbjRBektuN2NUeUFhNEdyT2M2bXNlM0ctQ2F2Wk1NaG1FMEZxNi0ya3RuaXFPbElaelRtT3NfZEptdmEtZ1IxZ09yR1B5Tl9LcGxkbDk2STlhTTZSTGE0Vkk4bXk2QW12Z0ROTjdLLXN1MjA1T2tlOUl3UUVFOHdFcFNMcmFnMEdqVnFCVzZxYU1LSEU1UmlOWUhFUFB0dlRPMg?oc=5",
    "source": "EdTech Innovation Hub",
@@ -883,18 +1027,18 @@
   },
   {
    "area": "Education",
-   "title": "Why AIDegrees Is Becoming a Resource for Students Searching for the Best AI Master's Programs",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzhLQnpJcTlCdmFvU0ttVDdBNGdnMkhtRnd2NG42b09xTUpBdU5aYVU0RF9jSnRRWk1VT0lIUEtDNVIwOU9iWENWdi1OQ2dmSklpU0lLWjhOMS1TUC0tczE0UnVjNVltOER5aFR0a1pYWGdicmZvTzhQOVB2ZzZUbS1XaDVQRm9jSnJqR2ZUTUQwc0tPUy1KRVdaYVFQLTFmNnc?oc=5",
-   "source": "TechBullion",
-   "published": "2026-10-16T07:51:20+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "University merger cost-benefit analysis slated as ‘nonsense’",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckxBU2pYRFJUSkw2S01FT2t3NHp4VFMyZnZlS0tLSDZIRDMtVzVDejJuaVRneGI5YXhsN3hEYlllU0swNTRpbDRFWHRKYW1CLVMzb1JTTVJzcF83aDhHMXREejJXeEtKQWFsZ3hLUm5qeUtsNjQ0ZW9mbVRmcnNGVkhFbUJGUVdqRUp3azJ0OA?oc=5",
    "source": "Times Higher Education",
    "published": "2026-10-16T07:41:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "COMMENTARY: Preparing rural California means investing in people, not just tech",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1WTAxdjNUQ2h4d2tJcUthcUVVRWdyTlJRRzkwVnhDSHlmbzhmNmdMVFhoNDNfbGl0RU1lcXg5alZJcFV4ZlZmZFBDd1NDWWpzU1VqSGdweHJqQ3E4TEZNWkUxcHdoV3ptUHhj?oc=5",
+   "source": "EdSource",
+   "published": "2026-10-16T07:14:19+00:00",
    "mentions": []
   },
   {
@@ -923,6 +1067,14 @@
   },
   {
    "area": "Education",
+   "title": "What Can One English Course Actually Teach?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ19SR1BYblFJWGpnOXFBYjZVZmxGTDMzMU1ZNzR2dHBhRElEOGtLeE0xNWVMenZMeGJ5bTZBcHU4UU9RdXQxMTI0VkVGTlFHWUJ2ZVBxQkZ6VWZSM2RSUVF3UTJ5eHRyNTFGeFFaWXNsRENWdjNjVmNEVkVjZnJQOE1nRElMdjV1Q3VqWk8tOEJESjV2QnJLbEwwcmtxRnNMWFctdG1lSmdTSnBPREE?oc=5",
+   "source": "Inside Higher Ed",
+   "published": "2026-10-16T07:01:07+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
    "title": "‘Kids These Days Are So Sensitive’ and Other Misconceptions About Gen Z",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpXNmQ4Y3pYdXJJdV85LWllNU16V2lfclVIN04yX2FKaTV0c2NfUkgzQTRQd2JpUDNYT3JrOUxoSlVfeWgwWW9qT1U4aDBjcGF6Y1MyWHJIYWRLaGZZdERRVzFWT3RKb1lKNVNCMmhoNVEzbUs5RWRUdDNfUmdiS2tNck9uVVFBUURtZTVERHBObDlmTVE0T2RZRGw4VTRCZ0RfNkc2TE9iTVJn?oc=5",
    "source": "Inside Higher Ed",
@@ -939,18 +1091,18 @@
   },
   {
    "area": "Education",
-   "title": "What Can One English Course Actually Teach?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ19SR1BYblFJWGpnOXFBYjZVZmxGTDMzMU1ZNzR2dHBhRElEOGtLeE0xNWVMenZMeGJ5bTZBcHU4UU9RdXQxMTI0VkVGTlFHWUJ2ZVBxQkZ6VWZSM2RSUVF3UTJ5eHRyNTFGeFFaWXNsRENWdjNjVmNEVkVjZnJQOE1nRElMdjV1Q3VqWk8tOEJESjV2QnJLbEwwcmtxRnNMWFctdG1lSmdTSnBPREE?oc=5",
+   "title": "The Surprising Upside to Classroom Distractions (opinion)",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnp2eURsZVQ1TXNJLVJXcFVKQUZ4VFprZmlQUW91ZUM2c29Kb1JyYkFzY215cWJzem5BNFNIR2JNWEkxcGFCajc1eU9SVWtQN3FkZTNYeVFnMW0zS3dxRDR4c2d3TDhnME9PMlFLZUtVajhEQjZoWk1IOVdrTjQyczR0SXR1U1BpYTdqNkVDbzhMa2FkMktIOUF1UVRFUnZEZWloYUxTeDc5TENaTDhMLTZMU0txaWExckNlbkR3?oc=5",
    "source": "Inside Higher Ed",
    "published": "2026-10-16T07:01:07+00:00",
    "mentions": []
   },
   {
    "area": "Education",
-   "title": "The Surprising Upside to Classroom Distractions (opinion)",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnp2eURsZVQ1TXNJLVJXcFVKQUZ4VFprZmlQUW91ZUM2c29Kb1JyYkFzY215cWJzem5BNFNIR2JNWEkxcGFCajc1eU9SVWtQN3FkZTNYeVFnMW0zS3dxRDR4c2d3TDhnME9PMlFLZUtVajhEQjZoWk1IOVdrTjQyczR0SXR1U1BpYTdqNkVDbzhMa2FkMktIOUF1UVRFUnZEZWloYUxTeDc5TENaTDhMLTZMU0txaWExckNlbkR3?oc=5",
-   "source": "Inside Higher Ed",
-   "published": "2026-10-16T07:01:07+00:00",
+   "title": "Reaching Backward",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IX3A5TGtvS1ZpTkJLYnlfcjJiS1lRbl95OHpYMm9UeDJLRTNyNGhPUndOckd4ZzRzZkFrWWxuSGJteWh3SUxjTEhzWHI5b05HOWNzQ0lyZmsyMC1CbjRGNnFhVDNZZE1wcUcwNkt6c3FsVGpGd05SX2NZUFA?oc=5",
+   "source": "The EDU Ledger",
+   "published": "2026-10-16T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -1011,22 +1163,6 @@
   },
   {
    "area": "Education",
-   "title": "Private Higher Education Leaders Warn Strict Regulations Threaten Viability",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWVJjRHl1VFNsc3BVa0k5ZTBnX3ZEcFVZeEJsOVBqVkdZWFE4TkE3anZmd2dHd2hULV9GLXB0SnhBTUloeW9TcWo5MVN5aDNaNHJtLTZaT2pGRmhnMnFWOEtIQi1OSTNjckU4YUFiaTkxSUNGdDh6ZUZvQnk2Z0hhZXRpd2lnZlMxcUZmSGFrTHppRXZnUExLRF9fRlA?oc=5",
-   "source": "Borkena",
-   "published": "2026-10-16T03:59:13+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Found 1,808 Employer, Full Time, Pennsylvania jobs",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnVMelFicExZa1dJZG5JSVE1NG83OUxGM2MtaGgyTlQ1MUJmOTRBSU9ZMnA2aUtfekhkMFBjMDBrVnpYUHBsdmg1aTBBcTJzQUtxb3BsN0FGVzRsMEt3MG1xVkFsT1hranRQakJOUklfNVJIV3hJWEZDS1JqamN2YQ?oc=5",
-   "source": "Inside Higher Ed",
-   "published": "2026-10-16T03:24:47+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Found 6 Employer, Postdoc, Four-Year Institution, Charlottesville jobs",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXy1yRXJTLTI5WWtqTE1jeFJWY0FVSFN0eUptcUdSbHlFZ3hkWjV1VlZIbHZ3X3dIa0lnb1NGT1lUU1kxSEIzd0hsaDM5YWoyNGtxSVAxLVg5WmQ5a0ZMbElLX3I3emJseWR6b0RLSkJmamVhcmFkbHlzMFZQUkplNGIzNm4xZHdCRWN5ZS1SUHdpT1BtakZOaE9NUlptc2JvZmFvNzlR?oc=5",
    "source": "Inside Higher Ed",
@@ -1059,18 +1195,18 @@
   },
   {
    "area": "Education",
-   "title": "SMC reports highest fall enrollment in nine years",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWR1SS0xMHVlZTBMMnJYQ0tYTDMxRmZkQk8xVnRzWDVIaVkwcWRxT2o1WC14STBlNVY2QU9CVzEwTjAtR0UydDVDdlhOVXB6cFhaLWx0aGd5UlZfQ1dlWExkbXJZa2R6Zm1wQkI4dkVTakI4dERLd0xsamNEcTBSckNxZ01EcklDWmc?oc=5",
-   "source": "News/Talk/Sports 94.9 WSJM",
-   "published": "2026-10-16T01:02:41+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Victoria vows to double elected membership of councils",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHVSRGM1bG5Bd3ZDVl8yQ3JVSDhmQWlWQkZzYjJ3aGlnTVpsemxJNEZlc19fU3hJb1BTNk1WWUVQczdPUzM3VmN1UkJFaXJxWHpZaEpPcWR0MW55RENmM0UtMTBoUGlCR0FBUXc0SWVLTHZvalI0c3pQOEVLN0NZYzZhaVFtVEZsbXdFVWFubDNlSFBi?oc=5",
    "source": "Times Higher Education",
    "published": "2026-10-16T01:02:30+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Education",
+   "title": "SMC reports highest fall enrollment in nine years",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWR1SS0xMHVlZTBMMnJYQ0tYTDMxRmZkQk8xVnRzWDVIaVkwcWRxT2o1WC14STBlNVY2QU9CVzEwTjAtR0UydDVDdlhOVXB6cFhaLWx0aGd5UlZfQ1dlWExkbXJZa2R6Zm1wQkI4dkVTakI4dERLd0xsamNEcTBSckNxZ01EcklDWmc?oc=5",
+   "source": "News/Talk/Sports 94.9 WSJM",
+   "published": "2026-10-16T01:02:01+00:00",
    "mentions": []
   },
   {
@@ -1115,14 +1251,6 @@
   },
   {
    "area": "Education",
-   "title": "Cobb Schools leaders say state tests don’t reflect student learning",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNktoOUJmMFpVdVZlUUhWRWtjOTlIWGluVWhlSEdOZjB4TTRZd3huOWY4Z2RTaE9ha2Z3MGRWX1NZeUZZTG54Z1owc3phUDdIV1JFU21FSW9kdW52LXVsYTBsallDU1JaS1p0WVFaMTMxMTVTUnZNQWlUR1Fqek1YUjh0V0RIX3FnYmtUTnlZaEZGOG9KS1p2czhEUXBwUjlzRWxWSkZzbmN0VWM0NkstVlNnWEpJVm9rcjJsRUZTa1czekg3ZEsxdi1Ha3lmMC1hWXNoek54bW42Um4xVmRmZGlUcE5QNjA4Ymh5V1Nmbw?oc=5",
-   "source": "Marietta Daily Journal",
-   "published": "2026-10-15T23:30:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
    "title": "Santa Cruz County students make small gains in math and reading, but trail state averages and pre-pandemic levels",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzJMVjlCdy14cWxRM3haZjc4Nnl6a1p2STcyajdLSU9obWtHSjliSVV5eWhEZ04yUnpTR0MzUG1mVlJ6YTI3WTlCenV1NVhFUVNpVzdwOFJqQnh1ZUN0eF9UTFpnbFdQd2ZjczR3NzdOWld1YWJkYjI5YV94VmhqeEZyMElENE55TS12YlcwZEZFenpVUEpocDd5aUFYMHJlNlhGVFJFYjg4WURmM29EYS0zdlotUHBGbVNKM0Z1VGJ2UU1NUUJac0xuekY2QWhRaWpj?oc=5",
    "source": "Lookout Santa Cruz",
@@ -1147,124 +1275,10 @@
   },
   {
    "area": "Education",
-   "title": "New v-c seeks to turn around Goldsmiths as record strike drags on",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUkwdW5EM0U3V2JhMTZFMG4zQnhtaVVSaXg1MmRsMjZJZklFWVpsTXZ3d3p3b2NsZXBfZ2M1ZHFUWkFnLUlzTUg2Y0hCM19pVktfVHo0aHFYai1JLURaTFBqd1h3SHUyOXJlV0RqdGdubkpIZ2J2OUxkanlsRHV6c19qbEEyYUZ1ZmRoUWlrZlhvdUFid2wwWWZzNEIwZG8?oc=5",
+   "title": "Universities built the Catapults. Now they should release them",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEdyd2hXVndQM09VcnZzM3ZiQlRCcGZEa3h6Nkd5ckxKWEYzb3M3ZWR6Nko5QloxRG1GaE1oOHlPQ2FMZkJkTUtsdDRPbmJEa25pdGx2MFlTbFZ0eHRnZ0YtVFdFa050NUFzbllRMVVuc1RpT0UzV3lJcXlUT2NpOEVQZ3NmYzE0aHBrWDZYYmswMUhoZEh3RWZn?oc=5",
    "source": "Times Higher Education",
-   "published": "2026-10-15T23:01:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "SMSU reports slight enrollment decline",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXhuWS1udjFjQlFWWEhnUU1FU0tLUXduWHI3ZkFySXctUTlDclFIVE1zYzZHVEptR3ZkeU9YTkRoSndqa0hBSVNqNVMzT3hFclR1Ni0ybnhrOWlwcDRUOUJvRjRId3EtRHNVdW9GbFNhb2dHemU5N1JERjl5MTRTZmxmNWRIZFprb285MWYwOHdRdjhXcjc1T195S2VyZmJZ?oc=5",
-   "source": "Marshall Independent",
-   "published": "2026-10-15T22:46:19+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Are rising ACT scores signaling COVID ‘recovery’ in Utah schools?",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTlUNkRnREpCandTWU1PMlVMMlhHWEVLQ01oMkpEckdtamhjdnBmQmI1a1ZRdElUcmhpZ2tFX2pUbFlrZ0plc1cwaVBTVWlEOUF1anp5VXNEMnJERFdKQWR4SHM2aExDRkQ1dndfMjRJNkREaHRLMlJqbHE4dTR1RzBKaDhrTTBFeGJWUEdzMlprR3BGRVpJVWZldWN0S3c0UzI3TXlqMA?oc=5",
-   "source": "Deseret News",
-   "published": "2026-10-15T22:35:12+00:00",
-   "mentions": [
-    "ACT"
-   ]
-  },
-  {
-   "area": "Education",
-   "title": "WILL Sues Over Racial Quota Tied to Millions in Wisconsin Medical College Funding",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWx1Vm9ibkk5bW9qRkFESmJZVTVRb3FNRUtORGM5SlNrc19vTEt0b2hhVEdiYXFmMDBLMVNaUDAxVlVqRjV2bXpYdVpDM1h1a0RYTzlIX1ViTWV6dEtFb2U2VlRSOEN2d0c2N3cxdWhSeHdJaE8xTWpmOHg4b1RBZEVpNzlyYWJhc0w0NThsN3VESFFISjJ5ekZNNTA4X0xSWjVCYnFB?oc=5",
-   "source": "Wisconsin Institute for Law & Liberty",
-   "published": "2026-10-15T22:21:21+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "More South Carolinians attend college as enrollment and state financial aid rise",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmFES3pYazZtdThmZmE3RVpzMlNTZHU3MmtYakI1QkZvLWJwaTkzbG11X2RTTXVHUnotdlc1T1dvajVPZjRMQ2lrMGVic2tzWVVfUU9mekw1TVV0RFFZVWREcTRzYWpXZnViajZmNFlKVjF4eDhKR0dBYWNBZlM0d0VnZ3M5NEJQVm9NVktvU0U5Y0UwZWlzLUZOQmdIV2hqbDk0NFBRWVZvQQ?oc=5",
-   "source": "WRDW",
-   "published": "2026-10-15T22:12:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Experts say higher education is an industry in turmoil. The collateral damage is widespread",
-   "link": "https://hechingerreport.org/experts-say-higher-education-is-an-industry-in-turmoil-the-collateral-damage-is-widespread/",
-   "source": "The Hechinger Report",
-   "published": "2026-10-15T22:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Lee Tutoring Expands Educational Offerings with Specialized ACT Program Across Florida",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXZhbEdRR1g4V3FFa1RRMERTYkRHQ3NuaUVEd3VHTlBQZ1B3NU42aXgyU19lVkpacWptWmxOQXVoTHZ0T2Zsc3NkRlJpeFNkajBzMjAxS3lNSkMxakF5eVMyeFJsbDVSOE9jV1BVSG10aEpCVW50eVoyVVFuZ2hUU19MUEVYbGxIQlY3OHptOXRRT2ZQZWVjc2d2MkhDV2NEcmZXQU5zRE9UWlg5dEZQeVR2M1Z3TDA?oc=5",
-   "source": "Carroll County Mirror-Democrat",
-   "published": "2026-10-15T21:56:57+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Is AI Leading to Declining Enrollment in Computer Science?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHpDY1lPd1Z6cDZqV0htNUdVZEd2cEVCZTBReHdlcGNNVVZvT2pwT3hCdktvbTVDcW5BeHdFSm5kVnpuX01XYm5VTFB3Ml84VFIwOGd0djBVbWlQWC1aY1JhUGEzMGdqOUJnQ0xEdzVOZ0xraHlUUS1CcnI3U1Y2T0hsYlU0bnhXSUN3MEgxV1FFampHcTZCdTNZLTM?oc=5",
-   "source": "GovTech",
-   "published": "2026-10-15T21:37:30+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Experiment reveals how hidden agendas in AI advice can distort human decisions",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmLW16bjAzUm9CWmNJYW1GTnFub0QySFg1bTdVSHNyOGlqT1JRQXZ1WGo1VVByZlIwcFhNMkMtU3FXNEJDUDN3ZkZHMjI0aGt4M1dfZ3NZMmo5cURYSTB0bkxRd1lLdlZaZXNmRFY5SEVwblNfbmhsZjBGc3hMZw?oc=5",
-   "source": "Tech Xplore",
-   "published": "2026-10-15T21:20:01+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Inside California’s best and worst performing schools as state releases latest test scores",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNl9KZjNkd05pcmNURFY4dWZzQUFiVjVUa1dGMWVaSTZiWG9TS0t1c043NlEtUU1jbVZydUcxbHB1YWx1T0lNSk9BN3NGeVhfTkF4MG9rRXk4Z25YRzZBV2FFakV2cmoyS0JhVkFlS19Gdzc4UzlqcHdtYzZjdllLWF95VUtrelZGRHg4Z3Z5RjY3aDk1QlZqalhZMkJFemlaek1GZmZyczh6VEVNVEE2RklmVQ?oc=5",
-   "source": "New York Post",
-   "published": "2026-10-15T21:11:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Plain Talk: North Dakota Superintendent of Public Instruction Debate | Levi Bachmeier vs. Tracy Foss",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRnY3Vm1Ycy1uWlJLSWFjcmwyQUl3Nzk0NTJMb3I5ajF1eXZaeEJma08zSmo5N0pDVFMxeDZPNHV3aEZMZXV1TFFyWGZ2WXpRUHFkYWdUdDVSWlBNdzBCUGRTWC1WRkctUjdOanBmV29oaHVOM0RqbVlUaHVVWDgxZnpNTGwtYVJZSkdJbDNPRk4wMXpOY0poV3JtajhGU3dkZkpnMVd1MUU5RGdXc0tGZ0NXWE96S1FFUlFtT1ppVmJOVF80b0FCUm1VLUZiY0RwNmZPWlBrWFhDWjJaWlBZ?oc=5",
-   "source": "The Dickinson Press",
-   "published": "2026-10-15T21:00:19+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Military service members to square off against AI in ‘Mindgame’ tournament",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2t1UE90QkgxLTFtcGdEalhDUlBsZ0tTWVNtbFdHMkxudkN0QnhkTEY1S0lMQUNHa0hTaTVoc2p6RERSWV9zWTI1NV9sLUFrWm9qeUM2eXRjUkZTdzZ6aWkyTEY4N1BHZVhiVDJUc0g2bjRJdUZvTHZvOEtWM3U3Z1ZHVkxuZndlcDFQNk0tMFlWOER3bWlz?oc=5",
-   "source": "DefenseScoop",
-   "published": "2026-10-15T20:42:52+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "NSF Awards TILOS $15 Million to Continue Advancing AI and Optimization for Intelligent Systems",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWp5elhob2VMcXJlSUtqQlhoVkRhTjkwUGJOdTUtWjRVMVhtZGdsUzRXcElpRkRtaWpNNVlqQ2wtamtSa29fRVVIVEFxeXQ5MUJwcHlySmFHR0Nrb2loRHczbkVKck9FMmxWRGdoMm5QY0NUdEgxcEJyb1pfWUtTTXF1US1jdFlfLWFHczhLX250TS1MZVpuLVB6UXdFUE1ORDJuZ2ZpYVV1cV9SemVramdCNk9XU1FGS0p2Y1pHbVI3TDFnQlE?oc=5",
-   "source": "UC San Diego Today",
-   "published": "2026-10-15T20:37:52+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Three AI and cybersecurity skills worth building today",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUdjMXFoWGtwZkFXQ1JNOUJrR2xtWVZIcDNzMXM1ZW90b0EyRTJodHEwTFhTOG9OOUtORmlSeWxvRkRTakJmOG5qTktvdFlpeHlRbW1laXNNbkE3eWc5a09GMWZjeThNbjZTa09kM2FUbUlCYjRmVkFSNDBoUFZCVUZVZFdZTFBuOUVSdQ?oc=5",
-   "source": "Colorado State University News",
-   "published": "2026-10-15T20:12:54+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Education",
-   "title": "Howard University and Google Research Collaborate to Expand A.I. Recognition of African American English",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYkVRRGdDd3NBcERyNXB0TDYtX0FWcTdpeGlIcldxZ1JyWVZ2QnBJM2pzVXVQR093WUEzclAxNld1SFFVWFdUaDJIZkFJTEEtUUpmak5la3hNbzVUSWpXelp1NmNmNHgxdjVLMDQzX3VzRTJ0ZFdETUVOeDVxWWhQY1ZTU0N5WFhXa3NySWVjb0oyLU5uVzNPeG5pNklGaTZ2NklZblpfYjZaTWQxeDlQazhzQjdxQnlqV0lpUFQwZTcxbVpP?oc=5",
-   "source": "EBONY Magazine",
-   "published": "2026-10-15T19:30:26+00:00",
+   "published": "2026-10-15T23:00:00+00:00",
    "mentions": []
   },
   {
@@ -1272,7 +1286,71 @@
    "title": "Book Reviews, Bestselling Books & Publishing Business News",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83VVlVa2xIZjVSSmF5YjloRkJSS1BOakdwd09vQ21JajgwaGVMNTg5andvUzBGLVRha3dSZ2NUOXVOUll3Mlo5UnBiU19PaS1UelYzZk9PZ2xTMXQwN09JQWFrNWxUZ3E4UUdHeg?oc=5",
    "source": "Publishers Weekly",
-   "published": "2026-10-18T05:22:00+00:00",
+   "published": "2026-10-18T19:58:47+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Meta AI Terms Alarm Publishers Ahead of Oct. 30 [2026]",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nUTdEWHpPeDdMZXBPNDNiYnhUaXBVVFlPNk5SOS03NWpnTWh2alpIS0o5ak1zNFBXNXBnMHA5MnZyZE1XMkhMSHJFSVJDekVBM1VLWHh3UnJnWjRSZm1WNGx3UWRNY0tiVnc?oc=5",
+   "source": "shattered.io",
+   "published": "2026-10-18T16:55:26+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Queer media faces an uncertain future but history shows how it can endure",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUjd0dXduWXZmMFVRcUQzV2tZMnV1YVE3ZHB3YXhXYlowQWpaanFCdHdwdTRkSjRWXzRacVNKcTJoNUxGVkJaaHpPT3NmQlRKNmJEV0N6dUVEMWNNNDB2X2lMT0wxM0NrRzJhS2tFRmVRU3N1V3VHbGEzaXkyOW0xS05YR1RqN0FDTkxad2VzR2dXZVFxRmdhOVc3RzNxMjM3WmRvODZ1UjRrSFhrckZN?oc=5",
+   "source": "LGBTQ Nation",
+   "published": "2026-10-18T15:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "AI licensing fees may bypass creators, University of Amsterdam paper argues",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJvcFd4ZHY0Y3VpR1IwMklOZW5RWGgzR2pMQ1NIRTliSUR5ZElFZmpMWFU0Skl0NnZheTc0R1NoNVFGamxCMDV3OGpvZDZxdG5Wd0xHN2kzbVJLdTREaDJyQXgweFp2MkkwNjNNMG05dHZoN0RYSFRoVzc2UmR6VG1hWTAzbHlOWl9ROFo2VWxOdkpvLVpj?oc=5",
+   "source": "PPC Land",
+   "published": "2026-10-18T13:25:26+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Digital media threatening book culture, says Marulasiddappa at Dasara literary event",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmRZdlhwTEhaZ1pWeEV3Ymc1dHB6Y1RCMzFRakJ3R2hZUXY1WThsV1JYdV9uOW1GUXBSektCanVHTlB0RG1lQ0tsekFCSzZMM2RidFVqVEdZc21xWE1SOG9zbEo0eTc0elh1SzJGSWt2amsyYzlVQUdObkpYSVFQMjc2dGozSDVUVDN4UEdmVG5lQUlaMXlybTRHN0lIekw0SXpac3BEeHM4djRCOUFLdW8zd2I3WDZiaV9rcHQwaHlaSC1LZ0FENnFfUWVPUXlmNDBERlE4WDZSTFdBMUdRZVl1cXdMZkYwbldWcmVB0gHuAUFVX3lxTFBaZFl2WHBMSFpnWlZ4RXdiZzV0cHpjVEIzMVFqQndHaFlRdjVZOGxXUlh1X245bUZRcFJ6S0JqdUdOUHREbWVDS2x6QUJLNkwzZGJ0VWpUR1lzbXFYTVI4b3NsSjR5NzR6WHVLMkZJa3ZqazJjOVVBR05uSlhJUVAyNzZ0ajNINVRUM3hQR2ZUbmVBSVoxeXJtNEc3SUh6TDRJelpzcER4czh2NEI5QUt1bzN3YjdYNmJpX2twdDBoeVpILUtnQUQ2cV9RZU9ReWY0MERGUThYNlJMV0ExR1FlWXVxd0xmRjBuV1ZyZUE?oc=5",
+   "source": "The Hindu",
+   "published": "2026-10-18T13:14:14+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Social Media Blames ‘Woke Content’ & The Obamas After Netflix F...",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTVFVzUyaE1rbUZ2MjFKV2FPVUZvaU84SnJvYUNKd041WnZ0aENkZkNsWmV4Tks1bGFNYm9qUVVpRTRyQkhzYXpFY2tVOFRiaFc5U01Ya1JGVjliYldzZEp2dzdLM1ZCV1MtOGhaTDVWUURPcmJZLS1fQmstQmh1cWJXTTc1UQ?oc=5",
+   "source": "SheFinds",
+   "published": "2026-10-18T10:30:33+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "US Tech Layoffs: Indian Professionals Return Home Amid Job Losses And Visa Uncertainty",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXY0UDhqTjlxdjYyVjlTV0t3aGJ2Q3gwX0VYY0JtS2xIN1AyV3lUSXYwRzhOeURyM21YeW5ZN2E0Q1gwUVp1bDRLakJMMi1Dck13LTQzVGFzRHVPWmY0MnBmZDJRelRDWFMxWDdkUTJVcy0zLUlGeEFoWEVaUWNSUWd0bENEZl9YRERrNHhxUnhpZ240cHBYYW9TWU1iUFVwZDAxd1dBNTY0T081MW51aFRadzlQWDlVUmfSAb8BQVVfeXFMTWUyZUVYQTJCdTlFYjRkSXE5eFVBeDV6SzJfOGtmVGpoS0pwenB3dG5RbHNtWVBlRnQ2djY5bVItUk5hRzRTNTdJOXZ0WGUxUktXWEtCekNzcXNuYjJsMDJ1U1o2N3hLVVpYbHBtN2t3TU5kWnVjb0xMY2Nsd3RETGtoSktqNXlGRmFlUUtzb29aa3VMckxwRlg2cjVyVlVKSEdtY2tjajBCdjZtQ3MxMlFDV21zSThpUy1GZFBvdFE?oc=5",
+   "source": "Asianet Newsable",
+   "published": "2026-10-18T09:19:44+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Harry Potter Publisher Wins $21 Million From Anthropic, Shares Proceeds With Authors",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelg0X1JwMGVXaC15VjIzbkhELXItVC1KSy1kNXZrNGgtMXB5aGNQWmwwc2RkUjV6Q1EzUXlRc3dSaTZrS0NVZThkQUtCWTVDVGNlU3I3VUFna1NrT2hBMDkycU5KR1dWY1RzM3Q5V2dvSGRDZXp4OUswV0lrS2NRRThCMUNhcXl2dk11RkNvajJNMGs3OXlTV3VPTElCcHpzNmZodG5NZE54YWFt?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-10-18T09:19:05+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "AI Copyright Bills Stall as Google Buys Up Korean Books",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd29Ca0k4VHNVek9mcnNSZzNZSi04a0lPMVlqX3NiSXphb09yYWt0UHRXb3BLOG5UZXhYM3VYOEtKSFo0UDhNNHd0R0tKTjcxd3gtTjFrdjBCVkhlWlFzNXl3OGpBNjI5ZWg4Vnl4R005WlRMZVVIc0U0ZjQtZXgxYzYyOG9UeEpJQl9uLTdENFBrZzFISF8wYlQzZ00zZXY4V1JEQlJqV2lPdw?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-10-18T09:07:02+00:00",
    "mentions": []
   },
   {
@@ -1280,7 +1358,23 @@
    "title": "Google now pays 400 publications to feed AI features in Google News",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0dad0IzcmZjS1ZZN0FjeEhEVEtIMXViOUptOHRVSGJTMUl3YTc3ZnlFb1VTMDNMc3piZEZlN0xVREtOZ0l0WVBZUUhGelQtRlgxUmJWdkpnRUdGSTlVM25hNkJXT3VoNHBBc25aS3c2X2lHNWhZN1ZFcFVoRVNaejZuOTlSdU1CaGpuMkVB?oc=5",
    "source": "PPC Land",
-   "published": "2026-10-18T05:15:00+00:00",
+   "published": "2026-10-18T05:16:45+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Social Media Blames 'Woke Content' & The Obamas After Netflix Fires 1K Employees",
+   "link": "https://www.msn.com/en-us/money/general/social-media-blames-woke-content-the-obamas-after-netflix-fires-1k-employees/ar-AA2eu1Pl",
+   "source": "msn.com",
+   "published": "2026-10-18T04:30:33+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Why Were Oracle Employees Watching The Clock At 6 AM? | Layoff Fear Explained | 3rd Sept 2026 Cody Bellinger (9RUUzcyzG9)",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTVwR3dQX0JIR1A5cjFsWlU0QzZyc29LcXlaaUVLZ0Y5b2VpNTJzOGJYbjFnYXdBUlRrSHNUaVRucFlRaEcxUmNlU2p2cldiMHVVNXNLZ0RfUnFKWnVfU09GX3lxcGEyOTdCZVA0ODJGVm9zelpOMFVYblJWWFhuaw?oc=5",
+   "source": "Unisba Media",
+   "published": "2026-10-18T01:11:57+00:00",
    "mentions": []
   },
   {
@@ -1301,10 +1395,10 @@
   },
   {
    "area": "Publishing",
-   "title": "Meta removes controversial scraping language from its commercial terms",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yRWFxUXhMdVIyTkdhQ3ZzdFNsX0thbWNYZ1RiYVQ1Q0pTNmsybFhqS3Rzd1Z2aG93ZThMdzl2UjFRX1JBS1JtMzhxRkJaRGV6SkYzVDVfazA1M3doV0pfUW1Ddml3UmszeWhSY2xRZDBPa0s0X0E?oc=5",
-   "source": "Crypto Briefing",
-   "published": "2026-10-17T16:03:19+00:00",
+   "title": "Google Expands Paid News AI Pilot to More Than 400 Publications",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnBDbHFxQjBhXzJJT0I3R0RSVlM4dC1qUnNQczhVeEp2WklZbTFiZFI5eWZycFZadkhmeV8wUzllWVEzUDNsUHRwR0xkdjMxVkxpWHBjWWVsenQ3c0JldnpxZm9DVTMtVDluYlNmWVQ2Q1N6VlpWZjVjWk8tN1pNVWpLSXZzZ1hxLTFMaktOcEQyOVBpU0EtUzNRLVpNSUlkU0w1MEhpcw?oc=5",
+   "source": "Subscription Insider",
+   "published": "2026-10-17T16:42:58+00:00",
    "mentions": []
   },
   {
@@ -1357,7 +1451,7 @@
   },
   {
    "area": "Publishing",
-   "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
+   "title": "With Layoffs and a Firing, Netflix Hurries to Rewrite Its Narrative",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPanZ5YVAxYnBGOGlsZW1jVnhWbkhHU0JnR211RGctX3JHM2Y0QXZHVC1NR3pCR3prc0pudTd4WXZBNnhGZXdiTFlvV2ZDNjVDVzNMeFZTelV0cGVzOElKS1QyV01jbmZibV8tRFkwMXdSU3NMUkZfY3I2eEEyc1djekV0LTg2MmpORmVJ?oc=5",
    "source": "The New York Times",
    "published": "2026-10-16T22:17:29+00:00",
@@ -1385,14 +1479,6 @@
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVTjZtOUVuTmx6MmZxNmpDRk1ZOGhGb1NLUXZvYXRQb2FVbDUtM2dibmhZUkJKd1lFcW1xajcwSXU3SnJsb1dOTElTZVZ3cFZKN0YzY1lJX2M5MFJDQldRYzN5Tm5RR3dZSl9GWWZhUFhZcExnZWc?oc=5",
    "source": "BigGo Finance",
    "published": "2026-10-16T18:23:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "News generative AI deals revealed: Who is suing, who is signing?",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
-   "source": "Press Gazette",
-   "published": "2026-10-16T18:16:34+00:00",
    "mentions": []
   },
   {
@@ -1429,10 +1515,10 @@
   },
   {
    "area": "Publishing",
-   "title": "Google Expands Paid News AI Pilot to More Than 400 Publications",
-   "link": "https://www.subscriptioninsider.com/blog/google-expands-paid-news-ai-pilot-to-more-than-400-publications",
-   "source": "subscriptioninsider.com",
-   "published": "2026-10-16T17:00:00+00:00",
+   "title": "Meta's New Terms Could Let It Scrape News Sites to Train Its AI",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkwwWHRjemZRbVM2Rm80THBJRGlTTU9tNFM4ZHRxSU12R3NsaGlLa2RtMGl2cF9Jb2tlNGR3WEEtQ2o3RDhWV1JOaWl5NkdGOE9uRlA5UTU3aGNSZEVVSEVxY0RucHFJaWhTcTlUMzR1ekZKXzFZR2NKR2syMVhKWmY0TDJwQzQzQkYtVDNPQ1dxWUk?oc=5",
+   "source": "Windows Report",
+   "published": "2026-10-16T16:44:36+00:00",
    "mentions": []
   },
   {
@@ -1503,10 +1589,10 @@
   },
   {
    "area": "Publishing",
-   "title": "Meta: Access to news site data for AI training",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSUpaRWFyQ0haMGR3bk5mdkc5Ny1CR0tRVGxVSlcwbFplREZMSGRBQ05MRUxNNllLcEUwTG9OSDV0dkUtRkNxZ0xyZzhLdXVpN3UyZ0YxQWkyT0t6SzNGSmd2LVdyYWRxNmVxd05XTVRFT3FuelpSMVoyX3diQQ?oc=5",
-   "source": "SecNews.gr",
-   "published": "2026-10-16T14:36:49+00:00",
+   "title": "Comment - Editor's letter: Trade fairs need the trade to show up and be counted",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0J3ZHFFUXRFYW9kdk1HYU80dVIyUExYaVVmOF92a1VmbjQ5UHh1LUtobXJGNFZnZGZCS01zZ19hbEhtZzQ0T1E3Q1pPcnQ0R1VoQU1wMk9EV2FqYmlyMllIQkphN1dxWDhqSWF3NUdLcWxnY1plNm1xOThUb0JHNk1CcXROZWNucmt3UHZoaEpZWi1Q?oc=5",
+   "source": "The Bookseller",
+   "published": "2026-10-16T14:06:58+00:00",
    "mentions": []
   },
   {
@@ -1543,6 +1629,14 @@
   },
   {
    "area": "Publishing",
+   "title": "Breaking the Pattern: UN Women brings gender equality to the forefront at Frankfurt Book Fair 2026",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTNFODJyNXdOLXJTNHRMYy1VaVl6d0o3bVE5dTNXWERHVlNkRnJxajlfTkFxdkg1dk5EYzA2NEprSG1rcFBUX2haUlpWa0l6eVhHdmM5ck5SS3NpZnpRVjR5SWxIR2hZbi10QktSTncxUnMtVmF0WU9sWFpReFFiV3dFR2R2UF8wVUNGY1RCczR1YVlwUmEtaDVmN1lWOVNfampqc1B6eWpWZ00yUFgwX1lOQV8xTktRRnJucTVhMEVUQTBDMmNrcU42bFpObnNyUERweHF1UThiZ0c5RFE?oc=5",
+   "source": "UN Women Europe and Central Asia",
+   "published": "2026-10-16T12:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
    "title": "CNN, Financial Times and Axios Join Google’s Paid News AI Program",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTJGM08yYWQ2S01uRTlRLURodElGVXNjZzROcjdnc0Zfdk5oanNHZ1JRSHlSb3VUX3FjcUdOSzJJdGtONGxiTlQxa0cySl9yN2xYU3dmOXUxdHNyM3otNW9XMUpuWUhBWWZQeWdXRkNkdXpQemt2SUVMWTNlZXNCd3JrOGt3TjNUZkdSako0aVNmcTQ?oc=5",
    "source": "Technology Org",
@@ -1555,14 +1649,6 @@
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnBxSlVJRUpwTFZVckxhVXF1ZnZsNnRwMFViTDFUaVJXUGE5S0N2ci00WlMteW9tQTRSa3JGZWcyeTlvNGowODJ2OXJMczRJSGpPc1M1aU1XRjFIc0dndFNWS3BaOWYyQ21VV0ptWFcwSW1oNlRVUVkwLURLa3VaVWNoSUV2aGQ5bEh2N0pBUm1fQmRDaGRwSHdiYTRCblgxU0xIVFg1Q0QtbGxVVGg4a2Zid0dOMnphZ2ZJ?oc=5",
    "source": "The Bookseller",
    "published": "2026-10-16T11:42:09+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "Men Don’t Read Because of Men, Not the Publishing Industry",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2FmX01NYkcyQ1ExYjVjQ2FRTVRtWlk5NllIaWc1TWE0TWcxOU9zRGt6LWJBV0U4THc4Q3kzNU5qMFI0YWhLQlBwRmpYQi0xbUlUN0ZVZlhMd3BKWDY3aHE5eEZITGZram9aMGtFVzQ0eE5uSVExQ29ESmRhaGpfTnhncVRNUG1ZN1VORjE4RjVwNGtkUVRaaHB1N1ZDZnA3dWN1T3JmUk11dWloMElVUEJaZ3A4RHFjSmszZWV3?oc=5",
-   "source": "Daily Kos",
-   "published": "2026-10-16T11:31:22+00:00",
    "mentions": []
   },
   {
@@ -1587,14 +1673,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQkhRNC1hYjN2Q3pCTlFRazNCNW9KVnlrZmlDLUJBUjNmNlpXYUM5UFZhU0FVdE9kR0xuWWs4UzFxR1VZWDNMQVA5LW9mQUZ6bzNFemRzZW10ajdURkNkWm9VeVhfR3A4OVo1V2lqcWxZd2x2MUJIMlhiVFpma0pIdDBGajJPNG1TY1FBeXFEM3E4eTh0b3MtbUFiU0NOeThHR3Rjd1RpQXU?oc=5",
    "source": "The Bookseller Careers & Jobs",
    "published": "2026-10-16T10:24:23+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "FSC Certified Excellence: How CAIMEI Emerged as a China Best Book Printing Solution Provider",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTTJhdzJ3c0VTY2ZTaWJ1ZjhqRVhKeVdudHNRTmVOY1k4ZHFlclhlalEyWDczM1ZQYlFsMm5Ray1MQllTWXFPMXNfcWxEb19EQV9KTlRELUlic0VvSnNmVEpNVHFiTTFFaDYtenBMNDFRUmRJLXE4WVo2cUgzc0pxcUVxV3ZQYTlrbkYwVS1xQ245UjhNTXB3SEY4eWpXUWFpcDlKNWI1ZVgwcHRhNjdXVl90aEQtd29YT3ZxdjdnT20zcVZmd1pVTDhNV09QQQ?oc=5",
-   "source": "EIN News",
-   "published": "2026-10-16T10:22:00+00:00",
    "mentions": []
   },
   {
@@ -1631,14 +1709,6 @@
   },
   {
    "area": "Publishing",
-   "title": "Pan Macmillan acquires stake in indie non-fiction publisher New River Books",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0xTbVBXakF2ZlpTVkdra0tZSWwxZ3Q2UEhiWWRPY1Q4NHB1STZ4Y3BwN2tZd2hES3JDUXhUQmFiQjM3bm9zZGRfYlZ0MjdUTkl5UUpZbXhIQ01Zdl9lMEpULWp1YlpMMVE0N1dIQVFIZDUtV1ZEc1hsZDZ1WDh0NndSbzlLQUhCemo3Wm9rLVRXUWUtQTN1bFN2c255ZmhlbVZTZ1hYRHFMWWw5c3hZ?oc=5",
-   "source": "The Bookseller",
-   "published": "2026-10-16T08:02:35+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
    "title": "Constable scoops two new thrillers from Sam Blake",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmNiQ0JBQmdHMXJOWnc1NG9ma1hsMjNPMlVSS0N6b2JmWkxjZkFRY0JQTlNMb2ltR01SSDl0dlM1QlhUbjVCWDNwN1BqdFpXdUlXQ2ZGLVVFaVI4SlVra1hUOVhtUVlzUnZJbzhjbHNSdFFqc3NidVRrNXNlMHRGamJfVVBtTW5PdWNOZEZmSQ?oc=5",
    "source": "The Bookseller",
@@ -1647,17 +1717,17 @@
   },
   {
    "area": "Publishing",
-   "title": "Comment - Editor's letter: Trade fairs need the trade to show up and be counted",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0J3ZHFFUXRFYW9kdk1HYU80dVIyUExYaVVmOF92a1VmbjQ5UHh1LUtobXJGNFZnZGZCS01zZ19hbEhtZzQ0T1E3Q1pPcnQ0R1VoQU1wMk9EV2FqYmlyMllIQkphN1dxWDhqSWF3NUdLcWxnY1plNm1xOThUb0JHNk1CcXROZWNucmt3UHZoaEpZWi1Q?oc=5",
-   "source": "The Bookseller",
-   "published": "2026-10-16T08:00:35+00:00",
+   "title": "More to Come 729: NYCC 2026 with Calvin Reid",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEtJWmppRHg0cmNuTGdxNXV4U1JnaFo4eTJISWxUVm5PY09oTGxZMS1tY0w4OEF1Qk1vbjk0OG1YUVMxZ29SMkNtcjc1Nm0tdTBReGt0czd5SGQyaURycUh2QXZvWTlTQnZpQ2JsSWFFQlJMa3plbGx1bFVyR2xrMWhhUWY?oc=5",
+   "source": "Publishers Weekly",
+   "published": "2026-10-16T07:00:00+00:00",
    "mentions": []
   },
   {
    "area": "Publishing",
-   "title": "More to Come 729: NYCC 2026 with Calvin Reid",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEtJWmppRHg0cmNuTGdxNXV4U1JnaFo4eTJISWxUVm5PY09oTGxZMS1tY0w4OEF1Qk1vbjk0OG1YUVMxZ29SMkNtcjc1Nm0tdTBReGt0czd5SGQyaURycUh2QXZvWTlTQnZpQ2JsSWFFQlJMa3plbGx1bFVyR2xrMWhhUWY?oc=5",
-   "source": "Publishers Weekly",
+   "title": "News generative AI deals revealed: Who is suing, who is signing?",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
+   "source": "Press Gazette",
    "published": "2026-10-16T07:00:00+00:00",
    "mentions": []
   },
@@ -1672,9 +1742,9 @@
   {
    "area": "Publishing",
    "title": "“Other” Publishing Establishments—2010–2023",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1NVQy1reFNncTdvQkJoRUVTekx3NV9Yak90LTk4NjRZUEtiZlFtdENOTXFKZmd1UVNaZVhwQzNuRzUwcEpfY0hQT2p6N2pNeXV3emxOcVQ4V3pldERtLUY4ZlZmUG1NdDNaSzFrcXE3Y2xuOTJickxvUVJ4anR2VmwxVTJmNXM0ZXc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSi1PR3BPSElQQ0RKOHRfNWlnc2RJZGEzRlI2bkpUd2lKd2VfSWZBQXdxSlN4MUxiMEJHVG1rQnBXbjdBZ2lVR2xtNXBtQkd0OG5lWllTUl82cFRGUElEUjRDOXV2QVUzT1Bqb2J2MVNKQUVYR3o3eTJxVjBJVDZRTGRGU1k?oc=5",
    "source": "WhatTheyThink",
-   "published": "2026-10-16T04:50:03+00:00",
+   "published": "2026-10-16T04:48:08+00:00",
    "mentions": []
   },
   {
@@ -1779,6 +1849,14 @@
    "link": "https://finance.yahoo.com/media-advertising/articles/chinese-publishing-2026-frankfurt-book-042700673.html",
    "source": "finance.yahoo.com",
    "published": "2026-10-15T21:27:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "\"Regret for not doing something will always remain\": How I grabbed my dream of working in the publishing industry, which I had once given up on, as an editorial assistant.",
+   "link": "https://note.com/studio_by_lig/n/n0872e2aacfc6?hl=en",
+   "source": "note.com",
+   "published": "2026-10-15T20:55:00+00:00",
    "mentions": []
   },
   {
@@ -1945,14 +2023,6 @@
   },
   {
    "area": "Publishing",
-   "title": "Are Netflix’s Layoffs Enough to Quiet Wall Street Concerns? | Analysis",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMmtuNm9aUUl1TEZ3NEl0ZWZ4dUJydGg2NTByYktsTHp3V1psZS1jWGdSUEN0ZFktZW9OU3Z1U3lHUl92UTdYc01qWVJmUGpSaE9yRndGWjg3X2tHWkc1TjFZZVdWc1Z2elZIQ0xUYTl6Z0ZDdzhwa0FzR2VKNUo4ZlpnVnh3c2RHNTdQdXFHZTFncFFiNXZyOXp0YkdhVkVEdkE?oc=5",
-   "source": "TheWrap",
-   "published": "2026-10-15T13:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
    "title": "Authors, Industry Groups Announce Global ‘Charter’ for the ‘Ethical’ Use of Gen AI",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWFIRGE2ZlQ5eW1rN3ltN2V3MEJDc1hCdVg5OTlFbnpPLWdLdzZwQ2tYdDRleEN2aTFHZHhDS0ZCc1NRSFFxOUxrN2E3c0Nucnp1WHlhSjl3UUFfWkZ0aFZXNnZFR19aYnc2VW5BWGJjcUtwcGdZakxLdTJ0SEg0OTNOSVMxMDBtTkZxRUs4cUp2dXdrOWtaNXhiblBWT0ZST2ZGdERQcXZKT3J0ejFHU2hWdVU0LXdHRTJqcU9n?oc=5",
    "source": "Publishing Perspectives",
@@ -2001,10 +2071,10 @@
   },
   {
    "area": "Publishing",
-   "title": "Penguin pre-empts Abby Dewsnup’s YA horror-romance debut Rabbit Heart",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHppbjdUSV9KR2pYNzE4RHpzenNfZndBV2JUbDNpWVBTMHFETzVLWXZJOWpnWG1NUFpQdzV4NDJ0MXdoblBTN3p5XzZSNDUyNlpPQjJHUWpBWmhtVlhNTWdzVmRzYzg1MjF3cmJkNFlnZU5wQkxwclZBV0JLWFl3M1ZyVmw5WHdFWEdPbzVDMFEteHpQYzNnZHlRRUxnLWFONTR4bklsLUc?oc=5",
-   "source": "The Bookseller",
-   "published": "2026-10-15T09:09:35+00:00",
+   "title": "Ubisoft slashes 70 jobs in Singapore; experts point to financial woes, not AI",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUxkekYzM3hkZm9udlhFVGlFYXdqdlRkOEVZTDI3ekg5MjBibWhjbE1ZRFBtZXF3YU9yT3RTQ1Fmbmpad2c2TTZEMHJrTXF3WGJkUHFUVW9VUnpYVTRIMnpwVk1wWUoteGdOVngwNEx0WmRJcVFrZjBiaGlrczBfSHE0REd3NTRvYUlza1ZOYXpHN01ZakpFbWJDWFZKVkd2MC15QmZWbUtZaERURnZn?oc=5",
+   "source": "The Straits Times",
+   "published": "2026-10-15T09:37:00+00:00",
    "mentions": []
   },
   {
@@ -2037,6 +2107,14 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGVBQy1MTDhld3BNYnJsajlkc0E1empvOHk1XzFCam9hYWhKbVhCT2Jjbk9PZDZUaE1NY0F1Y1EtckNYSEhNY1pXMWp3RS1aN3p2eGY5dW1sTmUxd3B2bjJzZmN2cVJsUXkydUV2TjY1ZHZRUURGcUlGQTd0X2dia0dGMW05OFhSaDBGbnZNenJpakdrekVJbEdESQ?oc=5",
    "source": "The Bookseller",
    "published": "2026-10-15T07:49:27+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Publishing",
+   "title": "Penguin pre-empts Abby Dewsnup’s YA horror-romance debut Rabbit Heart",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHppbjdUSV9KR2pYNzE4RHpzenNfZndBV2JUbDNpWVBTMHFETzVLWXZJOWpnWG1NUFpQdzV4NDJ0MXdoblBTN3p5XzZSNDUyNlpPQjJHUWpBWmhtVlhNTWdzVmRzYzg1MjF3cmJkNFlnZU5wQkxwclZBV0JLWFl3M1ZyVmw5WHdFWEdPbzVDMFEteHpQYzNnZHlRRUxnLWFONTR4bklsLUc?oc=5",
+   "source": "The Bookseller",
+   "published": "2026-10-15T07:44:53+00:00",
    "mentions": []
   },
   {
@@ -2085,14 +2163,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeC1VbGhKcTVRWFFkTDNaYTVQckJNcGZmdDR6cGRuSFY2dTFpMTlNMjhwMUZ6S0hjcTQweUJCbkpPYUNLTE8xbFhGbUdtR3FSSGd1Ym9URVZNaEZPT0owV250MnNCMkRvanBzOFVRTjh1MWFpWEs0b1dSRFdhNTg5ZFhHSXNUXzZmQkNlZjJqdzFPMVZuTWYzdk5KWllHSmFKYmVEM0VxeEdCd2dud3RJTFNXSXY?oc=5",
    "source": "Tomorrow's Publisher",
    "published": "2026-10-15T00:00:45+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "From Elon to international publishing: Professional writing and rhetoric alumna Margaret Achey ‘14 shares career insights",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbUtYXzNwemZYcFdpcEdKazFBZVQ0ck9jcFVQX1AxZXVVQjQ2M2xpSndhTjhvUnlRWGxjaEpTQXl6bldyWkNMQ3J3RlRIMUhVUzFVSTVtTlA2TkNXakVrM0J6TlNfcFZ5MU9SVnpreW8yUGVxQTFhSHROSERBWmx6WmlhYk9hTC1xMmIweWdSM0pTell2LWFHcjFoOXhPdFR3Z2l4eFJ1S3JrUnBkZldibFJkdHA0aVdjZjg4eHNuenZERHlseHRfaXpMTEo2aXFKcDFySF9IeEM0dDk4R0dxTTNUbUNZMWc5eXVsYjYxc1M?oc=5",
-   "source": "Elon University",
-   "published": "2026-10-14T22:30:11+00:00",
    "mentions": []
   },
   {
@@ -2172,65 +2242,33 @@
   {
    "area": "Publishing",
    "title": "Lisa Lang McMullen, James Oh, Andrew McQuinn & Carolina Garcia Among Netflix TV Execs Impacted By Layoffs",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12UExVaHhTLUNrMVJFRFl1cXdwN0hDdlByZlQyOEdZc1RFZ3h3Q29QeDdrM1FPT1BkazVqd2FWejVmQk1mbXNydm1fVVJFZWZ3VDlQaUg1ZWhlcmVWMFdkLVozSjFzOE0?oc=5",
-   "source": "IMDb",
-   "published": "2026-10-14T17:22:51+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "Flower Moments: Use the Power of Flowers to Celebrate, Entertain, and Share Love by Native Poppy (et al.)",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NcVFGQVYxeUpPOVh5cE9yaTJlYXhJYmNZUmpJNXlzM2RIektIZDlxTUdYeTdfYTlSN1VXU0h1bWxMejRHVXZYRHZLR0JDSWV2dzJxYi02Y0k?oc=5",
-   "source": "Publishers Weekly",
-   "published": "2026-10-14T16:48:13+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "Faber to no longer distribute Sally Rooney in UK due to Palestine Action legislation",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNVQ5X1ZieXRzbWQzR0xsZGUxQjRVNkQ5RmM2SEY5WWJwTGljOGgzVWpOSDQyNUJ3R0ZNZ0pWZzl3b2NtS1R4V3M3WVZzQjZSeHZVTmZzbVFTa0lrLXVNRjlNU1JDRWp0V203bWtHYlV0VnQ3ZFN0Z0F1MjU0Y0JCOEl3UnFZVEVHbDhfWDIyT3A4eHpKbzQ5clJSaTVoT3dXSjcwMjVxYXBfLXhMaTNZWG95dmJMSTA?oc=5",
-   "source": "The Bookseller",
-   "published": "2026-10-14T16:26:35+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "Netflix is laying off 6% of its workforce, in biggest round of job cuts at streaming giant in years",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmYwMEw3ei02RDFCMTI2d2UtT3NDN0JOMnBYWFNJVG96eGZJb1VnN1BrbU42XzA4MENIRjZWQjNZZjFpQnhsZmN0T2ltRGh0QmdMU3U0Z1hDc3MzWGlHNnZVT0RuSFV3SUV2V3NZMnRRb1I5RUhsMDdwbVIxVmFmc2RYQi12U01ITnRvN3RoSHJrS3hmZzZVOE5iOA?oc=5",
-   "source": "Audacy",
-   "published": "2026-10-14T16:02:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Publishing",
-   "title": "Netflix Film Executive Sheroum Kim Leaving As Part Of Layoffs",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWhjQlNCSGh0dFpwek1mQkRYV2JYYkVTaWxYc1lManVsdW1nV2VpdHpuTi03Q2pOMmc1TmR3cGVlSUpmaWh1X2pZMHhmbThHTkU0ekltV2swR2hfM1Y2d2tfel9LWVItejJRTm9lTzFKZm1GZGFKQVFES19kVHREdkV3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0lKMHl1Zkh0TEI2Ql9JUDFBUk1xVEs4czJYcXliakI3Qm9teW5fOWlqV2o4a2dDNmRyQ0dLWGR0NE5GLTlkeW1qNnBWTkZqRmFPUjZYd3FqdzFOMnNkWW1WMVU0dk96eUNyOERsTV9WdkZ0ZjJ3Vlh5ekpnUktEU3Btbzc2SlFnYVJ5X0x3MTBFazJwNUlzZUpZXzlsOXRB?oc=5",
    "source": "Deadline",
-   "published": "2026-10-14T15:58:00+00:00",
+   "published": "2026-10-14T16:56:00+00:00",
    "mentions": []
   },
   {
-   "area": "Publishing",
-   "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSDNwVkFiRzVRNDlQbUZXQV9iUzcxSGlJbTRHeEtlNjFwaGpjLS15VHBSR245YVhFdXdWaWh0YVk5aHZDOFdxMnYxUDd5RHM3LWdoWUNPV2YzRU5zWnpZUGMtVHViLURNdXd2V2dCTkN5NDFQa0JSU280Q3laZ2JoS1p4SE5lUnpxSEsw?oc=5",
-   "source": "The New York Times",
-   "published": "2026-10-14T15:56:55+00:00",
+   "area": "Lottery",
+   "title": "Powerball jackpot climbs to $607 million for October 19 drawing - Here's what Monday night's winner could",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONDlycVVwdHBEaU5vNVR1dU1Zd2ItVXpwbF9LTDl4NGtLX24zSEE4bXFjMExOQjZMM1EtdkFsQllqU3VGZGhUYTc1R0FleElLYkNkYndVNjVyYnpsdDNSNVRQZ2tSczVJa0JqSkdVUnM5SlFtMDk5bHRidU00cUFIMFlkWndlNjJlTXJHVWQ5NDRwNm14RXVYbUpBVllLVFVldlZsZ3lCVDRIQUFFMUhONDBRSVBidXY4cHN1R1l6bk4xT3l2RDlMMmRwQ3ZaZ0dFWXhWbGpreVhOaFFKcWhxWDNHVlhBazZ2ZTVRUkJ0T1pmM0JsZklHLVFVM3ZYb3o3dThaMUFJONIBjAJBVV95cUxNdEl0eWRfTDl5b2xUZlduYXNWSmVmR0N0ZTVWOVVUbU5uMzhaemNfeE1pTDBDSmp5NWtMeHJ4ekdHM183bjVfVFBOM0F4R2c5czZzdWxJVWpDMExUU0NxOWh0TUx5WEtBUDgzamU1b09WM2tycTllUHA0Q0V0aFhOaVpCb2RCbGNXVjB0R0JsVXUxam1fR2VhcE0xT0E1cEE4RnozdzVFN05oY0FvX0JFMEx2WjVXbFRGVkN6Y21Jbi1FY01wUW9heDRITWFnRlctMVMtc25kRGE2c2FDaEVacTgtSGFrNWlPc01FLXFXTkpPWGFwYWROZFRvUFFTLVpVQTJ4T3FoN1RyM1Q4?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-19T03:39:31+00:00",
    "mentions": []
   },
   {
-   "area": "Publishing",
-   "title": "Wall Street doesn't care about Netflix layoffs: It cares about the streamer's competition with YouTube.",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclVMb1RwUmlwR05NREdkTWd0eFJ6N05VM3JsSlVqb1d0dWxRWWkycjQza0UzcmRKZktOTFNZNk9FQ3dSNElLNnZnNE9DUUdlMXE0OVJiY2VzNHlTUjg0SXppQXYtcFN5Z3BFWWlQOVJxZlE3ak56ZG45Rl9ibTF1NzZIS0sydE5lOURjSWhoOWQtQ3o5UWJxdDROSHBCQQ?oc=5",
-   "source": "Business Insider",
-   "published": "2026-10-14T15:52:00+00:00",
+   "area": "Lottery",
+   "title": "Celtics Coach Explains Why Team Invested In Former Lottery Pick",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUXU4ZF9mcW1sWU56Q09GWkx1c2s2UF9meEhOYjRuQThBdG1SOHVYNk9fYVloN05tUENhdzlzYndTZGFBRmU5U3YtYi04MHMwNTRFTTJyMWE0RVY5UHFkbVZkRXQ0UUxITzh3dFZTeEVHSFRVOE1ZUThENXU4Yy1nbC1LaHJXZzh1NFctbW8xbGFBNFNEQXFvSV93UXB4ajctdHA2YTdqSmZmYXdJ?oc=5",
+   "source": "Heavy.com",
+   "published": "2026-10-18T19:40:20+00:00",
    "mentions": []
   },
   {
-   "area": "Publishing",
-   "title": "Faber Halts Sally Rooney’s U.K. Sales, Citing Counterterrorism Law",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZE5USmR0VlQ4VFU4R016OXZQelZheDE4bG10WE9jdzVrMXdmMHJGU19jbWNLVGo1VloyZ3pMQUwyaFpEOFo2RnpyNWZqb2RmSHFBTFMwTXFoZXBaYlBTWGc0d09aV2hsUGU3Q1ctTFRKenpHejZUT090Q2d6VlpTZ0s2M2xIU0NZcWx5Y2F1a0s5a1NXNFptbm5aSXFLa1JaUUItOUR4dDVzN0RTSFZsX2dWVXR1eFV3bmU2NTRHTldxZlB6czlLZFpIMTlUcWxaTjdzZ09RUFMxSXo0ekFUVTQtamdjRkpzdVFGX2pES3A?oc=5",
-   "source": "Publishers Weekly",
-   "published": "2026-10-14T15:48:08+00:00",
+   "area": "Lottery",
+   "title": "Aristocrat Interactive’s NeoGames Studio expands Kentucky Lottery’s eInstant games offering",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdUFVSUxDY2h2NGw5TXdwcmhMQ3JITzhhREhkYjRYbHUxUEhtbk9VdTl5N1d0Q2oyMGdBQVg4UXh3SDFjRWdjWmFHVjVla0FvSzFkaWpvYVBtUDY5Z0RWcGhxcWNiQWxWVE42ZHFRbzhQT3pFSnVIX001ajRoVXR1XzlVWVd6SnVkUmRGTmsyRDBPak56dTdGcUdRVjhQSGVjc3lQWGlZaTYxLVk0SU5Xck50VkROTHItMGNvZXN0OTUtX3dZX0RnVThB?oc=5",
+   "source": "Asia Gaming Brief (AGB)",
+   "published": "2026-10-18T10:18:56+00:00",
    "mentions": []
   },
   {
@@ -2251,10 +2289,18 @@
   },
   {
    "area": "Lottery",
-   "title": "Former Celtics center signs two-way contract with Sixers",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLVo5MExRSWx6NmE4a3ZHeUtyQzJBUnlFTDBIS1o2ZW1EOTg4S1J6RXQ1eHc1d1N1RGNCNW9xeldvVjNBVGpIel9HZGdzdzVwaThEejhrWTZHcnd6cGNuZC1RdGxIRTQ2b2MwM1VoRVpfMUloRE9nNHNaM3E4NUpHVUp1aGs1bGhGTmYtZ2F1dkNwTG41TzJULWVDakhzT0Jyd0tTWg?oc=5",
-   "source": "MassLive.com",
-   "published": "2026-10-17T17:20:00+00:00",
+   "title": "Opinion: It's time to tax the extremely wealthy",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnpmNE10TTFRVGN5MEhzSGpxS0RNZ3JyR3hBcVRRTzA4emUxM2ZxRlU5clhxWThTNkt5bkxUWEgzOGhJaWFDbmVqUlhrUlhnRk1mbkJSSVkxbF9TNFlnN1BQU2gtbHdyQ0ZMbVJJaHNmOWpPb0luMVROTU9zWjJjNTI5bmVaUWo3czlxUEZaWU1pNDRnQWNB?oc=5",
+   "source": "Times Colonist",
+   "published": "2026-10-17T22:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "$90 million Lotto Max jackpot still up for grabs after no winners in Friday’s draw",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEp0b0NNN3lHdmFHVGdwVW5iZXFfcDctYlRZUmoyN1Q0X0VES2Y1Rzd2bWFGOURSck9hMmlLTmdSd0NreHlEWnFDcWd4QUo1TkhqNF9iNWQ1MEJjRXJfU3NSTkF6a0cxZzJaVWRrMXFLbTE0MW1NaFhjblpubmZ2YUY1cUJJb0l5U2d4M2NEbWJtdGp6NktmWlJMWjl3d3FvcURfUGJ5aC1XWVBHQ041NG9mRW9UR3I2VkE5Yg?oc=5",
+   "source": "CTV News",
+   "published": "2026-10-17T18:31:15+00:00",
    "mentions": []
   },
   {
@@ -2275,10 +2321,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Essex County ticket wins big while $90 million Lotto Max jackpot remains unclaimed",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2lwMmRmNmRnSllvSkVSVE9Dd3RpUHJyYWZMUmhmQXJ2WkFHMS1VY0Z4alJSY1RuSnk5T2NhUF9pVFhaSGR4bGUzUkw0R3hnV0hiVjM1b3g3OEIzQ21YN1VxdHVIMlViTEdmclJhZnQ0dXZqajk0cGxFVmh5c1NUdEVNVUhyR2tKSWpQMTBINzFMa1RTMm9hZUc2MVo1enZwd1ZjQnRrcDZUbmRfWVQ4MURXY3N2LTlEQmpmNkJR?oc=5",
+   "title": "Record $90-million Lotto Max jackpot has people dreaming big",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbng2MHNPUENDeTNJLTNtUWNtVGRhdjhxZERaSVhkSHB1eXRkd3ZZVmc4MjEwRTgxZTI0N3pCRWw3ZnVOaXVHSnRUV1FMNi1KYVFyU3lCcUw2ZVN5Zi1xT1NSTnBaQzE2d3A4aExFZzJNWV9TWnNWZ2lfNlNPODJYY3JaVWhkTDMxQnJzQTNVODIzMFZNbl9EamRFVXpoS3c?oc=5",
    "source": "CTV News",
-   "published": "2026-10-17T13:21:39+00:00",
+   "published": "2026-10-17T12:30:07+00:00",
    "mentions": []
   },
   {
@@ -2291,26 +2337,18 @@
   },
   {
    "area": "Lottery",
-   "title": "Business News | Rising Borrowing Costs Signal Funding Risks for Global AI Expansion: Report",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdWJiVHlLRXRMR2Fid3VFMmtSOVM0UEc2REdBcnl5TkNFQ1ZFaVR2TGc3VVNlQWItbEh1d3BvUTNSM2VUMnIzWWRpcGFvLVJVZ0pib2NGbzc4bmkxelBVdWNhVFNJbHdldW80aUtxT3dUM2tVSGhwOFZDNUo5UjF3Zm5mWkRieW81cVFadnhtWnl1T2tGbzFGcUlLdk5DdVVZS1RzUDVNQU1yc3pmWkZscW9jaG14R3FNQzJYTlhheV90NXNLSXZSekJ0VkU5MERyejlTUNIB2gFBVV95cUxOczVKajZYTHAyaFVnNTk0NGg3V2VzeTduRTlzd2tKdVNUenpvSW1lRENtdUF3NGVHMmxSd09XT3VwTFVNeVFuYmVBN2JXZXp3YVhBUE5CLUtCd0RSTnpvV2Y5WFNMUGZKajA3T3I2TzVfSjl3UjdmaFdxSGJZdzNpQ3QtcFBkbFFiaFFtVmFSd0x0V01MeGtOc2t5d1V6MXNiUDhiTzFNS3BielhRTUQ0RFhlSDFDYkJVSkVnalhkYS1lalptNmN1c01OYThrQV9SU1lzdW41c2d2QQ?oc=5",
-   "source": "LatestLY",
-   "published": "2026-10-17T09:44:25+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Business News | Tagnam Communications Turns 700+ Prayers into One Powerful Message for Healthier Hearts",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTE1qRXE2d0k4dVBOUlgyTm5xTG1ZWUQ3Q1N0Sk5hc0swVmZLNmUwQmJZYlZFNGZNMVZvX01SRkVyWG83V1lTM0dscjlseWx3QTFpX045WWlmZllRODhCeEI0bk9DdElMaDV2T3BjVV8yUnRPRE5HLTRkUDZhWlRzejg2RlJET0tCdTg2TEl5cV9kOC1LbWNIaTIyWjRLUF9NdlNzb2dpU2pjazU3eXJYV2lxQUgtd3lKeUx3WHRsQ3pLa1ZobFNjNEtDc1c2UkRKeFRjOVlhUG9tY3k1LU5raS1tMVDSAeoBQVVfeXFMTmZuLVEwQWNtQlo4YjJfN1JxbnBaZ2FIbW9mUHR5T2V6eVZvbzhQRmRJa2Jqb0FDTkU5WEcwRmpRZ2FBX2k5dFNxRzhNWl9ya1ZuRFVwQUdTWDdZWVNqWWVVS3d5YWp0eFByOHN4bUdmWUxOUDZoMXdmNHlidHEwOERDQVVUcENWcmZwbWlxVEVJRmhVR0ZWRVJxZzhpa2wzRThNSjhMeGE3RERpdjlSRFo1UjBDZmF4WmNlblliaFdQc0N6bHVxWHRfS3NYM3VPNm8xbGdndGUybDljS2hGS2ZCMWhkcFE1MGln?oc=5",
-   "source": "LatestLY",
-   "published": "2026-10-17T09:34:24+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
    "title": "Nagaland State Lottery Results - 17th October 2026: Dear Morning & Evening Draws",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3pfZHVlakcweDBsa2tFQUx6OXpYRmU2X1Y1c1VRZlJEeU1BZnB4dVREX1RpaFdmaTBwRnlxT050d0t0WVRLeEJqcVJsaENVQ052OGVLdVNBdm5DVTJ3eGdxSzF6eGdCbDZGOVc1SG8ydkF1MHY0Q2x3X3hrcmRMZXNhYndnMERub0NqQ01fbE8ybGpBT19wOFp2VEVvOU83U1hNTXY5bUV6S2dMcHZHUFlpV2TSAcIBQVVfeXFMTXdlUGx5eWJKVWt2eWdIUVVLUGxTdXd6S242aXNVd0xlb2xGLVJZS3AyTEJ4NGZYb21TWFRfSnpIYTVGMlhLRWdTNTBvMllpMHgyS0FrdkhHOFNxWF90U3RIOXFBa1RJaG5VVHA2dkluekZia0Z1NEg4dE5nb09IbDh4eVJGdHZsdXBtM2NIT3JiVEQzRlJhYzJhOXdPT3M5UzI5RDVuLV9jS0JlQmdfTlZpMktOVTlhQ215c2d4NjhBWGc?oc=5",
    "source": "The Sentinel - of this Land, for its People",
    "published": "2026-10-17T08:33:15+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "Morocco National Lottery opens $390k consultancy tender",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NHIyNDlwemZsVXZwaExSelc5MWRYd0R2SVFSbXh0dGdoa2xxX0pucFk1RF9PeGtLOUdabWpfQVdpdHdnN1dRQTFQbk1GMVZQSEJIVVBDaW5aeHhtMlhNdlJUUFJSNXZkOFJxS3NEc0FZM0FCSERlbHo0VjEybHM?oc=5",
+   "source": "sigma.world",
+   "published": "2026-10-17T06:33:40+00:00",
    "mentions": []
   },
   {
@@ -2323,10 +2361,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Morocco National Lottery opens $390k consultancy tender",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54NHIyNDlwemZsVXZwaExSelc5MWRYd0R2SVFSbXh0dGdoa2xxX0pucFk1RF9PeGtLOUdabWpfQVdpdHdnN1dRQTFQbk1GMVZQSEJIVVBDaW5aeHhtMlhNdlJUUFJSNXZkOFJxS3NEc0FZM0FCSERlbHo0VjEybHM?oc=5",
-   "source": "sigma.world",
-   "published": "2026-10-16T19:33:40+00:00",
+   "title": "Winners of Roughrider & Children’s Hospital Foundations Lottery announced, $1M prize awarded",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3MtSUdfOEtxUmw4WmFseF9TaWRrWlhXTG1CRXd3RE9JVnZmbkxKNWxrUWZmcWNTRFJEbEkxNWNuYnRWZ042ZmlXVjYydGtySHpOcXlLeW9QRTJEY2RycXo1Q1owYTVYMUdCeWVmZWhvbFoxMVNJMWhFc1g5SXpRdThiOXBOWUJDaGh1UEhlZmx6VENvcmtaU1pSdlJZaDhXbENOREVQRzVZT3E0dDBDNHB3QW5QYTJGdGxHSUdGTTNJZ0FC?oc=5",
+   "source": "CTV News",
+   "published": "2026-10-16T21:30:46+00:00",
    "mentions": []
   },
   {
@@ -2335,14 +2373,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVjJ1bTBiQU9hR3JlXzFTTFZ3a0FySm0xbGR1Zk9DRDFTWV84MWdMczNoR3dGZ3ZNcEc2Vi15WnhRenNGNGdaWVhVVUV1STlrM0ZnT2pjem1ZVTJNSExNRUd5ZTd3ampodzYxcUdXaEVSZk56TXBCSHpjX3dBQW01RGZPdXFEZVdudHJWYlBVbW15S0RJalk0ZnZvVkRmVjJucW9Vem8tOGdHRDVCdmZHWUFEMWdWdlprUEVsRDVRV0E0S0pRcjlWRWVnaGxaV1JhbW1wTVpyQWE?oc=5",
    "source": "Yahoo Sports",
    "published": "2026-10-16T17:47:59+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Spanish team challenging Thunder rookie Mara's NBA eligibility",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWW5kQkx6bE9MYjhLM0lHX1RTcmRqZEhhU1hjTkYyMHpvdHEwV1BkQ2tVNGpxLTJaejMxWV9kalZ3ckRsMlFMZ3dqcjUyNlZiQjhLZldkRUtHRkpkdWg1MUdNaElPeFBGTVdjZk9VZ0F3aFFRTDZUa3ZNSUJoeUYtRjVLV3VRTEYxU1M1RnpmOVRnYm5JQnFJeTc0TFQyM01ER0dMZlpyYUQ?oc=5",
-   "source": "ESPN",
-   "published": "2026-10-16T16:40:00+00:00",
    "mentions": []
   },
   {
@@ -2403,10 +2433,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Rich Ricci warns betting regulation changes could ‘kill’ racing",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWRTdDZUSlhlalp3cTR2bmhxbVNpWHF4Zy1HeWUxZjhVNnJKSHlBdWEwR2t2MWg1NnQ3d2ZVQ2JSR3BhT3ZhUnh3a254cTU3aG5PWWcyVHNDdDBCMDJSMk9KZGtQajFxTDF3TkNtTkFhRTZzX2xfeUJzSjltQ2JQeUVjcjJpR203emdLQ3I3X0M0QVQxQTc1RFNxSTJfaXhSMDZsdlZMTQ?oc=5",
-   "source": "EDP24",
-   "published": "2026-10-16T11:12:24+00:00",
+   "title": "Jumbo Interactive (ASX:JIN) in Focus: Big Yields, Bigger Upside?",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYUdUUm9DcWlIX3NOV3JkX2RENDZXLWQxS1NYbzZwYWpNMnF2a090b1IyQ2N2LVNfZUVFX3pydE9kc0FBMXNMd0V6X3JlNGc0enV4ZzY4b3RSRlZQenZkTVlRRzZWajZ2R3V3YmYzZjZxb0d0M2hJUThHazAzcEN4dXdYanZnc010RVNlTkFjTDB2U0RXcnNsYVloOWlFVTJsUUQ2SQ?oc=5",
+   "source": "Kalkine Media",
+   "published": "2026-10-16T00:59:00+00:00",
    "mentions": []
   },
   {
@@ -2437,26 +2467,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Exclusive: “Even if the market recovers, this scar will remain,” says Fabio Tiberia regarding Brazil",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZjMzbnpGdTlsc0RtZ2NKUkNsWlppWmVhVWFjek1DTG9JVUZya3FhWVlPaS1PUjlLUk1QQjJPSktWSmxkbmxJSVFQVjcwTkhyc2ZPcE1fNnB6MmJaLW8zM3NQRXlhaGoxeHpoR1FycUx5aWMzRExxTS1kYVBlRC05aVBUVmRJV3FwMkpMNjZnd2N5RTFoOW4tMlVsdHA1RUZoVFMyeWNEcDBUSllLT0RfSlJlM2lnbHZYQ0R4UzZJblpEeGl3SkZHenZHaUstLUxsay1HRTh6SXcyQmIzanctX0EyUWprU0JEb0E?oc=5",
-   "source": "iGaming Brazil",
-   "published": "2026-10-15T14:40:37+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
    "title": "Tien Giang Lottery: Enhancing business efficiency, generating budget revenue, and spreading social responsibility.",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3NBanQzdUk0NENlUGVYbW5kNDFEV2tVeklkNm1mUm1UbVBXSHpHR1JwR2ZoSnpHSFF5ZGdZSnBTZ2dmMVhoTDd6cllnOUxFa1NFS0w4azQzeVV2SjJMcmVqTkNHbWlTZFdQUnk4eGtPNGpCa1ZfQ3lzM1pWaGRtaGphb0I2RnFVYTJhdENKTVhKdTFrSXdQeExYa1kyeW1rbmVWaGZSYWRRVjhHSFVVbi1adTJ6cWFRZHVCd29oc2haRktXeWlqSGZoLUMwX2hIOWc?oc=5",
    "source": "Vietnam.vn",
    "published": "2026-10-15T11:08:24+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Administrative violations in the lottery business sector are punishable by fines of up to 200 million VND.",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmhmUndjeXF1eENoNkdONEtPbG5PR2w1T3JJak9IZ2Y3R1BXa3FSMUg1eVFYQmNwN3Fmd2lMWmo2NWliY3o0RFNMUm83WmFNVU9VOWo2MmVMOXJrV1ZYWlNRQ0prcUNxZGJ4UDVnR0JQLVJhVktacW11MU5tdEY1NDE3bzRMQ2JEdU1VcUhPaGxPc08zb3ZGMWp1SUMxQmxZRWJNQU53?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-15T09:57:24+00:00",
    "mentions": []
   },
   {
@@ -2468,14 +2482,6 @@
    "mentions": [
     "Brightstar (IGT)"
    ]
-  },
-  {
-   "area": "Lottery",
-   "title": "Powerball jackpot numbers for October 14 revealed - Did anyone win $562 million top prize on Wednesday nig",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaXVpa0FsWEdLS3F4VjJ2OU9rcy03U08tUnhKVGJLZjVzb1dwUXNxQzlqUExXR3BkdnJtUm42TTZXbE9JakdIQU1CWEFXM21EdzB4Vk90dkNGd2FZOTd0NmFBY2llYll4bTUzY082TlAzdnBDeTZSRzBQQk03WTNHS05aZERiWFcyeWtodDl3TkRXQmRPeXU2Sm5NTFhPR0FYWndFX2xFbEpKRGZiUWJYbUZHODhZd1hTQ3NZNWZRdTVUdVV5NFZvdDUxLW1nZ20tWWFMT3ZsR2pIODJsemh1d3d6OVhNekhzYWV4MW5vYS13R21lYmZzNmJiU20yZ2ZY0gGGAkFVX3lxTE42Qzg4OGdEeHNHcHpFNHEtYVJqZktvVTUxcFRIOW1yQm13Qk9kZ1VwMEFWdXpKYkZmWG1LVk5MaElhcDhSdnJUeXhaRmZPTEZFVTBVQi1Mc3BWa1VUdFlYQWdvRjN5Q0V6Y0g1SEJzS19KSkFESTdWdkVpYXVqZ3RaUkZPd3dSc2tlNnlHVlJRVGdhanNFYzI0R19TbTd0N3NNZzRTSHp5WjhraWRLRExmQkJzR2pFMFVTdHlHMmc5T3YzelhBZEZKZlhIQ3hTRHZSUzRGRXk0dU5ma3VYSnRfZkNGOGRVbTZtVy1SODR4RVRZaUhfQlFwLTB0LUVHNUlia25NbGc?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-15T03:57:12+00:00",
-   "mentions": []
   },
   {
    "area": "Lottery",
@@ -2501,14 +2507,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0dKdDNXZFNxNHNYN01sVG42cXVTdFpvNE1qa0dYenVBUUQ3bjdRQWRkX0dUOWVhR0xwSVA2TlRSMVlzRkRvcnVmZnBBTFFFQUFYNC1kWnJtbUg4X0V6MUxSTFNZZU5lbDBEYXlyZ0FYd0dYcmgycVBTamJ4ODMtTW1rYVJoUmdMdGxVelJZUUI2ZGfSAZgBQVVfeXFMTzQzV0tDZjZHNzhLZnFrMURGaGhiTzdWYk85TnQ4UDdkeG42VUpzaFRHeGhxTzVDdEdkTkI4d1NGSWtnTTV6Y0dPZ3hSTWZVdGw1bmhMcHlFOVRFYU1fVzdqU1dZYnF2MUVQNWc5OEJ5QzRBS2ZRV05Pb3V1SkdyR1BQNTFuRGRXVmJTelAyc284Q0pKZ3dKcXA?oc=5",
    "source": "La Voz de Lanzarote",
    "published": "2026-10-14T18:29:35+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Jockey Club signs agreement to settle debt with São Paulo City Hall",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRldEbTZXakU3cnF0TVNKLUNyZGZQd1RYZGpja3U5R2dxa2ZOcDNPMmd2bHhFb3JXRUJEaUFTU2l2VU83ZWRfdWF0VG01RVpNMnczMEdZZWRqSGxYV0JHN1lMWWVKX0xYeE42NGhGTk1MdTRxQWdoY0VPb2lEMk5RNnNRZ3FYTE9PNEZab041YmRyNWNtZDl6Zi05VWZQTURmMjgxRm9oT1dBTkRaeWx6WVBwWTIxamhBOVdGdzZn?oc=5",
-   "source": "iGaming Brazil",
-   "published": "2026-10-14T16:12:42+00:00",
    "mentions": []
   },
   {
@@ -2545,14 +2543,6 @@
   },
   {
    "area": "Lottery",
-   "title": "Random State launches in New Zealand with Lotto NZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXRpWFJ6RDZkNDlYb2EwRklFa2JFazZ1Wk1OcjBIVE53TmpucGZHelpOSGpBX09mNXFJR0QzQi1xNXJWSU1vSW9QcWhsRTllXzJOUUkwdjhHS0FrX2tQNlJDWDN1aU9DTldBQ0xOWFA0SlJOWEt5REUyTm14YldjUnFPNGNHcUphZExZSERQdmk2RUg2dGI2cmhTdmVCMHJyajBiSWpDZHdPbm9JVW5pX1ZheFl0WV9p?oc=5",
-   "source": "Gaming Intelligence",
-   "published": "2026-10-14T09:34:03+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
    "title": "Independent retailers raise £10bn for Lottery Good Causes",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS040aXNBLVh1MDk5UmNyZktSamVnZXpBbUJJU2xwbnZUSFNQTW1TN3Z1Qm1YVlNXWGR5V1JtT1VDMl9nUHBPdndiU19UWTFhbVJiWUx2WDRjQmF3UmlQVlhmRGZOOERCU3k1c2JlRWd3dU1hUlZhRVJsVlo1eFRnVXdqejhKaXFWRFA4U3B6SVd1NXM?oc=5",
    "source": "Better Retailing",
@@ -2561,10 +2551,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Weak Randomness Attack Testing: 12 Foundry Steps [2026]",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jX0NKdnV0dVU1VHBOX2Q2NGdBcWpFaGtWcW1VNHVtdGVWd0ZNMGlBT0pCM2ZlbmdHNzBiRkY4UlpuOTFJTkUxckxmWGkwM2Nva3piRk9LWUlFUU9NWHRFMlUta2x3dG1EbW1zYzlTblY2MnM?oc=5",
-   "source": "shattered.io",
-   "published": "2026-10-14T07:28:54+00:00",
+   "title": "2024 Lottery Pick Gets Update on Chances of Making Celtics Roster",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMHp5eVV5NW9hdnFsMXE4aEd3OHh1VnBIUjBnellqVEFtbUowVVhfOWRyX2dwZ2RwWkU5Rjl2bGJ6dHlob3BfWVpTcURRVXpIQlQ2ZEZfdDNNRTd3dW5zNi1tVnE2TmZCYnZMYnRwcHBKRWN5bU5OdjNxaWdVbWo1QWdKUXRNUQ?oc=5",
+   "source": "Yahoo Sports",
+   "published": "2026-10-14T04:27:00+00:00",
    "mentions": []
   },
   {
@@ -2585,6 +2575,14 @@
   },
   {
    "area": "Lottery",
+   "title": "The Lottery Corporation Holds 2026 AGM, Maintains 16.5 Cent Dividend and Flags 40-Year Victorian Licence Extension",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbktMcWc0b1pKNko5c1dOeHZPNUE5UmFUYjFNQkpUdjl1YWVWWnBpUlp4bG5GNHZsQkdsMUxkZXRVODhEVVE3MU8yZS1OcWdwcE1ZTzRLRGtkWUt1RWlxbV85QklzTUNFOERrR2NwZzVMdE5QemtjN3ZhbFBmT1NkUUVMNXdCYkRBVjBvdldqRmhzaDJZbjFCWkF0RGs5dnl3azdDU1d6SlRpUUYtTVE4cHZRVFBNOEc0d01vVmd0S0lHTktOVFBkQ1ZtcDFmZllrRWs3TGc5N0FvTV82bUxpa3poVWFEOG8yYlE?oc=5",
+   "source": "Kalkine",
+   "published": "2026-10-13T23:15:02+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
    "title": "Pan Am enters the lottery: Brightstar wins exclusive omnichannel concession",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTng3RTE5OXRDY0U4WENRbnlOYnJoRG5oc21SWnJrQU9rSVNIRXdfUnFFMklzdXhWWGVTWkZNUUw5SnZRZEl0VHUwWVMxNHlMVjVveVNYZGYzQVRkeTFYZjNYNGVpaEZyUk01eFpNUjNOeFduMXpieF9LREVIemdldDV2OW9QbVBpdkxXd2doRDBsMGlJbDBCakZuSXlMZ1YwZkpTYzNaNU05TVQ1LUkyNUt1Slk2eUNuTVhXazZVNkRpYUJsb1p0NGEtdHByMGF3VUdpY3V3?oc=5",
    "source": "PressGiochi",
@@ -2592,6 +2590,14 @@
    "mentions": [
     "Brightstar (IGT)"
    ]
+  },
+  {
+   "area": "Lottery",
+   "title": "Record $85M Lotto Max jackpot triggers last-minute ticket rush",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGNveV9xblVubTB1Z3R3TUxGWjYzSUJhRE1BcERHa3Jya0lJaHhtS2pZMDV5cGRjMUVlbFVnR2EtUmt3OG5WMkM3SHpiZVp2M3VOaE9yVmVSckh5cTRqbGptdW12bGtVejRfTDFXWUdYVTZ5Vjc4a1pqSHM5RUdFNFhEZ21TTGkyQ25GTmw5SWVmQjg5WHJzMFFEd05qNWFsOGI2SGZR?oc=5",
+   "source": "CTV News",
+   "published": "2026-10-13T21:36:48+00:00",
+   "mentions": []
   },
   {
    "area": "Lottery",
@@ -2635,14 +2641,6 @@
   },
   {
    "area": "Lottery",
-   "title": "India News | PPPs Must Combine Public Purpose with Private-sector Capabilities: Delhi LG T S Sandhu",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUk9tUVQ4eGVEZGJSNkZrQVNCOXk5SUpuOUtEZWtHczRuQ0lVLW1fUTNMbWRGV3Z1WWlObFpHTnJNU2dpOFp0ckxNelpPLUhLaS14WXRGbkNvUDVUVXQ4N1RuekZrckJRMWpyRjJaNEZkWkNoanRpZUpiRDZ4NlVVbG5Fek15U2xQTG5sLUxINkdXdTV3RXB0S291S0ZTUXBaUFI1X0RrYzNET0VhMHRrcmRXM0N0Z09CYW93VkJqbS03amk5RjF0TXhjZEFGOW5mME1qTHlVYldpWWE3cURz0gHkAUFVX3lxTE5vbENOQjdFdUoyQnZXZjM2YXBrQTNzME5LOVZTWkdUUWRtRjk1Z1MwMWVvNVltc1VBUWRrcHZOemJiVDJ5R1htTlNVb2hkTHVINUEyZXdXY2laaDJyaE81blBkTl9nSXlDZzRxMmJycTRENFVPeFN3eGVNeWVPT2w1Z1k0UDYzelMyYzJEZlExMlFxTFllTml0cDBicDU2Rk9UbnNEV0NxdzR0dk1FdDhNSEpoaWFEOFdEdFp1SWFGS0pKODNGaFVkQVktSzB0dFhfNE1oWV9qcVBvdmRUSlRIVzRGVw?oc=5",
-   "source": "LatestLY",
-   "published": "2026-10-13T12:00:24+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
    "title": "Brightstar Lottery Gains Exclusive Omnichannel Lottery Licensing Rights to Pan Am Brand",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY01tZ0N0TV9SZFFVUHF1ZFh0V0diZnhLcXJZOUEwRWc5cmQyUk9aZ0w0UFdvSk5xVU1DYzY0RTVyY1pyRTNVbF9fT0ZsU1pjYU9BLXNiWmFqTGlVMHFsbkZidTZ0NVdkYzYyT2FEb0k1dDBES09mZ2kyUG00M3dLQWo5akltTUc0Q3BWa2FCa0FMeU1hekhVZHVMdTZ6ZjFyRDUwOVp0aV8zZy1KY21JM01YU19hVVByV0hLMUpvTUo0R3BjVFZ3S1Ftb1dIZEdYLXVudEgyaXp0MW8?oc=5",
    "source": "PR Newswire",
@@ -2669,14 +2667,6 @@
   },
   {
    "area": "Lottery",
-   "title": "Who could Celtics sign for open two-way contract?",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1lnNHhKTC1YekRwd2V3RWJSeFJ5RVU5dzEwWVJqNG5xUTZfXzFYRmRzQ2wwbURoemxwYmN4WDlIcHlqTmtWZHRzM2RPNkdRbXVsZk5XQm54MkhQbDVJQXBwOFNFOElEVnh0ZnpkeFFrMHNmVVhDYkFFaU85TkhhSVRhd194b3JVbWN6WG5sSU9jeW9fby01LUJR?oc=5",
-   "source": "MassLive.com",
-   "published": "2026-10-13T10:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
    "title": "Is Brightstar Lottery (BRSL) Undervalued Following Its Queen Video Slots Debut?",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTUdJNDdBWmtteU9Kam04a25MTUQ5T2hicGtXUUFWcmdoLWhvT3hkN2xuVGlZb0tveVFrd3dOWVllVHRsdkpCbVBjVk5keDFrZ2Vmd1lmTjZ2MnZPR0c0cUNXeVQ2WGJOQ1dNbTRfSFRoUjlXbTlnclZHN3VWNHVQN0tSeklEQUMzQXNjMXBSOUZ2OEJsN0Z4aDczUjBxdy1MYzVZT2JvVDF6S3Y2NFdrRVV3ZzhKeC1WZ0Q0Um1ZOHA1a1NVelBVaTNUdF9KQm9Cb293ZUs5ZWFmYzF10gHiAUFVX3lxTE9xaW9hRlRCTFk2c2tLNFpfVTRTeWYtaEF4N1BXN3ZJd0tvVXZpT3pYbHZCQkxYdk5vdkZEc3Ezc0RXeGd6d29FOGx4U0xUTC1pM2hCTHdObmNZYUNXV3J2WFRycVJ1R2RMZDVUaGRhb0xEbUstR3I5WVZCWUs0T1AxOGZmRlJaRlZPSmkzZTlrMVltTnVGX0treUhJSFhLV0daVk9ROU1VWkNUb18tZXlkTmhUUXoxN2gxWk9mWWt1M21jMlVtWTJuVHYwanpudzVUZDlDazNkbDlaR05wbno5elE?oc=5",
    "source": "Simply Wall Street",
@@ -2684,6 +2674,14 @@
    "mentions": [
     "Brightstar (IGT)"
    ]
+  },
+  {
+   "area": "Lottery",
+   "title": "Weak Randomness Attack Testing: 12 Foundry Steps [2026]",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jX0NKdnV0dVU1VHBOX2Q2NGdBcWpFaGtWcW1VNHVtdGVWd0ZNMGlBT0pCM2ZlbmdHNzBiRkY4UlpuOTFJTkUxckxmWGkwM2Nva3piRk9LWUlFUU9NWHRFMlUta2x3dG1EbW1zYzlTblY2MnM?oc=5",
+   "source": "shattered.io",
+   "published": "2026-10-13T07:00:00+00:00",
+   "mentions": []
   },
   {
    "area": "Lottery",
@@ -2764,15 +2762,7 @@
    "title": "Devin Carter staked his claim for a contract with the Boston Celtics",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWpGcGdYQkM3Mm1BcHJIVXcwWmo1cW5OLXpvNjZLblpfOWpocDJ1UUxybmxQcFBhM1U5OENsYUtJZlhfeFdmVG1Oejc0VUltZUM4cXlfWjBmczk5cHRMS1pjRG1JZnB0UTg5V3U4ZVFJa3ozMEg2SGxibUV6VHVCRnRSYUZiV045el93?oc=5",
    "source": "Yahoo Sports",
-   "published": "2026-10-10T19:38:46+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Top lottery prize becomes the largest-ever Canadian jackpot",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWt2LTN2N2N1WmVIWTFDTTY5Qlk3UUtrQjZXN0paTG1Nbnl3NWZVYm5LVU1HZlpBbVpLY1BsZlpwdGZfZjNIZVlmOURrY0d2UUhIMWtsZ3duN0hNc3NSQmRVdE1LaEZjS1R6Q2EyV2JZYWtnR3RaQTdoU1B2Rk5HMHZHR2d1SlJEN0l2Z0ZR?oc=5",
-   "source": "CTV News",
-   "published": "2026-10-10T19:02:31+00:00",
+   "published": "2026-10-10T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -2780,15 +2770,7 @@
    "title": "Suvarnabhumi signs a third ground handler",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzBiNkR6M3QwT1RSc2pEeWp1Uk1zN3N6aXBiR3gxaXNsQWpMSVhDU2tOaDJjbXg4ek5Sa1VfajNHMUlCd0hralRpS3NwRElkdHZMM0NfbEhHV3EzcWc5ZUNZMnFwVGxGOFZ6aTZTbWZKaXV2aTZyZUMzYU51T0c5WXpVYXk?oc=5",
    "source": "Thaiger",
-   "published": "2026-10-10T03:04:30+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Former Lottery Pick Emerges as Favorite for Final Celtics Roster Spot",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOVIxcUlRaDd3TVhsTW1aT3VaYnJrRjVtQ3dRb19qYU5jaEpTd1c0NnRxMExKWkhCYWl5UjNHZTg3NzAxS1hIMHRtYmlsc1ZuaURBNnFoVG43RXJwM2hFcGpNeEdpQVRTcEo3VUdDTEtKRXk1ZWJUSE9abEJyazc5SHBvVQ?oc=5",
-   "source": "Heavy.com",
-   "published": "2026-10-09T23:41:23+00:00",
+   "published": "2026-10-10T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -2801,18 +2783,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Guyana Lottery Company unveils new online site",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWhCY1Eta0hqRDh5OEN2c2lSRlA1b3FmUnpzVUxlanNncWI0eDhUQjZXRFI3b1J5MC1LNVJCbXBwZzV2emE1RndmanlJMmotWmx4QVluV0hJVXNYQlUtY3IzNU9Vb0ZlbWs0UGE5SzFTZEFrbDJlem1RU0dwN240TVJjM24?oc=5",
-   "source": "Demerara Waves Online News- Guyana",
-   "published": "2026-10-09T15:29:08+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "The lottery provided the money for Guetta and the gang, but no one knows how much they spent – ​​only \"Stardust\" knows the price of music",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWFLbEszNWxFcGJacjNNMzZUVW9yYUd6dXE0ODhSSy0xWTNSYlRnTzF5bC1VWG9oS1NZdmxmS2E4YlgtdVRuQzFYX2ZVckpFTUNIUUJZbk9lV0I3UHZsZnI3RXhzVlF5TkYyMWRhWFl3U282VmlENFVfVW0zV0J3bklJQXozbHFIWDNKeXEzSGtNRzRVbnlvc3dsR21xVW1LRkRMaTRCSTFBcEY3Yjhsa1I3ME1iY25Zb0RHWUtEVmZaeUl6Z2piRlQzTzltQU9Md2ptRzVWVjZlRWZMTVphaw?oc=5",
-   "source": "Слободен печат",
-   "published": "2026-10-09T12:45:22+00:00",
+   "title": "Canadian Lottery Coalition Rebrands Amid iGaming Changes",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMGd4OG54SzdtWU04X0ZBdjhLRWNDT0xINnpCQTUyU3dKWFJaRDFzeE83TjJUSjBVLUFGelFEWDVHUm9INlloN05WU3JiMnZ3WW5pSkg0ak9ocGdxOG1Ya2h2TXMwUnNyaW1Wdm9oYkVKelZNZGxsU2xn?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-09T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -2820,7 +2794,7 @@
    "title": "Canadian Lottery Coalition relaunches as Regulated Gaming Alliance to combat illegal operators and policy shifts",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2ZOcHN6a0ZDTF9DbHZOOE1qSkh5a0RnMGZ3VkJZRXVudFptN3E3S2NBMC13RHV5Ukl2RGdSQWk3TS1tLURiYnR2LW5oclJMRXZLeVB3cTdTTS1HM3Bhak1kNml2SG1rMXd3Zk9JYnVSbmhJd0VFYUhDMG5SbTA4OE9FU3Z6Wk9ETHJqQU1UM0xxTTdrZFR6TXpTdWlhTHA5TG4ta2dhLVZOQ045NENzYS1vb24zc0doZ3Rud0pFRmg1TlIyWW1HN00yRmQyS2dkUGk40gHYAUFVX3lxTE1QdG9wV2MyYUZpV3ppRVZfcE1RSTl2ZkNwTlEyQUN4bzBPTnYtMTZ4QjJlWEpzY1RlSlhmSkNCVUNQbWlaYm14TUQwUXJIbDV2eXVneHE3TlBBaHp4TVd6ek4xRHBiYmRGYkZSd1EzRF9lWnliaGZKLW10dWxpS3ZremhLcFpYeDl1UEFMeEVMX3dOVkEzTXlEOHh6MkVZUF81N1h1T0ZuZzg4OGdIelN5amVOaGl6dmNoLTRxaGZocFV0TnRRNXROcjVKTEJXamlndmxCX1dKNg?oc=5",
    "source": "Tribuna.com",
-   "published": "2026-10-09T08:13:00+00:00",
+   "published": "2026-10-09T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -2833,18 +2807,26 @@
   },
   {
    "area": "Lottery",
-   "title": "The Lottery Corporation Discloses Lapse of 53,282 Performance Rights on 30 September 2026",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOG1aLVZCNjZKSmJxTTlrZWFrcjI0S2pnZ3FjN0J5cGFQQXpkbDlUWEF5SDZBMVVELUdUSzlCMDFIMU5HR3NhUVBLZmwtODlMWVJ5ejloUlIzTkJQRVlMeWVJQ3dCOFNmLXhwdHhJNUtQR1hzS045bnFiVUhrMDZDR25lLUJDREgwOWh1akJodHlSZk84X0p0Sk5zRHpnazBnYnlaaWNYMlhWekxRTkxTQjZQS0ZXeTBrcjFrMVhZcDEyd2NqYXRaa25B?oc=5",
-   "source": "Kalkine",
-   "published": "2026-10-08T23:15:03+00:00",
+   "title": "Guyana Lottery Company unveils new online site",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaWhCY1Eta0hqRDh5OEN2c2lSRlA1b3FmUnpzVUxlanNncWI0eDhUQjZXRFI3b1J5MC1LNVJCbXBwZzV2emE1RndmanlJMmotWmx4QVluV0hJVXNYQlUtY3IzNU9Vb0ZlbWs0UGE5SzFTZEFrbDJlem1RU0dwN240TVJjM24?oc=5",
+   "source": "Demerara Waves Online News- Guyana",
+   "published": "2026-10-09T07:00:00+00:00",
    "mentions": []
   },
   {
    "area": "Lottery",
-   "title": "Canadian Lottery Coalition Rebrands Amid iGaming Changes",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TMGd4OG54SzdtWU04X0ZBdjhLRWNDT0xINnpCQTUyU3dKWFJaRDFzeE83TjJUSjBVLUFGelFEWDVHUm9INlloN05WU3JiMnZ3WW5pSkg0ak9ocGdxOG1Ya2h2TXMwUnNyaW1Wdm9oYkVKelZNZGxsU2xn?oc=5",
-   "source": "Casino.org",
-   "published": "2026-10-08T20:37:06+00:00",
+   "title": "Former Lottery Pick Emerges as Favorite for Final Celtics Roster Spot",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOVIxcUlRaDd3TVhsTW1aT3VaYnJrRjVtQ3dRb19qYU5jaEpTd1c0NnRxMExKWkhCYWl5UjNHZTg3NzAxS1hIMHRtYmlsc1ZuaURBNnFoVG43RXJwM2hFcGpNeEdpQVRTcEo3VUdDTEtKRXk1ZWJUSE9abEJyazc5SHBvVQ?oc=5",
+   "source": "Heavy.com",
+   "published": "2026-10-09T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "The lottery provided the money for Guetta and the gang, but no one knows how much they spent – ​​only \"Stardust\" knows the price of music",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWFLbEszNWxFcGJacjNNMzZUVW9yYUd6dXE0ODhSSy0xWTNSYlRnTzF5bC1VWG9oS1NZdmxmS2E4YlgtdVRuQzFYX2ZVckpFTUNIUUJZbk9lV0I3UHZsZnI3RXhzVlF5TkYyMWRhWFl3U282VmlENFVfVW0zV0J3bklJQXozbHFIWDNKeXEzSGtNRzRVbnlvc3dsR21xVW1LRkRMaTRCSTFBcEY3Yjhsa1I3ME1iY25Zb0RHWUtEVmZaeUl6Z2piRlQzTzltQU9Md2ptRzVWVjZlRWZMTVphaw?oc=5",
+   "source": "Слободен печат",
+   "published": "2026-10-09T07:00:00+00:00",
    "mentions": []
   },
   {
@@ -2873,6 +2855,14 @@
   },
   {
    "area": "Lottery",
+   "title": "Pennsylvania Lottery Game of Life Scratcher Sparks Concerns",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR01rQXZpM2hEaHpBZTMyS2kyOWxrNnFLUWFOR3BXX1hfRFNpZUVaMnVOeFJtRmFvQzRoTzV2cm9XbzFsVjBuQ29kSXB4RE5YMzUxeHZIbk1JMWJqR1VJUlN1R080SXYxVmNOODJ2NzBFX29JLXE0N2FZMUZnZ3JieWhwQjlLNkFPaTkzMURsMjNfdWFXOGc1Z0E5V0h2V2NVTXk4?oc=5",
+   "source": "Play USA",
+   "published": "2026-10-08T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
    "title": "/C O R R E C T I O N - Pollard Banknote Limited/",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1B4UFVyUkoxOXZIZktOenV1NGx3c25qRXFTY1dnLXJzV0tGWF85dndfZTNCZTNTM3E0NzItOTZpR3I2bGYxbVlVeDJVcGlPYzRNRHBhb2hHZFdLQjVBaS1scVBrM2ZhTE1sbDdJc0RzeWljQVJHelJrOVgtUDlLTVZoY05RaEpTZExQRU9URHhQcy1FZ1JCVTVFd1pkYzl6ZTMxVDhuaG8?oc=5",
    "source": "TradingView",
@@ -2884,6 +2874,14 @@
    "title": "Lotterywest Extends 303 Partnership — LBB",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jYW9Kb01jd0NCMTQ4bU1NU2F0S2plTk96bkQzSXE2RlNIR2ZvcVNMa0x4b18zVVpIeEVqeUtGUnp6MEJQajY2bm1YSFNTWmN6SVlFZ2JuY1RwcHhwbEp0cWxuVUFTZHdqY3c?oc=5",
    "source": "LBB - Little Black Book",
+   "published": "2026-10-08T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "Ban on betting companies affects advertising and media contracts",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWh4ck1DMjhrQUUwb1R4M0lOY0hyNGFyYWpxVDlDcGh0ZUQ3UE1qUWZZcl84ZW5XbjkzNTdLS09TMWgyU2pZUTI4YlZyNmlMaENqOGs0SjkzMTB2S0FTTnhFV0FBWGlaLVppU0ZodDNTTGhEYU1aQlAwdUVXMUU1MXFvSFF0bE5UcFVuTC1nM3lnZDhDd244OEtDSzlRcTBKbEpMU19aZDdiUExaU19nellEVjlCZFJH?oc=5",
+   "source": "iGaming Brazil",
    "published": "2026-10-08T07:00:00+00:00",
    "mentions": []
   },
@@ -2916,14 +2914,6 @@
    "title": "Kerala’s Rs300 million lottery mystery is finally solved — but the jackpot winner wants to keep their identity secret",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmRMbTBpUzlHRDhkLVVCRGxIZ0JWcUVUX25YM0RIZkxCNWRLTVF4VU9rS3I1M0dRNktCdkM0YnZSVDBwVEpSX09XcEd2eW5MM0h5OE94eTRxaFpCSFFkbXhqQllNSjFYM19UREFvZ2hlMFhXLVNDZnlqazlIMW9wUDduYkdVZmQxMHdkUjc2amxZVmFXaldpR1hqOXZfRklyNHh0Y2hyc2R6dEE?oc=5",
    "source": "Gulf News",
-   "published": "2026-10-07T07:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Sleepless night leads to discovery of $1M lotto win for Edmonton woman",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV8xYkQwXy0zMnpxZm8tNFltQjh5SFZINTBQcWZTaXFYVW41ZzV2WHNSM0dJRTNLS0hsT1NGZmU1YTlQdkI4S3ZjS0xoTUYzVEhNVmQ0clJYR2otNFctRnNkMnNkeHJIcGJ3dkpWbkp4S0w2d0ZPOVI1WEUtdkRGelhCZjc2M1laeHBGcVNqWndMU2kwQzNsWXhOLUdYWlYyNTJKVzFYOXI5Tzd0NkVn?oc=5",
-   "source": "CTV News",
    "published": "2026-10-07T07:00:00+00:00",
    "mentions": []
   },
@@ -2971,25 +2961,17 @@
   },
   {
    "area": "Lottery",
+   "title": "UK Regulator Demands ‘Higher Standards’ From Allwyn in National Lottery Oversight",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0F6UGE0QW5RbDBydldUSVZodWk4b0JBZzdYLUdXeldyOHlqOWJHZFpmLXF0VHJmb1VZRW9fSGRvYlhrSlVPTjY2T2E0akVQM1NDZkxnNXh4eHVhUEczalQyVFJ1SllycEFfdFlic3FhR0UzeV9reUlMNGV3Qk9VdTZZUFVQMDFhUjIzd0I3akI2LWI2R1RPTTRLT1JhV01aWGROckRR?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-06T14:00:57+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
    "title": "Canadian Alliance for Regulated Gaming Outlines Its Mission",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlSREhVZWVSNW95ZV9ZWWpoTmF2ZXpLS3RfbC1CRTBxTnVMMzJTQnFiaTFCZGgyMVNIdlR1ZXAtdzdrZmIwaFdVclBtREVuZ1VKamJLN09YbkxjNUN6V1hOWENsV2hvODlnSF9WVjAxQUlsZGxBNGQ3ZE83a3ZzQTB2emx6RlE5bjYtclNXYXBZZkU?oc=5",
    "source": "Canadian Gaming Business",
-   "published": "2026-10-06T07:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "Regina police warning public of STARS Lottery Scam calls",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWUszRk5hN1NUck8yN1ZNcUZfbDNCZDNaRWhRUE9nNGJpQ1RoUm1CMjQ0SHJUNXJPT3ljZ09DSnFkaUtmVlF1cUtjanR5RXZSd2p4S25Ha05DVFhzSy1sbUtjVXBQb1E0T0FNN0JDY190V2JsMHNIellidUlFZURkX2xSS1hOb2tQOUpuRDVwZ2hlZnQ4OV9YclVlYw?oc=5",
-   "source": "CTV News",
-   "published": "2026-10-06T07:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
-   "title": "High River man ‘jumped and screamed’ after $1M lottery win",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX29ndDl5T0tkUEFpTjZDR1Zsd25QclBFUFE4Nzl2SDRQTlJ0cl9lamtqYVhtbW5DdlJWcm5QR043TVY0RXN6cmowWFBYMzdFRUVwSEVBSkF6c29UWk5KejRTRVJ0bEktSVI2ZzNKcmwwTXBOdGgzbXRVYVhqeW9ZRGZFcUwyOHNDSDR1bFh0ZXZpR3RIcUNvNTVHbw?oc=5",
-   "source": "CTV News",
    "published": "2026-10-06T07:00:00+00:00",
    "mentions": []
   },
@@ -3019,10 +3001,10 @@
   },
   {
    "area": "Lottery",
-   "title": "Gaming Intelligence Awards 2026 | North America – Game of the Year",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGY5bEVQV1BHS1JrRFZoWmpIblZ4b09zTlBPbGI2NUlsT3hlSVV3RUQ0bU4tWGVaS1FmdEZ2ZjI3NmJ1WHhaNHJjeVRsRnhjNHFjRkUweXpJYzNJQ3gxeHZJSEctWXJ2emhpU0gyUjhIeXRTMG03YTJVNHc2TE01ZUhnX05XbXhNT1h3M0pTb1Y3cno5OEQwalIwU2dsZThBSTNFLWc1MTcyTHdkV0dUZmNHcllLdw?oc=5",
-   "source": "Gaming Intelligence",
-   "published": "2026-10-05T22:37:42+00:00",
+   "title": "The Lottery Math Nobody at the Gas Station Wants to Hear",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGVaLWhHU3ktQjdEWGxPS0NRcUNhd1lYcWZjTXUwbkxCWXllYUxkZV9OOUNGYWNFTWtCVzU0VEpnU1VfVklBTHBIZzAtN0hCSEJiSVBlc0N3QkE1aWtKRVNTREJ1WmdPemtiVk9HbTBCUUpPNGpXSUMtMjhHZHlqS1VpODlLMlNucUJxbQ?oc=5",
+   "source": "Vocal",
+   "published": "2026-10-06T01:54:27+00:00",
    "mentions": []
   },
   {
@@ -3045,14 +3027,6 @@
   },
   {
    "area": "Lottery",
-   "title": "Dr. Opoku Queries Minister’s GH¢10m Lottery Benefit Claims",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDcxcTVhLXRfX0dpMVg3Yk53UHFMTUZRb3ZqS0pnTjlZOWRPWDc0bFhSVy1PYWk3Z014S2JMY2NwYVNKSlNyczZHTWw3YTBoS2EzZTN3UzZDMVZHSldicmR6a1JRTEJMM3lSMmFQY21tcVBNcGlPRndIaGU1MUppVFctR0UxZlNvMEF2UkloSnNCaWw4TkNJ?oc=5",
-   "source": "DailyGuide Network",
-   "published": "2026-10-05T12:13:54+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Lottery",
    "title": "The Digital Strategy of the Lottery Industry",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2FvaU16STJiTXdsU0FUMmlZN3VJU0tNTFo5UGhzMjh0ZkZ6RHNzYjhRMmhhbEQwcVFtZnJ2T1lFV1ljbkdWRFJRV2hWZkRsR0tQWDZYdVN4bXNKS0FBNnBpLTNhT0ZWQWxhbTV6ZGhkS01JcnQ0U0xFOERndW94MDhPem5zUkNGYlNTcg?oc=5",
    "source": "techbuzzireland.com",
@@ -3061,17 +3035,41 @@
   },
   {
    "area": "Lottery",
-   "title": "Pollard Banknote Stock Extends Positive Momentum as Operating Strength Supports Investor Confidence",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0U2aXl2OEw1eG9xM2w1Q05XekZsNFA4X1NxcFJrcngwalkwdlRwZjVQRi1CU3A5N3ZncmtKVU01VmxJNEdPM3YyclpSQ2NrNkR0d1FPWkM0b3NOQkJIb3BRU2JJem8yaFRxSmFOQjExZDhKcmlNTDRicHBQbjZwaUFvcVJnLTVfWWdhb1k0d1VYWEtjZTFsT05oWC02aDN0RERiTmxvTFpHT2NwRUU1WWZJUnI0ZUJzTmF2Y0I0WkF2X3VyYkU5NTZSS3dDSzlH?oc=5",
-   "source": "kalkine.ca",
+   "title": "NLA warns lotto operators against paying commissions above the approved 25% rate",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlJhVjBkd2pJRnJtTEJLNlBrTmdlWkdyc3M2eFdsTmJJaHJIeW5wc3F2WGFLZEx4ZWdOeTloZ3FTM2xjcEk2cC1fMmhVUnZTVi12a1Ric2VOVWFvUXVxdUdBY2lrX2xmMHpGby11Q25WTng1TmZ1Y0RpN3paS212MkJDRWw3YVV6NklBdHJHdmE5QjBxeDRxa2RONzZzRlo4TFdIbUxRMA?oc=5",
+   "source": "Asaase Radio",
    "published": "2026-10-05T07:00:00+00:00",
    "mentions": []
   },
   {
    "area": "Lottery",
-   "title": "Surrey resident to buy house, dream car after $32M lottery jackpot",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXZ5UkN5OTVkVzhrbmdWVW5peml5bWVEYi05MjBnRWhWMi1tQWJhb2V6X3pSVnZkOXEzOHRGS19USVNZc0RKcFFzMjR6YjdZQ1MzYkYzZ3VNQ2pDVkZJZEx2V1BacTlLMFRudnY4b2NiT1RFWlgxd2ZUNUktVlQ3UTBTaEVTdzVwNFFvNnVmOW12NkFKbElHMmRSLXkwekRVZVlJNWtGRGhYQQ?oc=5",
+   "title": "Dr. Opoku Queries Minister’s GH¢10m Lottery Benefit Claims",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWw2WVFXVENQM3pFUWpwUDczZHhvWTFaNkxuMW1oS1RUN256RjhYQmhiLTFaWmo5TEdOS3V0WTZNbjkzT0h1Y3Z1Q2p3VGpLdlhFYzA4d2RwYW5iQTJGSzUtV0E0SFhnemdtSUh6OEYtVU9QcXFOUXF5OENwUGFMRmZwb0pFM3RWck1LUHFPZFNmSFRJalVfUNIBlwFBVV95cUxNZ3BxWGFfVzlYX044RFAxbFk5T0RSb2ZWMFEzazgwX25kTEEtbS1FVm9tRnFxSWkwNXkzelBDZFc1blk2UDFCQkl5UTl1aFltemtkOEhKSV9Ca0hUYnV2RnA1TG5kSTFiSnVvWWc3b2xxTndkdlZxWkVNU1lFMFZvYUY3M0V1dnpUVlBLZ2l2UmRBY1h0clNr?oc=5",
+   "source": "Modern Ghana",
+   "published": "2026-10-05T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "NLA targets higher State revenue with lottery reforms",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWRwUEgtcDNsSkJJUE1yZlU2andpeFVjNGtnYjk3VGctMTZnRnlxTThuQ1VqblB6ZEZoeHBxdTQxSVJtcllzQm1CQ1NKTGlTeTNreW9CeW5IUi1hT1lrS09PYXJ3UHhCSElhak0zVXBMLXl0ZEFzNy1vNEV0QWpWVERsclpZVEU?oc=5",
+   "source": "CediRates",
+   "published": "2026-10-05T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "Million-dollar lottery ticket sold in Gloucester County, N.B.",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQS1lNnlrUS0tSTJ2MXE5ZlBva1h1eHVGaDQwQzI2OE5xUUdSYlhyQUEwSmxsWTBGdEV5WmRka3NXWUI3LVpRNTRLSHVfcm1SdXFfdG8zdkpSem1BX3F5Szc2eUdiRUxmVU00alI2MWIyaXhLWi15OFlSbFNHdThzNmJZc19hb3l0QlpjQUhydV9wcF9mQ0lfaDV5bUtWXzdnQTdIM04tX0ZTX25QSDlZbTZuOA?oc=5",
    "source": "CTV News",
+   "published": "2026-10-05T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Lottery",
+   "title": "Gaming Intelligence Awards 2026 | North America – Game of the Year",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGY5bEVQV1BHS1JrRFZoWmpIblZ4b09zTlBPbGI2NUlsT3hlSVV3RUQ0bU4tWGVaS1FmdEZ2ZjI3NmJ1WHhaNHJjeVRsRnhjNHFjRkUweXpJYzNJQ3gxeHZJSEctWXJ2emhpU0gyUjhIeXRTMG03YTJVNHc2TE01ZUhnX05XbXhNT1h3M0pTb1Y3cno5OEQwalIwU2dsZThBSTNFLWc1MTcyTHdkV0dUZmNHcllLdw?oc=5",
+   "source": "Gaming Intelligence",
    "published": "2026-10-05T07:00:00+00:00",
    "mentions": []
   },
@@ -3089,6 +3087,102 @@
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXB2NHdTN2J2RjRhcm5xdGluREdwNjFFUTFJVzlEWWVDdE9HTFRLUC1wU0lMcmRPNkRndzB3dnVTb1hwd0FNcExrcW5rOFhNQzJMMXdCaTVYdGJ6UFd4Vnk5WXY3bnBkZk9PMEE4ZnMxUVpmM0tMQ240TFhsdTB2TXFOTENIZw?oc=5",
    "source": "Yahoo Sports",
    "published": "2026-10-05T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Macau Q3 Casino Revenue Falls 3.7% as Mass Baccarat Slows",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWdldTJyZGUzYjVRcURSN1NwakNEdzRDWWF2bE5yOVd0Zmp5Q0duQjBjejJFTnBUZEhYSXlseThTVWxXOWFKQ1BEWTdyMF9pVXhXUjQ2OVZrVkRVYXc2WFVQMVZzYUw3X3A4MDFIcWhCR2p5S0RVcllaclEtS1k2VlNEWk1YMmFmYmN0UHBKYw?oc=5",
+   "source": "iGamingToday.com",
+   "published": "2026-10-19T05:06:19+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Best NFL Betting Apps, Sites & Sportsbooks - October 2026",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlQ4bmNoekFVcjFTaDZuR0E1XzdId2hyTlE5Sjd1b2NZOTh5MzE4b2VKYkFZUXJkMjZVVmpvVk1LaGcyTDV2aExqdUFMcTh3dHlBalJZcXpPWjI4YzFSYjhTQm1PZmx1aExYbEZjX0pwR3E0eDFLOVFOYWFVWW4yVW4yM2RfUl9qdGZvOGJha0NPbzBPYXFxWi1faw?oc=5",
+   "source": "Yahoo Sports",
+   "published": "2026-10-19T03:03:28+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Best sports betting apps, sportsbooks and betting sites | October 2026",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qTDhIb2w2N2RYT0JjdklzRGZadlEzb18wSF9VaXdNWkd5SHEzbXhiemFjSkd6bThlaFYzb2ZvZzlhSHdEYlJhZ0toT1RYOUV2TXJyamwzUDVkdHVXS0t3RVMwaksxYzFHTndlT19JNmZTWlZIYXZuZ2pCZTRULWM?oc=5",
+   "source": "New York Post",
+   "published": "2026-10-19T02:53:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Best betting sites for October 2026: Top online sportsbooks reviewed",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSGUxVF9nLTRXSjZDWldqQ3U1RWhnUjVfYm5sRllxcERRd1JRY29SckxRRl9DdFZmLUtaY2RoNkY3bkRueTc1LW00c0hUZ3R3bm9zVUpBbEVqci1pMkdZWmhpQTFtbHVYZmc?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-19T00:17:03+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Analyst sees more room for growth at Jeju Dream Tower despite expectation of lower Q3 earnings",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHRZTE9WbHJnQ1lQUDBPRVB4UkNkeFJEb2ZKd1ZlWjRReG91UnVrUUhXczk4dEtnOWNMVW5VNllidG1ZbkhLc2N1eWRuT2pjZVBqYlJCVlpDclAzY2ZuMFhhZnJUU2NlNVAxckFmU2p1cEVsQ1M0NzBpeEt5bjlvMHN4VDE2QjIwaXRUcFcyaklMTncwY3BBMENwTjl4b083X2xvRmJfU2kzMnFFVWU1Rm1yd3BvWFB2ZWFQMDQ1NHpBdw?oc=5",
+   "source": "IAG – Inside Asian Gaming",
+   "published": "2026-10-18T21:33:15+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Online harassment of women athletes often targets gender, erodes confidence",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONy1KTTRyZkt2LS1MNlVKdmdzdzlwbUdJbnA3YlRvUXYwckpsMm5tUml0dFZ6Y2JyX21NR2twb1pxVnY2dFM1R0V3S3Jkam5WRFJVNUJVVVdhaWtBMGN6N1dwazlHR0JJY3BuQy1wY1lrS3hqUU1HTHJZVGZfTVhtV2lTUFAtTTh2cmRRVVIxeFJob1FwY0pHVTJPcFBmZjJlNnp3QUx5bTB5eFJkNzVNLVdLR2E?oc=5",
+   "source": "Maryland Matters",
+   "published": "2026-10-18T18:02:59+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "NBA tightens sports betting rules",
+   "link": "https://www.msn.com/en-us/sports/basketball/nba-tightens-sports-betting-rules/vi-AA2ev5Ue",
+   "source": "msn.com",
+   "published": "2026-10-18T13:34:19+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Celebrities who shill for sports betting are the modern Marlboro Men | Opinion",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjNCZVNXbm10NDBMeGFmMjgtcFVXSVhtWHFsbVpLN210MFlSYldQNjA0eUkxVzdXdG1nNGV3V2pXUFNmcEljY3pMWTkzWEFmZmZySnNmWDB6czl2T3E5VHpLVmF4QktOYzJfYjE5LUY3RmNLUTVoRXFKd19qb3FtTE95VWUtTW5wbXIyZmVkeGkwZzRUTTlSeGg1bzVMZVVpUHliZUp1NTFidw?oc=5",
+   "source": "The Seattle Times",
+   "published": "2026-10-18T13:30:02+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Prediction markets are partnering with top athletes and sports teams. Why it’s taking the magic away for many fans",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50QVdUb3FfTGliRTA4eVI2OWxqVmhQWEh5Zko3Y01KQnU5bmtFaHJHbFdTRlZPbENwSkUtRHQ2cXMyeU4zdmdpN0E4Q1hSMV8xT1pEMU1tSnRkczVuMlF2MGZVRVpWQlVYTHRGZzVzeks3QQ?oc=5",
+   "source": "CNN",
+   "published": "2026-10-18T11:30:44+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "NBA, sportsbooks reportedly agree to ban multiple types of bets",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZG5haW5ld2M0OXU1LUdCTHFwUlZqQXZtdnRHV2d0MnVjbmw5MmRRYmtSQTlObXozQnRaR0pkUWJSdDlWSE1zek45TUl4MXRRNGZqUTdwb3VrMFdFRGlhZFdncFV1NkdJc3IyUm0zd1MtVXFqNXMtRkl1S0ZLVVJlaF9SMjVLUmhhYW1hX09B?oc=5",
+   "source": "Yahoo Sports",
+   "published": "2026-10-18T11:01:03+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "‘You Barely Understand Regular Money’: Why Young Men Keep Gambling",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3NRQUZURE4taW0yMWZKbmJTR1BvempRN2JvNHdhV1RmR3BZY2xTUWtycExTWXA2WG5sUDFGNENtWVZzWWFBYmxDSzFKaWtpQms4TFI1TFpZcXNCeHdERFhqRFNrQkJ4VTVvMmQzVzNWSmhOVlNNZ3BkNkVZSlRlckJZNzhvTUlfR2NKOWs4LVVnT2lTVGNoNGxubE5IREp1NF8tWA?oc=5",
+   "source": "Politico",
+   "published": "2026-10-18T11:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Mali targets $96.3M in sports-betting tax revenue for 2027",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEd2ZjVDN6Y3dpcUFGbm1vOGdtX29Kd0k5VTZFeFZGY0RYSnZJcFZCSFNmYWtNYnc5QUpMNk14c2FpR0NQb3BPNC1obFRMSnpHYmRwcERtU3doT0R1NklPQkRpT3J5SHg3SHVvWGFMT3FXMWN4MUVjYQ?oc=5",
+   "source": "sigma.world",
+   "published": "2026-10-18T06:35:01+00:00",
    "mentions": []
   },
   {
@@ -3117,18 +3211,18 @@
   },
   {
    "area": "Gaming",
-   "title": "O Be Wise",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMS0xYkQzT0lvaEh3SGxuNjNvaHdiSEVMUnNDdXNYaFJiZUxGMW1RMWg5QnhzeFFUSFNJVU1FaDhaRzdEdV85d28weHhSTW9PSnNUd3NZWm9VREw1VEJGZ3o3R3RwaHgzeERQWE43bVBtU2FteHEwVE1ocVNkMzBGUDJFSkk5THpWZ0hSZmRIMEZDQ004dTY2SHJn?oc=5",
-   "source": "www.churchofjesuschrist.org",
-   "published": "2026-10-18T02:35:03+00:00",
+   "title": "CDC Gaming: Inside the latest prediction market news",
+   "link": "https://cdcgaming.com/cdc-gaming-inside-the-latest-prediction-market-news/",
+   "source": "CDC Gaming Reports",
+   "published": "2026-10-18T02:30:04+00:00",
    "mentions": []
   },
   {
    "area": "Gaming",
-   "title": "CDC Gaming: Inside the latest prediction market news",
-   "link": "https://cdcgaming.com/cdc-gaming-inside-the-latest-prediction-market-news/",
-   "source": "CDC Gaming Reports",
-   "published": "2026-10-18T02:03:04+00:00",
+   "title": "Flamingo Habitat's Bugsy the Pelican Goes to the Great Aviary in the Sky | Vital Vegas",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmg3UldZVW9XT2p5N01GaDJkVUJRSEMxNUxKaDZYTjVTQVRMNkw4SWlJeGsyRFN4bXdKcy0zVGpnMWt3VmM1eG52alVLY3NHMzhGV1lPR2UxZk0yQWViVXFnRVdNUEJfX1RlOURRaXVZdXA0V0QyTHdQVWVhdjVYZXI5RnJzdzY5bU9xbUhRcmVFc1hMZElEMjFSS1BEcWM?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-18T01:52:20+00:00",
    "mentions": []
   },
   {
@@ -3141,34 +3235,10 @@
   },
   {
    "area": "Gaming",
-   "title": "Aria Player Turns $50 Bet Into $5 Million Dragon Link Jackpot",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlV5cl8tZTJtRHJMVEwtbi11VGk0TG1kWkNVRDdHd0RXZW83eW5sUWR2T2hJdkgzRkJCcHNaclczOXJQWEUxalp0dVh5VklnMERybVE3NEVFOW0zLVpoY2VNaHc0V0RpeFg1RUxLVmNYN1ZZM0ZkM0tDdWQwcGpudkZtV1VGdHhTMUtTc3ZrbWRwVGVSNXRJcHp3?oc=5",
-   "source": "Casino.org",
-   "published": "2026-10-17T22:34:38+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Las Vegas gambler pleads guilty to charges in basketball betting scandals",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWp6TFc4N1p0Z24xVXlqeFVqYm9VdTJ4TzloRGx3dmtUS0U1bG1SMGZoVDliT3FyZnZsVklJRzZfaHdTczN4aEFlTnRrRGMyb3ZtYlQ5azhhbHJwZU1WT1h2eE43NHZkTmsyWE5laFRBeUF6RkZwQTgxak9DLUtsdmhhUEdKM2JKZThiWU9vREpFdWQzcVhYSzFjLXJQQk9kQzJFTWJpWHpzTFpPTnI2NnZEYkFaVE9jWmt3SDZ2RWVsMllxRXc?oc=5",
-   "source": "Las Vegas Review-Journal",
-   "published": "2026-10-17T20:05:49+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Monarch Casino stock reports on October 27, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenlLM1U0N2VwQl8wV0VLMkVKTFVUS0dIay1wRVZqU1Z5ZVFvMkx2aUEwdnRlSHFndGFYdjNJN2hZMEUwb0Zpb2hxYnUwUHRSb0ZEUHpIVlZaWFdFbk5ydjRYSDh2NWxkaGV0QjhKQng3MnR3Z0s3OG50TXQ1WEVFRF9DZENuNEY4NDlWUlh4andpV2l1NHI5MXhLZFBsVGpIN01jZ1Y5Skdldw?oc=5",
-   "source": "ad-hoc-news.de",
-   "published": "2026-10-17T18:58:36+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "NBA, sportsbooks reportedly agree to ban multiple types of bets",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZG5haW5ld2M0OXU1LUdCTHFwUlZqQXZtdnRHV2d0MnVjbmw5MmRRYmtSQTlObXozQnRaR0pkUWJSdDlWSE1zek45TUl4MXRRNGZqUTdwb3VrMFdFRGlhZFdncFV1NkdJc3IyUm0zd1MtVXFqNXMtRkl1S0ZLVVJlaF9SMjVLUmhhYW1hX09B?oc=5",
-   "source": "Yahoo Sports",
-   "published": "2026-10-17T18:36:39+00:00",
+   "title": "WRAL/WSOC Poll: Majority say they’ve never bet on sports in NC, but state reports $15.7B in wagers",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFMtUTFBZHh4dWtxYThsblIxT2RCS3JhNjlrRlRKLVZJQmpJS3l3R1U5bkhYWWFVdV8zZk5QSUZXQjYtMWRGQ0pyaFRYRmpCSmVmWFhxbUNfUFVMVldQcE9TMFQtT2s5ZHJXSXcwOFk4Z3FZb0ZwOVNBLVdkUWxRRlZ3eUljYnp1cFF6ZVpDNUxWQUxCYjYweXJtVmhQMU9jUW43WWVTcWNzdw?oc=5",
+   "source": "WRAL",
+   "published": "2026-10-17T22:26:10+00:00",
    "mentions": []
   },
   {
@@ -3181,42 +3251,10 @@
   },
   {
    "area": "Gaming",
-   "title": "theScore Bet Promo Code: Get $1,000 Bet Reset",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ybXU2RTdLZ1BXZ21aeDRCZzl6OUFraDh2VDhDVFNqUERZbHdUUHZpWjdDZ29XN05XNks5Wl9WOUZWRDhMMF9fUm0zVVNxTkJZclRYdW0xMVV3ZjlaQTlNeHV1dWhoTzgwdEhNLV9uQUlJcFnSAXNBVV95cUxOcERvUm9ZalI1bDdUVi1PUy1zVzRDUjRNQ2lVaTNpa0pSOHVfa1BOcUd0NlBIWmwzOGpSTmdGaDVqOGJ0RGM0QTU0YlUzc3hyc0MzZWZ5UXo3bktodDMyVy16NGNFOU0zSW85SDJmdFc2TElN?oc=5",
-   "source": "FOX Sports",
-   "published": "2026-10-17T16:23:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Best sports betting apps, sportsbooks and betting sites | October 2026",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qTDhIb2w2N2RYT0JjdklzRGZadlEzb18wSF9VaXdNWkd5SHEzbXhiemFjSkd6bThlaFYzb2ZvZzlhSHdEYlJhZ0toT1RYOUV2TXJyamwzUDVkdHVXS0t3RVMwaksxYzFHTndlT19JNmZTWlZIYXZuZ2pCZTRULWM?oc=5",
-   "source": "New York Post",
-   "published": "2026-10-17T16:05:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
    "title": "Will prediction markets spark new war with casino tribes?",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemF3V0tsNy1ubDgydFA0OHNTajUtZ2E4WWpjQXJ0cEJ0MGlya2VickhMUkFWTTBXUml2c3ZnYVpYRGJtQ0tCdHI0cVRvSWUxRkJnYVljeGoxaXJWSFRPbk1HMzVOZDhGM1R4NmxuMHhFWmxqSDJ3UmFtY1I5VWxaN1F0b1djV2VLSUNnVW1PS0wtT2NOZld6M1lORFIxZGlYcGdV?oc=5",
    "source": "Times of San Diego",
    "published": "2026-10-17T15:00:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Daniel Dubois vs Fabio Wardley 2 Prediction, Odds & Best Bets",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFVrcjlmbWhLOVItWnREUF9tQUdKY3BmNEp0djVrcl9VQlFrTUctN182T2JZbWZUOFZEQU1wT25BdWdCcXQ1ZFBvMUh0Zm51aGpHSHRMdER4eVFKU0V6X0RkZVY1MkNPM1lBU0c1SWw3b0VPQUJ5MzZqMnUxYndrbEE1VGVRR1U2bVZjaDd4Z244Y0NJX0g2T3RTMEhtaDlrZWxBSC1WNk8?oc=5",
-   "source": "Sports Betting Dime",
-   "published": "2026-10-17T14:45:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "NBA Hires Ex-FBI Agent for Betting Crackdown After Adam Silver Pushes to Ban Problematic Props",
-   "link": "https://www.aol.com/articles/nba-hires-ex-fbi-agent-193512000.html",
-   "source": "aol.com",
-   "published": "2026-10-17T13:30:00+00:00",
    "mentions": []
   },
   {
@@ -3241,6 +3279,14 @@
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEpkNTNKTGdWQVN6RlprclkxbDZKNGVMTHRZcjFTUV9KdTZkd1NDV09YNE11elFVY1RvQXE2WWg0VjRIdVI4ZGlHR3c5dHpoN0RZYVJVaWpZMUlqc1NFWjJJYWtOb3ZYUXVnR1cwRG1vOGpLR3JrN1J1ZExBQXlibXJTM1VNZmhldEdScW5DQ3JTWEQ5ZmJ4RGYyT243clU1bkZ0RFdDY0R4QmVlSmsxbw?oc=5",
    "source": "The Guardian",
    "published": "2026-10-17T08:01:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Officials Identify Body Found in Barrel on Drying Lake Mead Shore in 2022",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVdPanBoUS05alZmYWN1a3UzejUzQnB0OFgyU1pVS19OaWdHMkQ0T2cwZnprNzZtRTlXNnZsaXZfZDgwOU5Yc3FQdWsyNWVQMmJiRGEwWWxRdkxjN2kzbHNLQl84RERfS2dlYjI3R19sU0hZVklvYjJQY2xsMlVXTG04NV9ERnZCV2k5cFp5RzVVcmEwTkpMMm1yeWZhRGRKR0FaUw?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-17T07:42:05+00:00",
    "mentions": []
   },
   {
@@ -3277,18 +3323,18 @@
   },
   {
    "area": "Gaming",
-   "title": "NBA Draws New Lines on What Fans Can Bet On",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUG4zUzE5YWdNa0ZnYkxOZ1JyQmU3SDBEc21TSGRtamZ4NHl1ZkIwYVFwTWV6emRXSkxtZlpFT01YZXJZV08wc2FKeGZGdUlmYzlnYW16R1NYNEY3NjJ2UXc4azhSZkMwYTV1X05WbnFEMGlsbEE?oc=5",
-   "source": "Front Office Sports",
-   "published": "2026-10-16T21:20:45+00:00",
+   "title": "NBA bans certain types of sports bets following high-profile gambling scandals involving players",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0V3N09fYXZubGtvUmtIOGJtLVdBcXZIRWxxRUNRaXBtS3N1RHF5V0M2dGV6QlJfS1VqN2dwNUwxLXdVa3JQNlBsNkJORmxyczNYc0pKakZ2cG41THk5QVhjWFhjaE94QVhCLWgzVklRYWhtdWduTHljMkVyMjVYbmdaeEY?oc=5",
+   "source": "Yahoo Sports",
+   "published": "2026-10-16T23:12:15+00:00",
    "mentions": []
   },
   {
    "area": "Gaming",
-   "title": "South Korea’s GKL warns Osaka IR could dent revenue by 10%",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KYjAtX1RJVmRRY04yQUdkVVN1eGk1TFBMcENvbVhkaUxwMHB5X0RwblpaR2dqX3ZEZ29oT0dxMGxicW5YZ21HOHJHel9hcEVhZXBnM1c5SkN1cTgya0tBOGhDQmpYSUdkUGVsSHIwbDdLUQ?oc=5",
-   "source": "sigma.world",
-   "published": "2026-10-16T20:28:50+00:00",
+   "title": "NBA Draws New Lines on What Fans Can Bet On",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUG4zUzE5YWdNa0ZnYkxOZ1JyQmU3SDBEc21TSGRtamZ4NHl1ZkIwYVFwTWV6emRXSkxtZlpFT01YZXJZV08wc2FKeGZGdUlmYzlnYW16R1NYNEY3NjJ2UXc4azhSZkMwYTV1X05WbnFEMGlsbEE?oc=5",
+   "source": "Front Office Sports",
+   "published": "2026-10-16T21:20:45+00:00",
    "mentions": []
   },
   {
@@ -3309,18 +3355,34 @@
   },
   {
    "area": "Gaming",
-   "title": "BetMGM Casino Revenue Rises Amid PA Live Slots",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3FrNVVPWEtIV1o1Z2VxNFhxYTNOQUtmTGZSZUVxWjI3b2s5bXBBQnA3MVdEMTdFZ1k2OU1oVHNSTHlJZmFaOGw3cWhVR0ZKQVcxMmUwOU5lUWl5dWx0a0lqMlpJWEdfbnlVUUR6aW54ejRvWkRtQTVEdHNJQjlKdkFOaEtHU1ItSW16SEFrcXdYXzRpNlR3eUJxUl8yTDhFVXNIZmdrcVhTQQ?oc=5",
-   "source": "PlayPennsylvania",
-   "published": "2026-10-16T19:49:42+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
    "title": "Where are Online Casinos Legal in the US? A 2026 State-by-State Guide (October 2026)",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmLVBvRG1DTWxxZGtLQkp6ZW9MemcxaFJRcU5TNkFPZ29SMlkyMTBjQ1R4cDhLZkZiRHB6LUNwbHV5V2VyMjh1RG42R3huVGhjSElHRWRaRlpJTkFrU0ZnNHFBSm8wQ21wNXBhdXJxdTI?oc=5",
    "source": "SportsLine",
    "published": "2026-10-16T19:44:08+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "U.S. sports betting: Where all 50 states stand on online sports betting sites",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSnNmUnpnLS13WlEyY0xBMnhHQVFtNUNhazlON0JaMTFvZzJ5UVR1MjdLa3dvOHVOSnhQdTJNSkFkNjlCTy1Ra096TFdCQUZjX21XOEQ3QnhvMVdMa2dZUW1jVVNPRmc0alkwQmZxV0ZWTFRWSm5MYzY1Wkp6TVRuRC1VWU9YOUVJM05wV2Q3TWZWYXZLRnNsSnp6NGVyZFBveTZaT3JZeXIxN3RsQlNnN0VNeTkzTzFaWTBEUDZUZjIyT0JMRmQ2Y1J0RWRCTm1NNWl4S09YNm90YnlFNjE2Ug?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-16T19:33:32+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "NBA, sportsbooks enact bans on certain wagers, parlays and under bets",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenB2RGtDWml5U3c1c01xWjZyNEJ1ZDk3U3g3YWYwWldfNDBjMUpqbWxrODFxaUJtVGpxSVpUdktQWUNTY3ZQVktnOUM5VVhEcU5rNWZDRGF3TGkwMGd1R0J4MVhaaWF0MDRuYXNOUlJrbUlISnpIZTBWWTl0d2d5VXFzS1puOERDQmFj?oc=5",
+   "source": "Yahoo Sports",
+   "published": "2026-10-16T19:31:50+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "U.S. online casinos: Here is where all 50 states currently stand on legalizing internet gambling, casino play",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQi1oR3QwT1BuX1BEQ0dYR3ZzaGN4ajhHa0J0bUg5UVkxb2NpOUc3SEJBV2t4ZkJTSkw3YTNNOG5rMjVwVlJoLVNwUi1EVjVlYW5zNEtVTlhxTTNGWDNlbThPT19UOWtjbEl5WjZXX28zSEV1MnoxR1d2aTItYm1zc0NCSFRVZHFLR3NsY21lV2ZXemZLYzE3VVhYcTUwOGUtdjcxbGlfWjAtaHY4dXR4N1dQSU5kN2pYNEZyclRWLTJtTjA0TnFSTWUyWjdobzdUeU9HdVlTZFZpZGhQaU0w?oc=5",
+   "source": "CBS Sports",
+   "published": "2026-10-16T19:30:23+00:00",
    "mentions": []
   },
   {
@@ -3341,14 +3403,6 @@
   },
   {
    "area": "Gaming",
-   "title": "2026 NFL, College Football Odds: Best Bets For Notre Dame-BYU, Jets-Patriots",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTh4RkI1WFA0Z3VfOHZSZlI1V0RFQzJGRTAzbDNFS0t2VWprWkQyRVFRcnROeXlwOEpYNFd2bVNwZ1cxMDNLV2xRZ2Q3eGgxNTBIcUtyLXJOODJnTUlYbEhwR2VfVnV1dE5hUGF4eHBBUS1KNERFR0RvM1NjcERwUUJpVFphcEVRam4wdzdLdkVyM0RnbGQxeE9wckQ3S3g0NXVTWTNBTDRmUUXSAasBQVVfeXFMTXVVdk5EeGVYbFQ2eWZlZzNLRXR2SC10dkNxZGEwalhESUNvX2hZRC1VNHBuMXhTWXRDNlEzV1haRHlhY0RScExxaXlneXZyc253Z0hnWTJ3M0c4VVVWUml3eFZjM0VqU1U0LUhVblpGVnlLMjRCV2hOT1ZjRTNKQUxRS2FSV2pHRkhXZHBiRHhoWGg1ZTZEUUNBTjVjbXEzZi11d3B3NXU4NWU0?oc=5",
-   "source": "FOX Sports",
-   "published": "2026-10-16T18:49:41+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
    "title": "Are sports prediction markets legal? Status of Kalshi and Polymarket in all 50 states",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yLUp4NkJfVE04WUoxdGxnejRNUG8yckl3R3duYmJzVzdsRkhCVUo0S2lfWklaVmZjUlU5YldrenpteEFOZTVaNlBkd0NuU0VIX25WSlQtTmd0NXdrX3ZUNjhYY3pHclkzTURaUGRLd1hoRHpaUXZ6NGxMQWd5QQ?oc=5",
    "source": "CBS Sports",
@@ -3365,7 +3419,7 @@
   },
   {
    "area": "Gaming",
-   "title": "NBA, sportsbooks to restrict bets on single plays, other ‘low-likelihood, high-payout’ wagers",
+   "title": "NBA, sportsbooks to restrict bets on single plays, other ‘low-likelihood, high-payout’ wagers - The Athletic",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlZnc3BCX1ctYXQ2Sjg0Vm5VOWFWLWEtWTJDOGhyLUlYRzFFRmpnVlVkVlh6VDhaYlpRcTRpWkY4cGUtSExib1hKZGJzYVJBSWV3clVhSl9FRVJwT1VvNDl5VDNHTXFXZ3dKS1NJYTFFR2hzWklVZVNWaVhDNG5Mb2FLOVBIbHB6Tl91WXA4VUI0NEZt?oc=5",
    "source": "The New York Times",
    "published": "2026-10-16T17:46:28+00:00",
@@ -3377,6 +3431,14 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzNW1ZY2xuR0t1RVVyV29IdUFGcC1uMzFmVXY3WHI0MjNIQy1Lc2RJTUVUbkNQQjVJM0diemwxeS1BUVZYNVdISEM1dHJ5czdERUpGWmVmTlQ?oc=5",
    "source": "Casino.org",
    "published": "2026-10-16T17:30:28+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "French gambling revenue sees only modest half-year growth despite World Cup betting boost",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzdVYkNscS1IdE1VRVdTY25yaUNObWVsWmhqRWJWWVBUTEFRbHdJdkNWNnpKMnJoQllnSFdJUjRVeUt1eHF1VUNsQmJkdzFCZE5aejg3aXZ4bXdDSUo1aTk0SmRkVXpCTE9tdXpuQ255Z0N2MFExLWFiUmlBM3ZDdWo0alpDNmVhdmViRjBCelFmZFA4aXc4dG9Yb3BGZzN6M1d0WmJRYkdNaGlsM2c?oc=5",
+   "source": "Focus Gaming News",
+   "published": "2026-10-16T17:18:52+00:00",
    "mentions": []
   },
   {
@@ -3445,26 +3507,10 @@
   },
   {
    "area": "Gaming",
-   "title": "Some wagers, certain parlays no longer can be offered to bettors, NBA tells sportsbooks",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlZ2NFpIbEwtMzdGLWM0ZE8yYl9KY1J4X21iUmJJaTRGZ3Yzd1hBZUdibDFVU1ItMkJCN0lzQVYzRmwxVnl3aThqN1hJYnI3VmRKNnpnZGgzN2ZRWkRiZUJZT2tWMFVqWU9mQ09SbVUtQ1VaZzBfcUV5ZC1hTTV3a1F4emRreS1wLVRla1N1bw?oc=5",
-   "source": "Audacy",
-   "published": "2026-10-16T16:03:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
    "title": "NBA, sportsbooks agree to ban certain types of prop bets",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVGE3ZkduWDNvMWR0d1RnX3lQbHZKV1U4RjBqNkE0YzJKYlU0N2FVWWJRcEhKSHdiLW1QMjQzYjZuYVg5ZmdFTjBualB5RWNDT2tYeE9vclF4UlMxSlBndENHbTNGQTY5c29oaTJCUEM4cU9qb0NTekl6M25JcTk2VWg4WHJKbDh5V0JCMQ?oc=5",
    "source": "Yahoo Sports",
    "published": "2026-10-16T15:45:16+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Weekend Conversation Corner – October, 16",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QM29CMG5vd2hsT1VjdjJ6blJfM2hKNTdtV0tVTmtGeWhIVjVrODRtaXZ5LXRKSFg3U2hKRnBtdG5CcHItRXBnaWw2WGRnb1lERUJId1UyeU11OUN6TC1mc3N4dFRJdk90cC04UDV2bTdOY0RBSmtfcXBTbw?oc=5",
-   "source": "Focus Gaming News",
-   "published": "2026-10-16T15:36:15+00:00",
    "mentions": []
   },
   {
@@ -3533,6 +3579,14 @@
   },
   {
    "area": "Gaming",
+   "title": "Fanatics CEO Rubin Says Sports Betting Advertising Could Hit $7B in 2027",
+   "link": "https://www.casino.org/news/fanatics-ceo-rubin-says-sports-betting-advertising-could-hit-7b-in-2027/",
+   "source": "casino.org",
+   "published": "2026-10-16T13:12:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
    "title": "GI North America Review: Week 42 2026",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdENQTnlaVUhndzh4ODFLWkJVS2htQm5iMmstOXBrUW1VbXZCUTZxRlVvMjZWak9QdTZsWE9DWmE3cEtXZ2dxcmVsMFk1VzhYNEdWYmhQeFFPRHJwcE9HQkZZTExla0E5c3RWM1B2YVREdDc3X1RWRGdQUllyd0czV05zVTZxODgySURiNzlpMDdNZG84eVJ5c0NsSll2T2s0c0dJ?oc=5",
    "source": "Gaming Intelligence",
@@ -3589,26 +3643,18 @@
   },
   {
    "area": "Gaming",
+   "title": "Bryn Kenney Sues GGPoker for Tens of Millions, Alleging Cheating Cover-Up",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEgzbGtoYlhsaXNpcU1pZ3Vta1RsR3VRUFJCQTFIdmM4MW1raU9lb2hQdDhROElqelE2TFZoYUNHNER1b1pnUGJ0bDRjRW8taUtHbXdUdHQxZTRLeG9OV0FKREZJZ25sWDNSb2trbzlUYW45eFFFd21ybUJoUjJ6eEVsNUVsNVpfUGc1WnhYTzN0TW5sZW5fUTJvQWZrNEtJa0E?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-16T11:49:47+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
    "title": "Episode 43: NFL prediction markets and the M&A value debate",
    "link": "https://igamingbusiness.com/sports-betting/right-to-the-source-nfl-prediction-markets-ma-value-debate/",
    "source": "iGaming Business",
    "published": "2026-10-16T11:21:42+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "France’s H1 Gambling Growth Slows as Online Revenue Reaches €1.45bn",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2pxdEt6Wk01cUNWenFvMWhjZFhoaGE3cHNiTjYwakNOdEwtX29DQWlDOHdaemd6VDVlSnZLbm1kb2JEd09sdWZYMnk1bUpaWGdsYmRSengzRWUtUDBqZlIybDNXUXlJSDRvSDRiaHMwX0VRUlRRdjhzVUVKSXdkWnp5SENYZVIyUTYwdlhiOF9NNHJ6eFB3X2dkXzY?oc=5",
-   "source": "iGamingToday.com",
-   "published": "2026-10-16T10:59:28+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Best betting sites for October 2026: Top online sportsbooks reviewed",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSGUxVF9nLTRXSjZDWldqQ3U1RWhnUjVfYm5sRllxcERRd1JRY29SckxRRl9DdFZmLUtaY2RoNkY3bkRueTc1LW00c0hUZ3R3bm9zVUpBbEVqci1pMkdZWmhpQTFtbHVYZmc?oc=5",
-   "source": "CBS Sports",
-   "published": "2026-10-16T10:38:16+00:00",
    "mentions": []
   },
   {
@@ -3685,18 +3731,50 @@
   },
   {
    "area": "Gaming",
-   "title": "Crown lifts revenue but warns on debt load as regulatory risk lingers",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWRHTVdCd2N3QVc3YmhiWFdvaGJ2Qy1LYXZLV2ZvbFBjTG1UcWdhZ1VRZnVidlFFdXpRQUdJSGxiS2JiQllRZEpxMXA5c2VEb0llVzdQTERlUnJ3Qmo5NVBIcy1hQTRnd3k2R3VlRTk3R1lXQkFzNGhleHVlQk1zVnBndUlmaFNQMllVQllMM0J0eU16eTZOWTdEaGMyLXo2NzFadW5jS1lOOUpvclVCZnhLMmJjdnJOQ2xkTUxNWmZua3cyM2RnR2NDalE3cjA?oc=5",
-   "source": "AFR",
-   "published": "2026-10-16T06:25:00+00:00",
+   "title": "Aria Player Turns $50 Bet Into $5 Million Dragon Link Jackpot",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlV5cl8tZTJtRHJMVEwtbi11VGk0TG1kWkNVRDdHd0RXZW83eW5sUWR2T2hJdkgzRkJCcHNaclczOXJQWEUxalp0dVh5VklnMERybVE3NEVFOW0zLVpoY2VNaHc0V0RpeFg1RUxLVmNYN1ZZM0ZkM0tDdWQwcGpudkZtV1VGdHhTMUtTc3ZrbWRwVGVSNXRJcHp3?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-16T07:00:00+00:00",
    "mentions": []
   },
   {
    "area": "Gaming",
-   "title": "Flamingo Habitat's Bugsy the Pelican Goes to the Great Aviary in the Sky | Vital Vegas",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmg3UldZVW9XT2p5N01GaDJkVUJRSEMxNUxKaDZYTjVTQVRMNkw4SWlJeGsyRFN4bXdKcy0zVGpnMWt3VmM1eG52alVLY3NHMzhGV1lPR2UxZk0yQWViVXFnRVdNUEJfX1RlOURRaXVZdXA0V0QyTHdQVWVhdjVYZXI5RnJzdzY5bU9xbUhRcmVFc1hMZElEMjFSS1BEcWM?oc=5",
+   "title": "10 Best US Sweepstakes Casinos October 2026 | Free SC",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeUZxWGJVdGhoWk52bEowMzZqSkZEcDk0UEpwMm1fVzBnaEE2czhiZ0x4RjlJby0wQkdLOUZiRWxUR2w3MUtId2JlLU5VLU51aWJmRXFOeFNSUQ?oc=5",
    "source": "Casino.org",
-   "published": "2026-10-16T06:11:35+00:00",
+   "published": "2026-10-16T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Best Online Casinos for Real Money in the US for 2026",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5YcVRtNTUyUkJvWkpXWFJxcHhSV2RReS05aVhSYWRFZ3RTejFCak9jVmhZUkJRb1p6QW9GNDZlZw?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-16T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Best Online Casinos Canada 2026 | Top 15 Real Money Sites",
+   "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBVOV9fWlF4Q0cteFNCWnV4ZFJtMUhoYlVuLXRBdF9mMEN3MHpyTWNfRlJrODVoMEtEMWdxUjRGcnpXOExl?oc=5",
+   "source": "Casino.org",
+   "published": "2026-10-16T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Sports Betting Explained: 5 Essential Terms For Confident Beginners",
+   "link": "https://sports.yahoo.com/articles/sports-betting-explained-5-essential-140057676.html",
+   "source": "sports.yahoo.com",
+   "published": "2026-10-16T07:00:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Crown lifts revenue but warns on debt load as regulatory risk lingers",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWRHTVdCd2N3QVc3YmhiWFdvaGJ2Qy1LYXZLV2ZvbFBjTG1UcWdhZ1VRZnVidlFFdXpRQUdJSGxiS2JiQllRZEpxMXA5c2VEb0llVzdQTERlUnJ3Qmo5NVBIcy1hQTRnd3k2R3VlRTk3R1lXQkFzNGhleHVlQk1zVnBndUlmaFNQMllVQllMM0J0eU16eTZOWTdEaGMyLXo2NzFadW5jS1lOOUpvclVCZnhLMmJjdnJOQ2xkTUxNWmZua3cyM2RnR2NDalE3cjA?oc=5",
+   "source": "AFR",
+   "published": "2026-10-16T06:25:00+00:00",
    "mentions": []
   },
   {
@@ -3713,32 +3791,6 @@
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMlN6amhoZ29kY1JXdDBWVXk3clVmZ1BwWWFvMVh6bXp2a1R1Tzh3N1hKRVM0UE1TUEE4SWo4cnU2UUhEZnBISzJfWmRIZEIzSk5LYlpKVUJJRXhZY192UlBIU1BkckhzX0xBRW9WNmJ4XzN6bXlwSEZVcTJSOGVDR2JuemRkenQ3LXg4VHYyc2lvakU?oc=5",
    "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
    "published": "2026-10-16T03:42:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Spotting Winners: Bally's (NYSE:BALY) And Consumer Discretionary - Casino Operator Stocks In Q1",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaFc1enFtR1dlUzlEcloySlJ0aDQ5aHBOempUOFhYWkRNM3VTQnFUeDY0RWhELVV4Y1lNWE9Ia055S0J5NXNYdllEQTJWdUhUdUtxTnc2TFJOSjlzTngwb0pwLTNPMXVLaFRrWXFhRW9GRXlFWTF4UFJyd1hwM0VQY3ItRzBMYmFvZUM3TjJCdXczWmdCT1NwV3hWVTc1TjYxTE1rdVlyUmJaMmh5LVlVOTUxY3VkVzBENkloWmtRSkp4Qk1qeHJQVXgxa2VVYXhDS1RDUGhiYTRwVHFpMHoxRTV0V2Fmdw?oc=5",
-   "source": "TradingView",
-   "published": "2026-10-16T03:35:00+00:00",
-   "mentions": [
-    "Bally's"
-   ]
-  },
-  {
-   "area": "Gaming",
-   "title": "Commentary: Celebrities who shill for sports betting are the modern Marlboro Men",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ3c2XzgzTGV1X2JLRnlYSENKeDkzeEMzTDJmN2t5REloVzlNN21sOTBLVHFFUWpfQUlNNE1WQmJ3S19vVnlobGptUXVqQUVZV1NVR1Ffc2hNNDlxc1prQjFUd3lkVEpMSnpkcExtdll3d21VcTFEVTNEUnRocTB1WnQxMmNDX05laVk5LTBxZkNodGVRVWlpeG9CUm5WUXh2TjJ4bHg1Y2UxWDFxX1ZHbGdWcndCNU5XNTN0dVhmczc?oc=5",
-   "source": "Times Leader",
-   "published": "2026-10-16T03:24:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Officials Identify Body Found in Barrel on Drying Lake Mead Shore in 2022",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVdPanBoUS05alZmYWN1a3UzejUzQnB0OFgyU1pVS19OaWdHMkQ0T2cwZnprNzZtRTlXNnZsaXZfZDgwOU5Yc3FQdWsyNWVQMmJiRGEwWWxRdkxjN2kzbHNLQl84RERfS2dlYjI3R19sU0hZVklvYjJQY2xsMlVXTG04NV9ERnZCV2k5cFp5RzVVcmEwTkpMMm1yeWZhRGRKR0FaUw?oc=5",
-   "source": "Casino.org",
-   "published": "2026-10-16T02:09:40+00:00",
    "mentions": []
   },
   {
@@ -3799,10 +3851,10 @@
   },
   {
    "area": "Gaming",
-   "title": "Sports Betting Super PAC Pulls Millions to Influence State Races",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQllVRFZoMXRoWmxDVF9fOXItZ29GYm9zRlVZdllWYVZDTXFnNDNwR1ZnQmpNNDhVVnRGdnVnb3c1eGhxMzh2X0cyZTJjUzhETWgxTm9GMFhqNWhqWkwtbGoxV1ZxVXctMnNORl9PM3JvVjJIRUYyY3NGY180Sk9XLXpnUVlwWlBtVnN5OF91UFVmcVhPUU5LbTF0cWV5clltT3RVRGc1OWQ3dVpQQTV1Nk1B?oc=5",
-   "source": "Bloomberg Government News",
-   "published": "2026-10-15T22:12:00+00:00",
+   "title": "Las Vegas gambler pleads guilty to charges in basketball betting scandals",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWp6TFc4N1p0Z24xVXlqeFVqYm9VdTJ4TzloRGx3dmtUS0U1bG1SMGZoVDliT3FyZnZsVklJRzZfaHdTczN4aEFlTnRrRGMyb3ZtYlQ5azhhbHJwZU1WT1h2eE43NHZkTmsyWE5laFRBeUF6RkZwQTgxak9DLUtsdmhhUEdKM2JKZThiWU9vREpFdWQzcVhYSzFjLXJQQk9kQzJFTWJpWHpzTFpPTnI2NnZEYkFaVE9jWmt3SDZ2RWVsMllxRXc?oc=5",
+   "source": "Las Vegas Review-Journal",
+   "published": "2026-10-15T21:59:00+00:00",
    "mentions": []
   },
   {
@@ -3835,6 +3887,14 @@
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZzh6dkhwRmU5Ri1wRmJUeV8ydFVlS295SUNCNnhZU0NJWEFyUzNuUUxfZ2NtWmZoUmRQaUdLc3lMNWdISGlfTTBZVkZyWWo1bHFpZDUxYU00VVZ1SmlrQWx3OEE0S21NVlNQTnFJTFM3MEloTUU2REtkMHUtQWgwbENmVlFSV3lzbjZfcEk5WXhCZWtZd0dZT0pRQ0VwVV93YkdubEN3T0Z3Vlc0bDBLeFdGMjJYcDMyV292bXBaXzNHNGg5RFl0VnE2STJsakVl?oc=5",
    "source": "CBS Sports",
    "published": "2026-10-15T19:29:00+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "Maryland Sports Betting — Best Sportsbooks and Apps",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zMTFDYkV6VEpiYVdjTGJGck04TlBoN1hGajBBdHV6Vzktblk2QnZ6X3hZNE1KWXZNM2NzRnEwT0NDUlBCaTB6MkVpbTFYcUpvOHZhUTJsSV9HU21TdG9VeFB4SG14T0VVUzVsQlBkSkI?oc=5",
+   "source": "Fox News",
+   "published": "2026-10-15T19:25:46+00:00",
    "mentions": []
   },
   {
@@ -3903,14 +3963,6 @@
   },
   {
    "area": "Gaming",
-   "title": "Rank Group quarterly revenue rises 5%, warns higher gaming duty could trigger closures",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeW9PMVBCMm9jTUs0YmhjWmRzUW9yWG5RbWZrclVNcUJkaHVWR0hsa0MxYlZmdWZ6WjZhY3dZX21yOXh4S0NjbDJnWW9lcWpYcVk5SlhCOWd4MVQyVlp0a2ZSTkpmamVoVVJOdnZHN0NhMmREWmd4TTZRWkNjMXVFY0FISHlQQWtWMFlEc1pnRTNaX1Q3dmFOWkpjS2xzS3NtYlZ3TDdPbVhUMm1BNmU4UjRZQ0duQjZqdE1IbHlNMWdiMmF6ZE1TczZQeGFtRVBsN2ZveWNqZmdwQXI1MTdz?oc=5",
-   "source": "Yogonet",
-   "published": "2026-10-15T17:33:11+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
    "title": "Wildz Group announces Finland’s first online licence approval ahead of market launch",
    "link": "https://igamingbusiness.com/legal-compliance/licensing/wildz-group-announces-first-gambling-licence-finland/",
    "source": "iGaming Business",
@@ -3927,16 +3979,16 @@
   },
   {
    "area": "Gaming",
-   "title": "Matchbook Acquires Rival Betting Exchange Betdaq to Boost Liquidity",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUndsTnhldm9OQUtDRFl6azBVa2wtVWczendaSTdvTXhyRWktYzN1aThYcVVNeWVYVzZoR2lLemQ4TDRBNlNFUncwOVB1TGZlS3o0eXZJUTBSc25za3ZkS3dpRTVTUnpXc2VrR0J5c0ZIcDFhOUFvb3RnS1VVNUdRUDdnUQ?oc=5",
+   "title": "DraftKings Stock Has Catalysts, DKeX Self-Certifies Protected NBA Player Props",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTBZNHNhWUhnX3VpYVE3ZHVDLXdkMVBzTU9HekdBYzF0ajludXRuX08zRjN2WDlIVEpCV0poc1luNWNNN250aEotYVVKaF9aMjdYNHQ4Si1uRDBXd0poRVRveGI3dVQxQU1ZT1ZYM21YVGJpLW9xRVBJbTBxVzFJX21BNDdMeThrNGNUTmlLaW9hcVlQRnJzY0JHbGlfQ0Q3eWNMVkwtOFJTUQ?oc=5",
    "source": "Casino.org",
-   "published": "2026-10-15T16:54:21+00:00",
+   "published": "2026-10-15T16:54:51+00:00",
    "mentions": []
   },
   {
    "area": "Gaming",
-   "title": "DraftKings Stock Has Catalysts, DKeX Self-Certifies Protected NBA Player Props",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOTBZNHNhWUhnX3VpYVE3ZHVDLXdkMVBzTU9HekdBYzF0ajludXRuX08zRjN2WDlIVEpCV0poc1luNWNNN250aEotYVVKaF9aMjdYNHQ4Si1uRDBXd0poRVRveGI3dVQxQU1ZT1ZYM21YVGJpLW9xRVBJbTBxVzFJX21BNDdMeThrNGNUTmlLaW9hcVlQRnJzY0JHbGlfQ0Q3eWNMVkwtOFJTUQ?oc=5",
+   "title": "Matchbook Acquires Rival Betting Exchange Betdaq to Boost Liquidity",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUndsTnhldm9OQUtDRFl6azBVa2wtVWczendaSTdvTXhyRWktYzN1aThYcVVNeWVYVzZoR2lLemQ4TDRBNlNFUncwOVB1TGZlS3o0eXZJUTBSc25za3ZkS3dpRTVTUnpXc2VrR0J5c0ZIcDFhOUFvb3RnS1VVNUdRUDdnUQ?oc=5",
    "source": "Casino.org",
    "published": "2026-10-15T16:54:21+00:00",
    "mentions": []
@@ -3951,18 +4003,18 @@
   },
   {
    "area": "Gaming",
-   "title": "Bryn Kenney Sues GGPoker for Tens of Millions, Alleging Cheating Cover-Up",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEgzbGtoYlhsaXNpcU1pZ3Vta1RsR3VRUFJCQTFIdmM4MW1raU9lb2hQdDhROElqelE2TFZoYUNHNER1b1pnUGJ0bDRjRW8taUtHbXdUdHQxZTRLeG9OV0FKREZJZ25sWDNSb2trbzlUYW45eFFFd21ybUJoUjJ6eEVsNUVsNVpfUGc1WnhYTzN0TW5sZW5fUTJvQWZrNEtJa0E?oc=5",
-   "source": "Casino.org",
-   "published": "2026-10-15T16:20:49+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
    "title": "Entain Revenue Rises 2% as UK Growth Offsets Brazil Slump",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZEJIN2Rxc3BLZThEdUpqdGtWQ0FxTGhUUldpaTIyVWktY2FUbDBCSENiOE5nWnVoVWVjTktOaEltNnBSUUhPbnkxSkpuUEdYUjIzSjlMX2FiRDRMSmw2d0hRbHJJRm9ZWVNFMGtfNTVNZXRvbXg2MHZRNE5uSG9lTnFXSkhrZmZpTERERVJB?oc=5",
    "source": "Casino.org",
    "published": "2026-10-15T16:04:18+00:00",
+   "mentions": []
+  },
+  {
+   "area": "Gaming",
+   "title": "‘They are in a casino’: Broadcom is making billions off the AI boom, but CEO Hock Tan said many AI investors have ‘no clue’ what they’re investing in",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HT3FIbGRNOWNVNWVNdzJoNk1mQXNaWHdxZG4xVUgyRnczX2xMbU92bGRuWGRZRDFVZU1fdXRwQm1rQ0pOYzRnSVJUU0d0eEN5YndsZWJ0eHczQ2NxNXNDRnVJeTRMbUNROTB6N2pfR3lBWUtzMTZUbQ?oc=5",
+   "source": "Fortune",
+   "published": "2026-10-15T15:30:00+00:00",
    "mentions": []
   },
   {
@@ -3996,63 +4048,7 @@
    "source": "U.S. News & World Report",
    "published": "2026-10-15T14:34:22+00:00",
    "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Where Is Sports Betting Legal? 50-State Guide (2026)",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95R3hyZ3pWYzhwWWg2ZjhyeXlVTzAyaGltdkQ5RkJfX2swNkZyYVc2M3NMOEZTenpYVVJiVExCaXVjMlZUZV9XdVdMbG13MVlnVzhPb1JkdVNZS1JuSU5iMg?oc=5",
-   "source": "Action Network",
-   "published": "2026-10-15T13:39:00+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Okada Manila returns to revenue growth in third quarter",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGxmSEpUQzZDd05Hc29YTXJJai11T0pBcm51X1h2Z1BmVE5BZnk1UEdkT3VELXVHT1NiSXpyLUxrYUtrOG84MWpNNXMtTjVnRXdUam9VeTNKdHVPd2J4b3I4c0Y4QW9GYWlLY2gyQ1hLOVB0bm5JeXgyRko0SXg1N1ByWEJhUlJzdi11RXg0XzRneEN3QkRWNDBSYXRKWDJMc21wTDFsa241Zw?oc=5",
-   "source": "Gaming Intelligence",
-   "published": "2026-10-15T13:36:34+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "The hidden infrastructure of high-load business: Inside RedCore’s tech stack",
-   "link": "https://igamingbusiness.com/tech-innovation/redcore-high-load-tech-infrastructure/",
-   "source": "iGaming Business",
-   "published": "2026-10-15T13:24:42+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Entain Maintains 2026 Outlook Despite Brazil Revenue Decline",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlFGU1JWVjRtVzlPcHpqcjQxNFdUUWFJa3NPcW5SUWRZVTJjWDI0MDY4akY1YUJTYnNxbDFKTjBCOHQxOS1EVGl1VFYtZXNGVTJlcGZUODNRRDlpaWlPNGsxaDZGWmU3X2tyZXdoSHZsMHo3TG9ua1BkekNvaWRpRDZSbWl2UzNLQUVGd0FhMXJ6RUFydFk2REpTaVVGd0ZXUEhJNlE3RDFEQQ?oc=5",
-   "source": "World Casino News",
-   "published": "2026-10-15T12:44:29+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Former IT Boss Masterminded $800K Casino Fraud Using Fake Driver’s Licenses",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbF9iOXlQNDJnRzdOSGhXa3pLOS1iaV9Tem55T0NjQVRwcV9EWkFHUGx1SGZRUzJBczhwc2xwUE9xV09FTE5ERU44clFOWFBocWRqbUp4U2w3TVdiRzVFZGdqU0puclZLS2JkaFhqLUNLU2lCVDhaWmNyVFkyaU1DUlFOTi13VXp0X3BzYzFsWE5HbGJKSVRlUG5BejhtUkhjbGtLXw?oc=5",
-   "source": "Casino.org",
-   "published": "2026-10-15T12:34:10+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Macau GDP projected to shrink by 2% as casino revenue weakens",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmNFNHRBUDV6UXFJTFZpR0MyQk8xajJFdUl4M0RRMUVLbTZtMHpPMUF1YzNiYXE5VFQxa1lMYXZXSll1VkV6NTdKTllxS3R6MVF3TXZ0a05QRGpyYTJyWnNHUkVNS3k1T2RGbWFrdWtScU82NGN1TUZWZzRlWjdNRkdfS3pncl9yalhQRTNVbi1PNGFvUDFHeA?oc=5",
-   "source": "Focus Gaming News",
-   "published": "2026-10-15T11:16:39+00:00",
-   "mentions": []
-  },
-  {
-   "area": "Gaming",
-   "title": "Entain CEO expects Brazil market to reopen, and it will be ready",
-   "link": "https://igamingbusiness.com/finance/entain-confident-brazil-market-will-reopen/",
-   "source": "iGaming Business",
-   "published": "2026-10-15T11:04:35+00:00",
-   "mentions": []
   }
  ],
- "updated": "2026-10-18T06:04:27+00:00"
+ "updated": "2026-10-19T06:14:31+00:00"
 }
