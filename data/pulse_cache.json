@@ -283,6 +283,30 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "_at": "2026-10-17"
+  },
+  "tt28535715": {
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-20"
+  },
+  "tt0121955": {
+   "imdb_rating": 8.7,
+   "imdb_votes": 450335.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-20"
+  },
+  "tt27419420": {
+   "imdb_rating": 6.2,
+   "imdb_votes": 1231.0,
+   "rt": null,
+   "metascore": 46.0,
+   "box_office_usd": null,
+   "_at": "2026-10-20"
   }
  }
 }

@@ -1,5 +1,17 @@
 [
  {
+  "started": "2026-10-20T06:10:29+00:00",
+  "part": "daily",
+  "steps": [
+   "audience pulse: 30 titles, 27 with AI notes",
+   "industry news: 463 stories"
+  ],
+  "errors": [],
+  "finished": "2026-10-20T06:13:22+00:00",
+  "ai_calls": 7,
+  "ai_tokens": 13079
+ },
+ {
   "started": "2026-10-20T01:12:36+00:00",
   "part": "results",
   "steps": [
