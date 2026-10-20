@@ -51,19 +51,43 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Disney bid $20 million for select assets of bankrupt AI startup Character.AI.",
+    "detail": "Disney will allocate $180 million to recruit staff from bankrupt Character.AI",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWENvUllfdDFoVEpDeV9MWVhPWlpEaGFpQWhCR0dCcmtjQ3poQmoyemN0RGd5X2k5cWk4QmlEQm1EV3FYblRUMGRvc3B3aFVjeFVfeWRLYXFQVTJWRHNKTWJBNFZNeEpUZHdld2dGSXRZaUthWVJEM2RCZnNEbVBocW9NaWpnWVZqdDhGeHUtczlheTdXbVBobm9NUlpSOHM?oc=5",
+    "source": "Cartoon Brew",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Agreement to hire most of Character.AI’s workforce at about $60 million a year",
+    "source_id": 33,
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWWl0NjNPN2FiM0ZaQ3hKT2diRVRlaGxwTE4wakhpZnRKbHM3VmFld2E2QVUyakFzOUFScGEyQzl0d3U2Y05JSnhkM3JqS1gxVWhJRDl4UktSNExrM1FBQ21aOXk2NEo0U1BPbnNwOU4?oc=5",
+    "source": "Quartz",
+    "published": "2026-10-19"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Disney adds AI staff as part of its technology push",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWhZZTl0d1k4WngzbFNUOWRhVVBVNURHa0NhSU0tMzY2Wk9IdFpRdXlUcll1YXJHeU5fTmNRUS04QXpicUN3Nklod2VYb09BaElRVmNmeHlya0t1d05hZDZzM1loNDVJUGhYZnEtSFBtNVF2Zm1RNlloTVg4dlhrUlJkelhlRklIRm9Ec2JrbGZRcUVEbEJ4TnpaZnRUUGJmQjJMREx1YWVuOFRzUGxmdFk3bTQ2bk9hWXpR?oc=5",
+    "source": "Cartoon Brew",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "CEO overhaul puts hundreds of employees at risk",
     "source_id": 2,
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTU1FOWVTcTN5dFhvRHdJTXRRZmpvTWJHUVJSQi1lcVVHV2tJTGUxWnl5b3BQb1BTNTdQZG5Kb0REb0VHcTZkSVZqUFkwTm13M2ZDdjVKRHl5WEIxcTRwUmoxUkpiNW5VWkU4Q0VNcmh0c3RHak9LM0NYaVp0WVVwSE9JeGtzMWh5cXA1RGdzeHRnbXlnbThuZUVnNS1fSkVBNlo5QXdWQm05S3JKS09maGtoSHd1VjZtUTBWY2NHRnhaVzVMUU5HLWVzeTJGdm5zeFZQc3VyQUdoaUx6NGxxYUktaw?oc=5",
-    "source": "New York Post",
-    "published": "2026-10-13"
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlBmN0N1eWl0LUk4TGZzZ2NMTm5tTzJCQlVjTk5xclc2S3ctU0Y4eWdUSXZxTGtwWWtOb0MtU0FvOGdvMmNPRnVVd1p6UVNOSElZR1oyUHFld0FsUFJjVmRzYTZucnNpRzFJUXNQRjdyejdzTUdwZ0d0UFpLcGJyZi1aMnFDWDJCVk91VmhDWVlvMEdJVXUwekVlTUdPb2M1OHcyMG05RzlPNjJX?oc=5",
+    "source": "Inside the Magic",
+    "published": "2026-10-20"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "The $20 million AI asset acquisition signals increased technology spending.",
+  "it_spend_reason": "Committed multi‑million AI hiring budget indicates higher future IT spend",
   "talking_points": [
-   "Discuss how Disney plans to integrate Character.AI assets into its digital experiences.",
-   "Explore opportunities around Disney’s continued guest‑growth investments in parks.",
-   "Assess the impact of the $9 billion share‑repurchase program on cash availability for tech projects."
+   "How Disney plans to integrate Character.AI talent into its existing AI initiatives",
+   "Potential partnership or vendor opportunities around the new AI capabilities",
+   "Implications of the $180 million recruitment spend on Disney’s overall technology budget"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -96,7 +120,37 @@
    "published": "2026-08-05"
   },
   "release_key": "0001744489-26-000056",
-  "signals_at": "2026-10-13T19:17:25+00:00"
+  "signals_at": "2026-10-20T22:00:47+00:00",
+  "signal_sources": [
+   {
+    "title": "Dan Lin Out At Netflix; AI Staff In At Disney; Jinko Gotoh To Lead WIA",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWhZZTl0d1k4WngzbFNUOWRhVVBVNURHa0NhSU0tMzY2Wk9IdFpRdXlUcll1YXJHeU5fTmNRUS04QXpicUN3Nklod2VYb09BaElRVmNmeHlya0t1d05hZDZzM1loNDVJUGhYZnEtSFBtNVF2Zm1RNlloTVg4dlhrUlJkelhlRklIRm9Ec2JrbGZRcUVEbEJ4TnpaZnRUUGJmQjJMREx1YWVuOFRzUGxmdFk3bTQ2bk9hWXpR?oc=5",
+    "source": "Cartoon Brew",
+    "published": "2026-10-20T20:15:17+00:00",
+    "official": false
+   },
+   {
+    "title": "Disney’s New CEO Pushes Major Overhaul, Hundreds of Employees at Risk",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlBmN0N1eWl0LUk4TGZzZ2NMTm5tTzJCQlVjTk5xclc2S3ctU0Y4eWdUSXZxTGtwWWtOb0MtU0FvOGdvMmNPRnVVd1p6UVNOSElZR1oyUHFld0FsUFJjVmRzYTZucnNpRzFJUXNQRjdyejdzTUdwZ0d0UFpLcGJyZi1aMnFDWDJCVk91VmhDWVlvMEdJVXUwekVlTUdPb2M1OHcyMG05RzlPNjJX?oc=5",
+    "source": "Inside the Magic",
+    "published": "2026-10-20T19:32:19+00:00",
+    "official": false
+   },
+   {
+    "title": "After A Year Of Layoffs, Disney Finds $180 Million For Recruits From Bankrupt Character.AI",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWENvUllfdDFoVEpDeV9MWVhPWlpEaGFpQWhCR0dCcmtjQ3poQmoyemN0RGd5X2k5cWk4QmlEQm1EV3FYblRUMGRvc3B3aFVjeFVfeWRLYXFQVTJWRHNKTWJBNFZNeEpUZHdld2dGSXRZaUthWVJEM2RCZnNEbVBocW9NaWpnWVZqdDhGeHUtczlheTdXbVBobm9NUlpSOHM?oc=5",
+    "source": "Cartoon Brew",
+    "published": "2026-10-20T13:22:01+00:00",
+    "official": false
+   },
+   {
+    "title": "Disney agreed to hire most of Character.AI's staff, at about $60 million a year",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWWl0NjNPN2FiM0ZaQ3hKT2diRVRlaGxwTE4wakhpZnRKbHM3VmFld2E2QVUyakFzOUFScGEyQzl0d3U2Y05JSnhkM3JqS1gxVWhJRDl4UktSNExrM1FBQ21aOXk2NEo0U1BPbnNwOU4?oc=5",
+    "source": "Quartz",
+    "published": "2026-10-19T11:27:45+00:00",
+    "official": false
+   }
+  ]
  },
  "WBD / Skydance": {
   "results_found": true,
@@ -147,20 +201,52 @@
   "sentiment_reason": "Guidance raised and subscriber growth beat expectations.",
   "it_signals": [
    {
-    "type": "Digital / platform rebuild",
-    "detail": "Paramount+ and Pluto TV moved onto a single technology stack to improve efficiency and accelerate innovation.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
-    "source": "8-K",
-    "published": "2026-08-04"
+    "type": "AI & tech investment",
+    "detail": "Skydance is investing heavily in AI‑driven content creation",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXpzVUFENXg5cHIzZnRyMm5zLTRVX1g3aU5oQ1pjWUlibGIwNWFnUkJ1RWs0QTB1a3hBRWRYUXRiQWRxTHpZM2YzbXhIV0EyS0RVeWd1WXQ2ZnkyR2phaF80UFFwbGxOaXlDbnZwUEFrV3ZtcllIdmtlU2Y2SHE5bGRVR0l5OTR3ZmkyOF8tQXFSWFA0YzNsMjdYMmtKa2gwVGpkTUkzeUhVM2tEU2s2SDFpUdIBuAFBVV95cUxOQU9JWXZfU1FMbzJtQW1ZOXdlSFc2SWxQRkE0SXhWaEdSLTB6QU54MnQ3VUt3TmpqUkJFQkJpaGM4UEpjQk8yc3R6RmxMRHBZTXFIcnpqVGgxNjhya3J2X1RsSUlRTk1GVWpyN0doNlVOVnlHR0FnNEFPWElsQ291djRuSTZyOUxjc0VCZ1FLdWVGdG4xc3lZNG5DaGtpdlZqdUdBNDdEc1NUaHNFUG1pelhuazk3SWdo?oc=5",
+    "source": "The Economic Times",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Skydance’s CNN, FT and Axios joined Google’s AI news program to license content for generative AI features",
+    "source_id": 13,
+    "link": "https://www.reuters.com/business/media-telecom/cnn-signs-multi-year-ai-partnership-with-google-2026-10-15/",
+    "source": "reuters.com",
+    "published": "2026-10-15"
+   },
+   {
+    "type": "Layoffs",
+    "detail": "Skydance announced layoffs in India targeting Warner Bros. top executives",
+    "source_id": 37,
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOei1Zdy1XZmJIQVRRZ0RTOVZPZTdJdk0wTTR3LU5Va2diYUJtaWhnQXlBVTgwUFg2b2dtN2E3ZHpxQ21EVHZicTkyYWl5MUNuYXNDd2Zrd3VtT29PMWN2Wk1vQkFGT1phOG92TzdobTYwb3dQZzZDWEFEejVBblkwQVBnNm9QYUpVMDIyeFgtZ2NNWERSTkF6ZGw2U3pxMHVwWTdvX05sLTVWbklBMTdmLXd6eFR3c0hGX2pkUXQ4RzBaWVJjeVd6bNIBzgFBVV95cUxOUmlvQjJJT2IxbG1rMGUxVWUzOWZjNG5FRlVadi1nT05kUkprZXJPZ3dpa2Q1cy1zdThkdTkwdUhVdEdQbG45UEhZX0V3TlJVU2NEdDV1Sm50R29jZDVPWGd1ZDd3X2RFSEdFdHI2dUNTQlhfWGdOQlNMcnZxZnY3VHd2LUdBMVFPbWxodVVvSFg1d3F5TG5hUUpvN3ZWa1prZzRWYWdVTmh5V3ZjNXpaaGQ3UGhybEZCNFFBYlZUd2RJbEhrYzFRUl9idjhxUQ?oc=5",
+    "source": "Storyboard18",
+    "published": "2026-10-09"
+   },
+   {
+    "type": "Layoffs",
+    "detail": "Further workforce reductions planned in the U.S. as part of ‘difficult’ decisions after the merger",
+    "source_id": 44,
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3VDdHhMNG5ZcE9CRUpiOUttVjVxZzFwWmJPYUdJNl9Tb09hZnZKeUl1TjN4Q0NPSVNJMGVkTUJoOVNmOUN2Q2ZYanJURDNraTdXdWwtZlZlSnlha3BzMXQ5VWR0cWxISFkxYTk3bU0xZmdjMmNFcl9PQkJ0bnVzSTM2b3RpMGZ2YktGbHN0LVJ0cFZUcGtmWm8wQkxudlpUbk4wMzlFbw?oc=5",
+    "source": "HR Executive",
+    "published": "2026-10-08"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "Company flagged broad workforce decisions and cost reductions post‑merger",
+    "source_id": 10,
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnZ3U1pHY2NsNmZkX0d4VzN3MHF6WkVRWndYVG9vQm1ydUtpcV9WZnVncGdfWFFaZ0VLVi1udDhqbkFCUHFhTEgzRlpqYl9VVDJ6VDBSRm5FSXB4eTNoaEZKV2xTTGcyLW9mN1p1WTN3YVdfQngzdlFrdkdiblpMZE1FVHNSZ2V5dlYyNWVoT2h3Zw?oc=5",
+    "source": "Cartoon Brew",
+    "published": "2026-10-16"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Management highlighted technology‑stack unification and ongoing investments in streaming platforms.",
+  "it_spend_outlook": "Tightening",
+  "it_spend_reason": "Debt load and cost‑cutting measures suggest reduced IT budgeting despite AI projects",
   "talking_points": [
-   "Discuss how the unified tech stack for Paramount+ and Pluto TV can reduce operating costs.",
-   "Explore opportunities to support the accelerated streaming growth with AI‑driven personalization.",
-   "Assess the impact of the Warner Bros. Discovery integration on future technology road‑maps."
+   "How Skydance’s AI content strategy could create partnership opportunities for generative‑AI platforms",
+   "Potential need for cloud and data migration support as Discovery+ pricing and subscriber base expand",
+   "Opportunities to assist with workforce transition tools and automation amid announced layoffs"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -186,7 +272,44 @@
    "published": "2026-08-04"
   },
   "release_key": "0002041610-26-000052",
-  "signals_at": "2026-10-13T19:18:19+00:00"
+  "signals_at": "2026-10-20T22:01:14+00:00",
+  "signal_sources": [
+   {
+    "title": "Skydance bets big on AI-driven content",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXpzVUFENXg5cHIzZnRyMm5zLTRVX1g3aU5oQ1pjWUlibGIwNWFnUkJ1RWs0QTB1a3hBRWRYUXRiQWRxTHpZM2YzbXhIV0EyS0RVeWd1WXQ2ZnkyR2phaF80UFFwbGxOaXlDbnZwUEFrV3ZtcllIdmtlU2Y2SHE5bGRVR0l5OTR3ZmkyOF8tQXFSWFA0YzNsMjdYMmtKa2gwVGpkTUkzeUhVM2tEU2s2SDFpUdIBuAFBVV95cUxOQU9JWXZfU1FMbzJtQW1ZOXdlSFc2SWxQRkE0SXhWaEdSLTB6QU54MnQ3VUt3TmpqUkJFQkJpaGM4UEpjQk8yc3R6RmxMRHBZTXFIcnpqVGgxNjhya3J2X1RsSUlRTk1GVWpyN0doNlVOVnlHR0FnNEFPWElsQ291djRuSTZyOUxjc0VCZ1FLdWVGdG4xc3lZNG5DaGtpdlZqdUdBNDdEc1NUaHNFUG1pelhuazk3SWdo?oc=5",
+    "source": "The Economic Times",
+    "published": "2026-10-20T18:17:10+00:00",
+    "official": false
+   },
+   {
+    "title": "David Zaslav Walks With $606 Million After Years Of Gutting Warner Bros., Leaving Workers To Face More Cuts",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnZ3U1pHY2NsNmZkX0d4VzN3MHF6WkVRWndYVG9vQm1ydUtpcV9WZnVncGdfWFFaZ0VLVi1udDhqbkFCUHFhTEgzRlpqYl9VVDJ6VDBSRm5FSXB4eTNoaEZKV2xTTGcyLW9mN1p1WTN3YVdfQngzdlFrdkdiblpMZE1FVHNSZ2V5dlYyNWVoT2h3Zw?oc=5",
+    "source": "Cartoon Brew",
+    "published": "2026-10-16T13:31:04+00:00",
+    "official": false
+   },
+   {
+    "title": "CNN, Axios and other publishers join Google's AI news program",
+    "link": "https://www.reuters.com/business/media-telecom/cnn-signs-multi-year-ai-partnership-with-google-2026-10-15/",
+    "source": "reuters.com",
+    "published": "2026-10-15T10:06:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Exclusive: Warner Bros India layoffs to hit top executives first after Paramount takeover",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOei1Zdy1XZmJIQVRRZ0RTOVZPZTdJdk0wTTR3LU5Va2diYUJtaWhnQXlBVTgwUFg2b2dtN2E3ZHpxQ21EVHZicTkyYWl5MUNuYXNDd2Zrd3VtT29PMWN2Wk1vQkFGT1phOG92TzdobTYwb3dQZzZDWEFEejVBblkwQVBnNm9QYUpVMDIyeFgtZ2NNWERSTkF6ZGw2U3pxMHVwWTdvX05sLTVWbklBMTdmLXd6eFR3c0hGX2pkUXQ4RzBaWVJjeVd6bNIBzgFBVV95cUxOUmlvQjJJT2IxbG1rMGUxVWUzOWZjNG5FRlVadi1nT05kUkprZXJPZ3dpa2Q1cy1zdThkdTkwdUhVdEdQbG45UEhZX0V3TlJVU2NEdDV1Sm50R29jZDVPWGd1ZDd3X2RFSEdFdHI2dUNTQlhfWGdOQlNMcnZxZnY3VHd2LUdBMVFPbWxodVVvSFg1d3F5TG5hUUpvN3ZWa1prZzRWYWdVTmh5V3ZjNXpaaGQ3UGhybEZCNFFBYlZUd2RJbEhrYzFRUl9idjhxUQ?oc=5",
+    "source": "Storyboard18",
+    "published": "2026-10-09T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance flags 'difficult' workforce decisions after Paramount-Warner Bros. merger",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3VDdHhMNG5ZcE9CRUpiOUttVjVxZzFwWmJPYUdJNl9Tb09hZnZKeUl1TjN4Q0NPSVNJMGVkTUJoOVNmOUN2Q2ZYanJURDNraTdXdWwtZlZlSnlha3BzMXQ5VWR0cWxISFkxYTk3bU0xZmdjMmNFcl9PQkJ0bnVzSTM2b3RpMGZ2YktGbHN0LVJ0cFZUcGtmWm8wQkxudlpUbk4wMzlFbw?oc=5",
+    "source": "HR Executive",
+    "published": "2026-10-08T13:29:34+00:00",
+    "official": false
+   }
+  ]
  },
  "Versant": {
   "results_found": true,
@@ -219,28 +342,28 @@
   "sentiment_reason": "Results beat expectations and highlighted growth investments.",
   "it_signals": [
    {
-    "type": "M&A / spin-off",
-    "detail": "Completed the Full Swing acquisition.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
-    "source": "8-K",
-    "published": "2026-08-06"
+    "type": "Vendor / outsourcing",
+    "detail": "Multi‑year distribution renewal agreement with Verizon to keep Versant’s cable portfolio on Fios",
+    "source_id": 19,
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODlBVDdLbFA0T2N0LWhSb2tYemdPczRtQnNlQ000aUZwWm1pTC1qYU9UZGp2bkxZajNWcVRyUnV0WDdhMzdQdWljRk03eTNQa3B2RnFIRENvX216bExPcERwdkZWQ3o5MlkwTnBhcC02ek85NFkwQUs0REl2Q1o3cnJiS2dhSmNMaDJkeDVXLXlVTzBrNldTckZ3QUJ2c0NYMTNnUUluOElyZG9pM3J0WGZsNnh5SVZhYVFoX2V5ZFI?oc=5",
+    "source": "www.marketscreener.com",
+    "published": "2026-10-02"
    },
    {
     "type": "Digital / platform rebuild",
-    "detail": "Expanded Fandango into a broader consumer entertainment platform and advanced direct‑to‑consumer initiatives at CNBC and MS NOW.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
-    "source": "8-K",
-    "published": "2026-08-06"
+    "detail": "Fandango, now part of Versant, is moving into original programming, indicating investment in digital content platforms",
+    "source_id": 7,
+    "link": "https://www.yahoo.com/entertainment/tv/articles/fandango-orders-bad-girls-club-200000123.html",
+    "source": "yahoo.com",
+    "published": "2026-10-15"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Company is investing in acquisitions, new sports rights and digital platform expansion.",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "Stable distribution revenue may support IT spending, but linear‑TV pressure creates budget uncertainty.",
   "talking_points": [
-   "Versant’s recent Full Swing acquisition could create integration opportunities for technology partners.",
-   "The expansion of Fandango and direct‑to‑consumer initiatives suggest a need for scalable cloud and data solutions.",
-   "Ongoing share repurchase and dividend program indicate strong cash generation to fund further tech investments."
+   "How can Versant leverage the Verizon renewal to modernize its distribution technology?",
+   "What infrastructure is needed to support Fandango’s new original‑programming workflow?",
+   "Are there opportunities to help Versant offset linear‑TV cost pressures with cloud‑based solutions?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -266,60 +389,105 @@
    "published": "2026-08-06"
   },
   "release_key": "0002067876-26-000038",
-  "signals_at": "2026-10-13T19:18:47+00:00"
- },
- "Cox": {
-  "headline": "Cox Communications acquisition and AI platform integration signal growth and tech investment",
-  "highlights": [
-   "Cox Communications acquired for $34.5B by the nation's largest cable provider",
-   "VinSolutions embeds AI‑powered customer data platform into mutual clients’ CRM",
-   "Cox Automotive raises full‑year new‑vehicle sales forecast, September sales up 6.5% YoY"
-  ],
-  "risks": [
-   "Integration challenges following the $34.5B acquisition",
-   "Reliance on successful adoption of the AI platform"
-  ],
-  "sentiment": "Positive",
-  "sentiment_reason": "Both the acquisition and AI investment indicate strategic growth",
-  "segments": [
+  "signals_at": "2026-10-20T22:01:40+00:00",
+  "signal_sources": [
    {
-    "name": "Cox Communications",
-    "trend": "Up",
-    "note": "Acquisition likely boosts revenue and market reach"
+    "title": "Versant Reaches Multi-Year Distribution Renewal Agreement with Verizon",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODlBVDdLbFA0T2N0LWhSb2tYemdPczRtQnNlQ000aUZwWm1pTC1qYU9UZGp2bkxZajNWcVRyUnV0WDdhMzdQdWljRk03eTNQa3B2RnFIRENvX216bExPcERwdkZWQ3o5MlkwTnBhcC02ek85NFkwQUs0REl2Q1o3cnJiS2dhSmNMaDJkeDVXLXlVTzBrNldTckZ3QUJ2c0NYMTNnUUluOElyZG9pM3J0WGZsNnh5SVZhYVFoX2V5ZFI?oc=5",
+    "source": "www.marketscreener.com",
+    "published": "2026-10-02T17:36:01+00:00",
+    "official": false
    },
    {
+    "title": "Fandango Orders ‘Bad Girls Club: Unfinished Business’ as the Versant-Owned Streamer Gets Into Original Programming",
+    "link": "https://www.yahoo.com/entertainment/tv/articles/fandango-orders-bad-girls-club-200000123.html",
+    "source": "yahoo.com",
+    "published": "2026-10-15T13:00:00+00:00",
+    "official": false
+   }
+  ]
+ },
+ "Cox": {
+  "headline": "Cox Automotive pushes AI‑driven data platforms and pricing tools while Cox Communications faces acquisition uncertainty",
+  "highlights": [
+   "Cox Automotive adds pricing insights to its wholesale ecosystem (source 1)",
+   "VinSolutions embeds Fullpath's AI‑powered customer data platform into client CRMs (source 6)",
+   "Cox Media legal team expands AI use beyond basic applications (source 3)",
+   "Cox Automotive raises its full‑year new‑vehicle sales forecast (source 8)",
+   "Cox Communications acquisition announced for $34.5 B (source 7)"
+  ],
+  "risks": [
+   "Potential integration challenges from the $34.5 B acquisition of Cox Communications",
+   "Forecast volatility as sales expectations shift (source 8)"
+  ],
+  "sentiment": "Neutral",
+  "sentiment_reason": "Mixed developments: AI investments and sales outlook upgrades versus acquisition uncertainty",
+  "segments": [
+   {
     "name": "Cox Automotive",
-    "trend": "Flat",
-    "note": "Sales forecast increase but no major IT changes announced"
+    "trend": "Up",
+    "note": "AI data tools and pricing insights support growth"
+   },
+   {
+    "name": "Cox Media",
+    "trend": "Mixed",
+    "note": "AI expansion but no clear revenue impact"
+   },
+   {
+    "name": "Cox Communications",
+    "trend": "Down",
+    "note": "Acquisition creates integration risk"
    }
   ],
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "VinSolutions AI‑powered customer data platform embedded into mutual clients’ CRM",
-    "source_id": 1,
+    "detail": "VinSolutions embeds Fullpath's AI‑powered customer data platform into mutual clients' CRM",
+    "source_id": 6,
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWNDUS1DR0JtZWE3bjJ6RzFrTDd6Y0kwQWdicjlDRFVaN2kzOW1pUzFZcHAwWXU3SzFtcm1aLVpuREdOY05wWlhyLXVFN2JlU3RscFFfZHBFM21qR1VCNnAwYlNMY1EyZTQzYkY5cFZ6YTlqa2plODZDM2tYQkdna056d1RvSzd5NU5scmNzRGhHVF92SUNHb3ZiYkZnWUYxcVIyazhaOG51T0QzOE80QnpfaE5zN0ZpejduMTc5Y0duVE1mLVdaMVJjVjNvWURBLXhIN1FKNXpTclJFTm40YzI2ZkVpUU1GaWdFRXlBRk9lRXhvOWxNSFVxdVI?oc=5",
     "source": "PR Newswire",
     "published": "2026-10-08"
    },
    {
-    "type": "M&A / spin-off",
-    "detail": "Cox Communications acquired for $34.5B",
-    "source_id": 2,
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2pwY3k1M0JZTU5qVU8wX2YtN3FONk5MVjR2aVg0d3Z2SGV6R0lHNy1TSWVIaldBeEQzZFVjcUluTDZvLTI4b3Y0VmYyeUNnMWI0bHlhQkcyNFhHY21DUlFxWEFucDdndzhBNUZ2YW5wOGNrRXU5Mk5QUTlCZ003QzhZTE44Q0VUMHRZX2UzbFo?oc=5",
-    "source": "Omaha World-Herald",
-    "published": "2026-09-28"
+    "type": "AI & tech investment",
+    "detail": "Cox Media legal team moves beyond basic AI to off‑label applications",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
+    "source": "Law.com",
+    "published": "2026-10-19"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Cox Automotive adds transportation pricing insights across its connected wholesale ecosystem",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcnYtN2M2cE1zLVhURGNLT2hYUHI2UUN0alozZDA2alBVNlBscGZtcHNXQ09ob253aWFMWnZQdTZBZklaNzZNRVVmU2hwcTZWRnQ2X0RsQ01Va1hZcWR5TU05bnB0VmRHUWZCN2ltMmNQNjZjeDFKdlRzb2E0SElESi1vaGtWZGdXTVBIeVQ4YzE5SXg3cTFmMFI4cFl6VkZsQTlPQ2dzSG1MeHNJZlJRNFBweXpOWlFBOW03TW1LWURJNGdwRFhnRjUxSUJHWXo2cm1rMVpJQzByRjBaNmxkcTdWSm0yX2JSVlp0SF9aSnRxR2tV?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-20"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "New AI platform and acquisition are expected to increase IT spend",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "AI and data platform initiatives suggest investment, but acquisition and market volatility create uncertainty",
   "talking_points": [
-   "Discuss integration strategy for Cox Communications post‑acquisition",
-   "Explore how the AI platform can enhance CRM capabilities for mutual clients",
-   "Assess potential cost savings or efficiencies from the acquisition"
+   "Discuss how Cox Automotive's new AI‑driven data platform could benefit your own data integration projects",
+   "Explore opportunities to support Cox Media's expanding AI use cases",
+   "Assess potential technology integration needs arising from the Cox Communications acquisition"
   ],
   "unverified_dropped": [],
   "sources": [
+   {
+    "title": "Cox Automotive Gives Dealers More Transportation Pricing Insights Across Its Connected Wholesale Ecosystem",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcnYtN2M2cE1zLVhURGNLT2hYUHI2UUN0alozZDA2alBVNlBscGZtcHNXQ09ob253aWFMWnZQdTZBZklaNzZNRVVmU2hwcTZWRnQ2X0RsQ01Va1hZcWR5TU05bnB0VmRHUWZCN2ltMmNQNjZjeDFKdlRzb2E0SElESi1vaGtWZGdXTVBIeVQ4YzE5SXg3cTFmMFI4cFl6VkZsQTlPQ2dzSG1MeHNJZlJRNFBweXpOWlFBOW03TW1LWURJNGdwRFhnRjUxSUJHWXo2cm1rMVpJQzByRjBaNmxkcTdWSm0yX2JSVlp0SF9aSnRxR2tV?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-20T13:05:00+00:00",
+    "official": false
+   },
+   {
+    "title": "AI in Practice: Cox Media Legal Moves Beyond Basic AI. Now It's Going 'Off Label'",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
+    "source": "Law.com",
+    "published": "2026-10-19T22:16:49+00:00",
+    "official": false
+   },
    {
     "title": "Cox Automotive's VinSolutions Embeds Fullpath's AI-Powered Customer Data Platform Directly into Mutual Clients' CRM",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWNDUS1DR0JtZWE3bjJ6RzFrTDd6Y0kwQWdicjlDRFVaN2kzOW1pUzFZcHAwWXU3SzFtcm1aLVpuREdOY05wWlhyLXVFN2JlU3RscFFfZHBFM21qR1VCNnAwYlNMY1EyZTQzYkY5cFZ6YTlqa2plODZDM2tYQkdna056d1RvSzd5NU5scmNzRGhHVF92SUNHb3ZiYkZnWUYxcVIyazhaOG51T0QzOE80QnpfaE5zN0ZpejduMTc5Y0duVE1mLVdaMVJjVjNvWURBLXhIN1FKNXpTclJFTm40YzI2ZkVpUU1GaWdFRXlBRk9lRXhvOWxNSFVxdVI?oc=5",
@@ -344,9 +512,9 @@
   ],
   "company": "Cox",
   "mode": "signals",
-  "analysed_at": "2026-10-13T19:19:37+00:00",
+  "analysed_at": "2026-10-20T22:02:07+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-13T19:19:37+00:00"
+  "signals_at": "2026-10-20T22:02:07+00:00"
  },
  "LA Times": {
   "headline": "No relevant developments reported",
@@ -418,13 +586,22 @@
   "risks": null,
   "sentiment": "Neutral",
   "sentiment_reason": "mixed segment performance, net loss",
-  "it_signals": [],
+  "it_signals": [
+   {
+    "type": "Other",
+    "detail": "Former Caesars Digital COO Ken Fuchs named advisor to Prediction Media",
+    "source_id": 20,
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXNBaTRLd1kwU204MmVDY0xYQXllSlRFNkxMU3F6a1p4cks4TXgyeExRYnBMNnU0UERZX0lmb1M4U21kNVA1WFNXZklzY2NqSDhsZzliQTBidEE0QXB1blVPdDRPa2gtc2FZVEhfTDVPZ0w1c2psY0VZZFZNcFJZaUl1bmUtNFRwOWEyTTlNMjFqMlFwa19YT2JOZjdyMkN2dTRJd0h5SjVnWEtjYVVkc08tOHpBSlpIVXdZSi1obmZzTWl2?oc=5",
+    "source": "citybiz",
+    "published": "2026-10-15"
+   }
+  ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No technology spending signals reported",
+  "it_spend_reason": "No specific spending plans disclosed in the sources",
   "talking_points": [
-   "Discuss how Caesars Digital’s revenue growth supports overall digital strategy",
-   "Explore the impact of the net loss on future capital allocation",
-   "Evaluate the significance of adjusted EBITDA decline for operational efficiency"
+   "Discuss how Ken Fuchs' expertise could influence Caesars' digital strategy",
+   "Explore opportunities for collaboration on data analytics or AI projects",
+   "Assess whether this advisory role hints at upcoming technology investments"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -450,7 +627,16 @@
    "published": "2026-07-28"
   },
   "release_key": "0001590895-26-000027",
-  "signals_at": "2026-10-13T19:20:29+00:00"
+  "signals_at": "2026-10-20T22:02:33+00:00",
+  "signal_sources": [
+   {
+    "title": "Nota Appoints Former Caesars Digital Executive Ken Fuchs as Advisor to Prediction Media",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTXNBaTRLd1kwU204MmVDY0xYQXllSlRFNkxMU3F6a1p4cks4TXgyeExRYnBMNnU0UERZX0lmb1M4U21kNVA1WFNXZklzY2NqSDhsZzliQTBidEE0QXB1blVPdDRPa2gtc2FZVEhfTDVPZ0w1c2psY0VZZFZNcFJZaUl1bmUtNFRwOWEyTTlNMjFqMlFwa19YT2JOZjdyMkN2dTRJd0h5SjVnWEtjYVVkc08tOHpBSlpIVXdZSi1obmZzTWl2?oc=5",
+    "source": "citybiz",
+    "published": "2026-10-15T19:12:36+00:00",
+    "official": false
+   }
+  ]
  },
  "Bally's": {
   "results_found": true,
@@ -501,37 +687,13 @@
   ],
   "sentiment": "Positive",
   "sentiment_reason": "Strong revenue growth and strategic acquisitions",
-  "it_signals": [
-   {
-    "type": "M&A / spin-off",
-    "detail": "Acquisition of evoke plc, a global sports betting leader",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
-    "source": "8-K",
-    "published": "2026-08-14"
-   },
-   {
-    "type": "Digital / platform rebuild",
-    "detail": "Automation initiatives in North America Interactive improving profitability",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
-    "source": "8-K",
-    "published": "2026-08-14"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "New lottery technology solution provider contracts with Victoria, Chile, Greece, Ontario",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
-    "source": "8-K",
-    "published": "2026-08-14"
-   }
-  ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Company is investing in acquisitions and technology contracts to support growth",
+  "it_signals": [],
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No specific technology investment disclosed in the sources",
   "talking_points": [
-   "Discuss how Bally’s automation initiatives in North America Interactive could benefit our platform",
-   "Explore potential partnership opportunities for lottery technology solutions"
+   "Discuss how Bally's financing could enable future technology upgrades at new properties",
+   "Explore opportunities to support digital guest experiences for the Bronx resort",
+   "Assess potential needs for vendor or outsourcing partnerships during construction phases"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -557,60 +719,175 @@
    "published": "2026-08-14"
   },
   "release_key": "0001747079-26-000082",
-  "signals_at": "2026-10-13T19:20:56+00:00"
+  "signals_at": "2026-10-20T22:02:59+00:00",
+  "signal_sources": [
+   {
+    "title": "Bally’s Closes $560 Million Financing Led By WhiteHawk For $4 Billion Bronx Casino Project",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGN4RWRTWnFJWTFNME8wRTBlVThXMWp0U2FidUhMOWM2RkQxVXRGUE1LbTlTQjdxeWxFUFpoNWxjME5fMmQ2TzY2QnpnaGZhWjUwT3pYSHFfLWh2VVBJSFFwYi1Ickl4cFQ4UmRUTkxaOC1Oa2g5bzNXOUllcDdkU1Z3Y2xKd3gtUXlkUTdlUHpDaDhSOGhxMENpSUM5RnhWU1ZLOEcxdjBzMmfSAbABQVVfeXFMUGRpXzJyLXNTMno0MmR3dVQ3RTU4REpLS1psa0NmQlJBZXFiaFlNU1VBQWJtSlAzbkZWU19mblZzU3RSMEY1cHhHWC1paUlfdno4Nzd5RFZZWXpTeWxFNGxaT1JwS2E3VzFpaElqV1YtbGpBWFltbDgxbVZhd2ZZMDdBT1VHWTdFSlgxM3RaN01kVDNxUVQ4WEdPanNVOFVuTnNmbndfUlo0QmtGcjRKUkU?oc=5",
+    "source": "Pulse 2.0",
+    "published": "2026-10-02T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Bally’s closes $400M loan to fund its Bronx casino project",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHFMeXFMcG5QTkQ5VEZ6Y2p2WllUd0dXOFBESmt2c0EwREJheTd0cEsxRDdWOWJUVmsxWVhGcGswTkhMRXVuMFlTMDgtUmRyQmwyTFdoOVdoZlBxWXZiLWZnQXBlMWw1aVV5TmdFQklKNms3ZVQ4dlhWcXM4YUc2X0VGbzRDc0NTODhnS25uOHRSeUNkQnc?oc=5",
+    "source": "Dealroom",
+    "published": "2026-10-03T12:54:31+00:00",
+    "official": false
+   },
+   {
+    "title": "Bally’s Completes $163 Million Baton Rouge Casino Renovation With New Entrance",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMU5saE1vT3ZnMFl0a3FTVS0xbFBzRTZ0aFo2RXpaYVA2d0R3VFBFZmJBVnhXcC1ELWZXLWtRLTJaTWc4YjlfX3ZUUlMwclZqQktMbEZ3blQ1NmpKa1l2TTlfM0pNY1JYOGxZVmxXWnVRTjNrdmxEeVhITC05Tk5UUlNkUDlOa0g4bXoxY3N3UHdRRUZmWkx3OUg3dFZDUWNsbnpsQXBoUzU?oc=5",
+    "source": "Bonus.com",
+    "published": "2026-10-02T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Bally’s confirms Chicago casino remains on track for early 2027 opening",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWC1QMkZ1cDBMSnNLUDFRWEJCUWwwRUVsUDN3YWxlcVJMT3dpR0ZNbzZubWRIdE5zRmIxcHFGcEpoVEpGbDNNdG9LRWpGRnBabmIzeExmc3dwR1NJbjJ2TGVyYlVldldIUkVfdlU4TS1lNklRTlNQREpTZlNzdDA1ejkzcThIMy1LLXdIXzJ2bWpodl9VZ0Z0MlEyUTFOcWo0bUF1Q0dIdEhDdUh3R3p6MkZkU3RnTFRMVEdBNzlQako0UU1DaU9XRzJSRQ?oc=5",
+    "source": "Yogonet",
+    "published": "2026-09-23T16:00:10+00:00",
+    "official": false
+   }
+  ]
  },
  "Light & Wonder": {
-  "results_found": false,
-  "period_label": null,
-  "fiscal_label": null,
-  "period_end": null,
-  "results_date": "2026-08-04",
-  "headline": "No results data available in the provided sources",
-  "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
-   "operating_income_m": null,
-   "operating_margin_pct": null,
-   "net_income_m": null,
-   "eps": null
-  },
-  "guidance": null,
-  "guidance_change": "unknown",
-  "segments": [],
-  "highlights": [],
-  "management_view": null,
-  "risks": [],
+  "headline": "Light & Wonder selected to replace Delaware North's table games technology, indicating a new vendor partnership",
+  "highlights": [
+   "Debt reduction prioritized to lower leverage (15,28)",
+   "Gaming growth continues, supporting deleveraging (18)",
+   "New slot titles and hardware showcased at G2E (38,39)",
+   "IP lawsuit settled with Aristocrat for $190M (36)",
+   "Quarterly results scheduled for early November (11,16)"
+  ],
+  "risks": [
+   "High leverage remains a concern (15,28)",
+   "Legal exposure from recent IP dispute (36)",
+   "Transition to new table‑games technology may cause integration challenges (40)"
+  ],
   "sentiment": "Neutral",
-  "sentiment_reason": "No results information",
-  "it_signals": [],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No technology spending signals identified",
-  "talking_points": [],
+  "sentiment_reason": "Company is focusing on debt reduction and new tech wins but faces leverage and legal risks",
+  "segments": [
+   {
+    "name": "Gaming machines",
+    "trend": "Up",
+    "note": "Growth supports deleveraging"
+   },
+   {
+    "name": "Social casino (SciPlay)",
+    "trend": "Flat",
+    "note": "No specific updates"
+   },
+   {
+    "name": "iGaming",
+    "trend": "Mixed",
+    "note": "New titles announced but overall impact unclear"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Selected to replace Delaware North Table Games technology",
+    "source_id": 40,
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWtQZUdWSndWN2hQa0lSamhFR3UtVGlqUzJzSW9ScHpoY3l2NUdXYXprTmlNLUFmX1dpQ2Jxa243N0syZFBuazVtNHUxRkNjd25sVHJqRjdJYWdzQV9pV3JpNzZTZ3pMX1VaanhGcFJMRS02X0ZqLTA4Y1hpeWxjUXRpU2dPRGlpQnp3MVZDSVRvSGpKSEl1Rlh6NUdIdE5LR3JzTjNfRQ?oc=5",
+    "source": "GGB Magazine",
+    "published": "2026-09-21"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "Prioritising debt reduction and recurring revenue",
+    "source_id": 15,
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVoyakQ3OEhVNEp4U1VHbGFXQ21nZHg4by1iVk5iRnBrNlRHYS12eFk4V1JaN0hTMzF0NFBBWE1IWXJPajZHYzVTZ1RPS2tQS1NwQmJUbTRaSjd5eVJJalJxVU9mWTR4aDFLa1NYaEowTVZ5U3pxRjdDSmpxaXZ6MDVabTIxei1kcWVfaU5QYlpmTi1aWVlRdG9oeS1xcEhOa2FIdW9ESHFOd1hKcUJzY285VmY?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-07"
+   },
+   {
+    "type": "Other",
+    "detail": "Showcasing new games and hardware at G2E",
+    "source_id": 39,
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3BFTlpYbS1iQ1dfcnR3REpycTNrTTY2OGpzRVNObmU1SFdjX1J6ODFTUkhmQW93TUVJbnRTd0E1YzJlMXVoUVdEWnFvOEhjN3F4QVVINUNJWENLaklfbVVtMnNDSlV4Y2ZiQzF4QTB5azRjRWR3cEFfYjNZekZCMngzOXJpelBVOFMxTE1rNA?oc=5",
+    "source": "Indian Gaming Magazine",
+    "published": "2026-09-22"
+   }
+  ],
+  "it_spend_outlook": "Tightening",
+  "it_spend_reason": "Focus on debt reduction suggests tighter IT budgets",
+  "talking_points": [
+   "Discuss how the new table‑games technology partnership could create integration or support opportunities.",
+   "Explore ways to help Light & Wonder improve operational efficiency while they deleverage.",
+   "Assess potential for collaboration on next‑gen gaming hardware showcased at G2E."
+  ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
-    "source": "8-K",
-    "published": "2026-08-04",
-    "official": true
+    "title": "Light & Wonder (ASX:LNW): Debt Reduction and Recurring Revenue Shape the Next Phase",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVoyakQ3OEhVNEp4U1VHbGFXQ21nZHg4by1iVk5iRnBrNlRHYS12eFk4V1JaN0hTMzF0NFBBWE1IWXJPajZHYzVTZ1RPS2tQS1NwQmJUbTRaSjd5eVJJalJxVU9mWTR4aDFLa1NYaEowTVZ5U3pxRjdDSmpxaXZ6MDVabTIxei1kcWVfaU5QYlpmTi1aWVlRdG9oeS1xcEhOa2FIdW9ESHFOd1hKcUJzY285VmY?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-07T13:55:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder (ASX:LNW) Gaming Growth Keeps Deleveraging in the Spotlight",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTZOXzJSc1hhSWNRcWpvM1NGMXJjdVg4YUF0WWEyMkFWUXBLVFZNZWVwTHhNaWI5TXlEWlJ2cDhUV2JyTWt6bEFCdkYzSy1jU3d2Y0QtVmI4dUhzR1U4MTAtLWk5LVZTeElLd292TGI2TVl6d3hFV0ZLbElIN0d1azZ1cFZQX0MxLU1iNWtLVEpiQ0VwZnI0TnBHaDBHN2lDY0tYNmFWQ0s0TERW?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-07T01:02:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder, Inc. (ASX:LNW) Prioritises Debt Reduction as Q2 Earnings Expand",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjAxTFNtWExnVW5ZZENXQWNZNmdhVHloc0ZrX2J5STNTOXM1ZERmSFpRTUF0MGJSSlQ0VGg0RURPaTBoOWhmUjVMTUZ3Vk04X2hsZTJXU21BZncxTldhR3d5SFNsV2dOWGdEQWwteW9YOUdZSG41VlBoN3J6all5NHBFSHlkaHZVLXI1OGhiSG1OMWpldVl2SnRYcWZYdUFkXzFQa3BhOGV0QVpwRWJtTA?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-01T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Pokies Maker Light & Wonder Hits Rival Aristocrat With IP Suit",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkVOaTVCTnJGZzUyMmNNakZKbEozRTBHSWxZUWZoN252Qm5MZHhKVi1PRGUxc2lxT2c3MkJYN3NqaDBrSjRhMkx1RGRVS1loTHlPSDFGSkhaZElMcjd0T0ZzcGtiQVdKN1NFTFZxWWF2Q0VnZUdVaUxPejMtNU1RWW9hSXRDM0FrUndqeUNFZndnbXBoM1Vkc2MwbWhmZ3JsRkltctIBWEFVX3lxTE5Dd3JEUGVmemlqMHhFOFpJUndEdnIzVmVST3ViSENZSldrXzVTbjhQc0hvNnlKbTZ2d0FMVnJzaWMyZzVKOUlfbUpKMzlHRVQ1MHV2S0x6SFY?oc=5",
+    "source": "Law360",
+    "published": "2026-09-23T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder to highlight licensed titles at G2E in Las Vegas",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamxxbTU0bENwcjNYYk5ERy1nMGJIbm1Yd043NEJUR3VRZkh5RXl3c2RnZU1oVnhxNDRBal9fNW5EakFFNWlfWmgwT1VsOGpRWWxaT3daOEUtZFp6b1dSSEZQd09pc0o4TDdwV3JRZEg4UnBTbFFNcFc1N3lFdG1JOWtXVnkzWUhHdG9YR1owNHBZUURRc1E?oc=5",
+    "source": "IAG – Inside Asian Gaming",
+    "published": "2026-09-22T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Sets G2E Lineup With New Games and Hardware",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3BFTlpYbS1iQ1dfcnR3REpycTNrTTY2OGpzRVNObmU1SFdjX1J6ODFTUkhmQW93TUVJbnRTd0E1YzJlMXVoUVdEWnFvOEhjN3F4QVVINUNJWENLaklfbVVtMnNDSlV4Y2ZiQzF4QTB5azRjRWR3cEFfYjNZekZCMngzOXJpelBVOFMxTE1rNA?oc=5",
+    "source": "Indian Gaming Magazine",
+    "published": "2026-09-22T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Selected to Replace Delaware North Table Games Technology",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWtQZUdWSndWN2hQa0lSamhFR3UtVGlqUzJzSW9ScHpoY3l2NUdXYXprTmlNLUFmX1dpQ2Jxa243N0syZFBuazVtNHUxRkNjd25sVHJqRjdJYWdzQV9pV3JpNzZTZ3pMX1VaanhGcFJMRS02X0ZqLTA4Y1hpeWxjUXRpU2dPRGlpQnp3MVZDSVRvSGpKSEl1Rlh6NUdIdE5LR3JzTjNfRQ?oc=5",
+    "source": "GGB Magazine",
+    "published": "2026-09-21T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder to Release Third Quarter 2026 Financial Results on 5 November",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG9YSnNmSVRZMENGd3JPXzZ5VEdOcXRiM1ZzejJnX1RKTWx4cUEyVktWQVlsSlEwQ2Z3VlBBb2V0WmlqQ2ZXaWFycFNBZmdTYUNWWFpfSG1jeGpqRmxPa3dmM0ExOTh0WGcyUzJ1dzJJbk96V0c4bFYtcFQ3dUhReUM0SEwtc3JWR0RWY1hlbTJRWTRqYkp1alpRQklLdGVPaTZodmQ2NFhVTnFueHh4dDNkaFg4dVE?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-09T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder to Report Third Quarter 2026 Results",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHIxRUx2ZnpZR29NaXBZaHlIejhfdFhyUjFOcjJCWHd2M2NDZXE2WUVESFNpMGRWUEtzRFhWNnJVUTNhSXV2bnhpT3daZjVRdFdWSE5fcTY1U25EalZQTmhKcUNVUW9VOUhQT0hGWGJXTEg0TklfVkFWQ2JpdFNpcXFjR0lwU0VoSmVmNnFPQS0yMUZyVDhlUGEzVDdyS1o2WjVmS2dLVlREUQ?oc=5",
+    "source": "Business Wire",
+    "published": "2026-10-07T07:00:00+00:00",
+    "official": false
    }
   ],
   "company": "Light & Wonder",
-  "mode": "results",
-  "analysed_at": "2026-10-13T19:21:21+00:00",
-  "release": {
-   "form": "8-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-05T01:04:24.000Z",
-   "accession": "0000750004-26-000032",
-   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
-   "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
-   "published": "2026-08-04"
-  },
-  "release_key": "0000750004-26-000032",
-  "signals_at": "2026-10-13T19:21:21+00:00"
+  "mode": "signals",
+  "analysed_at": "2026-10-20T22:03:26+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-20T22:03:26+00:00"
  },
  "Brightstar (IGT)": {
   "results_found": true,
@@ -635,10 +912,183 @@
   "risks": [],
   "sentiment": "Neutral",
   "sentiment_reason": "No financial data provided",
-  "it_signals": [],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No technology spending information disclosed",
-  "talking_points": [],
+  "it_signals": [
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHNkNTRraFBVaVQta2szNXYza2NQZ2ppN3lkY2xBM0hsVUV0M0VYTFlxYWw2MmZvS29YelZLb2U2cTlWV1UxVzJOSHVscEJBcFdMb2JMN3VWT0tua1pJU2NOemFtY3BENHBmYTZxMWtFc0prU09KSThTSzZFRFFMcVN5cDJmVllQQzZzTDJic2wxWGg5ejM1ZWF2cDA3S214WW9KdWRjOU45dzhtTWxDUjk1bktpbTY5cEc5MXM1TQ?oc=5",
+    "source": "GuruFocus",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 7,
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWFtbENiSmpCY1dZT09DS1EyeWU0N25GcENhdnhYcVNpbWRmU01WZF8tdWtNSGFoSTdyMEJsN19mVmRCSEZEOGxfYXdoNWRNM1YxYWduUGZqVWo4LUJaTzJ1Um92VDNQall2cUMzMV9XWnpDZEljb2U0N3ZOZkNqVWlqNnBxeEJ6RGI0cGFJS3VWSFHSAZMBQVVfeXFMTk1hbWxDYkpqQmNXWU9PQ0tRMnllNDduRnBDYXZ4WHFTaW1kZlNNVmRfLXVrTUhhaEk3cjBCbDdfZlZkQkhGRDhsX2F3aDVkTTNWMWFnblBmalVqOC1CWk8ydVJvdlQzUGpZdnFDMzFfV1p6Q2RJY29lNDd2TmZDalVpajZwcXhCekRiNHBhSUt1VkhR?oc=5",
+    "source": "Lottery Daily",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 8,
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEJ4ZW5pMVJyUjlEWUVNMF9oN05KcGFYY0ZKSDhhaXFuY2hmV1ZLVkdmWUVoOTJNckgwdC1XQnJwc3RxWXhlTDJZN1l3blA1clpCM3VvZ1lzb2xVc0NaYTc4RHdSWkVrUUd5ZFB5RU5QUDgxWnFScXdidzhRWVJUTFVRSDJlTG5oUHNTWF9RTWN0S2NnZ2NmWkNuNEtnVXQtM2VJ?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 9,
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYllHM0JDVWpfR05SLWlrdUJyQ3RMbGVpcTNxY1ZLLW04cXF3MFdfZ3FjYk8tdTFSZ0hYRHBva3cyZUx0dEl6RE5CUFYzVU5laW82QXYtSXQwVWhnczBPcXhNb0k2Q01QR0dLS3g3ZDhTUFJpaVZkZFp3NExRV0FvcWMzNUhfNFBBMnJmcTZ2X0FPVUpHLTU4MTk3S2dnX3AtRlktMDMwYTZkY3hJMnYwLXJ1STI4VzZqUWlTSEEya1k?oc=5",
+    "source": "marketscreener.com",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 10,
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2xRd2k2dzVWeFQ3RXNpV1BzZ25YZE5rZ1Z0bXhkTG5PUzcwQnpkdWtNdkxmM0dsZGs0TEFzeGpmM0JhSFpzS2s4bThrQlJ0Tk9mZnhFMGVDbkJpamlxcERvSG9rTExqZEI2d2tUSFU5akdsZXdPRnF3MlgxYlFpbkg2OVhaWThyYmo3Q0xyd0tYa0RqUXFIYw?oc=5",
+    "source": "Pluang",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 11,
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2N0SHVDLXQwYnByaHd4Sy15ZVl0NnNTb09UMjgwbEdYTXB4ZmpGNHptVldGWEx5SFJDWlF6V2ZXNl9VM1FQNmpkYVZHVHlMLUM2T285OHhHamp3eHNnM2ZOQy03Y2ZBU0VNN09CVVQzMkpTaE9TU2tYaVJIQ3gxQ2RRQzNReHRORnNLeF96aG4zaVdKNnBlX1RNMjNJNUpGeUVGbnVZNXJVUUxCMXhFVjdITVMxZw?oc=5",
+    "source": "Investing.com",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 12,
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0N2aUxVWEszWEQ0c01uVmpxOTB0eUhRN1QwMDJ2M0NRbEE3REYwbUotVEdPeG9EYlFWbi1MeE9tTVA0NEtKbVpuV056eGZ4Y0NfazhtTXpiQUFnSlAxOWZPaUtZLTlxOFlOcENvczB1dXdQZmVCWWpYTVhqMVkyZENqZlk3UFYxRjNmdTNjNGFtbDV1c3JYX292UHBYYVhiTlg4Rl9PbzM5SU5BN1FDcnRJbzViRTBU?oc=5",
+    "source": "StreetInsider",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQk1hUXl0NUhERE1DMDVvUEdtNmRGbDRvUzJWdm5RcGNIREZONEcwbU5ZNjhqUlViR3BFTjVpYTlxdkYwNW1mYzVMVEotUUMyZ01NMUIxMERSRTMxZklCSkZ3bnhxWUxzTDdLcTd3Y3BYREpoRk1uWmwtYmpMZTI1OV9QSGJFOEpkRll3T2ViZ1NhbnZldEV0NjdSdEF2SUZYcHFaMFZyRXVibzZOZWpVY3RMaUVRRGdGcEh4aEVXU3NsTGJDUG9Qc3ExeVRrbFk?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 14,
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSMXlCUTE2UEw0bFZIX2NlNlNQeEpqU3ZkUEpiUTNRQVkyTGRZVXVlSkNrODg3SFB5OXktSVpSNVFvRnZRTUJXcGNQeEctdlJXYmNlQ2d3VjBMWXZSSVBqNmFMQ3Q0VVNsbkR5Mg?oc=5",
+    "source": "TradingView",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Extension of New York Lottery tech contract for two years",
+    "source_id": 16,
+    "link": "https://seekingalpha.com/news/4654513-brightstar-lottery-extends-its-key-contract-with-new-york-state",
+    "source": "seekingalpha.com",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 20,
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDhselIwODl0MXQ3UHpvOFZzR2szSXhxcUNyNnFFbVZ0YnBab2pGa0FkVk5KSHpfdVB3Y0U0cS1WdFpuN3A1c193cFd6eEFBMV8yNWJZa0czRk5lZFAzUGRxNFptQnhFYlFtbHUxWkhpckFiS21CU0pIOFR2MUFiOXUtNVhTVEt1Q05hTXdQTjhqa28wYS02NGN0WGJfclNaRjQtOVVGN1RDQkRJSEFTbmdORnZkdzlBd0xmNDg4VmprV1hrajBEY3ltRQ?oc=5",
+    "source": "Gaming Intelligence",
+    "published": "2026-10-15"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 25,
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTng3RTE5OXRDY0U4WENRbnlOYnJoRG5oc21SWnJrQU9rSVNIRXdfUnFFMklzdXhWWGVTWkZNUUw5SnZRZEl0VHUwWVMxNHlMVjVveVNYZGYzQVRkeTFYZjNYNGVpaEZyUk01eFpNUjNOeFduMXpieF9LREVIemdldDV2OW9QbVBpdkxXd2doRDBsMGlJbDBCakZuSXlMZ1YwZkpTYzNaNU05TVQ1LUkyNUt1Slk2eUNuTVhXazZVNkRpYUJsb1p0NGEtdHByMGF3VUdpY3V3?oc=5",
+    "source": "PressGiochi",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 26,
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdHRDZ2NU1WTzRlVUdLOG9jV05TSGx3dmJ1aHhxQUt1LVoyV21RN0dxTFl2VEcxa0F6OFQwTXp6Z2tPN1lXWTVBLWpsS3hHWnE5YkxJZ0Z5empEcXRhNGdOUUJKa2NnNTJ4NF9TeEh6Q0sxTEFpb1NTUmhaVjBjMkxTcjFSdDhfQWFGQ0JYYnMtMmpQS1VaX2tvc1hNcEctbEJVZThhTVHSAa4BQVVfeXFMUDdlUUtZa3hEbElJYUdkODR0ZDQ3VTQ5bGVoakFUS2E5Z0pLNkh5NEZYWndJX0YyLU1ydUhuQlYxemRLWDBrVW8xbkxTclhsd2JYcXBfaFphQ1Q5dnkzc1U3M0Z3UmlmaVZ6UWVDb2EwTkxiRDdaNHQtTF9DSVl2THRJdmtlemZfQklTTVNrbjdBVEd3alhaNlVYRVotWUswd1FlLWxYay1xQkFpQTZ3?oc=5",
+    "source": "Lottery Daily",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 27,
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeDB2Y1pBUFZHb0trWmtKbERPQnFBUlQ3dzJTSXVOSmRiUTBPT19kMlhZZGhyQTl2VnJPV1BOSk8yTDNiYW9HN2JBVFBUejF3TFhDMG85LUFkclBHTzJYY25lNy1fN3lDS3pTNEFtSUJkNGsyUVlUblE4OU1HaW5uWEhybl9iMS1PTWNuc2VoclFUYXhLT3gydkZuUFJOTWhweHNJVE42MEJJT1NTZEJ4aUQ4ZURWNUstbGJ5NWlJOTVvRm95blZpS0RGNXpxSFBiaHFzOEhiaUN2aGJBODlDQ1V1dFZTTms4?oc=5",
+    "source": "www.marketscreener.com",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 28,
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWlzSXNmN1VmWHV4Z0h1UEFscW0tUE9iQ2p3QTRKZkNrbE9qdmpDbWlXTEVVSl9ablRmanNuQUxCOXc5ZEI1NDRacmg5N1hBeU14d2c1UWFlVVhndm5TcXA4Zlp3NGQtSkVWbHVDQXlUMnRocGFmZ0ZEbTM2ZlhQN1lQY2FrNVpwRFdNU2dyNlB2Wi1TaUpsMFhaZ21EUHJpMmdaZktfTHBYbE1jcFQ0YlpoYw?oc=5",
+    "source": "Investing.com",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 29,
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEo3ZXpka2x5WnV1N3BDc0xvSlhndTZ5UzBvR1BvYVVaTmJyQnVxdHdxZm4yYWhOTzVsQXZrY0lHbVdqb0FBMlBYUXpZRmNnT19ITWlrVkZMNk1SVW9zYkJHMTBadVF0aHpSdTlZZ044am1CNjlyZDF2aWF2NDFMTGRtRS1lMjd6Q2JQV3pCcXNFRTlpaUhvSnRMazdVcXZXNm9VM2NB?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 30,
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWFmdHhVbjk4N2hPLTF2cTBzcjVaZWFpX0xlcm1xRzRWOXJSeFRoZnFUOXl1bkhSLVprTFdueDl5RUNxUWlzT3VodHF1Z0ZMQjNNRXJXRm1uOTE3Y3hQT0JmZGt3aXFYVkZUalNjZmFXd0cwalVHb3BoWDUtT0NHQUd6SExpbng1QjJ4Mi1JZUdUenI4LUttMnhhd3hPTW9KcER6eERtaFRVaTdDa0dzVDVBYVZ1aVFWNW9oZ0tR?oc=5",
+    "source": "Nasdaq",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 32,
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmMwalRienhMWW56Q0hiOUVXWmdScGlQT1NfLW9kZXNzcjRJdXI4X2ZULUtPM0FtZ3JVMHdUd1B2b0Z0QWpEM1RNaUdPMkVfcmUxWE5MWnlsaFNVRG1BYi1PeDZEWXdMbEd2TDhQMXAySEdrQmJnb1paYV9WV1JrR2NTdFQyNzN4RDJwYTdSczMySU5F?oc=5",
+    "source": "Pluang",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Other",
+    "detail": "Five‑year exclusive Pan Am omnichannel licensing to develop lottery games",
+    "source_id": 34,
+    "link": "https://www.msn.com/en-us/news/other/brightstar-lottery-wins-licensing-rights-to-the-pan-am-brand-name/ar-AA2e8KIN",
+    "source": "msn.com",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "EUR 342.21 million debt tender to refinance existing obligations",
+    "source_id": 38,
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGsxeE9DVVczN0RYY1JXMFZEaERoeGZiNUl5SDltMHNUdExhUVlSeU1fc2duZGFnY1RLZ1hQNUFPX05PaDhGc29NdjhpNWFuRXJkWFZmRmxQaGdaNVNwcUNKb2h4b1IyRG9nMjR0M3ZsWkZ2eU4za25YUWxhSC1nUDVjS0VGVDB4MVBZcHBYLWpiRlZxRkI0MTdJOTFScXVZWi0zMDdlVUVNNlpTWmttbk5yQ2lWSWV3YzJEWWNrdFZfZTF3M0tSdFJMbWdKTE9lZTV6LVB2dC1hX0RZUFdnZjBjejZxbUc0dWZrYzV3?oc=5",
+    "source": "AD HOC NEWS",
+    "published": "2026-10-05"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "EUR 500 million bond issuance and tender offer",
+    "source_id": 40,
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXB4LVFUZUJmR0duZ2x4TXc5WlNzUVhYakIwcGZRNHg2all0TUZsR2JqcFd3RE9KNEFicTAtcVdTZnNJbl81VmhmSkRwdW5icXhwYXhLM2syVl84WE1Jc0tRNXlxLWJjc0tIRlFjVDE4MWZwWEhzQ0NVNkdZU0hIOEloZ3hZTlJVcjUzUUx3dGNVaUtzRC1TMEYwQ0ZxR041RVhXUUpTcUxjaS1OZktjellmUVRJVXpNMHBfVC1LZw?oc=5",
+    "source": "White & Case LLP",
+    "published": "2026-09-28"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "New multi‑year state contract and brand licensing indicate increased technology and platform investment",
+  "talking_points": [
+   "Discuss how the extended New York Lottery contract may create opportunities for additional digital upgrades or cloud migration",
+   "Explore potential collaboration on the Pan Am omnichannel game platform and related data analytics",
+   "Assess the impact of the recent debt tender on Brightstar’s capacity to fund future IT projects"
+  ],
   "unverified_dropped": [],
   "sources": [
    {
@@ -663,58 +1113,281 @@
    "published": "2026-08-04"
   },
   "release_key": "0001628280-26-052120",
-  "signals_at": "2026-10-13T19:21:50+00:00"
+  "signals_at": "2026-10-20T22:03:54+00:00",
+  "signal_sources": [
+   {
+    "title": "Brightstar Lottery PLC (BRSL) Extends New York Lottery Contract, Shares Rise Premarket",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHNkNTRraFBVaVQta2szNXYza2NQZ2ppN3lkY2xBM0hsVUV0M0VYTFlxYWw2MmZvS29YelZLb2U2cTlWV1UxVzJOSHVscEJBcFdMb2JMN3VWT0tua1pJU2NOemFtY3BENHBmYTZxMWtFc0prU09KSThTSzZFRFFMcVN5cDJmVllQQzZzTDJic2wxWGg5ejM1ZWF2cDA3S214WW9KdWRjOU45dzhtTWxDUjk1bktpbTY5cEc5MXM1TQ?oc=5",
+    "source": "GuruFocus",
+    "published": "2026-10-20T13:03:57+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar pens extension to New York Lottery deal",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWFtbENiSmpCY1dZT09DS1EyeWU0N25GcENhdnhYcVNpbWRmU01WZF8tdWtNSGFoSTdyMEJsN19mVmRCSEZEOGxfYXdoNWRNM1YxYWduUGZqVWo4LUJaTzJ1Um92VDNQall2cUMzMV9XWnpDZEljb2U0N3ZOZkNqVWlqNnBxeEJ6RGI0cGFJS3VWSFHSAZMBQVVfeXFMTk1hbWxDYkpqQmNXWU9PQ0tRMnllNDduRnBDYXZ4WHFTaW1kZlNNVmRfLXVrTUhhaEk3cjBCbDdfZlZkQkhGRDhsX2F3aDVkTTNWMWFnblBmalVqOC1CWk8ydVJvdlQzUGpZdnFDMzFfV1p6Q2RJY29lNDd2TmZDalVpajZwcXhCekRiNHBhSUt1VkhR?oc=5",
+    "source": "Lottery Daily",
+    "published": "2026-10-20T12:40:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery extends its key contract with New York state (BRSL:NYSE)",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEJ4ZW5pMVJyUjlEWUVNMF9oN05KcGFYY0ZKSDhhaXFuY2hmV1ZLVkdmWUVoOTJNckgwdC1XQnJwc3RxWXhlTDJZN1l3blA1clpCM3VvZ1lzb2xVc0NaYTc4RHdSWkVrUUd5ZFB5RU5QUDgxWnFScXdidzhRWVJUTFVRSDJlTG5oUHNTWF9RTWN0S2NnZ2NmWkNuNEtnVXQtM2VJ?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-20T11:47:11+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery Signs 2-Year Contract Extension With New York State",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYllHM0JDVWpfR05SLWlrdUJyQ3RMbGVpcTNxY1ZLLW04cXF3MFdfZ3FjYk8tdTFSZ0hYRHBva3cyZUx0dEl6RE5CUFYzVU5laW82QXYtSXQwVWhnczBPcXhNb0k2Q01QR0dLS3g3ZDhTUFJpaVZkZFp3NExRV0FvcWMzNUhfNFBBMnJmcTZ2X0FPVUpHLTU4MTk3S2dnX3AtRlktMDMwYTZkY3hJMnYwLXJ1STI4VzZqUWlTSEEya1k?oc=5",
+    "source": "marketscreener.com",
+    "published": "2026-10-20T11:21:56+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar extends lottery tech contract with N...",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2xRd2k2dzVWeFQ3RXNpV1BzZ25YZE5rZ1Z0bXhkTG5PUzcwQnpkdWtNdkxmM0dsZGs0TEFzeGpmM0JhSFpzS2s4bThrQlJ0Tk9mZnhFMGVDbkJpamlxcERvSG9rTExqZEI2d2tUSFU5akdsZXdPRnF3MlgxYlFpbkg2OVhaWThyYmo3Q0xyd0tYa0RqUXFIYw?oc=5",
+    "source": "Pluang",
+    "published": "2026-10-20T11:04:50+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar extends New York lottery contract for two years",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2N0SHVDLXQwYnByaHd4Sy15ZVl0NnNTb09UMjgwbEdYTXB4ZmpGNHptVldGWEx5SFJDWlF6V2ZXNl9VM1FQNmpkYVZHVHlMLUM2T285OHhHamp3eHNnM2ZOQy03Y2ZBU0VNN09CVVQzMkpTaE9TU2tYaVJIQ3gxQ2RRQzNReHRORnNLeF96aG4zaVdKNnBlX1RNMjNJNUpGeUVGbnVZNXJVUUxCMXhFVjdITVMxZw?oc=5",
+    "source": "Investing.com",
+    "published": "2026-10-20T10:57:02+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery extends New York contract for two years",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0N2aUxVWEszWEQ0c01uVmpxOTB0eUhRN1QwMDJ2M0NRbEE3REYwbUotVEdPeG9EYlFWbi1MeE9tTVA0NEtKbVpuV056eGZ4Y0NfazhtTXpiQUFnSlAxOWZPaUtZLTlxOFlOcENvczB1dXdQZmVCWWpYTVhqMVkyZENqZlk3UFYxRjNmdTNjNGFtbDV1c3JYX292UHBYYVhiTlg4Rl9PbzM5SU5BN1FDcnRJbzViRTBU?oc=5",
+    "source": "StreetInsider",
+    "published": "2026-10-20T10:47:32+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery Signs Two-Year Contract Extension with the New York Lottery",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQk1hUXl0NUhERE1DMDVvUEdtNmRGbDRvUzJWdm5RcGNIREZONEcwbU5ZNjhqUlViR3BFTjVpYTlxdkYwNW1mYzVMVEotUUMyZ01NMUIxMERSRTMxZklCSkZ3bnhxWUxzTDdLcTd3Y3BYREpoRk1uWmwtYmpMZTI1OV9QSGJFOEpkRll3T2ViZ1NhbnZldEV0NjdSdEF2SUZYcHFaMFZyRXVibzZOZWpVY3RMaUVRRGdGcEh4aEVXU3NsTGJDUG9Qc3ExeVRrbFk?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-20T10:45:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery PLC (BRSL) Extends New York Lottery Contract by Two Years",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSMXlCUTE2UEw0bFZIX2NlNlNQeEpqU3ZkUEpiUTNRQVkyTGRZVXVlSkNrODg3SFB5OXktSVpSNVFvRnZRTUJXcGNQeEctdlJXYmNlQ2d3VjBMWXZSSVBqNmFMQ3Q0VVNsbkR5Mg?oc=5",
+    "source": "TradingView",
+    "published": "2026-10-20T10:45:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery extends its key contract with New York state",
+    "link": "https://seekingalpha.com/news/4654513-brightstar-lottery-extends-its-key-contract-with-new-york-state",
+    "source": "seekingalpha.com",
+    "published": "2026-10-20T05:46:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery secures rights to Pan Am-themed lottery games",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONDhselIwODl0MXQ3UHpvOFZzR2szSXhxcUNyNnFFbVZ0YnBab2pGa0FkVk5KSHpfdVB3Y0U0cS1WdFpuN3A1c193cFd6eEFBMV8yNWJZa0czRk5lZFAzUGRxNFptQnhFYlFtbHUxWkhpckFiS21CU0pIOFR2MUFiOXUtNVhTVEt1Q05hTXdQTjhqa28wYS02NGN0WGJfclNaRjQtOVVGN1RDQkRJSEFTbmdORnZkdzlBd0xmNDg4VmprV1hrajBEY3ltRQ?oc=5",
+    "source": "Gaming Intelligence",
+    "published": "2026-10-15T08:19:54+00:00",
+    "official": false
+   },
+   {
+    "title": "Pan Am enters the lottery: Brightstar wins exclusive omnichannel concession",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTng3RTE5OXRDY0U4WENRbnlOYnJoRG5oc21SWnJrQU9rSVNIRXdfUnFFMklzdXhWWGVTWkZNUUw5SnZRZEl0VHUwWVMxNHlMVjVveVNYZGYzQVRkeTFYZjNYNGVpaEZyUk01eFpNUjNOeFduMXpieF9LREVIemdldDV2OW9QbVBpdkxXd2doRDBsMGlJbDBCakZuSXlMZ1YwZkpTYzNaNU05TVQ1LUkyNUt1Slk2eUNuTVhXazZVNkRpYUJsb1p0NGEtdHByMGF3VUdpY3V3?oc=5",
+    "source": "PressGiochi",
+    "published": "2026-10-13T22:26:03+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery pens Pan Am deal as airline plots comeback",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUdHRDZ2NU1WTzRlVUdLOG9jV05TSGx3dmJ1aHhxQUt1LVoyV21RN0dxTFl2VEcxa0F6OFQwTXp6Z2tPN1lXWTVBLWpsS3hHWnE5YkxJZ0Z5empEcXRhNGdOUUJKa2NnNTJ4NF9TeEh6Q0sxTEFpb1NTUmhaVjBjMkxTcjFSdDhfQWFGQ0JYYnMtMmpQS1VaX2tvc1hNcEctbEJVZThhTVHSAa4BQVVfeXFMUDdlUUtZa3hEbElJYUdkODR0ZDQ3VTQ5bGVoakFUS2E5Z0pLNkh5NEZYWndJX0YyLU1ydUhuQlYxemRLWDBrVW8xbkxTclhsd2JYcXBfaFphQ1Q5dnkzc1U3M0Z3UmlmaVZ6UWVDb2EwTkxiRDdaNHQtTF9DSVl2THRJdmtlemZfQklTTVNrbjdBVEd3alhaNlVYRVotWUswd1FlLWxYay1xQkFpQTZ3?oc=5",
+    "source": "Lottery Daily",
+    "published": "2026-10-13T14:39:47+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery PLC Gains Exclusive Omnichannel Lottery Licensing Rights To Pan American World Airways, LLC. Brand",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeDB2Y1pBUFZHb0trWmtKbERPQnFBUlQ3dzJTSXVOSmRiUTBPT19kMlhZZGhyQTl2VnJPV1BOSk8yTDNiYW9HN2JBVFBUejF3TFhDMG85LUFkclBHTzJYY25lNy1fN3lDS3pTNEFtSUJkNGsyUVlUblE4OU1HaW5uWEhybl9iMS1PTWNuc2VoclFUYXhLT3gydkZuUFJOTWhweHNJVE42MEJJT1NTZEJ4aUQ4ZURWNUstbGJ5NWlJOTVvRm95blZpS0RGNXpxSFBiaHFzOEhiaUN2aGJBODlDQ1V1dFZTTms4?oc=5",
+    "source": "www.marketscreener.com",
+    "published": "2026-10-13T11:50:39+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery signs Pan Am licensing deal for games",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWlzSXNmN1VmWHV4Z0h1UEFscW0tUE9iQ2p3QTRKZkNrbE9qdmpDbWlXTEVVSl9ablRmanNuQUxCOXc5ZEI1NDRacmg5N1hBeU14d2c1UWFlVVhndm5TcXA4Zlp3NGQtSkVWbHVDQXlUMnRocGFmZ0ZEbTM2ZlhQN1lQY2FrNVpwRFdNU2dyNlB2Wi1TaUpsMFhaZ21EUHJpMmdaZktfTHBYbE1jcFQ0YlpoYw?oc=5",
+    "source": "Investing.com",
+    "published": "2026-10-13T11:45:29+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery wins licensing rights to the Pan Am brand name (BRSL:NYSE)",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMEo3ZXpka2x5WnV1N3BDc0xvSlhndTZ5UzBvR1BvYVVaTmJyQnVxdHdxZm4yYWhOTzVsQXZrY0lHbVdqb0FBMlBYUXpZRmNnT19ITWlrVkZMNk1SVW9zYkJHMTBadVF0aHpSdTlZZ044am1CNjlyZDF2aWF2NDFMTGRtRS1lMjd6Q2JQV3pCcXNFRTlpaUhvSnRMazdVcXZXNm9VM2NB?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-13T10:56:52+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery Gains Exclusive Omnichannel Lottery Licensing Rights to Pan Am Brand",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWFmdHhVbjk4N2hPLTF2cTBzcjVaZWFpX0xlcm1xRzRWOXJSeFRoZnFUOXl1bkhSLVprTFdueDl5RUNxUWlzT3VodHF1Z0ZMQjNNRXJXRm1uOTE3Y3hQT0JmZGt3aXFYVkZUalNjZmFXd0cwalVHb3BoWDUtT0NHQUd6SExpbng1QjJ4Mi1JZUdUenI4LUttMnhhd3hPTW9KcER6eERtaFRVaTdDa0dzVDVBYVZ1aVFWNW9oZ0tR?oc=5",
+    "source": "Nasdaq",
+    "published": "2026-10-13T10:45:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar signs 5-year deal with Pan Am to lau...",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmMwalRienhMWW56Q0hiOUVXWmdScGlQT1NfLW9kZXNzcjRJdXI4X2ZULUtPM0FtZ3JVMHdUd1B2b0Z0QWpEM1RNaUdPMkVfcmUxWE5MWnlsaFNVRG1BYi1PeDZEWXdMbEd2TDhQMXAySEdrQmJnb1paYV9WV1JrR2NTdFQyNzN4RDJwYTdSczMySU5F?oc=5",
+    "source": "Pluang",
+    "published": "2026-10-13T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery wins licensing rights to the Pan Am brand name",
+    "link": "https://www.msn.com/en-us/news/other/brightstar-lottery-wins-licensing-rights-to-the-pan-am-brand-name/ar-AA2e8KIN",
+    "source": "msn.com",
+    "published": "2026-10-13T03:56:52+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery reports EUR 342.21 million debt tender: 9 analysts hold Brightstar Lottery stock",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbGsxeE9DVVczN0RYY1JXMFZEaERoeGZiNUl5SDltMHNUdExhUVlSeU1fc2duZGFnY1RLZ1hQNUFPX05PaDhGc29NdjhpNWFuRXJkWFZmRmxQaGdaNVNwcUNKb2h4b1IyRG9nMjR0M3ZsWkZ2eU4za25YUWxhSC1nUDVjS0VGVDB4MVBZcHBYLWpiRlZxRkI0MTdJOTFScXVZWi0zMDdlVUVNNlpTWmttbk5yQ2lWSWV3YzJEWWNrdFZfZTF3M0tSdFJMbWdKTE9lZTV6LVB2dC1hX0RZUFdnZjBjejZxbUc0dWZrYzV3?oc=5",
+    "source": "AD HOC NEWS",
+    "published": "2026-10-05T20:45:39+00:00",
+    "official": false
+   },
+   {
+    "title": "White & Case advises Brightstar Lottery on €500 million bond issuance and tender offer",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXB4LVFUZUJmR0duZ2x4TXc5WlNzUVhYakIwcGZRNHg2all0TUZsR2JqcFd3RE9KNEFicTAtcVdTZnNJbl81VmhmSkRwdW5icXhwYXhLM2syVl84WE1Jc0tRNXlxLWJjc0tIRlFjVDE4MWZwWEhzQ0NVNkdZU0hIOEloZ3hZTlJVcjUzUUx3dGNVaUtzRC1TMEYwQ0ZxR041RVhXUUpTcUxjaS1OZktjellmUVRJVXpNMHBfVC1LZw?oc=5",
+    "source": "White & Case LLP",
+    "published": "2026-09-28T07:00:00+00:00",
+    "official": false
+   }
+  ]
  },
  "Wolters Kluwer": {
-  "results_found": false,
-  "period_label": null,
-  "fiscal_label": null,
-  "period_end": null,
-  "results_date": "2026-08-05",
-  "headline": "No results data available",
-  "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
-   "operating_income_m": null,
-   "operating_margin_pct": null,
-   "net_income_m": null,
-   "eps": null
-  },
-  "guidance": null,
-  "guidance_change": "unknown",
-  "segments": [],
-  "highlights": [],
-  "management_view": null,
-  "risks": [],
-  "sentiment": "Neutral",
-  "sentiment_reason": "No data",
-  "it_signals": [],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No information",
-  "talking_points": [],
+  "headline": "Wolters Kluwer accelerates AI rollout across tax, legal and health units while migrating 3,000 desktops to AWS",
+  "highlights": [
+   "AI tools added to Genya suite for Italian tax and accounting workflows (source 26)",
+   "Conversational AI and automated bank reconciliation launched in Genya cloud for professional services (source 29)",
+   "Legal & compliance AI enhancements added to CT’s hCue (source 13)",
+   "Partnership with Doximity to embed UpToDate AI in clinical decision support (source 2)",
+   "Large‑scale migration of 3,000 desktops to Amazon WorkSpaces without disruption (source 32)"
+  ],
+  "risks": [
+   "Rapid AI integration may strain existing governance and data quality processes",
+   "Cloud migration scale could expose security or performance issues"
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Multiple AI product launches and a successful cloud migration signal growth and modernization",
+  "segments": [
+   {
+    "name": "Tax & Accounting",
+    "trend": "Up",
+    "note": "AI automation of workflows and bank reconciliation"
+   },
+   {
+    "name": "Legal & Regulatory",
+    "trend": "Up",
+    "note": "AI add‑ons to compliance documentation"
+   },
+   {
+    "name": "Health",
+    "trend": "Up",
+    "note": "AI partnership with Doximity for UpToDate"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "Added AI tools to Genya suite for Italian tax and accounting workflows",
+    "source_id": 26,
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFprYVpLbmRiSUpReXBvUEh3djFtUVNWSVpLb29PZmVsTTJybWpBeC1uWUhOLTlxZk04bk04RWhBNldVekMwR1A5RmQ3Qlc1WW9LS3FFTkNDN0xNY2FQcFNISTg1bEp4TDVWdUc5SVNnSUd1WmdLTGN5WFU1dFFjMUQzZ2NfUzY0UVh5S1BKei1ILUttOWY4bUwySC1PaUdvemkyMEh0cV83MnpFQ1I3ZzBRdw?oc=5",
+    "source": "FF News",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Introduced conversational AI and automated bank reconciliation in Genya cloud",
+    "source_id": 29,
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbTZqODhkLVNmZXJjei1YemFQTG8ydGdEMGpmaUl6cHZGcHZrcFUyR2tzSi1DOUJLZS1nSkRMZzNLWUtsaGFPeHNlVDdMRTd2NGd4dlNiOEVsSUFiWmpzZUdTOE9Pb1FnM2d1bll2UWZpaHpKQmpkVXZFOElxRGViRkxkS2Vkclg1bURTU1U3QThTYkx1YUI4MThTUGM0ek90ZS1TT04wdmZSeElWSUNWQmJzeExwbXY4WWJGaHNwVGVfYjBxdlRQVkY3NEF3ZXk1V0FVY1M1WU9JQzZnS2dTSTg5Smx1UWZyU1hYVFVIaFFjVjVmcWVyUXp4UURpY3VOY1hRQg?oc=5",
+    "source": "01net",
+    "published": "2026-10-13"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Integrated expert AI into CT’s hCue for compliance and legal docs",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQejBjZ0huWlRscjV0Z2ZKRUU2X2pncGFlQkRqUjctWGpKcS1aUmFYVmhNZEM3bHptR05tT1draWhidjVleS0zSENWZVBJWk9VRE1HM0FFekRoOE92a3FycFBvSmZlWWlMc3J0c2FtQUtfVkhCM1c3QTlLUV84Ni1sd0llRGdwcHJieGpZOXltUUZ5V3QyZEFWd2dhcW9PSEZRb2pfdHlEMXM2X2NXYkwyTXpUSzd6MEx3b3phWDREVlltSHhweHgtdm9CUjJTWEc4bFRXUQ?oc=5",
+    "source": "Legal Reader",
+    "published": "2026-10-16"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Partnered with Doximity to bring UpToDate AI to its platform",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmRZWktFZGhrUXFWR3NnZHRJZ3I0ZFMzR3Bsb0FkbmNnY2tzamhnbHFfbFRCbW5KSm0tNTFkTl85MHJaWmFqM1pZMUZaSEFkMlRpMkdNNW5lWGN0YThRT1FhdU42TWY2NVNYV3N3NGhoSVgtQmxKc2lPamg0bE5JM3BzUDBjSFExeU9PVHp5VHBNUkN4OWt1dDN6NUQyV0FiOHc?oc=5",
+    "source": "01net",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Cloud & data",
+    "detail": "Migrated 3,000 desktops to Amazon WorkSpaces at scale",
+    "source_id": 32,
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "published": "2026-10-12"
+   }
+  ],
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "The company is investing heavily in AI capabilities and a large cloud migration project",
+  "talking_points": [
+   "How can your solutions support Wolters Kluwer’s rapid AI rollout across tax and legal products?",
+   "What security and governance frameworks are needed for the new AWS desktop environment?",
+   "Can we help accelerate integration of AI APIs in the Doximity partnership?"
+  ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Wolters Kluwer 2026 Half-Year Report",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-    "source": "company release",
-    "published": "2026-08-05",
-    "official": true
+    "title": "Doximity and Wolters Kluwer Sign Partnership to Bring UpToDate to Doximity Ask",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmRZWktFZGhrUXFWR3NnZHRJZ3I0ZFMzR3Bsb0FkbmNnY2tzamhnbHFfbFRCbW5KSm0tNTFkTl85MHJaWmFqM1pZMUZaSEFkMlRpMkdNNW5lWGN0YThRT1FhdU42TWY2NVNYV3N3NGhoSVgtQmxKc2lPamg0bE5JM3BzUDBjSFExeU9PVHp5VHBNUkN4OWt1dDN6NUQyV0FiOHc?oc=5",
+    "source": "01net",
+    "published": "2026-10-20T16:30:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer Injects an AI-boost to Compliance and Legal Documentation with Expert AI Additions to CT’s hCue",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQejBjZ0huWlRscjV0Z2ZKRUU2X2pncGFlQkRqUjctWGpKcS1aUmFYVmhNZEM3bHptR05tT1draWhidjVleS0zSENWZVBJWk9VRE1HM0FFekRoOE92a3FycFBvSmZlWWlMc3J0c2FtQUtfVkhCM1c3QTlLUV84Ni1sd0llRGdwcHJieGpZOXltUUZ5V3QyZEFWd2dhcW9PSEZRb2pfdHlEMXM2X2NXYkwyTXpUSzd6MEx3b3phWDREVlltSHhweHgtdm9CUjJTWEc4bFRXUQ?oc=5",
+    "source": "Legal Reader",
+    "published": "2026-10-16T19:52:41+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer Expands Genya AI Suite to Automate Italian Tax and Accounting Workflows",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFprYVpLbmRiSUpReXBvUEh3djFtUVNWSVpLb29PZmVsTTJybWpBeC1uWUhOLTlxZk04bk04RWhBNldVekMwR1A5RmQ3Qlc1WW9LS3FFTkNDN0xNY2FQcFNISTg1bEp4TDVWdUc5SVNnSUd1WmdLTGN5WFU1dFFjMUQzZ2NfUzY0UVh5S1BKei1ILUttOWY4bUwySC1PaUdvemkyMEh0cV83MnpFQ1I3ZzBRdw?oc=5",
+    "source": "FF News",
+    "published": "2026-10-13T15:44:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer introduces conversational AI and automated bank reconciliation into the Genya cloud suite for Italian professional service firms and SMEs",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbTZqODhkLVNmZXJjei1YemFQTG8ydGdEMGpmaUl6cHZGcHZrcFUyR2tzSi1DOUJLZS1nSkRMZzNLWUtsaGFPeHNlVDdMRTd2NGd4dlNiOEVsSUFiWmpzZUdTOE9Pb1FnM2d1bll2UWZpaHpKQmpkVXZFOElxRGViRkxkS2Vkclg1bURTU1U3QThTYkx1YUI4MThTUGM0ek90ZS1TT04wdmZSeElWSUNWQmJzeExwbXY4WWJGaHNwVGVfYjBxdlRQVkY3NEF3ZXk1V0FVY1M1WU9JQzZnS2dTSTg5Smx1UWZyU1hYVFVIaFFjVjVmcWVyUXp4UURpY3VOY1hRQg?oc=5",
+    "source": "01net",
+    "published": "2026-10-13T10:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Cross-Region Amazon WorkSpaces Migration at Scale – How Wolters Kluwer Migrated 3,000 Desktops Without Disruption",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "published": "2026-10-12T19:30:40+00:00",
+    "official": false
    }
   ],
   "company": "Wolters Kluwer",
-  "mode": "results",
-  "analysed_at": "2026-10-13T19:22:13+00:00",
-  "release": {
-   "form": "company release",
-   "filed": "2026-08-05",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-   "title": "Wolters Kluwer 2026 Half-Year Report",
-   "accession": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-   "published": "2026-08-05T07:00:00+00:00"
-  },
-  "release_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-  "signals_at": "2026-10-13T19:22:13+00:00"
+  "mode": "signals",
+  "analysed_at": "2026-10-20T22:04:21+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-20T22:04:21+00:00"
  },
  "Scholastic": {
   "results_found": true,
@@ -751,19 +1424,19 @@
   "it_signals": [
    {
     "type": "M&A / spin-off",
-    "detail": "Acquisition of Cottage Door Press for $71 million",
+    "detail": "Scholastic to acquire Cottage Door Press for $71 million",
     "source_id": 21,
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0dZa0dfdHNmVW9wRkdEUGdhQnZXcU9INWVueFhiZDNuMEp4ellXLVB0QXdZZmNLWk9aWVdOVTdoa0QwSVRjVGhVOWlDR2g5TGJlLThOSU1IYXRCZFlncVlZc19ueDVhaHlySGtSRWN2d2hSWms5UjNfQkVubnN3eWlZd0NWdklScUlPM2FrQm1Bb2RxMkN1LWxQaTFkd1NsdHl6OVJsay1uaDN2eUIxWklHMDBLaUhDSUJLelRxQWtaNFZWVmprZW0xXzVyTjVkTWd3X1dXS2RSdzA4UXJ6cnRScXBmR1dfTTR5YkRqaVE?oc=5",
-    "source": "PR Newswire",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGE5OEw3Y1dpT0NWNjNQWXdtNUZKaVhKOHJDYW4zZ3NWWVRiSUFFaThXTmZUbnE2TkpaNVhBcWJWTWtqeUlOdVg3LVMxUURPS3V4VUlYbUl6SXBsaTYwcmx4NFdMeDN1bUhGS2p0THBnOUliOTYyU1dJTm5JWGxPT2t6SFE4UnRWNFRxX3dsNWI1NFFOZVN0SFd3?oc=5",
+    "source": "citybiz",
     "published": "2026-09-29"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit statements about technology spending were disclosed in the results release",
+  "it_spend_outlook": "Tightening",
+  "it_spend_reason": "Revenue decline and margin pressure suggest tighter IT budgeting",
   "talking_points": [
-   "How will the Cottage Door acquisition impact Scholastic’s digital content strategy?",
-   "What cost‑control measures are being considered to address the widening operating loss?",
-   "How is Scholastic planning to invest in AI or digital platforms to drive future growth?"
+   "How will the Cottage Door Press acquisition impact Scholastic’s digital publishing platforms?",
+   "Can Scholastic leverage the acquisition to accelerate its early‑childhood tech offerings?",
+   "What cost‑control measures might Scholastic adopt given the Q1 loss and ongoing investigation?"
   ],
   "unverified_dropped": [
    "metrics.revenue_growth_yoy_pct",
@@ -800,7 +1473,44 @@
    "published": "2026-09-24"
   },
   "release_key": "0000866729-26-000022",
-  "signals_at": "2026-10-13T19:22:39+00:00"
+  "signals_at": "2026-10-20T22:04:47+00:00",
+  "signal_sources": [
+   {
+    "title": "Scholastic slides 7% after results miss estimates",
+    "link": "https://seekingalpha.com/news/4647312-scholastic-slides-7-after-results-miss-estimates",
+    "source": "seekingalpha.com",
+    "published": "2026-09-25T14:23:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Scholastic Corp (SCHL) (Q1 2027) Earnings Call Highlights: Navigating Revenue Declines and ...",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlNqSXNpaEd0c3JLUldjeno2UERWZFB6RGNvVTN6b0RJYUVXNF94THRTcV80R2ZjdmlXZkNBcGk3SkNUTVhmTzhtaExEWFBRdHVIeENxdzkzaEIyYWxsWFVlcjFVSzh1LTg2aGwzRXBVR0VvUW54aXdaZDNZYkVtTk5feVRhWU5BZFlvYVNvZDd3bnhPd1ZYaA?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-09-25T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Key facts: Scholastic (SCHL) Q1 loss; affirms FY27; $25.8M buyback",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmI1Z2U1Zjg1MGlrMndkejFlQ1JUb3dLM3VkR0RZY2lBeWFVdlh4MHhfaGoxQTIyQVV3VTZiQUFqYWpNSFRITS05dVVqRk5CelRHSW1yRV9adUdRT3E2UWxaWDZ5WF82bHlsX2dNbU83SHRPMDFCeVoyUXRCejBoQWhDa2Nnd1k4cFJJbW90WjZTbXBMN09EUUxqbFcxR1psYkNkcEM0bUtpc2xGV1RlbnpyRE1HS0xXc0ppZXg0TQ?oc=5",
+    "source": "TradingView",
+    "published": "2026-09-25T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Scholastic to Acquire Cottage Door Press for $71 Million",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGE5OEw3Y1dpT0NWNjNQWXdtNUZKaVhKOHJDYW4zZ3NWWVRiSUFFaThXTmZUbnE2TkpaNVhBcWJWTWtqeUlOdVg3LVMxUURPS3V4VUlYbUl6SXBsaTYwcmx4NFdMeDN1bUhGS2p0THBnOUliOTYyU1dJTm5JWGxPT2t6SFE4UnRWNFRxX3dsNWI1NFFOZVN0SFd3?oc=5",
+    "source": "citybiz",
+    "published": "2026-09-29T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Scholastic Corporation - SCHL",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRV9ZYWotUUZiYkxmMkR5U3dqaEdMVkhjTlpDOXhuOE1zMlhaWF96VURaRmVFU3pMY2F3N2w0Nk9nc3picmt5dE90Q3E2eHVtb3NjUkV6cHFleEF2WnBTbTdtR01LTmdjNnNYZUNZeDBKbVV4SlZ2dGJNNXpJQTdEQzhaZDR5d0NJdld2amZOTG84QS1zUU01TUFrNTBFTTBnM2NRVlBSMDNpekNoUHVYeVR3b3NkWVJjaG4xbW5WT25aS01rWVplSjJSQjZ6a2J3LWpsZ1ZYeUg1TEdvRkhnV0IydUNaMzZGYWxscklEQm9aSWpMLXM5ZA?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-15T14:00:00+00:00",
+    "official": false
+   }
+  ]
  },
  "Pearson": {
   "results_found": true,
@@ -864,35 +1574,51 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "New agreement with a leading AI lab to deliver a global certification programme.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
-    "source": "6-K",
-    "published": "2026-07-31"
+    "detail": "AI placed at the heart of learning and new AI practice tool launched",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2VuZWdfU0QySEhnV1BxZ3dwQmVfT0tyMG5uZmtuczJGdGkyYWdoZk9iY0t5MmU0RjU1bV9XcHlCZzljWHZMZzBfUl9tQ2JVVWZPXzN5Y3FKd1NGVC1WRXQyazVMRDlncnAyRm5JTlNGaG5nSHV2ampvS1d4aDNlQmVHcVFzeWZyajRLX0FOVl91X0lhS0FoOGpHOXUtYVBlU3R1UzdZMGZqbnoxMV9zVGVTdXFzQ28?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-19"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Strategic partnership with Adobe to expand AI‑enabled learning solutions.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
-    "source": "6-K",
-    "published": "2026-07-31"
+    "detail": "Career Studio launch emphasises AI skills strategy",
+    "source_id": 15,
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTJyV240TWptWVZVWllYYzRwLXdXS0lVcjJTQlpndWpZeVB5Rkg4eU9DUnVTQWhUYk42a3gxWENmcFc2QTFPbjJXWjZaZFNLb0FPQUJiQkZuSkhuRHNMcTh6N0ZfZ2JGNHVURjlRRmlELS1wN2xWM0xlUkc3bzVhUWJVVmhtVjk1WDUxVmcyM2ZXUmxHbFF1ZENrMHIxWmV3SGJJVDFzMXV0bEZqeFRJUkMzQUNRXzN5d0lscUVkTDZMXzA0bFRjUTNDYlA?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-15"
    },
    {
-    "type": "M&A / spin-off",
-    "detail": "Acquisition of Workera, an AI‑native enterprise assessment and skills verification business.",
-    "source_id": 30,
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-09-29"
+    "type": "AI & tech investment",
+    "detail": "Addition of AI‑native assessment business to portfolio",
+    "source_id": 36,
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2huM1Z5T09XS1J0SHpEYVhzaHVRT2JHR0dlcXhMLTBHSEpQYzZyemVzUlM0dGhyZjNKV3haRnVoS2NxODhfWU5LVkxlcWhMNzY5OG9EaUJuODY0MEgtYzl5UWVfREVVUUh5UXNrNXVNRlp6MkY0Ym0zTzF1WXEyNk85bEVDRi1fSGMzdmJhSXpjY2FPZWZ1dWJVWktBc0EyNGw2RnNjWl96a3psd3l5THJvSVJ1T0UwYkRSa2QyZXM3Um54cHY1NDc5a3o3ZTF5aUJwenBTVktubTczZ2h6dHFn?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-06"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Partnership with Workera to deliver AI‑driven reskilling",
+    "source_id": 44,
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTZUekd6Zi0ybzdRaXk2VFpydHRrTUNxbVI5aklWVzhSdG5iOFlodjdmSTdENVZRcFZCQkw0QmpqVHVRU193S0Nvb0hfOGtHVmttdnRVMnZDOEtpLUVqVjFpOEliX0dpUmVWTHhHVVRQSW83cUliY0VpQ09zLUNWak1kc2dpZkEwcW5BQmJwOURSR1EyeUhIblA3alp1WnQ1R29QZ3RKVkxxeE5UQzBKSm5qM3E0dw?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-09-30"
+   },
+   {
+    "type": "Other",
+    "detail": "Board adds AI expertise following recent acquisitions",
+    "source_id": 22,
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUpuLWpqOGQzeWtKSEltMldMd0c3T0FzakIxR3hKOFprWHhxVGdJcXRHekt6VndYOW9rRnlnSjRaSDNaM3lMQ0FWNFpVRWFVZG9KVzYzS1doWGNvaDVDb1ItTHpNTFF1Sy10Qlk5RUNGc2tVb0lYRm0zSGZWazNveFo2LThsYXFoODM3cm1XMC1uNFNGRGs4Q1J4Y0lFMFJYQ3FvUWY2OHIxYTdSZkdnSFpiMWd4NWNKZ0RqRmJwOTl0dw?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-13"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Management highlighted ongoing AI product development, new AI lab partnership and acquisition of an AI assessment firm.",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No explicit spend figures disclosed; focus is on strategic AI initiatives",
   "talking_points": [
-   "Discuss Pearson’s AI lab partnership and how it could create demand for AI‑focused cloud services.",
-   "Explore opportunities to support Pearson’s Adobe‑driven digital learning platform modernization.",
-   "Assess the impact of the Workera acquisition on Pearson’s data and assessment infrastructure needs."
+   "How Pearson’s AI‑centric products could create opportunities for our cloud and data platforms",
+   "Potential collaboration on scaling the Career Studio digital infrastructure",
+   "Assessing the impact of the Workera partnership on reskilling technology needs"
   ],
   "unverified_dropped": [
    "metrics.operating_margin_pct"
@@ -927,182 +1653,217 @@
    "published": "2026-07-31"
   },
   "release_key": "0001654954-26-007081",
-  "signals_at": "2026-10-13T21:57:56+00:00"
+  "signals_at": "2026-10-20T22:05:14+00:00",
+  "signal_sources": [
+   {
+    "title": "FTSE 100 Pearson (LSE:PSON) Puts AI at the Heart of Learning",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2VuZWdfU0QySEhnV1BxZ3dwQmVfT0tyMG5uZmtuczJGdGkyYWdoZk9iY0t5MmU0RjU1bV9XcHlCZzljWHZMZzBfUl9tQ2JVVWZPXzN5Y3FKd1NGVC1WRXQyazVMRDlncnAyRm5JTlNGaG5nSHV2ampvS1d4aDNlQmVHcVFzeWZyajRLX0FOVl91X0lhS0FoOGpHOXUtYVBlU3R1UzdZMGZqbnoxMV9zVGVTdXFzQ28?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-19T08:13:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Pearson (LSE:PSON) Career Studio Launch Puts AI Skills Strategy and Valuation in Focus",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTJyV240TWptWVZVWllYYzRwLXdXS0lVcjJTQlpndWpZeVB5Rkg4eU9DUnVTQWhUYk42a3gxWENmcFc2QTFPbjJXWjZaZFNLb0FPQUJiQkZuSkhuRHNMcTh6N0ZfZ2JGNHVURjlRRmlELS1wN2xWM0xlUkc3bzVhUWJVVmhtVjk1WDUxVmcyM2ZXUmxHbFF1ZENrMHIxWmV3SGJJVDFzMXV0bEZqeFRJUkMzQUNRXzN5d0lscUVkTDZMXzA0bFRjUTNDYlA?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-15T05:40:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Why Is Pearson (LSE:PSON) Stock In Focus Today After Adding An AI-Native Assessment Business?",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2huM1Z5T09XS1J0SHpEYVhzaHVRT2JHR0dlcXhMLTBHSEpQYzZyemVzUlM0dGhyZjNKV3haRnVoS2NxODhfWU5LVkxlcWhMNzY5OG9EaUJuODY0MEgtYzl5UWVfREVVUUh5UXNrNXVNRlp6MkY0Ym0zTzF1WXEyNk85bEVDRi1fSGMzdmJhSXpjY2FPZWZ1dWJVWktBc0EyNGw2RnNjWl96a3psd3l5THJvSVJ1T0UwYkRSa2QyZXM3Um54cHY1NDc5a3o3ZTF5aUJwenBTVktubTczZ2h6dHFn?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-06T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Pearson stock trades at EUR 14.19 after Workera deal",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTZUekd6Zi0ybzdRaXk2VFpydHRrTUNxbVI5aklWVzhSdG5iOFlodjdmSTdENVZRcFZCQkw0QmpqVHVRU193S0Nvb0hfOGtHVmttdnRVMnZDOEtpLUVqVjFpOEliX0dpUmVWTHhHVVRQSW83cUliY0VpQ09zLUNWak1kc2dpZkEwcW5BQmJwOURSR1EyeUhIblA3alp1WnQ1R29QZ3RKVkxxeE5UQzBKSm5qM3E0dw?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-09-30T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Why Is Pearson (LSE:PSON) Adding AI Know-How To Its Board This Month?",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUpuLWpqOGQzeWtKSEltMldMd0c3T0FzakIxR3hKOFprWHhxVGdJcXRHekt6VndYOW9rRnlnSjRaSDNaM3lMQ0FWNFpVRWFVZG9KVzYzS1doWGNvaDVDb1ItTHpNTFF1Sy10Qlk5RUNGc2tVb0lYRm0zSGZWazNveFo2LThsYXFoODM3cm1XMC1uNFNGRGs4Q1J4Y0lFMFJYQ3FvUWY2OHIxYTdSZkdnSFpiMWd4NWNKZ0RqRmJwOTl0dw?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-13T09:52:00+00:00",
+    "official": false
+   }
+  ]
  },
  "NYU": {
-  "headline": "NIH awards NYU $3.3M to develop a digital PCR platform for neurosurgery",
+  "headline": "NYU secures a multi‑hundred‑million dollar partnership with New York City to build a quantum fabrication facility",
   "highlights": [
-   "NIH grant of $3.3M for a digital PCR platform",
-   "NYU Center on Technology Policy expands with new faculty",
-   "NYU’s involvement in tech policy signals growing tech focus"
+   "NYC invests roughly $29‑30 M for a quantum lab and a $284 M quantum fabrication facility at NYU",
+   "The partnership gives the city a stake in future quantum inventions",
+   "NYU also launches AI‑driven archaeology research and an animal media initiative"
   ],
   "risks": [
-   "Limited public information on long‑term funding beyond the grant"
+   "Heavy reliance on municipal funding may expose projects to political shifts"
   ],
-  "sentiment": "Neutral",
-  "sentiment_reason": "No clear positive or negative outcome reported",
+  "sentiment": "Positive",
+  "sentiment_reason": "Significant new tech funding and research initiatives",
   "segments": [
    {
-    "name": "Research & Development",
+    "name": "Research & Innovation",
     "trend": "Up",
-    "note": "Grant indicates investment in digital health tech"
+    "note": "Quantum and AI projects expanding"
    }
   ],
   "it_signals": [
    {
-    "type": "Digital / platform rebuild",
-    "detail": "NIH grant to develop a neurosurgery digital PCR platform",
-    "source_id": 8,
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUxNT25zdVBPN29lQktuelduWUt3RmhOenRyZTk3Sk9mYWtRQl90TjBpNlR3NExlME5vNGxOTUNVWVlRVXZ6ekpTYUNBeU01UUhXbUt0c0IyTUhNN3NZMTJYdjVQVGJaUmxlTFhOS01EOFJiX05tUE9ZSW9aVV9LbWl0aWFiTVUxY09QU3ZwSzRqVGJDTDc2VFplekx1Um5EYWxraVhETXE0a3UyQVQwTw?oc=5",
-    "source": "GenomeWeb",
-    "published": "2026-10-07"
-   },
-   {
     "type": "AI & tech investment",
-    "detail": "NYU Center on Technology Policy adds new faculty, indicating tech policy focus",
+    "detail": "NYU researchers use AI to reconstruct archaeological finds",
     "source_id": 2,
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVk1hZFA5bkltNG5UelN6dWN3RHdCZzNjYV9VTzd1RTE1NjRFZVRRRmprWmFhQzhoMjdta2dDSWZFTGt6azFUZVdhYVFYdEFCa0NRYXhVckZsbXlPRUJ4ZTVmV0d2UDczN2ZFYTI5OHJlYVVWQUxLTjFmbWlHQVZwRQ?oc=5",
-    "source": "Broadband Breakfast",
-    "published": "2026-10-13"
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWFWODZCOV9SRmVpTEpLUEJwSVlWZkw4X3FlZVc2Wk1waXN6M1R3WDE1SXg0dGxlb2RYMFZEbHJJdjRUTmNYNjBXZ2RmVXZCTGctdG9wUG1acEstczA4Q1VuSkwyVkpYNHE0RTZkaFhQT21GNEJwX2NMMHMwY3I0N0ZXbjlHYnk2WjFnMUoxS29ENTlWUDNydzlIMkFNbmcweUZSVG9jTQ?oc=5",
+    "source": "HPCwire",
+    "published": "2026-10-19"
    },
    {
     "type": "AI & tech investment",
-    "detail": "NYU Center on Technology Policy adds new faculty, indicating tech policy focus",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0otU2V5MDBWc0pXaWI4Z1h4RVFwc0FrNTFqdWdydVRwV2tqS2E5VmVoV0NaZkJBNC1DZDlKaXF1T0VSM2xHMHhRZXZIUzJoeTk3SzMxdi1lT1phNmtYN0RSOUMyUHVoNU1Bd3QybmlCVXpjclJqcnM0UDlDbmNWQXdjanY5LWhrdEdOUVJMSQ?oc=5",
-    "source": "Fierce Network",
-    "published": "2026-10-13"
+    "detail": "NYU launches Animal Media Initiative (tech‑focused)",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTd4NWdpbGpwekRyT3NFMDhmMmF5bl9xMWdMR1IwbzVteHg5ckVUWXNHZm5XV05rOVRYMG5DSnlYcGxqWXloVDZXNG1ieUh6YWlldTViejhyRzg1NHpBVS11Q245VGduZjlGc0ZBTllsLUx0VmpqT25GajV6a1dFaE1sd1pMaV9udy1QcDM4YVc0ZnJOQ3BzT0pxaURDbHJEaGNwTjFR?oc=5",
+    "source": "New York University",
+    "published": "2026-10-15"
+   },
+   {
+    "type": "Other",
+    "detail": "NYC invests $29‑30 M in NYU quantum lab and $284 M for a quantum fabrication facility, securing a stake in future tech revenue",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTZaUlcteXY5bE9RSzJkbGtKTHp4WE03X2I5NEJCMDJBWnVMNTFLdXlDZjFKSmxycUZlbktJb1VPRnRwQ1pFTjNFcW5RVTJNZWRaQUhvdGU0NHQ1M01LOFg5VFhYcno0WTlQOXl4MGViQ3dhZlJRcHN6QThQUEd6akRIUVJaR1QtTDI2LVQ4b3BYNFk5UGkwOWVhTlRPeS1lN1lqcWgyWS1tQjhCNGdSYnZZd2dBcFHSAbwBQVVfeXFMTl9iclFWVXJfYmRKSThWaWJsMk5qTDNoU3pKdUpSZXU3ek5POGQtSGNlLU9IdFV1NnkzYjhqRXRMN0Y2RG0yUncwQ2ZScGI0VS1JQU1mQkpaN1E5YjBzbHQwU1VtQ3FBT01jVEh2c05LZ3NLWXhZeUZaOHdZS2xOUUdOd1AyWHM0Zjc1MXJjZkhoSEZ4OXg4QlBvZmpfYU5WYW14SFNrYUlZbEpfc3ZrY01neVlUbXV0MW9zY3k?oc=5",
+    "source": "Quantum Computing Report",
+    "published": "2026-10-15"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "Only a single grant reported; broader IT spend not disclosed",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Large municipal investments in quantum and AI research indicate growing IT budgets",
   "talking_points": [
-   "How can NYU’s new digital PCR platform integrate with existing clinical data systems?",
-   "What opportunities exist for vendors to support NYU’s tech policy initiatives?",
-   "Could the NIH grant spur further investment in AI-driven diagnostics at NYU?"
+   "Discuss how NYU’s new quantum facility could create demand for high‑performance computing services",
+   "Explore partnership opportunities around AI tools for archaeology and media projects",
+   "Assess the impact of city‑backed funding on NYU’s long‑term technology roadmap"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "NIH Awards NYU Team $3.3M for Neurosurgery Digital PCR Platform",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUxNT25zdVBPN29lQktuelduWUt3RmhOenRyZTk3Sk9mYWtRQl90TjBpNlR3NExlME5vNGxOTUNVWVlRVXZ6ekpTYUNBeU01UUhXbUt0c0IyTUhNN3NZMTJYdjVQVGJaUmxlTFhOS01EOFJiX05tUE9ZSW9aVV9LbWl0aWFiTVUxY09QU3ZwSzRqVGJDTDc2VFplekx1Um5EYWxraVhETXE0a3UyQVQwTw?oc=5",
-    "source": "GenomeWeb",
-    "published": "2026-10-07T14:36:00+00:00",
+    "title": "NYU Engineers and Archaeologists Use AI to Piece Together the Past",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWFWODZCOV9SRmVpTEpLUEJwSVlWZkw4X3FlZVc2Wk1waXN6M1R3WDE1SXg0dGxlb2RYMFZEbHJJdjRUTmNYNjBXZ2RmVXZCTGctdG9wUG1acEstczA4Q1VuSkwyVkpYNHE0RTZkaFhQT21GNEJwX2NMMHMwY3I0N0ZXbjlHYnk2WjFnMUoxS29ENTlWUDNydzlIMkFNbmcweUZSVG9jTQ?oc=5",
+    "source": "HPCwire",
+    "published": "2026-10-19T13:30:46+00:00",
     "official": false
    },
    {
-    "title": "Levin Joins NYU Center on Technology Policy",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVk1hZFA5bkltNG5UelN6dWN3RHdCZzNjYV9VTzd1RTE1NjRFZVRRRmprWmFhQzhoMjdta2dDSWZFTGt6azFUZVdhYVFYdEFCa0NRYXhVckZsbXlPRUJ4ZTVmV0d2UDczN2ZFYTI5OHJlYVVWQUxLTjFmbWlHQVZwRQ?oc=5",
-    "source": "Broadband Breakfast",
-    "published": "2026-10-13T17:25:07+00:00",
+    "title": "NYU Launches Animal Media Initiative",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTd4NWdpbGpwekRyT3NFMDhmMmF5bl9xMWdMR1IwbzVteHg5ckVUWXNHZm5XV05rOVRYMG5DSnlYcGxqWXloVDZXNG1ieUh6YWlldTViejhyRzg1NHpBVS11Q245VGduZjlGc0ZBTllsLUx0VmpqT25GajV6a1dFaE1sd1pMaV9udy1QcDM4YVc0ZnJOQ3BzT0pxaURDbHJEaGNwTjFR?oc=5",
+    "source": "New York University",
+    "published": "2026-10-15T17:06:36+00:00",
     "official": false
    },
    {
-    "title": "Blair Levin joins NYU Center on Technology Policy",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb0otU2V5MDBWc0pXaWI4Z1h4RVFwc0FrNTFqdWdydVRwV2tqS2E5VmVoV0NaZkJBNC1DZDlKaXF1T0VSM2xHMHhRZXZIUzJoeTk3SzMxdi1lT1phNmtYN0RSOUMyUHVoNU1Bd3QybmlCVXpjclJqcnM0UDlDbmNWQXdjanY5LWhrdEdOUVJMSQ?oc=5",
-    "source": "Fierce Network",
-    "published": "2026-10-13T16:54:40+00:00",
+    "title": "New York City and NYU Partner to Launch $284 Million Quantum Fabrication Facility",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTZaUlcteXY5bE9RSzJkbGtKTHp4WE03X2I5NEJCMDJBWnVMNTFLdXlDZjFKSmxycUZlbktJb1VPRnRwQ1pFTjNFcW5RVTJNZWRaQUhvdGU0NHQ1M01LOFg5VFhYcno0WTlQOXl4MGViQ3dhZlJRcHN6QThQUEd6akRIUVJaR1QtTDI2LVQ4b3BYNFk5UGkwOWVhTlRPeS1lN1lqcWgyWS1tQjhCNGdSYnZZd2dBcFHSAbwBQVVfeXFMTl9iclFWVXJfYmRKSThWaWJsMk5qTDNoU3pKdUpSZXU3ek5POGQtSGNlLU9IdFV1NnkzYjhqRXRMN0Y2RG0yUncwQ2ZScGI0VS1JQU1mQkpaN1E5YjBzbHQwU1VtQ3FBT01jVEh2c05LZ3NLWXhZeUZaOHdZS2xOUUdOd1AyWHM0Zjc1MXJjZkhoSEZ4OXg4QlBvZmpfYU5WYW14SFNrYUlZbEpfc3ZrY01neVlUbXV0MW9zY3k?oc=5",
+    "source": "Quantum Computing Report",
+    "published": "2026-10-15T00:52:47+00:00",
+    "official": false
+   },
+   {
+    "title": "New York City fronts $29M for quantum tech lab at NYU",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczRRblNzMTVJQ2d3XzhGbmhiNUZwNUNMTksyUjh0ZEtnakU1ZjlNSi1Fb2otaV9IN3FlbUd4aUlvZlhEYjM2TUw0TURoWDRRNjFYdGF3aExjV3RGMktZTjIxcVBzRXE0RS1rYnFNQlk3VkpyR0cxLWRIbHEwUFVhRw?oc=5",
+    "source": "Washington Square News",
+    "published": "2026-10-15T13:10:57+00:00",
+    "official": false
+   },
+   {
+    "title": "NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG8zbTRjSzlvRGRaVEVZWldzd09jOFVzWmtjTlhydmc3YXl0RGM1RU42VWQ5U1Y4dnNTb1Q1Y2ctNGdvWEJIVGctWm1uMDVUeUtURUlTMVlMX1FfdkhHSFZ4WG9KeDdpTC1rakV2MXZvOFpYaWg2Zm9QUUsxX25xNWFkVmZmT2pxSi1ONmRPc0kxNkFuT1VyLUQwdmotWlJVZnplbEMwNHdieFlTNWktWENZLTh2X0c0MGdaQlZuWGVueWVHWGFZMW9UMVI4QlBWMGoyNWU4anFFaURJTWc?oc=5",
+    "source": "The Quantum Insider",
+    "published": "2026-10-14T22:41:15+00:00",
+    "official": false
+   },
+   {
+    "title": "NYC Invests $29M In NYU Quantum Lab, Secures Share Of Future Inventions",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnVYMWNWeEMxZW90TEd3TnN6UjFxZmtfZVRpdnYyR04xU2g4LTVUMzVUWnA1SmNyU1lQMUxlSFFPbXRJZTZGT3Y1OWNXSkI0S0wtS1dVRDNsY2Rsdk9GSDFucEcwZWcwNm1jY3pqdktYd0xkWlFCSTVObk1iNDZhOHBEcno4UWV5NDAtM2E4QWRQbTVaSm1lNTlrRkxvdTBvakJzZGJOWdIBwAFBVV95cUxQOEhXWEduMXZPbUhaZGdYR1hidVFEMmstdm5Hd25VRUsyeDc5TWxQVlVUbFVJV3R1ZUxhWDhNYnZpdnZmUG5OUTliVjlIdkNiOUttSmdjbFowWG1kdk1pS0ctdnVNNzNzWjRNbXpKbGoxT210ZF9qZjlfMXlEblZvRkRxRllBWUttREk5b291N2dHYUFyQXlUQ2pFSWQ5a0R4LWNtN2duSWVZOTZlSmdKOWkxVHZvV1NjS0Z5bFhLN1Q?oc=5",
+    "source": "Patch",
+    "published": "2026-10-14T17:52:08+00:00",
     "official": false
    }
   ],
   "company": "NYU",
   "mode": "signals",
-  "analysed_at": "2026-10-13T19:23:31+00:00",
+  "analysed_at": "2026-10-20T22:05:40+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-13T19:23:31+00:00"
+  "signals_at": "2026-10-20T22:05:40+00:00"
  },
  "SLU": {
-  "headline": "Saint Louis University partners with World Wide Technology to expand AI collaboration and jersey partnership",
+  "headline": "Saint Louis University expands its partnership with World Wide Technology, adding an AI‑focused collaboration and jersey branding",
   "highlights": [
-   "World Wide Technology becomes official jersey partner with SLU",
-   "AI focus added to partnership",
-   "SLU adds WWT patch to jerseys",
-   "SLU DPO trains student leaders as Data Privacy Champions"
+   "World Wide Technology partnership extended with AI focus (source 15)",
+   "WWT becomes official jersey partner and adds branding to SLU uniforms (sources 13,14)",
+   "AI and digital resilience dialogue hosted by SLU at the Asia Pacific Regional Internet Governance Forum (source 17)",
+   "Graduate student workers ratified a union contract, indicating labor organization activity (source 38)"
   ],
   "risks": [
-   "Potential reliance on single vendor for AI initiatives"
+   "Potential budget pressures from new technology initiatives without disclosed funding",
+   "Labor contract may increase operational costs"
   ],
-  "sentiment": "Neutral",
-  "sentiment_reason": "No financial or performance impact reported",
+  "sentiment": "Positive",
+  "sentiment_reason": "New AI partnership and branding signal growth and innovation",
   "segments": [
    {
-    "name": "Education",
-    "trend": "Flat",
-    "note": "No enrollment or funding changes reported"
+    "name": "Technology Partnerships",
+    "trend": "Up",
+    "note": "Wider collaboration with WWT and AI emphasis"
+   },
+   {
+    "name": "Student Labor Relations",
+    "trend": "Mixed",
+    "note": "Union contract could affect costs"
    }
   ],
   "it_signals": [
    {
-    "type": "Vendor / outsourcing",
-    "detail": "World Wide Technology becomes official jersey partner and expands technology collaboration with AI focus",
-    "source_id": 10,
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUQyWVp0Vk5QQjZxWEN3NnRnUi1JQ1lOclFGRjJnVmFIemJPOThWTzdjbEFROEUwUHBkRTMwMXgtX2dMQTYwcjJwZV9ZNy1oakNUbjc1dUNUcUNuUEE1dENXNHpGVVozS3RJT3MyMGlabmlkSmZUYjFKSkVhZTlFY1BtMUlJUVFSMVNLd001RWk3S0I4ejZRdnI1ekZlZkdLOU9lbmFkXzJlemg2V2hVVFZKc0hlZUlQZ2JJU3BqSTZxM182X0gtZ3VXenZXbTVG?oc=5",
-    "source": "KSDK",
-    "published": "2026-10-08"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "World Wide Technology expands partnership with AI focus and jersey partnership",
-    "source_id": 11,
+    "type": "AI & tech investment",
+    "detail": "World Wide Technology partnership expanded with AI focus",
+    "source_id": 15,
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
     "source": "FOX 2",
     "published": "2026-10-07"
    },
    {
     "type": "Vendor / outsourcing",
-    "detail": "World Wide Technology to expand technology collaboration with SLU; becomes official jersey partner",
-    "source_id": 12,
+    "detail": "World Wide Technology becomes official jersey partner and adds branding to SLU uniforms",
+    "source_id": 13,
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
     "source": "slubillikens.com",
     "published": "2026-10-07"
    },
    {
     "type": "Vendor / outsourcing",
-    "detail": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
-    "source_id": 13,
+    "detail": "World Wide Technology partnership includes jersey patch addition",
+    "source_id": 14,
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
     "source": "STLtoday.com",
     "published": "2026-10-07"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "SLU DPO trains student leaders as Data Privacy Champions",
-    "source_id": 1,
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjYtMFdTRnExVXB4dW1kN1lUc0V2bVNxXzVjXzRxTkltRjM4M05DT0cxUFptQ1RlNW5CQWEtOTZUSGs3eUhlVi05S3htR0F6bE96TDZ5Z2xxczdoXzY1WF9qN1hNc3V2QTh4NnVJQTBlLTFlZW53Wjg0ZEJ2ZnFqbldEUmdlWFNTVVdwaTVOcjNKcDVpYWc?oc=5",
+    "type": "Other",
+    "detail": "SLU hosted AI and digital resilience dialogue at regional internet governance forum",
+    "source_id": 17,
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTy1CMTIxV21JR3RhZmx1YVZ1Znd1YWFjWTBzRE14QmtaaEc4N2gxTnBTMjkyZ21ROHJIODUzeEx6S2ZWcVdjLWJlREgzN0I0VTl4QlhsVjNrS0lFZERQbjVzRHlDTzk4NkRuSFp3YWtBUjF1MWk0WFhDSjlBaU5oa1JXOUt4eHNtdmJibzNEdjVlejh1S3VXQW9zVHQ4TG5rR040T1dFbnVTLW9FNnRxOHRUTDEzU2Y5aGdiVEdKOUxjYjZGbk53N2RrTnNTUXM2TXNyWjhHcWk5akhDMTBzbkZiTWs1czA?oc=5",
     "source": "Saint Louis University, Philippines",
-    "published": "2026-10-13"
+    "published": "2026-10-06"
    }
   ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No financial details on IT spend disclosed",
+  "it_spend_reason": "No financial amounts disclosed for the new AI collaboration",
   "talking_points": [
-   "Discuss potential AI projects SLU could pursue with WWT",
-   "Explore data privacy training benefits for students",
-   "Assess impact of jersey partnership on brand and tech visibility"
+   "Discuss how the AI focus in the WWT partnership could create opportunities for cloud or data platform services",
+   "Explore whether SLU’s new AI dialogue indicates a broader curriculum shift that may need additional tech resources",
+   "Consider implications of the graduate student union contract on future IT budgeting"
   ],
   "unverified_dropped": [],
   "sources": [
-   {
-    "title": "SLU DPO trains student leaders as Data Privacy Champions",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZjYtMFdTRnExVXB4dW1kN1lUc0V2bVNxXzVjXzRxTkltRjM4M05DT0cxUFptQ1RlNW5CQWEtOTZUSGs3eUhlVi05S3htR0F6bE96TDZ5Z2xxczdoXzY1WF9qN1hNc3V2QTh4NnVJQTBlLTFlZW53Wjg0ZEJ2ZnFqbldEUmdlWFNTVVdwaTVOcjNKcDVpYWc?oc=5",
-    "source": "Saint Louis University, Philippines",
-    "published": "2026-10-13T08:34:20+00:00",
-    "official": false
-   },
-   {
-    "title": "World Wide Technology begins partnership with SLU",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUQyWVp0Vk5QQjZxWEN3NnRnUi1JQ1lOclFGRjJnVmFIemJPOThWTzdjbEFROEUwUHBkRTMwMXgtX2dMQTYwcjJwZV9ZNy1oakNUbjc1dUNUcUNuUEE1dENXNHpGVVozS3RJT3MyMGlabmlkSmZUYjFKSkVhZTlFY1BtMUlJUVFSMVNLd001RWk3S0I4ejZRdnI1ekZlZkdLOU9lbmFkXzJlemg2V2hVVFZKc0hlZUlQZ2JJU3BqSTZxM182X0gtZ3VXenZXbTVG?oc=5",
-    "source": "KSDK",
-    "published": "2026-10-08T15:35:00+00:00",
-    "official": false
-   },
-   {
-    "title": "SLU, World Wide Technology expand partnership with AI focus, jersey partnership",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
-    "source": "FOX 2",
-    "published": "2026-10-07T22:28:52+00:00",
-    "official": false
-   },
    {
     "title": "World Wide Technology to Expand Technology Collaboration with SLU; Becomes Official Jersey Partner",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
@@ -1114,50 +1875,73 @@
     "title": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
     "source": "STLtoday.com",
-    "published": "2026-10-07T14:00:00+00:00",
+    "published": "2026-10-07T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "SLU, World Wide Technology expand partnership with AI focus, jersey partnership",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
+    "source": "FOX 2",
+    "published": "2026-10-07T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "SLU students engage in a Dialogue on AI and Digital Resilience at the Asia Pacific Regional Internet Governance Forum",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTy1CMTIxV21JR3RhZmx1YVZ1Znd1YWFjWTBzRE14QmtaaEc4N2gxTnBTMjkyZ21ROHJIODUzeEx6S2ZWcVdjLWJlREgzN0I0VTl4QlhsVjNrS0lFZERQbjVzRHlDTzk4NkRuSFp3YWtBUjF1MWk0WFhDSjlBaU5oa1JXOUt4eHNtdmJibzNEdjVlejh1S3VXQW9zVHQ4TG5rR040T1dFbnVTLW9FNnRxOHRUTDEzU2Y5aGdiVEdKOUxjYjZGbk53N2RrTnNTUXM2TXNyWjhHcWk5akhDMTBzbkZiTWs1czA?oc=5",
+    "source": "Saint Louis University, Philippines",
+    "published": "2026-10-06T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Graduate student workers at SLU ratify union contract",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekdOTEpOLWdNdkhVMnQwSjdGYmVvOGlRdWtNVnBtQlVSaFFEVm0ySmhkV0hjY2dfMnFFY3RWSFpDN1pWM1R1MWNCanhKcFZqWDdQdWlKY0lBcjBldkw1U0d4UVhFOHVWajFhUk9heERRUXFEVS1XOTJSTHg0eU8tV1A5ZmpvV19ndHlqVmJIelgxWXA4NlBKdFBRQQ?oc=5",
+    "source": "STLtoday.com",
+    "published": "2026-09-21T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "SLU",
   "mode": "signals",
-  "analysed_at": "2026-10-13T19:23:57+00:00",
+  "analysed_at": "2026-10-20T22:06:07+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-13T19:23:57+00:00"
+  "signals_at": "2026-10-20T22:06:07+00:00"
  },
  "ACT": {
-  "headline": "Colleges are re‑requiring ACT scores for 2027 admissions",
+  "headline": "Colleges are reinstating SAT and ACT requirements for admissions starting 2027",
   "highlights": [
-   "Colleges list in source 1 shows renewed ACT requirement for 2027",
-   "Source 4 lists 2026 ACT exam dates in India",
-   "Sources 2 and 3 report perfect ACT scores by seniors"
+   "Notre Dame will require ACT scores again for fall 2028 applicants (1)",
+   "Multiple colleges adding ACT back to requirements for 2027 admissions (10)",
+   "ACT scores showing regional variations, with some states slipping while others rise (5,3)"
   ],
   "risks": [
-   "Potential decline in test‑taking volume if colleges shift away from ACT",
-   "Uncertainty over digital testing adoption in India"
+   "Potential decline in testing volume if colleges later drop requirements again"
   ],
   "sentiment": "Neutral",
-  "sentiment_reason": "No clear positive or negative trend identified",
+  "sentiment_reason": "Mixed policy changes create uncertainty",
   "segments": [
    {
     "name": "Testing volumes",
-    "trend": "Flat",
-    "note": "No change in volume reported"
-   },
-   {
-    "name": "Digital testing",
-    "trend": "Flat",
-    "note": "No digital testing initiatives mentioned"
+    "trend": "Mixed",
+    "note": "Scores and requirements vary by region"
    }
   ],
   "it_signals": [],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No IT investment or cost‑cutting information provided",
+  "it_spend_reason": "No information on technology investments or cost changes",
   "talking_points": [
-   "Discuss opportunities to support colleges with digital ACT platforms",
-   "Explore potential for data analytics on ACT performance trends"
+   "Colleges reinstating ACT requirements could boost testing demand",
+   "Regional score trends may affect future test‑prep and digital service needs",
+   "Monitor any upcoming announcements on digital testing platforms"
   ],
   "unverified_dropped": [],
   "sources": [
+   {
+    "title": "Notre Dame Will Require SAT And ACT Scores Again Starting With Fall 2028 Applicants",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXg4elBrd2drVUhRTmh1ZExYbkgyaS00cmlENFdhcnR4Wk9xdmN0dmptckVvRWRYdnRiQ1I4dk9VbExhQzl0VmZ3cHdVREE4QTdpdjB3bzkxTHBGNll2N3FTUDNwempac1hBM0FIMHFOeThlRTQ3d1dsa2JkdDVaMnhZVXdSd0NrdEVTcEZ1UWVVWnlHekRuRmxQTnhpbWdjTFR4Z0NyUU5EM3RsRFpFUzY3ZHd0ekh4SkJ1UVNR?oc=5",
+    "source": "The College Investor",
+    "published": "2026-10-18T04:05:08+00:00",
+    "official": false
+   },
    {
     "title": "Colleges Are Requiring SAT and ACT Scores Again — Here’s the Full List for 2027",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWJRVFpBMzdFeWl5dTRTZkU4Vnc3MEc2dXVnNEE5ZlNwMnNvM0VPRXd2MXZoXzcwWEx2R0N0TGdjSmpValZCN3RVWmRfY1dKcEh1NW1oVzBoaGhpZWptMjBnSkV6QjhIbmhOcHhGWHhOVkNiV3JPZU4wUklZTm5fVVJlalZ2aTJEOEl0akxFMXppbjRLTWw5cmkzajFEQVVPYXk3QlBMUmRxUU95MktTUUJfd2o?oc=5",
@@ -1166,31 +1950,24 @@
     "official": false
    },
    {
-    "title": "ACT Exam Dates in India 2026: Check ACT Test Dates, Last Registration Date, Result Date",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcXdLdjBPaHhqME4zdW1YOHlvbmFWbjFkVC1XZG51RXhVWWRxSzY1S2xfeWFsbExiajJYQzRoeUJVY19ORWNRVkRJVFFIam1MN1JIMEtFWE5MWXY2RWJmYnI3QTJhcnJPREk0S05B?oc=5",
-    "source": "Shiksha.com",
-    "published": "2026-10-06T07:00:00+00:00",
+    "title": "Nebraska ACT scores slip again, but there's more to the numbers",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnI4UE5FVzk0N1BncDkxV3F1bUVhQ0lOSV9uaXo2WC1XUnUxZ3l3VFlueGpvZWxMc2wyV3gwSFRqWHloMXRONUxYNDhjMGwzcTdQZWYxT0d6ODFDRExpb0IzYTFmckJDZGZ1TlFSSWh5UzdnLUo1dWxPaGw5MGg0TzZyWHVFaVdqYk90c0JmRy1UWWxobFRmNnBB?oc=5",
+    "source": "Lincoln Journal Star",
+    "published": "2026-10-15T10:30:00+00:00",
     "official": false
    },
    {
-    "title": "Three Lindbergh seniors earn perfect ACT scores",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFA0MTlBUHIteG8yWVdYanNNV1FqR280dHBISzNFY1ZkenZwZjlDZXc4eGRDWnJxQlhlYVdmTDBXU2FMU1FfVXlCaDhSTUllUnlSN05DaklmVDJBZDNxXzJQYU1RTWdVOGc2dHRTNW1sTnR0aDYzSUpwR29Oc182Yw?oc=5",
-    "source": "St. Louis Call Newspapers",
-    "published": "2026-10-06T15:07:33+00:00",
-    "official": false
-   },
-   {
-    "title": "Homestead seniors achieve perfect ACT scores",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclN1V29vWWg2ZmVoV0JsYnJTRDBmbm0wTjZGb0xTSzh3WmJlTWRMeFJyLWk2ZElHaTFva2dXMzg5X0g1bHpiTVNHTklac0pLYkJDMHNLS1lpOFdvTFdwUHJnVE82VWl4NnFjeXJkMEVEUGhocDFoUWJtcUVsUWwyWnhPczNNaUo2clFQb3ZYZEkwdzFaakgxMkZubWVHZndLcndfZFowWGxaVFJ4X2wzYVZRWUdWeF9DdjNGS3JHVVNjcGNySGc?oc=5",
-    "source": "Greater Milwaukee Today",
-    "published": "2026-10-06T11:10:00+00:00",
+    "title": "Are rising ACT scores signaling COVID ‘recovery’ in Utah schools?",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTlUNkRnREpCandTWU1PMlVMMlhHWEVLQ01oMkpEckdtamhjdnBmQmI1a1ZRdElUcmhpZ2tFX2pUbFlrZ0plc1cwaVBTVWlEOUF1anp5VXNEMnJERFdKQWR4SHM2aExDRkQ1dndfMjRJNkREaHRLMlJqbHE4dTR1RzBKaDhrTTBFeGJWUEdzMlprR3BGRVpJVWZldWN0S3c0UzI3TXlqMA?oc=5",
+    "source": "Deseret News",
+    "published": "2026-10-15T22:35:12+00:00",
     "official": false
    }
   ],
   "company": "ACT",
   "mode": "signals",
-  "analysed_at": "2026-10-13T19:24:23+00:00",
+  "analysed_at": "2026-10-20T22:06:33+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-13T19:24:23+00:00"
+  "signals_at": "2026-10-20T22:06:33+00:00"
  }
 }
