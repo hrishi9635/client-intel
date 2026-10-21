@@ -517,23 +517,55 @@
   "signals_at": "2026-10-20T22:02:07+00:00"
  },
  "LA Times": {
-  "headline": "No relevant developments reported",
-  "highlights": [],
-  "risks": [],
+  "headline": "Los Angeles Times highlights unexpected AI developments",
+  "highlights": [
+   "AI topics featured across multiple articles",
+   "Coverage includes AI's role in filmmaking and law enforcement",
+   "Discussion of AI oversight and political implications"
+  ],
+  "risks": [
+   "Potential regulatory scrutiny of AI use"
+  ],
   "sentiment": "Neutral",
-  "sentiment_reason": "No information",
-  "segments": [],
-  "it_signals": [],
+  "sentiment_reason": "Coverage is informational without clear positive or negative tone",
+  "segments": [
+   {
+    "name": "Newsroom",
+    "trend": "Flat",
+    "note": "No clear change in newsroom operations reported"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "The paper reports on unexpected AI developments and applications",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzODhUZGVOTDRrMXNSbkVCY2ZrckpWYzhETTRKZXJWbnZsT1FRRzgwZjJsRC15YnlieUgwc293ZFltNFk2R3U2M0FhNUVhcGtyeFdPV2lieTJKY0lISlJTNW9QZWNTTWpxdWpjY0tfRTlEaHR1ZHNpNUJROGw3dw?oc=5",
+    "source": "Magzter",
+    "published": "2026-10-18"
+   }
+  ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No data on IT spend",
-  "talking_points": [],
+  "it_spend_reason": "No specific spending information provided in the sources",
+  "talking_points": [
+   "Ask about their AI strategy and any planned technology upgrades",
+   "Explore how AI is being integrated into their newsroom workflows"
+  ],
   "unverified_dropped": [],
-  "sources": [],
+  "sources": [
+   {
+    "title": "UNEXPECTED AI | Los Angeles Times - newspaper",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzODhUZGVOTDRrMXNSbkVCY2ZrckpWYzhETTRKZXJWbnZsT1FRRzgwZjJsRC15YnlieUgwc293ZFltNFk2R3U2M0FhNUVhcGtyeFdPV2lieTJKY0lISlJTNW9QZWNTTWpxdWpjY0tfRTlEaHR1ZHNpNUJROGw3dw?oc=5",
+    "source": "Magzter",
+    "published": "2026-10-18T14:40:21+00:00",
+    "official": false
+   }
+  ],
   "company": "LA Times",
   "mode": "signals",
-  "analysed_at": "2026-10-13T19:20:03+00:00",
+  "analysed_at": "2026-10-21T12:04:34+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-13T19:20:03+00:00"
+  "signals_at": "2026-10-21T12:04:34+00:00"
  },
  "Caesars": {
   "results_found": true,
