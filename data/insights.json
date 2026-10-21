@@ -752,114 +752,52 @@
   ]
  },
  "Light & Wonder": {
-  "headline": "Light & Wonder selected to replace Delaware North's table games technology, indicating a new vendor partnership",
-  "highlights": [
-   "Debt reduction prioritized to lower leverage (15,28)",
-   "Gaming growth continues, supporting deleveraging (18)",
-   "New slot titles and hardware showcased at G2E (38,39)",
-   "IP lawsuit settled with Aristocrat for $190M (36)",
-   "Quarterly results scheduled for early November (11,16)"
-  ],
-  "risks": [
-   "High leverage remains a concern (15,28)",
-   "Legal exposure from recent IP dispute (36)",
-   "Transition to new table‑games technology may cause integration challenges (40)"
-  ],
+  "results_found": false,
+  "period_label": null,
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-08-04",
+  "headline": null,
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "none",
+  "segments": [],
+  "highlights": [],
+  "management_view": null,
+  "risks": [],
   "sentiment": "Neutral",
-  "sentiment_reason": "Company is focusing on debt reduction and new tech wins but faces leverage and legal risks",
-  "segments": [
-   {
-    "name": "Gaming machines",
-    "trend": "Up",
-    "note": "Growth supports deleveraging"
-   },
-   {
-    "name": "Social casino (SciPlay)",
-    "trend": "Flat",
-    "note": "No specific updates"
-   },
-   {
-    "name": "iGaming",
-    "trend": "Mixed",
-    "note": "New titles announced but overall impact unclear"
-   }
-  ],
+  "sentiment_reason": "No results data available",
   "it_signals": [
    {
     "type": "Vendor / outsourcing",
     "detail": "Selected to replace Delaware North Table Games technology",
-    "source_id": 40,
+    "source_id": 44,
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWtQZUdWSndWN2hQa0lSamhFR3UtVGlqUzJzSW9ScHpoY3l2NUdXYXprTmlNLUFmX1dpQ2Jxa243N0syZFBuazVtNHUxRkNjd25sVHJqRjdJYWdzQV9pV3JpNzZTZ3pMX1VaanhGcFJMRS02X0ZqLTA4Y1hpeWxjUXRpU2dPRGlpQnp3MVZDSVRvSGpKSEl1Rlh6NUdIdE5LR3JzTjNfRQ?oc=5",
     "source": "GGB Magazine",
     "published": "2026-09-21"
-   },
-   {
-    "type": "Cost-cutting / restructuring",
-    "detail": "Prioritising debt reduction and recurring revenue",
-    "source_id": 15,
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVoyakQ3OEhVNEp4U1VHbGFXQ21nZHg4by1iVk5iRnBrNlRHYS12eFk4V1JaN0hTMzF0NFBBWE1IWXJPajZHYzVTZ1RPS2tQS1NwQmJUbTRaSjd5eVJJalJxVU9mWTR4aDFLa1NYaEowTVZ5U3pxRjdDSmpxaXZ6MDVabTIxei1kcWVfaU5QYlpmTi1aWVlRdG9oeS1xcEhOa2FIdW9ESHFOd1hKcUJzY285VmY?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-07"
-   },
-   {
-    "type": "Other",
-    "detail": "Showcasing new games and hardware at G2E",
-    "source_id": 39,
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3BFTlpYbS1iQ1dfcnR3REpycTNrTTY2OGpzRVNObmU1SFdjX1J6ODFTUkhmQW93TUVJbnRTd0E1YzJlMXVoUVdEWnFvOEhjN3F4QVVINUNJWENLaklfbVVtMnNDSlV4Y2ZiQzF4QTB5azRjRWR3cEFfYjNZekZCMngzOXJpelBVOFMxTE1rNA?oc=5",
-    "source": "Indian Gaming Magazine",
-    "published": "2026-09-22"
    }
   ],
-  "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Focus on debt reduction suggests tighter IT budgets",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No explicit spending guidance in available sources",
   "talking_points": [
-   "Discuss how the new table‑games technology partnership could create integration or support opportunities.",
-   "Explore ways to help Light & Wonder improve operational efficiency while they deleverage.",
-   "Assess potential for collaboration on next‑gen gaming hardware showcased at G2E."
+   "Discuss potential opportunities around the new table‑games technology platform.",
+   "Explore how Light & Wonder’s shift to new vendors may affect integration and support needs."
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Light & Wonder (ASX:LNW): Debt Reduction and Recurring Revenue Shape the Next Phase",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVoyakQ3OEhVNEp4U1VHbGFXQ21nZHg4by1iVk5iRnBrNlRHYS12eFk4V1JaN0hTMzF0NFBBWE1IWXJPajZHYzVTZ1RPS2tQS1NwQmJUbTRaSjd5eVJJalJxVU9mWTR4aDFLa1NYaEowTVZ5U3pxRjdDSmpxaXZ6MDVabTIxei1kcWVfaU5QYlpmTi1aWVlRdG9oeS1xcEhOa2FIdW9ESHFOd1hKcUJzY285VmY?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-07T13:55:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder (ASX:LNW) Gaming Growth Keeps Deleveraging in the Spotlight",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRTZOXzJSc1hhSWNRcWpvM1NGMXJjdVg4YUF0WWEyMkFWUXBLVFZNZWVwTHhNaWI5TXlEWlJ2cDhUV2JyTWt6bEFCdkYzSy1jU3d2Y0QtVmI4dUhzR1U4MTAtLWk5LVZTeElLd292TGI2TVl6d3hFV0ZLbElIN0d1azZ1cFZQX0MxLU1iNWtLVEpiQ0VwZnI0TnBHaDBHN2lDY0tYNmFWQ0s0TERW?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-07T01:02:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder, Inc. (ASX:LNW) Prioritises Debt Reduction as Q2 Earnings Expand",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjAxTFNtWExnVW5ZZENXQWNZNmdhVHloc0ZrX2J5STNTOXM1ZERmSFpRTUF0MGJSSlQ0VGg0RURPaTBoOWhmUjVMTUZ3Vk04X2hsZTJXU21BZncxTldhR3d5SFNsV2dOWGdEQWwteW9YOUdZSG41VlBoN3J6all5NHBFSHlkaHZVLXI1OGhiSG1OMWpldVl2SnRYcWZYdUFkXzFQa3BhOGV0QVpwRWJtTA?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-01T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Pokies Maker Light & Wonder Hits Rival Aristocrat With IP Suit",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkVOaTVCTnJGZzUyMmNNakZKbEozRTBHSWxZUWZoN252Qm5MZHhKVi1PRGUxc2lxT2c3MkJYN3NqaDBrSjRhMkx1RGRVS1loTHlPSDFGSkhaZElMcjd0T0ZzcGtiQVdKN1NFTFZxWWF2Q0VnZUdVaUxPejMtNU1RWW9hSXRDM0FrUndqeUNFZndnbXBoM1Vkc2MwbWhmZ3JsRkltctIBWEFVX3lxTE5Dd3JEUGVmemlqMHhFOFpJUndEdnIzVmVST3ViSENZSldrXzVTbjhQc0hvNnlKbTZ2d0FMVnJzaWMyZzVKOUlfbUpKMzlHRVQ1MHV2S0x6SFY?oc=5",
-    "source": "Law360",
-    "published": "2026-09-23T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder to highlight licensed titles at G2E in Las Vegas",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamxxbTU0bENwcjNYYk5ERy1nMGJIbm1Yd043NEJUR3VRZkh5RXl3c2RnZU1oVnhxNDRBal9fNW5EakFFNWlfWmgwT1VsOGpRWWxaT3daOEUtZFp6b1dSSEZQd09pc0o4TDdwV3JRZEg4UnBTbFFNcFc1N3lFdG1JOWtXVnkzWUhHdG9YR1owNHBZUURRc1E?oc=5",
-    "source": "IAG – Inside Asian Gaming",
-    "published": "2026-09-22T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder Sets G2E Lineup With New Games and Hardware",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ3BFTlpYbS1iQ1dfcnR3REpycTNrTTY2OGpzRVNObmU1SFdjX1J6ODFTUkhmQW93TUVJbnRTd0E1YzJlMXVoUVdEWnFvOEhjN3F4QVVINUNJWENLaklfbVVtMnNDSlV4Y2ZiQzF4QTB5azRjRWR3cEFfYjNZekZCMngzOXJpelBVOFMxTE1rNA?oc=5",
-    "source": "Indian Gaming Magazine",
-    "published": "2026-09-22T07:00:00+00:00",
-    "official": false
+    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+    "source": "8-K",
+    "published": "2026-08-04",
+    "official": true
    },
    {
     "title": "Light & Wonder Selected to Replace Delaware North Table Games Technology",
@@ -867,27 +805,23 @@
     "source": "GGB Magazine",
     "published": "2026-09-21T07:00:00+00:00",
     "official": false
-   },
-   {
-    "title": "Light & Wonder to Release Third Quarter 2026 Financial Results on 5 November",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRG9YSnNmSVRZMENGd3JPXzZ5VEdOcXRiM1ZzejJnX1RKTWx4cUEyVktWQVlsSlEwQ2Z3VlBBb2V0WmlqQ2ZXaWFycFNBZmdTYUNWWFpfSG1jeGpqRmxPa3dmM0ExOTh0WGcyUzJ1dzJJbk96V0c4bFYtcFQ3dUhReUM0SEwtc3JWR0RWY1hlbTJRWTRqYkp1alpRQklLdGVPaTZodmQ2NFhVTnFueHh4dDNkaFg4dVE?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-09T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder to Report Third Quarter 2026 Results",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHIxRUx2ZnpZR29NaXBZaHlIejhfdFhyUjFOcjJCWHd2M2NDZXE2WUVESFNpMGRWUEtzRFhWNnJVUTNhSXV2bnhpT3daZjVRdFdWSE5fcTY1U25EalZQTmhKcUNVUW9VOUhQT0hGWGJXTEg0TklfVkFWQ2JpdFNpcXFjR0lwU0VoSmVmNnFPQS0yMUZyVDhlUGEzVDdyS1o2WjVmS2dLVlREUQ?oc=5",
-    "source": "Business Wire",
-    "published": "2026-10-07T07:00:00+00:00",
-    "official": false
    }
   ],
   "company": "Light & Wonder",
-  "mode": "signals",
-  "analysed_at": "2026-10-20T22:03:26+00:00",
-  "guidance_change": null,
-  "signals_at": "2026-10-20T22:03:26+00:00"
+  "mode": "results",
+  "analysed_at": "2026-10-21T01:14:12+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-04",
+   "accepted": "2026-08-05T01:04:24.000Z",
+   "accession": "0000750004-26-000032",
+   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+   "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
+   "published": "2026-08-04"
+  },
+  "release_key": "0000750004-26-000032",
+  "signals_at": "2026-10-21T01:14:12+00:00"
  },
  "Brightstar (IGT)": {
   "results_found": true,
@@ -1265,88 +1199,90 @@
   ]
  },
  "Wolters Kluwer": {
-  "headline": "Wolters Kluwer accelerates AI rollout across tax, legal and health units while migrating 3,000 desktops to AWS",
+  "results_found": true,
+  "period_label": "H1 2026",
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-08-05",
+  "headline": "Wolters Kluwer released its half‑year 2026 report on 5 August 2026.",
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "none",
+  "segments": [],
   "highlights": [
-   "AI tools added to Genya suite for Italian tax and accounting workflows (source 26)",
-   "Conversational AI and automated bank reconciliation launched in Genya cloud for professional services (source 29)",
-   "Legal & compliance AI enhancements added to CT’s hCue (source 13)",
-   "Partnership with Doximity to embed UpToDate AI in clinical decision support (source 2)",
-   "Large‑scale migration of 3,000 desktops to Amazon WorkSpaces without disruption (source 32)"
+   "Half‑year results were published on 5 August 2026.",
+   "Company continues to embed AI across its product portfolio.",
+   "Large‑scale cloud migration of 3,000 desktops completed."
   ],
-  "risks": [
-   "Rapid AI integration may strain existing governance and data quality processes",
-   "Cloud migration scale could expose security or performance issues"
-  ],
-  "sentiment": "Positive",
-  "sentiment_reason": "Multiple AI product launches and a successful cloud migration signal growth and modernization",
-  "segments": [
-   {
-    "name": "Tax & Accounting",
-    "trend": "Up",
-    "note": "AI automation of workflows and bank reconciliation"
-   },
-   {
-    "name": "Legal & Regulatory",
-    "trend": "Up",
-    "note": "AI add‑ons to compliance documentation"
-   },
-   {
-    "name": "Health",
-    "trend": "Up",
-    "note": "AI partnership with Doximity for UpToDate"
-   }
-  ],
+  "management_view": null,
+  "risks": [],
+  "sentiment": "Neutral",
+  "sentiment_reason": "No performance numbers disclosed in the sources.",
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Added AI tools to Genya suite for Italian tax and accounting workflows",
-    "source_id": 26,
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFprYVpLbmRiSUpReXBvUEh3djFtUVNWSVpLb29PZmVsTTJybWpBeC1uWUhOLTlxZk04bk04RWhBNldVekMwR1A5RmQ3Qlc1WW9LS3FFTkNDN0xNY2FQcFNISTg1bEp4TDVWdUc5SVNnSUd1WmdLTGN5WFU1dFFjMUQzZ2NfUzY0UVh5S1BKei1ILUttOWY4bUwySC1PaUdvemkyMEh0cV83MnpFQ1I3ZzBRdw?oc=5",
-    "source": "FF News",
-    "published": "2026-10-13"
+    "detail": "Added AI tools to Genya suite for tax and accounting workflows.",
+    "source_id": 25,
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOem5ka1RaaktLRnExWlp2QW0tSUJ6Vl80VG9KYkxxbnl5TG82NG1GekUxQlJJTVNEdlNCdXEzSTlMM2ZUU21QbENkTzFHMHo2cDB1M0x0VEp3cXRsLVVycWJXX2tiYUJBc29aY05adVBPM1lKT2JNY3FvUWI3XzZoN185emNLS002dmtDQmR1NHUtV0RVNE5QRnJqa3hwejBHS1BTWmY0N3Q3SUYtY3dDdWtXMlJ1eEhzaGM5dVdrNVpuWHB5ZklWTGNB?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-10-14"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Introduced conversational AI and automated bank reconciliation in Genya cloud",
-    "source_id": 29,
+    "detail": "Introduced conversational AI and automated bank reconciliation in Genya cloud suite for Italian professional service firms.",
+    "source_id": 30,
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbTZqODhkLVNmZXJjei1YemFQTG8ydGdEMGpmaUl6cHZGcHZrcFUyR2tzSi1DOUJLZS1nSkRMZzNLWUtsaGFPeHNlVDdMRTd2NGd4dlNiOEVsSUFiWmpzZUdTOE9Pb1FnM2d1bll2UWZpaHpKQmpkVXZFOElxRGViRkxkS2Vkclg1bURTU1U3QThTYkx1YUI4MThTUGM0ek90ZS1TT04wdmZSeElWSUNWQmJzeExwbXY4WWJGaHNwVGVfYjBxdlRQVkY3NEF3ZXk1V0FVY1M1WU9JQzZnS2dTSTg5Smx1UWZyU1hYVFVIaFFjVjVmcWVyUXp4UURpY3VOY1hRQg?oc=5",
     "source": "01net",
     "published": "2026-10-13"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Integrated expert AI into CT’s hCue for compliance and legal docs",
-    "source_id": 13,
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQejBjZ0huWlRscjV0Z2ZKRUU2X2pncGFlQkRqUjctWGpKcS1aUmFYVmhNZEM3bHptR05tT1draWhidjVleS0zSENWZVBJWk9VRE1HM0FFekRoOE92a3FycFBvSmZlWWlMc3J0c2FtQUtfVkhCM1c3QTlLUV84Ni1sd0llRGdwcHJieGpZOXltUUZ5V3QyZEFWd2dhcW9PSEZRb2pfdHlEMXM2X2NXYkwyTXpUSzd6MEx3b3phWDREVlltSHhweHgtdm9CUjJTWEc4bFRXUQ?oc=5",
-    "source": "Legal Reader",
-    "published": "2026-10-16"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "Partnered with Doximity to bring UpToDate AI to its platform",
-    "source_id": 2,
+    "detail": "Integrated UpToDate AI into Doximity Ask platform.",
+    "source_id": 3,
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmRZWktFZGhrUXFWR3NnZHRJZ3I0ZFMzR3Bsb0FkbmNnY2tzamhnbHFfbFRCbW5KSm0tNTFkTl85MHJaWmFqM1pZMUZaSEFkMlRpMkdNNW5lWGN0YThRT1FhdU42TWY2NVNYV3N3NGhoSVgtQmxKc2lPamg0bE5JM3BzUDBjSFExeU9PVHp5VHBNUkN4OWt1dDN6NUQyV0FiOHc?oc=5",
     "source": "01net",
     "published": "2026-10-20"
    },
    {
+    "type": "AI & tech investment",
+    "detail": "Enhanced legal documentation with Expert AI additions to CT’s hCue.",
+    "source_id": 14,
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQejBjZ0huWlRscjV0Z2ZKRUU2X2pncGFlQkRqUjctWGpKcS1aUmFYVmhNZEM3bHptR05tT1draWhidjVleS0zSENWZVBJWk9VRE1HM0FFekRoOE92a3FycFBvSmZlWWlMc3J0c2FtQUtfVkhCM1c3QTlLUV84Ni1sd0llRGdwcHJieGpZOXltUUZ5V3QyZEFWd2dhcW9PSEZRb2pfdHlEMXM2X2NXYkwyTXpUSzd6MEx3b3phWDREVlltSHhweHgtdm9CUjJTWEc4bFRXUQ?oc=5",
+    "source": "Legal Reader",
+    "published": "2026-10-16"
+   },
+   {
     "type": "Cloud & data",
-    "detail": "Migrated 3,000 desktops to Amazon WorkSpaces at scale",
-    "source_id": 32,
+    "detail": "Migrated 3,000 desktops to Amazon WorkSpaces without disruption.",
+    "source_id": 33,
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
     "source": "Amazon Web Services (AWS)",
     "published": "2026-10-12"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "The company is investing heavily in AI capabilities and a large cloud migration project",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No explicit spend guidance is provided in the available sources.",
   "talking_points": [
-   "How can your solutions support Wolters Kluwer’s rapid AI rollout across tax and legal products?",
-   "What security and governance frameworks are needed for the new AWS desktop environment?",
-   "Can we help accelerate integration of AI APIs in the Doximity partnership?"
+   "Wolters Kluwer is rapidly expanding AI capabilities across tax, accounting, health and legal products.",
+   "The company completed a large‑scale desktop migration to AWS, indicating a strong cloud focus.",
+   "Partnerships such as the Doximity‑UpToDate integration show a strategy to embed content in clinical decision‑support tools."
   ],
   "unverified_dropped": [],
   "sources": [
+   {
+    "title": "Wolters Kluwer 2026 Half-Year Report",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+    "source": "company release",
+    "published": "2026-08-05",
+    "official": true
+   },
    {
     "title": "Doximity and Wolters Kluwer Sign Partnership to Bring UpToDate to Doximity Ask",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmRZWktFZGhrUXFWR3NnZHRJZ3I0ZFMzR3Bsb0FkbmNnY2tzamhnbHFfbFRCbW5KSm0tNTFkTl85MHJaWmFqM1pZMUZaSEFkMlRpMkdNNW5lWGN0YThRT1FhdU42TWY2NVNYV3N3NGhoSVgtQmxKc2lPamg0bE5JM3BzUDBjSFExeU9PVHp5VHBNUkN4OWt1dDN6NUQyV0FiOHc?oc=5",
@@ -1362,10 +1298,10 @@
     "official": false
    },
    {
-    "title": "Wolters Kluwer Expands Genya AI Suite to Automate Italian Tax and Accounting Workflows",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFprYVpLbmRiSUpReXBvUEh3djFtUVNWSVpLb29PZmVsTTJybWpBeC1uWUhOLTlxZk04bk04RWhBNldVekMwR1A5RmQ3Qlc1WW9LS3FFTkNDN0xNY2FQcFNISTg1bEp4TDVWdUc5SVNnSUd1WmdLTGN5WFU1dFFjMUQzZ2NfUzY0UVh5S1BKei1ILUttOWY4bUwySC1PaUdvemkyMEh0cV83MnpFQ1I3ZzBRdw?oc=5",
-    "source": "FF News",
-    "published": "2026-10-13T15:44:00+00:00",
+    "title": "Wolters Kluwer unit adds AI tools to Genya, stock pre-market at EUR 78.78",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOem5ka1RaaktLRnExWlp2QW0tSUJ6Vl80VG9KYkxxbnl5TG82NG1GekUxQlJJTVNEdlNCdXEzSTlMM2ZUU21QbENkTzFHMHo2cDB1M0x0VEp3cXRsLVVycWJXX2tiYUJBc29aY05adVBPM1lKT2JNY3FvUWI3XzZoN185emNLS002dmtDQmR1NHUtV0RVNE5QRnJqa3hwejBHS1BTWmY0N3Q3SUYtY3dDdWtXMlJ1eEhzaGM5dVdrNVpuWHB5ZklWTGNB?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-10-14T05:42:09+00:00",
     "official": false
    },
    {
@@ -1384,10 +1320,18 @@
    }
   ],
   "company": "Wolters Kluwer",
-  "mode": "signals",
-  "analysed_at": "2026-10-20T22:04:21+00:00",
-  "guidance_change": null,
-  "signals_at": "2026-10-20T22:04:21+00:00"
+  "mode": "results",
+  "analysed_at": "2026-10-21T01:15:07+00:00",
+  "release": {
+   "form": "company release",
+   "filed": "2026-08-05",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+   "title": "Wolters Kluwer 2026 Half-Year Report",
+   "accession": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+   "published": "2026-08-05T07:00:00+00:00"
+  },
+  "release_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
+  "signals_at": "2026-10-21T01:15:07+00:00"
  },
  "Scholastic": {
   "results_found": true,
