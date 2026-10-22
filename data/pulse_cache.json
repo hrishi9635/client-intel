@@ -323,6 +323,14 @@
    "metascore": 48.0,
    "box_office_usd": null,
    "_at": "2026-10-21"
+  },
+  "tt5875444": {
+   "imdb_rating": 8.4,
+   "imdb_votes": 162097.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-10-22"
   }
  }
 }

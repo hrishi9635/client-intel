@@ -1,0 +1,1536 @@
+{
+ "Disney": {
+  "document_type": "Quarterly results",
+  "period": "Quarter ended December 2026 (Fiscal Q3 2026)",
+  "headline": "Disney reported Q3 fiscal 2026 revenue of $25.2 bn, up 7%, with strong growth in Parks & Experiences and streaming subscriptions. Adjusted EPS rose to $2.06 and the company reaffirmed its full‑year outlook, including at least $9 bn of share repurchases.",
+  "at_a_glance": [
+   "Revenue +7% to $25.2 bn",
+   "Adjusted EPS up to $2.06",
+   "Parks & Experiences revenue +11%, operating income +20%",
+   "Entertainment subscription revenue +15%",
+   "Sports operating income down 17% due to NBA playoffs and carriage dispute",
+   "Sale of 50% A+E stake for $1.2 bn"
+  ],
+  "guidance_verdict": "Reaffirmed",
+  "guidance": [
+   {
+    "metric": "Adjusted EPS growth FY2026",
+    "new": "~12% (ex‑53rd week)",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "Adjusted EPS growth FY2026 including 53rd week",
+    "new": "~16%",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "Share repurchases FY2026",
+    "new": "at least $9 bn",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "Experiences segment operating income FY2026",
+    "new": "high‑single‑digit growth (high end of prior guidance)",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": "excludes 53rd week impact",
+    "src": "official"
+   },
+   {
+    "metric": "Sports segment operating income FY2026",
+    "new": "mid‑single‑digit growth",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": "excludes 53rd week impact",
+    "src": "official"
+   },
+   {
+    "metric": "Entertainment segment operating income FY2026",
+    "new": "double‑digit growth",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": "excludes 53rd week impact",
+    "src": "official"
+   }
+  ],
+  "guidance_notes": [
+   "All operating‑income guidance excludes the impact of the 53rd week of the fiscal year."
+  ],
+  "unit_outlook": [],
+  "medium_term": [
+   "Expect double‑digit adjusted EPS growth in FY2027 (ex‑53rd week)",
+   "Continue double‑digit segment operating‑income growth across Entertainment"
+  ],
+  "units": [
+   {
+    "unit": "Parks & Experiences",
+    "numbers": "Revenue +11% (driven by 6% volume, 3% rate)",
+    "points": [
+     "Domestic parks per‑capita spending up 4%",
+     "Tariff refund $100 m added ~4 points to operating‑income growth"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Entertainment",
+    "numbers": "Subscription revenue +15% YoY, SVOD advertising +3%",
+    "points": [
+     "Fubo transaction added ~4% to subscription fees",
+     "Operating margin 14.8%"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Sports",
+    "numbers": "Subscription & affiliate fees +8% YoY",
+    "points": [
+     "Operating income down 17% vs prior‑year quarter",
+     "Impact from NBA playoff sweeps and carriage dispute"
+    ],
+    "src": "official"
+   }
+  ],
+  "deals": [
+   {
+    "name": "A+E Global Media stake sale",
+    "type": "Disposal",
+    "detail": "Sale of 50% stake to Hearst affiliate for approx. $1.2 bn cash; closing expected by end of FY2026",
+    "src": "official"
+   },
+   {
+    "name": "AI character patents",
+    "type": "Launch",
+    "detail": "Filed patents for AI characters that form emotional bonds using guest memories",
+    "src": "news"
+   },
+   {
+    "name": "Carol Choi appointment",
+    "type": "Other",
+    "detail": "Named Asia‑Pacific President, succeeding Luke Kang",
+    "src": "news"
+   }
+  ],
+  "risks": [
+   "Tariff refund amounts expected to be insignificant in future",
+   "Higher programming and production costs from Fubo transaction and streaming services",
+   "NBA contract renewal shifting costs to Q3",
+   "Network carriage dispute affecting Sports income",
+   "Macro‑economic uncertainty"
+  ],
+  "quotes": [
+   {
+    "speaker": "CEO (unnamed)",
+    "quote": "Our strong fiscal Q3 results and reiterated full-year outlook reinforce our confidence that we are uniquely well positioned."
+   },
+   {
+    "speaker": "CEO (unnamed)",
+    "quote": "We believe our shares are undervalued and we continued to lean into share repurchases during the quarter."
+   }
+  ],
+  "dates": [
+   {
+    "date": "July 2026",
+    "event": "Agreement to sell 50% interest in A+E Global Media for $1.2 bn",
+    "src": "official"
+   },
+   {
+    "date": "October 21 2026",
+    "event": "Carol Choi appointed Asia‑Pacific President",
+    "src": "official"
+   },
+   {
+    "date": "October 22 2026",
+    "event": "Disney files AI character patents",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": "Disney is simplifying by selling its 50% stake in A+E Global Media and recording related impairments and severance costs.",
+   "effective": "July 2026",
+   "units": [
+    {
+     "unit": "A+E Global Media divestiture",
+     "size": null,
+     "includes": "50% stake sale for $1.2 billion cash",
+     "leader": null,
+     "src": "official"
+    }
+   ],
+   "points": [
+    "Impairment of A+E investment $812 million and $959 million recorded (official)",
+    "Severance costs $180 million (official)",
+    "Proceeds to be used for share repurchases, targeting at least $9 billion in FY2026 (official)",
+    "Closing expected by end of fiscal 2026 (official)"
+   ]
+  },
+  "leadership": [
+   {
+    "person": "Carol Choi",
+    "role": "Asia‑Pacific President",
+    "change": "Appointed",
+    "detail": "Effective October 2026, replacing retiring Luke Kang",
+    "src": "news"
+   },
+   {
+    "person": "Luke Kang",
+    "role": "Asia‑Pacific President (outgoing)",
+    "change": "Retiring",
+    "detail": "Announced October 2026",
+    "src": "news"
+   }
+  ],
+  "unchanged": [
+   "Bob Iger (Chief Executive Officer)",
+   "Christine McCarthy (Chief Financial Officer)"
+  ],
+  "technology": [
+   {
+    "topic": "AI patents and character‑guest interaction",
+    "points": [
+     "Disney filed AI patents enabling characters to form emotional bonds using guest memories (news)",
+     "Patents could change how characters know about guests (news)"
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Divesting A+E stake for $1.2 bn, recording $812‑$959 m impairment.",
+    "Severance $180 m; proceeds earmarked for $9 bn share buyback.",
+    "Carol Choi named APAC President; Luke Kang retires.",
+    "Environmental sustainability co‑lead departs."
+   ],
+   "technology": [
+    "New AI patents aim to let characters use guest memory for emotional interaction."
+   ]
+  },
+  "unverified_dropped": [
+   "person not in sources: Unnamed environmental sustainability co‑lead",
+   "quote not verbatim: We were pleased with 4% per capita spending growth"
+  ],
+  "format": 2,
+  "company": "Disney",
+  "name": "The Walt Disney Company",
+  "industry": "Media & Entertainment",
+  "release_key": "0001744489-26-000056",
+  "release_date": "2026-08-05",
+  "documents": [
+   {
+    "title": "The Walt Disney Company 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:23:15+00:00"
+ },
+ "WBD / Skydance": {
+  "document_type": "Quarterly results",
+  "period": "Q2 2026",
+  "headline": "Skydance Corp. posted $6.9 billion revenue, up 1% YoY, and raised its full‑year 2026 adjusted EBITDA outlook to $3.8‑$3.9 billion. Paramount+ added ~2 million subscribers to reach 81.6 million worldwide. The company expects continued efficiency gains and at least 10% free‑cash‑flow conversion.",
+  "at_a_glance": [
+   "Revenue $6.9 bn, +1% YoY",
+   "Adj. EBITDA $1.1 bn, +27% YoY",
+   "Paramount+ subscribers up ~2 m to 81.6 m",
+   "TV Media revenue down 9% YoY",
+   "Full‑year adj. EBITDA outlook raised to $3.8‑$3.9 bn"
+  ],
+  "guidance_verdict": "Raised",
+  "guidance": [
+   {
+    "metric": "total revenue 2026",
+    "new": "$30 bn",
+    "previous": null,
+    "change": "raised",
+    "note": "midpoint up, range unchanged",
+    "src": "official"
+   },
+   {
+    "metric": "adjusted EBITDA 2026",
+    "new": "$3.8‑$3.9 bn",
+    "previous": "$3.8 bn",
+    "change": "raised",
+    "note": "midpoint unchanged, range widened",
+    "src": "official"
+   },
+   {
+    "metric": "adjusted EBITDA margin 2026",
+    "new": "12.8%",
+    "previous": "12.8%",
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "free cash flow conversion 2026",
+    "new": "at least 10%",
+    "previous": "at least 10%",
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "Q3 total revenue 2026",
+    "new": "$6.95‑$7.15 bn",
+    "previous": null,
+    "change": "introduced",
+    "note": "4‑7% YoY growth expected",
+    "src": "official"
+   },
+   {
+    "metric": "Q3 adjusted EBITDA 2026",
+    "new": "$875‑$975 m",
+    "previous": null,
+    "change": "introduced",
+    "note": "13.1% margin at midpoint",
+    "src": "official"
+   }
+  ],
+  "guidance_notes": [
+   "All figures are in USD and reflect Skydance‑Paramount combined results; non‑GAAP measures follow supplemental disclosures."
+  ],
+  "unit_outlook": [
+   {
+    "unit": "Paramount+",
+    "outlook": "~2 m subscriber addition this quarter, total 81.6 m worldwide",
+    "src": "official"
+   },
+   {
+    "unit": "Studios",
+    "outlook": "Revenue $1.3 bn, +16% YoY; adjusted EBITDA $36 m, up from -$31 m YoY",
+    "src": "official"
+   }
+  ],
+  "medium_term": [
+   "Target $2.7‑$3.0 bn run‑rate efficiencies by end‑2026",
+   "Invest in AI and technology platforms across engineering",
+   "Continue to grow DTC revenue and streaming profit in 2026 and beyond"
+  ],
+  "units": [
+   {
+    "unit": "Studios",
+    "numbers": "Revenue $1.3 bn, +16% YoY; adj. EBITDA $36 m (2.7% margin)",
+    "points": [
+     "Strong licensing revenue",
+     "Lower theatrical revenue due to lapping"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Direct‑to‑Consumer (Paramount+)",
+    "numbers": "Revenue $2.5 bn, +9% YoY; adj. EBITDA $366 m (14.8% margin)",
+    "points": [
+     "16% YoY revenue growth",
+     "~2 m new international subscribers",
+     "Ad revenue up >30%"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "TV Media",
+    "numbers": null,
+    "points": [
+     "Advertising revenue down 14%",
+     "Affiliate revenue down 6%",
+     "Production costs per episode down ~10% YoY"
+    ],
+    "src": "official"
+   }
+  ],
+  "deals": [
+   {
+    "name": "Warner Bros. Discovery acquisition",
+    "type": "Acquisition",
+    "detail": "Pending combination; transaction expected to close after antitrust review",
+    "src": "official"
+   },
+   {
+    "name": "Licensing partnership with Amazon, Netflix, Tubi",
+    "type": "Partnership",
+    "detail": "Recent licensing agreements to extend content distribution",
+    "src": "official"
+   },
+   {
+    "name": "Gerhard Zeiler departure",
+    "type": "Other",
+    "detail": "Warner Bros. International President to leave the combined company",
+    "src": "news"
+   },
+   {
+    "name": "Tony Khan conversations with CEO David Ellison",
+    "type": "Other",
+    "detail": "Discussions about potential AEW collaboration",
+    "src": "news"
+   },
+   {
+    "name": "Laurene Powell Jobs investment",
+    "type": "Other",
+    "detail": "$250 million invested in Skydance",
+    "src": "news"
+   }
+  ],
+  "risks": [
+   "Declining linear TV advertising and affiliate revenue",
+   "Integration costs and synergies risk from Warner Bros. Discovery merger",
+   "Higher transformation and capital expenditures",
+   "Potential labor disputes and workforce adjustments"
+  ],
+  "quotes": [],
+  "dates": [
+   {
+    "date": "2026-10-06",
+    "event": "Completion of Skydance takeover of Warner Bros. Discovery; WBD shares stopped trading",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-12",
+    "event": "Paramount acquisition of Warner Bros. Discovery announced",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-19",
+    "event": "Laurene Powell Jobs invests $250 million in Skydance",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-19",
+    "event": "Tony Khan discusses AEW partnership with CEO David Ellison",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": "Skydance is executing a transformation with new operating models, efficiency targets and reinvestments in growth areas.",
+   "effective": "2026-01-01",
+   "units": [
+    {
+     "unit": "Studios",
+     "size": "15 films slate for 2026, 15+ for 2027",
+     "includes": "theatrical releases, licensing",
+     "leader": null,
+     "src": "official"
+    },
+    {
+     "unit": "Direct-to-Consumer (Paramount+)",
+     "size": "81.6 million subscribers worldwide",
+     "includes": "40 new or returning DTC series, 2 M new subscribers Q2",
+     "leader": null,
+     "src": "official"
+    },
+    {
+     "unit": "TV Media",
+     "size": null,
+     "includes": "CBS broadcast series, affiliate revenue",
+     "leader": null,
+     "src": "official"
+    }
+   ],
+   "points": [
+    "Target $2.7 B run‑rate efficiencies by end‑2026, $3 B+ from Skydance‑Paramount combination (official)",
+    "Transformation costs ~ $800 M; free‑cash‑flow conversion ≥10% after costs (official)",
+    "Reinvest savings into AI, product & technology capabilities and content growth (official)"
+   ]
+  },
+  "leadership": [
+   {
+    "person": "David Ellison",
+    "role": "Chief Executive Officer",
+    "change": "Appointed",
+    "detail": "Named CEO of newly combined Paramount‑Warner Bros. entity (news)",
+    "src": "news"
+   },
+   {
+    "person": "Gerhard Zeiler",
+    "role": "Warner Bros. International President",
+    "change": "Leaving",
+    "detail": "Departing on 2026-10-18 (news)",
+    "src": "news"
+   },
+   {
+    "person": "Tony Khan",
+    "role": "Potential Strategic Partner (AEW discussions)",
+    "change": "Other",
+    "detail": "Conversations with CEO David Ellison reported 2026-10-19 (news)",
+    "src": "news"
+   },
+   {
+    "person": "Laurene Powell Jobs",
+    "role": "Investor",
+    "change": "Other",
+    "detail": "Invested $250 M in Skydance on 2026-10-19 (news)",
+    "src": "news"
+   }
+  ],
+  "unchanged": [
+   "Jane Doe (Chief Financial Officer)"
+  ],
+  "technology": [
+   {
+    "topic": "Platform & Vendor Consolidation",
+    "points": [
+     "Additional divisions migrated to Oracle Fusion, unifying company systems (official)",
+     "Majority of workforce now using AI tools across workflows (official)",
+     "Scaling AI across engineering teams to boost product and tech capabilities (official)"
+    ],
+    "src": "official"
+   },
+   {
+    "topic": "Technology Investment",
+    "points": [
+     "Investing in AI, data and automation as part of $3 B+ efficiency reinvestment (official)",
+     "Digital advertising stack upgraded to accelerate back‑half‑year growth (official)"
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Transformation targets $2.7 B efficiencies by end‑2026.",
+    "New operating units: 15‑film slate, 81.6 M Paramount+ subs.",
+    "CEO David Ellison leads combined Paramount‑Warner Bros.",
+    "Gerhard Zeiler exits; AI tools now used company‑wide."
+   ],
+   "technology": [
+    "Oracle Fusion rollout unifies finance and HR systems.",
+    "AI integrated into most workflows and engineering.",
+    "Digital ad tech upgraded for stronger back‑half performance.",
+    "Reinvested savings fund AI, data and product platforms."
+   ]
+  },
+  "unverified_dropped": [
+   "previous: $29.5 bn (approx)",
+   "outlook: Revenue $3.1 bn, -9% YoY; adjusted EBITDA $1.1 bn, margin 34",
+   "numbers: Revenue $3.1 bn, -9% YoY; adj. EBITDA $1.1 bn (34% margin)",
+   "size: 3.1 B revenue, 34% adj. EBITDA margin",
+   "quote not verbatim: We’re raising our full‑year 2026 outlook to a rang",
+   "quote not verbatim: Q2 was our best quarter for retention in Paramount"
+  ],
+  "format": 2,
+  "company": "WBD / Skydance",
+  "name": "Skydance Corp. (Warner Bros. Discovery + Paramount)",
+  "industry": "Media & Entertainment",
+  "release_key": "0002041610-26-000052",
+  "release_date": "2026-08-04",
+  "documents": [
+   {
+    "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:24:11+00:00"
+ },
+ "Versant": {
+  "document_type": "Quarterly results",
+  "period": "Second quarter 2026",
+  "headline": "Versant Media reported Q2 2026 net income of $211 million, declared a $0.375 per share cash dividend and completed a $100 million accelerated share repurchase. The company added the Full Swing acquisition, the Bundesliga sports rights and expanded Fandango.",
+  "at_a_glance": [
+   "Net income $211 M",
+   "Dividend $0.375 per share",
+   "Completed $100 M share repurchase, announced additional $100 M ASR",
+   "Acquisitions: Full Swing, Bundesliga rights"
+  ],
+  "guidance_verdict": "None given",
+  "guidance": [],
+  "guidance_notes": [],
+  "unit_outlook": [],
+  "medium_term": [],
+  "units": [
+   {
+    "unit": "Cable networks",
+    "numbers": "Revenue $1,006 M (Linear distribution) in Q2 2026",
+    "points": [
+     "Multi‑year renewals with two large distribution partners (U.S. and Canada)",
+     "Added Bundesliga to premium sports portfolio"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Digital",
+    "numbers": "Revenue $368 M (Advertising) and $192 M (Platforms) in Q2 2026",
+    "points": [
+     "Expanded Fandango into broader consumer entertainment platform",
+     "Advanced direct‑to‑consumer initiatives at CNBC and MS NOW"
+    ],
+    "src": "official"
+   }
+  ],
+  "deals": [
+   {
+    "name": "Full Swing acquisition",
+    "type": "Acquisition",
+    "detail": "Completed after Q2 2026, adds sports content capabilities",
+    "src": "official"
+   },
+   {
+    "name": "Bundesliga rights",
+    "type": "Acquisition",
+    "detail": "Added to premium sports portfolio in Q2 2026",
+    "src": "official"
+   },
+   {
+    "name": "Accelerated Share Repurchase",
+    "type": "Other",
+    "detail": "Completed $100 M repurchase; announced additional $100 M ASR for Q3 2026",
+    "src": "official"
+   }
+  ],
+  "risks": [
+   "Risks related to integration of acquisitions, competitive environment, consumer behavior, distribution agreements, advertising market, brand reputation"
+  ],
+  "quotes": [],
+  "dates": [
+   {
+    "date": "Q2 2026",
+    "event": "Quarterly earnings release",
+    "src": "official"
+   },
+   {
+    "date": "Q3 2026 (planned)",
+    "event": "Additional $100 M accelerated share repurchase announced",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": "Versant completed the Full Swing acquisition, added Bundesliga sports rights, expanded Fandango, and advanced direct‑to‑consumer initiatives.",
+   "effective": "Q2 2026",
+   "units": [],
+   "points": [
+    "No disclosed restructuring costs or savings; investments are directed to growth initiatives mentioned in the earnings release."
+   ]
+  },
+  "leadership": [
+   {
+    "person": "Mark Lazarus",
+    "role": "Chief Executive Officer",
+    "change": "Unchanged",
+    "detail": "CEO during Q2 2026 earnings release",
+    "src": "official"
+   },
+   {
+    "person": "Anand Kini",
+    "role": "Chief Financial Officer and Chief Operating Officer",
+    "change": "Unchanged",
+    "detail": "CFO/COO during Q2 2026 earnings release",
+    "src": "official"
+   }
+  ],
+  "unchanged": [
+   "Mark Lazarus (Chief Executive Officer)",
+   "Anand Kini (Chief Financial Officer and Chief Operating Officer)"
+  ],
+  "technology": [
+   {
+    "topic": "Acquisitions to integrate",
+    "points": [
+     "Completed Full Swing acquisition to broaden technology and data capabilities (official)",
+     "Added Bundesliga rights, expanding sports streaming technology stack (official)",
+     "Expanded Fandango into a broader consumer entertainment platform, implying integration of digital ticketing and streaming tech (official)",
+     "Advanced direct‑to‑consumer initiatives at CNBC and MS NOW, indicating investment in streaming and OTT platforms (official)"
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Full Swing acquisition completed.",
+    "Bundesliga sports rights added.",
+    "Fandango expanded to broader entertainment platform.",
+    "Direct‑to‑consumer push at CNBC and MS NOW."
+   ],
+   "technology": [
+    "Integrating Full Swing tech assets.",
+    "Enhancing streaming infrastructure for Bundesliga.",
+    "Broadening Fandango digital capabilities.",
+    "Investing in OTT platforms for CNBC and MS NOW."
+   ]
+  },
+  "unverified_dropped": [
+   "Revenue $1.687 B (standalone)",
+   "quote not verbatim: Versant's brands once again demonstrated strength,",
+   "quote not verbatim: I'm proud of our performance in the second quarter"
+  ],
+  "format": 2,
+  "company": "Versant",
+  "name": "Versant Media Group",
+  "industry": "Media & Entertainment",
+  "release_key": "0002067876-26-000038",
+  "release_date": "2026-08-06",
+  "documents": [
+   {
+    "title": "Versant Media Group 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+    "official": true,
+    "source": null
+   },
+   {
+    "title": "Exhibit exhibit992-supplementalf.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/exhibit992-supplementalf.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:25:05+00:00"
+ },
+ "Caesars": {
+  "document_type": "Half-year results",
+  "period": "Second quarter ended June 30, 2026",
+  "headline": "Caesars reported GAAP net revenues of $3.0 billion, a GAAP net loss of $62 million and Adjusted EBITDA of $920 million for Q2 2026. The company has $11.8 billion of debt and $965 million of cash. A pending merger with Fertitta Entertainment will take Caesars private.",
+  "at_a_glance": [
+   "GAAP net revenues $3.0 bn, up from $2.9 bn YoY",
+   "GAAP net loss $62 m, improved from $82 m YoY",
+   "Consolidated Adjusted EBITDA $920 m, down from $955 m YoY",
+   "Caesars Digital Adjusted EBITDA $68 m, down from $80 m YoY",
+   "Debt $11.8 bn; cash $965 m (excludes $112 m restricted cash)",
+   "Merger with Fertitta Entertainment pending; stock will be delisted"
+  ],
+  "guidance_verdict": "None given",
+  "guidance": [],
+  "guidance_notes": [],
+  "unit_outlook": [],
+  "medium_term": [],
+  "units": [
+   {
+    "unit": "Consolidated",
+    "numbers": "Net revenues $3.0 bn; Adjusted EBITDA $920 m",
+    "points": [
+     "Revenue grew modestly YoY",
+     "Adjusted EBITDA declined YoY",
+     "Net loss narrowed YoY"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Caesars Digital",
+    "numbers": "Adjusted EBITDA $68 m",
+    "points": [
+     "Digital EBITDA fell from $80 m YoY",
+     "Continues to contribute to overall earnings"
+    ],
+    "src": "official"
+   }
+  ],
+  "deals": [
+   {
+    "name": "Fertitta Entertainment merger",
+    "type": "Acquisition",
+    "detail": "Pending definitive agreement to acquire Caesars; upon completion Caesars will become private and its shares will be delisted from NASDAQ",
+    "src": "official"
+   }
+  ],
+  "risks": [
+   "Risks related to the proposed merger",
+   "Economic trends, inflation, public health emergencies, terrorist attacks, acts of war or hostilities"
+  ],
+  "quotes": [],
+  "dates": [
+   {
+    "date": "June 30, 2026",
+    "event": "Quarter end",
+    "src": "official"
+   },
+   {
+    "date": "May 28, 2026",
+    "event": "Fertitta Entertainment announced pending definitive agreement to acquire Caesars",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": null,
+   "effective": null,
+   "units": [],
+   "points": []
+  },
+  "leadership": [],
+  "unchanged": [],
+  "technology": [],
+  "summary": {
+   "happening": [],
+   "technology": []
+  },
+  "unverified_dropped": [
+   "quote not verbatim: Caesars will not be hosting a quarterly conference"
+  ],
+  "format": 2,
+  "company": "Caesars",
+  "name": "Caesars Entertainment",
+  "industry": "Gaming & Lottery",
+  "release_key": "0001590895-26-000027",
+  "release_date": "2026-07-28",
+  "documents": [
+   {
+    "title": "Caesars Entertainment 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027/ex991-2026q2ceiearningsrel.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:25:57+00:00"
+ },
+ "Bally's": {
+  "document_type": "Quarterly results",
+  "period": "Second quarter ended June 30, 2026",
+  "headline": "Bally's reported $792.2 million revenue, up 20% YoY, driven by strong growth in Intralot B2C (22%) and North America Interactive (17%). The company announced an agreement to acquire evoke plc and continued financing activity for the $4 billion Bronx casino project.",
+  "at_a_glance": [
+   "Consolidated revenue $792.2 M, +20% YoY",
+   "Casinos & Resorts revenue $401.0 M, +2% YoY",
+   "Bally's Intralot B2C revenue $243.5 M, +22% YoY",
+   "North America Interactive revenue $66.1 M, +16.9% YoY",
+   "UK gaming tax increase impact $39 M offset by top‑line growth",
+   "New contracts in Australia, Chile, Greece and Ontario"
+  ],
+  "guidance_verdict": "None given",
+  "guidance": [],
+  "guidance_notes": [],
+  "unit_outlook": [],
+  "medium_term": [],
+  "units": [
+   {
+    "unit": "Casinos & Resorts",
+    "numbers": "Revenue $401.0 M, +2.0% YoY; Adjusted EBITDAR $109.6 M, +3.4% YoY",
+    "points": [
+     "Growth from landside moves at Baton Rouge and Marquette",
+     "Strong performance at temporary Chicago facility",
+     "Visitations up 4.3% despite competition in Atlantic City and East St. Louis"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "International Interactive (Bally's Intralot B2C)",
+    "numbers": "Revenue $243.5 M, +22% YoY; UK revenue +11.6% CC YoY",
+    "points": [
+     "UK tax rise to 40% reduced EBITDAR by $39 M, 65% offset by growth",
+     "Spain revenue +15.1% CC YoY",
+     "Inclusion of Intralot Turkey B2C business from Q4 2025"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "North America Interactive",
+    "numbers": "Revenue $66.1 M, +16.9% YoY; Adjusted EBITDAR $3.0 M",
+    "points": [
+     "Healthy wagering growth across all verticals",
+     "Automation initiatives driving profitability",
+     "Annualized run‑rate >$250 M"
+    ],
+    "src": "official"
+   }
+  ],
+  "deals": [
+   {
+    "name": "evoke plc",
+    "type": "Acquisition",
+    "detail": "Agreement announced in June to acquire evoke plc, a global leader in sports betting and online gaming",
+    "src": "official"
+   },
+   {
+    "name": "Bally’s Bronx pre‑construction loan",
+    "type": "Financing",
+    "detail": "Non‑binding term sheet signed in July for a pre‑construction loan for the $4 billion Bronx integrated casino project",
+    "src": "official"
+   },
+   {
+    "name": "Bally’s Bronx equity letter of intent",
+    "type": "Financing",
+    "detail": "Letter of intent signed in August with a potential equity investor for the Bronx project",
+    "src": "official"
+   },
+   {
+    "name": "Victoria electronic gaming machine monitoring license",
+    "type": "Contract win",
+    "detail": "15‑year license awarded in April for Victoria, Australia",
+    "src": "official"
+   },
+   {
+    "name": "State Lottery of Chile contract",
+    "type": "Contract win",
+    "detail": "Up to 12‑year contract announced in April",
+    "src": "official"
+   },
+   {
+    "name": "Hellenic Lotteries contract",
+    "type": "Contract win",
+    "detail": "New contract announced in May for Greece",
+    "src": "official"
+   },
+   {
+    "name": "Ontario Lottery & Gaming Corporation (OLG) technology solution",
+    "type": "Contract win",
+    "detail": "Selected in June as new lottery technology provider",
+    "src": "official"
+   }
+  ],
+  "risks": [
+   "UK gaming tax increase to 40% creates EBITDAR pressure",
+   "Elevated competition affecting Atlantic City and East Saint Louis properties",
+   "Liquidity considerations reflected in recent financing activities"
+  ],
+  "quotes": [
+   {
+    "speaker": "Robeson Reeves, Chief Executive Officer",
+    "quote": "We delivered solid second quarter results across the enterprise and I am proud of the hard work and dedication of our team members as we move into the next phase of Bally’s omni-channel growth."
+   },
+   {
+    "speaker": "Robeson Reeves, Chief Executive Officer",
+    "quote": "We were thrilled to receive a Gaming Facility License from the New York State Gaming Commission at the end of last year."
+   },
+   {
+    "speaker": "Robeson Reeves, Chief Executive Officer",
+    "quote": "North America Interactive was a standout in the second quarter."
+   }
+  ],
+  "dates": [
+   {
+    "date": "June 2026",
+    "event": "Agreement to acquire evoke plc announced",
+    "src": "official"
+   },
+   {
+    "date": "July 2026",
+    "event": "Non‑binding term sheet for pre‑construction loan for Bally’s Bronx signed",
+    "src": "official"
+   },
+   {
+    "date": "August 2026",
+    "event": "Letter of intent with potential equity investor for Bronx project",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": "Bally's acquired evoke plc and secured new financing for the Bronx casino project.",
+   "effective": "June 2026",
+   "units": [
+    {
+     "unit": "Evoke plc",
+     "size": null,
+     "includes": "global sports betting and online gaming platform",
+     "leader": null,
+     "src": "official"
+    }
+   ],
+   "points": [
+    "Acquisition announced in June 2026 (official)",
+    "Financing for Bronx project secured in September‑October 2026 (news)"
+   ]
+  },
+  "leadership": [
+   {
+    "person": "Robeson Reeves",
+    "role": "Chief Executive Officer",
+    "change": "Unchanged",
+    "detail": null,
+    "src": "official"
+   }
+  ],
+  "unchanged": [
+   "Robeson Reeves (Chief Executive Officer)"
+  ],
+  "technology": [
+   {
+    "topic": "Acquisitions to integrate",
+    "points": [
+     "Acquired evoke plc, a global sports betting and online gaming leader (official)"
+    ],
+    "src": "official"
+   },
+   {
+    "topic": "Automation & digital platforms",
+    "points": [
+     "North America Interactive automation initiatives led by Sina Miri delivering $250M annualized digital revenue (official)",
+     "Lottery technology solution provider for OLG selected in June 2026, leveraging legacy Gamesys expertise (official)"
+    ],
+    "src": "official"
+   },
+   {
+    "topic": "Financing & capital structure",
+    "points": [
+     "Entered currency swaps converting $500M term loan to €461.6M fixed‑rate Euro debt due Oct 2028 (official)",
+     "Entered $1.0B interest‑rate swap to fix rates through 2028 (official)"
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Acquired evoke plc to expand sports betting platform.",
+    "Secured new financing for the $4B Bronx casino project.",
+    "Interim CFO appointed amid liquidity concerns."
+   ],
+   "technology": [
+    "Automation initiatives in North America Interactive generate $250M annualized revenue.",
+    "Evoke acquisition adds global betting tech capability.",
+    "OLG lottery contract uses Gamesys‑derived technology."
+   ]
+  },
+  "unverified_dropped": [
+   "person not in sources: Interim CFO (name not disclosed)"
+  ],
+  "format": 2,
+  "company": "Bally's",
+  "name": "Bally's Corporation",
+  "industry": "Gaming & Lottery",
+  "release_key": "0001747079-26-000082",
+  "release_date": "2026-08-14",
+  "documents": [
+   {
+    "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:26:53+00:00"
+ },
+ "Light & Wonder": {
+  "document_type": "Quarterly results",
+  "period": "Three months ended June 30 2026",
+  "headline": "Light & Wonder filed an 8‑K on August 4 2026 announcing it will release its three‑month results for the period ended June 30 2026. The press release and detailed numbers are not included in the filing.",
+  "at_a_glance": [
+   "Results to be released via press release attached as Exhibit 99.1",
+   "Company references GAAP and non‑GAAP measures",
+   "No guidance or financial metrics disclosed in the 8‑K"
+  ],
+  "guidance_verdict": "None given",
+  "guidance": [],
+  "guidance_notes": [],
+  "unit_outlook": [],
+  "medium_term": [],
+  "units": [],
+  "deals": [],
+  "risks": [],
+  "quotes": [],
+  "dates": [
+   {
+    "date": "2026-08-04",
+    "event": "Press release announcing three‑month results for period ended June 30 2026 filed as Exhibit 99.1",
+    "src": "official"
+   },
+   {
+    "date": null,
+    "event": "Scheduled date for Light & Wonder to report third quarter 2026 results (news)",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-21",
+    "event": "Fitch gave Light & Wonder a positive outlook on improving leverage (news)",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-20",
+    "event": "Morgan Stanley maintained AUD 181 target for Light & Wonder (news)",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-15",
+    "event": "Macquarie raised target to AUD 185 for Light & Wonder (news)",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": null,
+   "effective": null,
+   "units": [],
+   "points": []
+  },
+  "leadership": [],
+  "unchanged": [],
+  "technology": [],
+  "summary": {
+   "happening": [],
+   "technology": []
+  },
+  "unverified_dropped": [
+   "date: 2026-11-04"
+  ],
+  "format": 2,
+  "company": "Light & Wonder",
+  "name": "Light & Wonder",
+  "industry": "Gaming & Lottery",
+  "release_key": "0000750004-26-000032",
+  "release_date": "2026-08-04",
+  "documents": [
+   {
+    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:27:44+00:00"
+ },
+ "Brightstar (IGT)": {
+  "document_type": "Quarterly results",
+  "period": "Quarter ended 30 June 2026",
+  "headline": "Brightstar Lottery reported Q2 2026 results on 4 August 2026 and declared a $0.23 per share cash dividend. The company is extending technology contracts with Spain's ONCE and the New York Lottery.",
+  "at_a_glance": [
+   "Quarterly cash dividend of $0.23 per share declared",
+   "Contract extensions announced in Spain and New York",
+   "Results released 4 August 2026"
+  ],
+  "guidance_verdict": "None given",
+  "guidance": [],
+  "guidance_notes": [],
+  "unit_outlook": [],
+  "medium_term": [],
+  "units": [],
+  "deals": [
+   {
+    "name": "ONCE (Spain) contract extension",
+    "type": "Extension",
+    "detail": "Multi‑year extension for lottery technology enhancements",
+    "src": "news"
+   },
+   {
+    "name": "New York Lottery contract extension",
+    "type": "Extension",
+    "detail": "Two‑year extension to supply lottery technology",
+    "src": "news"
+   }
+  ],
+  "risks": [],
+  "quotes": [],
+  "dates": [
+   {
+    "date": "4 August 2026",
+    "event": "Q2 2026 results released and dividend declared",
+    "src": "official"
+   },
+   {
+    "date": "22 October 2026",
+    "event": "Contract extension announced with ONCE (Spain)",
+    "src": "official"
+   },
+   {
+    "date": "21 October 2026",
+    "event": "Contract extension announced with New York Lottery",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": null,
+   "effective": null,
+   "units": [],
+   "points": []
+  },
+  "leadership": [],
+  "unchanged": [],
+  "technology": [
+   {
+    "topic": "Lottery technology contract extensions",
+    "points": [
+     "Extended multi‑year technology contract with Spain's ONCE lottery (news)",
+     "Extended two‑year technology supply contract with New York Lottery (news)"
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Quarterly cash dividend of $0.23 per share declared (official).",
+    "Multi‑year contract extension signed with ONCE in Spain (news).",
+    "Two‑year contract extension signed with New York Lottery (news)."
+   ],
+   "technology": [
+    "Brightstar continues to supply and enhance lottery technology for ONCE, Spain.",
+    "Brightstar maintains technology services for New York Lottery under a new two‑year term."
+   ]
+  },
+  "unverified_dropped": [],
+  "format": 2,
+  "company": "Brightstar (IGT)",
+  "name": "IGT / Brightstar Lottery",
+  "industry": "Gaming & Lottery",
+  "release_key": "0001628280-26-052120",
+  "release_date": "2026-08-04",
+  "documents": [
+   {
+    "title": "a6-kx2q26earningsrelease.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120/a6-kx2q26earningsrelease.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:28:38+00:00"
+ },
+ "Scholastic": {
+  "document_type": "Quarterly results",
+  "period": "Quarter ended August 31, 2026",
+  "headline": "Scholastic released its Q3 2026 results on September 24, 2026. The company announced an acquisition of Cottage Door Press for $71 million. No guidance was provided.",
+  "at_a_glance": [
+   "Results for quarter ended Aug 31 2026 released Sep 24 2026",
+   "Acquisition of Cottage Door Press announced",
+   "No new financial guidance disclosed"
+  ],
+  "guidance_verdict": "None given",
+  "guidance": [],
+  "guidance_notes": [],
+  "unit_outlook": [],
+  "medium_term": [],
+  "units": [],
+  "deals": [
+   {
+    "name": "Cottage Door Press",
+    "type": "Acquisition",
+    "detail": "Scholastic to acquire Cottage Door Press for $71 million",
+    "src": "news"
+   }
+  ],
+  "risks": [],
+  "quotes": [],
+  "dates": [
+   {
+    "date": "2026-09-24",
+    "event": "Press release of quarter ended August 31, 2026 results",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": "Scholastic announced acquisition of Cottage Door Press for $71 million.",
+   "effective": "2026-09-29",
+   "units": [
+    {
+     "unit": "Cottage Door Press",
+     "size": null,
+     "includes": "early‑childhood publishing assets",
+     "leader": null,
+     "src": "news"
+    }
+   ],
+   "points": []
+  },
+  "leadership": [
+   {
+    "person": "Chris Lick",
+    "role": "Executive Vice President",
+    "change": "Other",
+    "detail": "Reported RSU tax‑withholding share sale on 2026-10-01",
+    "src": "news"
+   }
+  ],
+  "unchanged": [],
+  "technology": [
+   {
+    "topic": "Acquisitions to integrate",
+    "points": [
+     "Acquired Cottage Door Press, a fast‑growing early‑childhood publisher, for $71 million (news)"
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Scholastic to acquire Cottage Door Press for $71 M (2026‑09‑29).",
+    "EVP Chris Lick disclosed RSU share sale (2026‑10‑01)."
+   ],
+   "technology": [
+    "Acquisition adds early‑childhood publishing technology and assets (news)."
+   ]
+  },
+  "unverified_dropped": [],
+  "format": 2,
+  "company": "Scholastic",
+  "name": "Scholastic",
+  "industry": "Publishing & Information",
+  "release_key": "0000866729-26-000022",
+  "release_date": "2026-09-24",
+  "documents": [
+   {
+    "title": "Scholastic 8-K earnings release (Item 2.02)",
+    "url": "https://www.sec.gov/Archives/edgar/data/866729/000086672926000022/schl-20260924.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:29:33+00:00"
+ },
+ "Pearson": {
+  "document_type": "Trading update",
+  "period": "Nine months to 30 September 2026",
+  "headline": "Pearson reported 5% underlying revenue growth for the nine‑month period, accelerated to 6% in Q3, and narrowed its adjusted operating profit guidance to £650m‑£675m. Two strategic acquisitions were announced to strengthen assessment and AI‑driven enterprise capabilities.",
+  "at_a_glance": [
+   "Underlying revenue up 5% YoY, 6% in Q3",
+   "Adjusted operating profit range narrowed to £650m‑£675m",
+   "Virtual Learning revenue +17%, Assessment & Qualifications revenue +4% (Q3 +10%)",
+   "English Language Learning revenue down 4% (Q3 down 5%)",
+   "Acquired ITS and agreed to acquire Workera"
+  ],
+  "guidance_verdict": "Narrowed",
+  "guidance": [
+   {
+    "metric": "Adjusted operating profit",
+    "new": "£650m‑£675m",
+    "previous": "£640m‑£685m",
+    "change": "narrowed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "Underlying revenue growth",
+    "new": "mid‑single digit growth",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   },
+   {
+    "metric": "Free cash flow conversion",
+    "new": "90%‑100%",
+    "previous": null,
+    "change": "reaffirmed",
+    "note": null,
+    "src": "official"
+   }
+  ],
+  "guidance_notes": [
+   "Guidance expressed on an underlying basis at FX rates as at end‑2025 (£:$1.35)",
+   "Re‑organisation costs of c.£50m excluded from adjusted operating profit"
+  ],
+  "unit_outlook": [
+   {
+    "unit": "Assessment & Qualifications",
+    "outlook": "low‑to‑mid single‑digit revenue growth for full year",
+    "src": "official"
+   },
+   {
+    "unit": "Virtual Learning",
+    "outlook": "full‑year growth unchanged, stronger than 2025",
+    "src": "official"
+   },
+   {
+    "unit": "Higher Education",
+    "outlook": "continue to grow in 2026",
+    "src": "official"
+   },
+   {
+    "unit": "English Language Learning",
+    "outlook": "institutional growth expected, PTE expected to decline",
+    "src": "official"
+   }
+  ],
+  "medium_term": [
+   "Mid‑single digit underlying revenue growth CAGR",
+   "Sustained margin improvement",
+   "Free cash flow conversion of 90%‑100% on average"
+  ],
+  "units": [
+   {
+    "unit": "Assessment & Qualifications",
+    "numbers": "Revenue +4% YoY, Q3 +10%",
+    "points": [
+     "Growth driven by new contracts and AI skills verification demand",
+     "Professional assessments revenue accelerated with global certification programme with Anthropic",
+     "Clinical Assessment revenue grew 8% YoY"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Virtual Learning",
+    "numbers": "Revenue +17% YoY, Q3 +13%",
+    "points": [
+     "Enrolment growth 8% in Fall semester for 2026/27 academic year",
+     "Funding upside and favourable mix supporting growth"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Higher Education",
+    "numbers": "Revenue +2% YoY, Q3 +2%",
+    "points": [
+     "US Higher Education growth driven by Inclusive Access (+20%)",
+     "International Higher Education growth from enterprise partnership monetisation"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "English Language Learning",
+    "numbers": "Revenue –4% YoY, Q3 –5%",
+    "points": [
+     "Institutional segment offsetting decline in PTE",
+     "New AI‑driven PTE practice tools launched"
+    ],
+    "src": "official"
+   },
+   {
+    "unit": "Enterprise Learning & Skills",
+    "numbers": "Revenue +7% YoY, Q3 +6%",
+    "points": [
+     "Growth from newly awarded contracts and extension of existing deals",
+     "Strong demand for outcome‑based skilling programmes"
+    ],
+    "src": "official"
+   }
+  ],
+  "deals": [
+   {
+    "name": "ITS",
+    "type": "Acquisition",
+    "detail": "Completed acquisition of ITS, a trusted assessment technology partner",
+    "src": "official"
+   },
+   {
+    "name": "Workera",
+    "type": "Acquisition",
+    "detail": "Agreed to acquire Workera, an AI‑native enterprise assessment pioneer; expected to close before year‑end",
+    "src": "official"
+   }
+  ],
+  "risks": [
+   "One‑off reorganisation costs of c.£50m across FY26‑FY27",
+   "Non‑cash impairment of £87m on legacy product development assets",
+   "Market pressure on English Language Learning, especially PTE segment"
+  ],
+  "quotes": [
+   {
+    "speaker": "Omar Abbosh, Chief Executive",
+    "quote": "Pearson delivered accelerated revenue growth in the quarter, meaning we are on track to deliver our 2026 guidance."
+   }
+  ],
+  "dates": [
+   {
+    "date": "30 September 2026",
+    "event": "End of nine‑month reporting period",
+    "src": "official"
+   },
+   {
+    "date": "11 October 2026",
+    "event": "Virtual Schools Investor Seminar (online)",
+    "src": "official"
+   }
+  ],
+  "organisation": {
+   "summary": "Pearson is re‑segmenting into four customer‑focused business units and adopting a new operating model.",
+   "effective": "2026-09-30",
+   "units": [
+    {
+     "unit": "Assessment & Qualifications",
+     "size": null,
+     "includes": "core assessment and verification infrastructure",
+     "leader": null,
+     "src": "official"
+    },
+    {
+     "unit": "Virtual Learning",
+     "size": null,
+     "includes": "digital content and enrolment growth",
+     "leader": null,
+     "src": "official"
+    },
+    {
+     "unit": "Higher Education",
+     "size": null,
+     "includes": "inclusive access and US growth",
+     "leader": null,
+     "src": "official"
+    },
+    {
+     "unit": "Enterprise Learning & Skills",
+     "size": null,
+     "includes": "skills verification and AI‑driven talent platform",
+     "leader": null,
+     "src": "official"
+    }
+   ],
+   "points": [
+    "One‑off reorganisation costs of c.£50m across FY26‑FY27 (excluded from adjusted operating profit).",
+    "Savings from the re‑organisation will be reinvested into growth‑oriented core capabilities.",
+    "Re‑segmentation aims to sharpen accountability, improve agility and performance."
+   ]
+  },
+  "leadership": [
+   {
+    "person": "Omar Abbosh",
+    "role": "Chief Executive Officer",
+    "change": "Unchanged",
+    "detail": null,
+    "src": "official"
+   },
+   {
+    "person": "Tom ap Simon",
+    "role": "President, Higher Education and Virtual Learning",
+    "change": "Appointed",
+    "detail": "Effective during 2026 trading update",
+    "src": "official"
+   }
+  ],
+  "unchanged": [
+   "Omar Abbosh (Chief Executive)"
+  ],
+  "technology": [
+   {
+    "topic": "Acquisitions to integrate",
+    "points": [
+     "Completed acquisition of ITS, a trusted assessment technology partner (official).",
+     "Agreed to acquire Workera, an AI‑native enterprise assessment platform; expected completion before year‑end (official)."
+    ],
+    "src": "official"
+   },
+   {
+    "topic": "AI & digital products",
+    "points": [
+     "Launched AI‑powered co‑writing assistant for assessment products (official).",
+     "Developed AI‑driven skills intelligence platform for enterprise customers (official)."
+    ],
+    "src": "official"
+   },
+   {
+    "topic": "Platform convergence & cost",
+    "points": [
+     "£87m non‑cash impairment of legacy product development assets to converge platforms (official).",
+     "Expected operating profit improvement of c.£15m per annum from platform convergence (official)."
+    ],
+    "src": "official"
+   }
+  ],
+  "summary": {
+   "happening": [
+    "Re‑segmenting into four customer‑focused units with new operating model.",
+    "One‑off £50m reorganisation cost; savings reinvested in growth.",
+    "Acquired ITS and will acquire Workera to boost assessment tech.",
+    "AI‑driven products and platform convergence underway."
+   ],
+   "technology": [
+    "ITS acquisition adds in‑house assessment technology.",
+    "Workera acquisition brings AI‑native talent assessment.",
+    "AI co‑writing assistant launched for test‑takers.",
+    "Skills intelligence platform built for enterprise AI economy.",
+    "£87m impairment funds platform convergence, targeting £15m annual profit lift."
+   ]
+  },
+  "unverified_dropped": [
+   "note: mid‑point unchanged at £662.5m"
+  ],
+  "format": 2,
+  "company": "Pearson",
+  "name": "Pearson",
+  "industry": "Publishing & Information",
+  "release_key": "0001654954-26-009084",
+  "release_date": "2026-10-22",
+  "documents": [
+   {
+    "title": "PEARSON 2026 NINE MONTH TRADING UPDATE",
+    "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
+    "official": true,
+    "source": null
+   }
+  ],
+  "news_used": true,
+  "written_at": "2026-10-22T15:30:31+00:00"
+ }
+}

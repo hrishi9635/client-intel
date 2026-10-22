@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:14:32+00:00",
+ "updated": "2026-10-22T15:30:57+00:00",
  "titles": [
   {
    "key": "movie-969681",
@@ -20,9 +20,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 1659.2,
-   "tmdb_vote": 8.47,
-   "tmdb_votes": 5906,
+   "popularity": 1284.3,
+   "tmdb_vote": 8.5,
+   "tmdb_votes": 5934,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -57,7 +57,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "6d2fda5048e6",
+   "input_hash": "0da0bb493d48",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -100,8 +100,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
    "popularity": 391.2,
-   "tmdb_vote": 8.821,
-   "tmdb_votes": 145,
+   "tmdb_vote": 8.745,
+   "tmdb_votes": 153,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -118,7 +118,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "591c1e30dece",
+   "input_hash": "31559e737f00",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -202,89 +202,6 @@
    }
   },
   {
-   "key": "tv-108978",
-   "kind": "tv",
-   "tmdb_id": 108978,
-   "title": "Reacher",
-   "studio": "Skydance",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Prime Video",
-    "Amazon Studios",
-    "Skydance Television",
-    "Paramount Television Studios",
-    "Amazon MGM Studios"
-   ],
-   "release_date": "2026-09-16",
-   "first_air_date": "2022-02-03",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-   "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 362.2,
-   "tmdb_vote": 8.131,
-   "tmdb_votes": 3526,
-   "imdb_id": "tt9288030",
-   "tmdb_url": "https://www.themoviedb.org/tv/108978",
-   "tmdb_reviews": [
-    {
-     "author": "charles338",
-     "rating": null,
-     "text": "Bought Reacher: Season 1 on Blu-Ray. I absolutely Loved the series and I hope Amazon will continue filming it. The actor that plays Reacher in the series \"to me any way,\" fits closer to the description that Lee Child has in his books. Not to take anything away from Tom Cruise and the movies that he played Jack Reacher in, because he had a smaller frame. Both actors did a fantastic acting job in their films which I also have. Top class acting from both Alan Ritchson and Tom Cruise. I also have Le",
-     "url": "https://www.themoviedb.org/review/63e74c8063aad200e05c90d5"
-    },
-    {
-     "author": "misubisu",
-     "rating": 8.0,
-     "text": "Season one was a 10/10 show. I LOVED it. I waited with eager anticipation for season two... and when I finally got to watch it, I was so disappointed. In season one, Reacher was larger than life. In season two he just seemed les significant. Season two is 7/10. Still worth the watch, but just don't expect the same va-va-voom that season one had.",
-     "url": "https://www.themoviedb.org/review/65ab61170c4c1600c57bd9ce"
-    },
-    {
-     "author": "jw",
-     "rating": 5.0,
-     "text": "## A tale of two Reachers ### a matter of taste. _Disclaimer: I haven't read the books._ You can re-cast characters, and play the same thing differently. That's OK. The Reacher we get in the Tom Cruise variant is perceptive, clever, cautious; he relies on his wits and knowledge of human nature. He does what he thinks necessary and right, tends to avoid collateral damage. He's a loner, and perfectly fine with it. The Reacher we get in the Alan Ritchson variant is a Hulk with penchant for killing;",
-     "url": "https://www.themoviedb.org/review/65bda8b86c449c01308bd746"
-    },
-    {
-     "author": "cavemanharris",
-     "rating": null,
-     "text": "Season 1 of Reacher blew me away! Pure Jack Reacher - a one-man wrecking crew taking down bad guys. But season 2? Yikes. It felt like a cheap action movie showcasing a bunch of ex-military buddies instead. Lost the whole \"lone wolf\" vibe that made Reacher so cool. Should've called it \"Reacher and the Misfit Battalion.\"",
-     "url": "https://www.themoviedb.org/review/65f9f1521cfe3a0186f742d3"
-    }
-   ],
-   "imdb_rating": 8.0,
-   "imdb_votes": 311400.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "f80ef82d5431",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "fits description from books",
-     "larger than life in season 1",
-     "pure Jack Reacher vibe"
-    ],
-    "complaints": [
-     "season two less significant",
-     "cheap action feel",
-     "lost lone‑wolf vibe"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Season 1 praised, season 2 seen as a downgrade.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T06:13:11+00:00"
-   }
-  },
-  {
    "key": "tv-456",
    "kind": "tv",
    "tmdb_id": 456,
@@ -304,9 +221,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 338.6,
-   "tmdb_vote": 8.025,
-   "tmdb_votes": 11093,
+   "popularity": 363.3,
+   "tmdb_vote": 8.026,
+   "tmdb_votes": 11096,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -341,7 +258,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "255e5db8e6c2",
+   "input_hash": "a0de7ce2f3a3",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -361,6 +278,89 @@
     "buzz": "High",
     "box_office_verdict": "not stated",
     "summary": "Fans love the classic feel, but some find it past its prime.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-22T06:13:11+00:00"
+   }
+  },
+  {
+   "key": "tv-108978",
+   "kind": "tv",
+   "tmdb_id": 108978,
+   "title": "Reacher",
+   "studio": "Skydance",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Prime Video",
+    "Amazon Studios",
+    "Skydance Television",
+    "Paramount Television Studios",
+    "Amazon MGM Studios"
+   ],
+   "release_date": "2026-09-16",
+   "first_air_date": "2022-02-03",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+   "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+   "popularity": 344.3,
+   "tmdb_vote": 8.132,
+   "tmdb_votes": 3527,
+   "imdb_id": "tt9288030",
+   "tmdb_url": "https://www.themoviedb.org/tv/108978",
+   "tmdb_reviews": [
+    {
+     "author": "charles338",
+     "rating": null,
+     "text": "Bought Reacher: Season 1 on Blu-Ray. I absolutely Loved the series and I hope Amazon will continue filming it. The actor that plays Reacher in the series \"to me any way,\" fits closer to the description that Lee Child has in his books. Not to take anything away from Tom Cruise and the movies that he played Jack Reacher in, because he had a smaller frame. Both actors did a fantastic acting job in their films which I also have. Top class acting from both Alan Ritchson and Tom Cruise. I also have Le",
+     "url": "https://www.themoviedb.org/review/63e74c8063aad200e05c90d5"
+    },
+    {
+     "author": "misubisu",
+     "rating": 8.0,
+     "text": "Season one was a 10/10 show. I LOVED it. I waited with eager anticipation for season two... and when I finally got to watch it, I was so disappointed. In season one, Reacher was larger than life. In season two he just seemed les significant. Season two is 7/10. Still worth the watch, but just don't expect the same va-va-voom that season one had.",
+     "url": "https://www.themoviedb.org/review/65ab61170c4c1600c57bd9ce"
+    },
+    {
+     "author": "jw",
+     "rating": 5.0,
+     "text": "## A tale of two Reachers ### a matter of taste. _Disclaimer: I haven't read the books._ You can re-cast characters, and play the same thing differently. That's OK. The Reacher we get in the Tom Cruise variant is perceptive, clever, cautious; he relies on his wits and knowledge of human nature. He does what he thinks necessary and right, tends to avoid collateral damage. He's a loner, and perfectly fine with it. The Reacher we get in the Alan Ritchson variant is a Hulk with penchant for killing;",
+     "url": "https://www.themoviedb.org/review/65bda8b86c449c01308bd746"
+    },
+    {
+     "author": "cavemanharris",
+     "rating": null,
+     "text": "Season 1 of Reacher blew me away! Pure Jack Reacher - a one-man wrecking crew taking down bad guys. But season 2? Yikes. It felt like a cheap action movie showcasing a bunch of ex-military buddies instead. Lost the whole \"lone wolf\" vibe that made Reacher so cool. Should've called it \"Reacher and the Misfit Battalion.\"",
+     "url": "https://www.themoviedb.org/review/65f9f1521cfe3a0186f742d3"
+    }
+   ],
+   "imdb_rating": 8.0,
+   "imdb_votes": 311400.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "160d75e2ada1",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "fits description from books",
+     "larger than life in season 1",
+     "pure Jack Reacher vibe"
+    ],
+    "complaints": [
+     "season two less significant",
+     "cheap action feel",
+     "lost lone‑wolf vibe"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Season 1 praised, season 2 seen as a downgrade.",
     "unverified_dropped": [
      "key"
     ],
@@ -388,8 +388,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
    "popularity": 337.2,
-   "tmdb_vote": 8.205,
-   "tmdb_votes": 11090,
+   "tmdb_vote": 8.2,
+   "tmdb_votes": 11091,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -418,7 +418,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "634751ebae0d",
+   "input_hash": "be7f0d87c676",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -492,8 +492,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
    "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
    "popularity": 259.6,
-   "tmdb_vote": 7.795,
-   "tmdb_votes": 453,
+   "tmdb_vote": 7.791,
+   "tmdb_votes": 455,
    "imdb_id": "tt28498219",
    "tmdb_url": "https://www.themoviedb.org/movie/1148365",
    "tmdb_reviews": [
@@ -522,7 +522,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "32f4c0469453",
+   "input_hash": "34f0c011c818",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -637,8 +637,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
    "popularity": 245.8,
-   "tmdb_vote": 8.531,
-   "tmdb_votes": 1064,
+   "tmdb_vote": 8.533,
+   "tmdb_votes": 1067,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -661,7 +661,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "f6b15660ecdf",
+   "input_hash": "83701909b8ca",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -835,8 +835,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
    "popularity": 1544.6,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 5211,
+   "tmdb_vote": 8.329,
+   "tmdb_votes": 5212,
    "imdb_id": "tt0121955",
    "tmdb_url": "https://www.themoviedb.org/tv/2190",
    "tmdb_reviews": [
@@ -859,7 +859,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "dc12773a1ad7",
+   "input_hash": "4e620a913234",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -906,8 +906,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
    "popularity": 1482.8,
-   "tmdb_vote": 7.289,
-   "tmdb_votes": 736,
+   "tmdb_vote": 7.293,
+   "tmdb_votes": 737,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
    "tmdb_reviews": [],
@@ -917,7 +917,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "15930201a07f",
+   "input_hash": "dc49acf9aa4d",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -985,8 +985,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
    "popularity": 450.0,
-   "tmdb_vote": 8.014,
-   "tmdb_votes": 4208,
+   "tmdb_vote": 8.015,
+   "tmdb_votes": 4210,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1021,7 +1021,7 @@
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
    "trade": [],
-   "input_hash": "e17481ee0f76",
+   "input_hash": "5c83f9072916",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1041,6 +1041,87 @@
     "buzz": "High",
     "box_office_verdict": "hit",
     "summary": "Divisive reactions to a grand but controversial take on Homer’s classic.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-22T06:14:05+00:00"
+   }
+  },
+  {
+   "key": "movie-1058424",
+   "kind": "movie",
+   "tmdb_id": 1058424,
+   "title": "Hope",
+   "studio": "Forged Films",
+   "parent": "Forged Films",
+   "group": "Rest of industry",
+   "companies": [
+    "Forged Films",
+    "Plus M Entertainment",
+    "Westworld Story"
+   ],
+   "release_date": "2026-07-15",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+   "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
+   "popularity": 433.8,
+   "tmdb_vote": 6.868,
+   "tmdb_votes": 296,
+   "imdb_id": "tt27369017",
+   "tmdb_url": "https://www.themoviedb.org/movie/1058424",
+   "tmdb_reviews": [
+    {
+     "author": "Brent Marchant",
+     "rating": 4.0,
+     "text": "An old saying maintains “Never put the cart before the horse,” an observation whose implications should be obvious. That applies in filmmaking, too: When a standalone production is thought to be the inspiration for a new franchise, the creators need to be careful not to get ahead of themselves. That’s to say that the first film in the proposed series absolutely must be a knock-out to earn the right to a sequel (or sequels) (“Star Trek” notwithstanding). But, if those behind the initial effort ar",
+     "url": "https://www.themoviedb.org/review/6aa6335e26f5df085cecb1d9"
+    },
+    {
+     "author": "CinemaSerf",
+     "rating": 6.0,
+     "text": "The discovery of a badly mauled cow is quite perplexing for the local police chief (Hwang Jung-min), especially when a few of his wise-cracking citizens suggest it might have been caused by a marauding tiger! It doesn't take him long to realise that whatever it is, it's a great deal bigger and more menacing than a cat as he returns to town and finds scenes of death and destruction with gunfire sounding regularly. What are they shooting at? Meantime, out in the woods his group of mischievous tige",
+     "url": "https://www.themoviedb.org/review/6abe257b72f358f1406567c4"
+    },
+    {
+     "author": "Chris Sawin",
+     "rating": 9.0,
+     "text": "*Hope* is one of the most well-rounded action thrillers of the year. The clunky ending does drop its otherwise action-packed masterpiece status down slightly, but *Hope* effortlessly blends so many genres with stellar performances, impressive gore, and intensely riveting action sequences. https://bit.ly/NaHopejin",
+     "url": "https://www.themoviedb.org/review/6ac97e90b22b37b291de30c4"
+    },
+    {
+     "author": "Sierbahnn",
+     "rating": 8.0,
+     "text": "This is a really bad day for Hope Harbor. You build tension in movies by the characters being relatable and putting them in peril that you can understand. This movie does this exceedingly well because you can tell just how terrified the characters are of what is going on around them. It effectively builds the tension and you get very engaged in what is happening. The movie shifts tonally a few times and yet manages to keep me engaged and invested throughout. It feels like the start of a multi-mo",
+     "url": "https://www.themoviedb.org/review/6ad2629ddb5df95fbe1d2099"
+    }
+   ],
+   "imdb_rating": 6.9,
+   "imdb_votes": 4367.0,
+   "rt": 78.0,
+   "metascore": 66.0,
+   "box_office_usd": 2647000.0,
+   "trade": [],
+   "input_hash": "78645907f1b0",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 60,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "well‑rounded action thriller",
+     "stellar performances",
+     "riveting action sequences"
+    ],
+    "complaints": [
+     "clunky ending",
+     "knock‑off franchise feel",
+     "perplexing plot twists"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "under-performing",
+    "summary": "Generally praised for its action and genre blend, though some see it as a shaky franchise starter.",
     "unverified_dropped": [
      "key"
     ],
@@ -1119,87 +1200,6 @@
    }
   },
   {
-   "key": "movie-1058424",
-   "kind": "movie",
-   "tmdb_id": 1058424,
-   "title": "Hope",
-   "studio": "Forged Films",
-   "parent": "Forged Films",
-   "group": "Rest of industry",
-   "companies": [
-    "Forged Films",
-    "Plus M Entertainment",
-    "Westworld Story"
-   ],
-   "release_date": "2026-07-15",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-   "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 408.3,
-   "tmdb_vote": 6.861,
-   "tmdb_votes": 294,
-   "imdb_id": "tt27369017",
-   "tmdb_url": "https://www.themoviedb.org/movie/1058424",
-   "tmdb_reviews": [
-    {
-     "author": "Brent Marchant",
-     "rating": 4.0,
-     "text": "An old saying maintains “Never put the cart before the horse,” an observation whose implications should be obvious. That applies in filmmaking, too: When a standalone production is thought to be the inspiration for a new franchise, the creators need to be careful not to get ahead of themselves. That’s to say that the first film in the proposed series absolutely must be a knock-out to earn the right to a sequel (or sequels) (“Star Trek” notwithstanding). But, if those behind the initial effort ar",
-     "url": "https://www.themoviedb.org/review/6aa6335e26f5df085cecb1d9"
-    },
-    {
-     "author": "CinemaSerf",
-     "rating": 6.0,
-     "text": "The discovery of a badly mauled cow is quite perplexing for the local police chief (Hwang Jung-min), especially when a few of his wise-cracking citizens suggest it might have been caused by a marauding tiger! It doesn't take him long to realise that whatever it is, it's a great deal bigger and more menacing than a cat as he returns to town and finds scenes of death and destruction with gunfire sounding regularly. What are they shooting at? Meantime, out in the woods his group of mischievous tige",
-     "url": "https://www.themoviedb.org/review/6abe257b72f358f1406567c4"
-    },
-    {
-     "author": "Chris Sawin",
-     "rating": 9.0,
-     "text": "*Hope* is one of the most well-rounded action thrillers of the year. The clunky ending does drop its otherwise action-packed masterpiece status down slightly, but *Hope* effortlessly blends so many genres with stellar performances, impressive gore, and intensely riveting action sequences. https://bit.ly/NaHopejin",
-     "url": "https://www.themoviedb.org/review/6ac97e90b22b37b291de30c4"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 8.0,
-     "text": "This is a really bad day for Hope Harbor. You build tension in movies by the characters being relatable and putting them in peril that you can understand. This movie does this exceedingly well because you can tell just how terrified the characters are of what is going on around them. It effectively builds the tension and you get very engaged in what is happening. The movie shifts tonally a few times and yet manages to keep me engaged and invested throughout. It feels like the start of a multi-mo",
-     "url": "https://www.themoviedb.org/review/6ad2629ddb5df95fbe1d2099"
-    }
-   ],
-   "imdb_rating": 6.9,
-   "imdb_votes": 4367.0,
-   "rt": 78.0,
-   "metascore": 66.0,
-   "box_office_usd": 2647000.0,
-   "trade": [],
-   "input_hash": "2e9d7215c00d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 60,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "well‑rounded action thriller",
-     "stellar performances",
-     "riveting action sequences"
-    ],
-    "complaints": [
-     "clunky ending",
-     "knock‑off franchise feel",
-     "perplexing plot twists"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "under-performing",
-    "summary": "Generally praised for its action and genre blend, though some see it as a shaky franchise starter.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T06:14:05+00:00"
-   }
-  },
-  {
    "key": "tv-59941",
    "kind": "tv",
    "tmdb_id": 59941,
@@ -1257,94 +1257,6 @@
      "key"
     ],
     "analysed_at": "2026-10-16T20:39:58+00:00"
-   }
-  },
-  {
-   "key": "movie-1153576",
-   "kind": "movie",
-   "tmdb_id": 1153576,
-   "title": "Street Fighter",
-   "studio": "Legendary",
-   "parent": "Legendary",
-   "group": "Rest of industry",
-   "companies": [
-    "Capcom",
-    "Legendary Pictures"
-   ],
-   "release_date": "2026-10-13",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-   "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against eac",
-   "popularity": 375.8,
-   "tmdb_vote": 6.215,
-   "tmdb_votes": 135,
-   "imdb_id": "tt27419420",
-   "tmdb_url": "https://www.themoviedb.org/movie/1153576",
-   "tmdb_reviews": [
-    {
-     "author": "ZeBlah",
-     "rating": 8.0,
-     "text": "I didn't regret watching it, a lot better than the older Street Fighter/Mortal Kombat movies. I liked the flow, the characters & actors, the fighting moves, and the use of anime sequences (changing to/from anime helped as well to keep me interested). Two hours were for my taste too long and I would have shortened/compressed it to 1.5, I would have slightly changed the sound & music audio levels and chosen from time to time some even more aggressive songs (e.g. Slipknot?), I'm not a big fan of fl",
-     "url": "https://www.themoviedb.org/review/6ad3b424e24eebda52796376"
-    },
-    {
-     "author": "warptraill",
-     "rating": 9.0,
-     "text": "As someone who grew up mastering combos and bonding over *Street Fighter* across console generations with my brother, this adaptation delivered everything we hoped for. The filmmakers clearly respect the source material: from the UI fonts and audio cues to signature move choreography and mid-fight banter, the film is packed with authentic Easter eggs that reward longtime fans without getting bogged down in tedious exposition. At its core, the emotional anchor is the relationship between Ryu and ",
-     "url": "https://www.themoviedb.org/review/6ad5746e941472827d0d9edd"
-    },
-    {
-     "author": "Manuel São Bento",
-     "rating": 6.0,
-     "text": "Check out my full review @ https://movieswetextedabout.com/street-fighter-movie-review-callina-liang-stands-out-in-a-dumb-fun-adaptation/ Rating: B- STREET FIGHTER delivers exactly what it sells: dumb fun packed with references for fans of the game, made by people fully aware of how silly the whole thing is. The 2D animated sequences are the clear highlight, the fights are intense and energetic, and the neon-retro look and practical sets give it more personality than the recent Mortal Kombat fil",
-     "url": "https://www.themoviedb.org/review/6ad67042600b7f84b69d3651"
-    },
-    {
-     "author": "UnexpectedCheese",
-     "rating": 5.0,
-     "text": "Street Fighter has its moments, but it never quite comes together. There’s some fun in seeing these characters brought to life, and the action provides occasional entertainment, but the story gives you little reason to care between fights. The cheesiness sometimes works in its favor; other times, it just makes everything feel awkward. I wasn’t expecting a deep story, but a stronger sense of momentum and more memorable character interactions would have gone a long way. An uneven diversion with en",
-     "url": "https://www.themoviedb.org/review/6ad703f288c2986053bed9cc"
-    }
-   ],
-   "imdb_rating": 6.2,
-   "imdb_votes": 1231.0,
-   "rt": null,
-   "metascore": 46.0,
-   "box_office_usd": null,
-   "trade": [
-    {
-     "title": "‘Street Fighter’ Director Kitao Sakurai Built a Career by Embracing the Ridiculous",
-     "link": "https://www.hollywoodreporter.com/movies/movie-features/street-fighter-director-kitao-sakurai-ending-sequel-1236737763/",
-     "source": "The Hollywood Reporter",
-     "published": "2026-10-21",
-     "snippet": "Sakurai helped launch ‘The Eric Andre Show’ in the 2010s, a building block that has now led to a big-budget video game movie."
-    }
-   ],
-   "input_hash": "229e58e08a28",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 30,
-    "critics_vs_audience": "Audience higher",
-    "gap_note": "critics low",
-    "praises": [
-     "authentic Easter eggs",
-     "dumb fun",
-     "anime‑style fight sequences"
-    ],
-    "complaints": [
-     "runtime too long",
-     "thin story",
-     "cheesiness"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Fans enjoy the fan‑service and fun, but critics note pacing and narrative weaknesses.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T06:14:05+00:00"
    }
   },
   {
@@ -1408,72 +1320,155 @@
    }
   },
   {
-   "key": "movie-1291595",
+   "key": "movie-1153576",
    "kind": "movie",
-   "tmdb_id": 1291595,
-   "title": "Insidious: Out of the Further",
-   "studio": "Sony Pictures",
-   "parent": "Sony",
+   "tmdb_id": 1153576,
+   "title": "Street Fighter",
+   "studio": "Legendary",
+   "parent": "Legendary",
    "group": "Rest of industry",
    "companies": [
-    "Screen Gems",
-    "Stage 6 Films",
-    "Atomic Monster",
-    "TSG Entertainment",
-    "Blumhouse Atomic Monster"
+    "Capcom",
+    "Legendary Pictures"
    ],
-   "release_date": "2026-08-19",
+   "release_date": "2026-10-13",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-   "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-   "popularity": 255.6,
-   "tmdb_vote": 7.716,
-   "tmdb_votes": 857,
-   "imdb_id": "tt32393988",
-   "tmdb_url": "https://www.themoviedb.org/movie/1291595",
+   "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+   "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against eac",
+   "popularity": 298.4,
+   "tmdb_vote": 6.318,
+   "tmdb_votes": 146,
+   "imdb_id": "tt27419420",
+   "tmdb_url": "https://www.themoviedb.org/movie/1153576",
    "tmdb_reviews": [
     {
-     "author": "CinemaSerf",
-     "rating": 6.0,
-     "text": "We discover from fairly early on that the young \"Gemma\" (Charli Penton) is usually left to her own devices by her clearly distracted mother, so it's no surprise when we spin forward a generation and discover that she (now Amelie Eve) has had to deal with a fairly traumatic experience before going on to becoming a dentist and raising her own daughter \"Maya\" (Island Austin) in the very same house. She's been dating, on the quiet, the hunky cop \"Nick\" (Brandon Perez) and all in her life seems stabl",
-     "url": "https://www.themoviedb.org/review/6a90105f3e443f651c8ada26"
+     "author": "ZeBlah",
+     "rating": 8.0,
+     "text": "I didn't regret watching it, a lot better than the older Street Fighter/Mortal Kombat movies. I liked the flow, the characters & actors, the fighting moves, and the use of anime sequences (changing to/from anime helped as well to keep me interested). Two hours were for my taste too long and I would have shortened/compressed it to 1.5, I would have slightly changed the sound & music audio levels and chosen from time to time some even more aggressive songs (e.g. Slipknot?), I'm not a big fan of fl",
+     "url": "https://www.themoviedb.org/review/6ad3b424e24eebda52796376"
     },
     {
-     "author": "Dean",
-     "rating": 7.0,
-     "text": "*Insidious: Out of the Further* isn't reinventing the wheel on its sixth go-around, but it delivers enough legitimate chills to earn its keep. Directed by Jacob Chase, the film shines brightest when it leans into surreal visual set pieces—including a nauseatingly tense dental-chair sequence and a claustrophobic, spatial-warping couch fort. Amelia Eve gives a strong, grounded lead performance, and Lin Shaye’s return as Elise Rainier provides the usual warm, ghostly nostalgia that ties the franchi",
-     "url": "https://www.themoviedb.org/review/6a9c4df97d8d28aa55d18488"
+     "author": "warptraill",
+     "rating": 9.0,
+     "text": "As someone who grew up mastering combos and bonding over *Street Fighter* across console generations with my brother, this adaptation delivered everything we hoped for. The filmmakers clearly respect the source material: from the UI fonts and audio cues to signature move choreography and mid-fight banter, the film is packed with authentic Easter eggs that reward longtime fans without getting bogged down in tedious exposition. At its core, the emotional anchor is the relationship between Ryu and ",
+     "url": "https://www.themoviedb.org/review/6ad5746e941472827d0d9edd"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 6.0,
+     "text": "Check out my full review @ https://movieswetextedabout.com/street-fighter-movie-review-callina-liang-stands-out-in-a-dumb-fun-adaptation/ Rating: B- STREET FIGHTER delivers exactly what it sells: dumb fun packed with references for fans of the game, made by people fully aware of how silly the whole thing is. The 2D animated sequences are the clear highlight, the fights are intense and energetic, and the neon-retro look and practical sets give it more personality than the recent Mortal Kombat fil",
+     "url": "https://www.themoviedb.org/review/6ad67042600b7f84b69d3651"
+    },
+    {
+     "author": "UnexpectedCheese",
+     "rating": 5.0,
+     "text": "Street Fighter has its moments, but it never quite comes together. There’s some fun in seeing these characters brought to life, and the action provides occasional entertainment, but the story gives you little reason to care between fights. The cheesiness sometimes works in its favor; other times, it just makes everything feel awkward. I wasn’t expecting a deep story, but a stronger sense of momentum and more memorable character interactions would have gone a long way. An uneven diversion with en",
+     "url": "https://www.themoviedb.org/review/6ad703f288c2986053bed9cc"
     }
    ],
    "imdb_rating": 6.2,
-   "imdb_votes": 13228.0,
-   "rt": 57.0,
-   "metascore": 47.0,
-   "box_office_usd": 55689759.0,
+   "imdb_votes": 1231.0,
+   "rt": null,
+   "metascore": 46.0,
+   "box_office_usd": null,
    "trade": [],
-   "input_hash": "1a9bfd2f054e",
+   "input_hash": "f674fa0b95f5",
    "ai": {
     "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 77,
+    "audience_sentiment": "Mixed",
+    "audience_score": 30,
     "critics_vs_audience": "Audience higher",
-    "gap_note": "critics lower",
+    "gap_note": "critics low",
     "praises": [
-     "legitimate chills",
-     "surreal visual set pieces",
-     "strong grounded performance"
+     "authentic Easter eggs",
+     "dumb fun",
+     "anime‑style fight sequences"
     ],
     "complaints": [
-     "not reinventing the wheel"
+     "runtime too long",
+     "thin story",
+     "cheesiness"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Delivers enough chills with striking visuals despite familiar formula",
+    "summary": "Fans enjoy the fan‑service and fun, but critics note pacing and narrative weaknesses.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-22T06:14:32+00:00"
+    "analysed_at": "2026-10-22T06:14:05+00:00"
+   }
+  },
+  {
+   "key": "tv-95480",
+   "kind": "tv",
+   "tmdb_id": 95480,
+   "title": "Slow Horses",
+   "studio": "Apple",
+   "parent": "Apple",
+   "group": "Rest of industry",
+   "companies": [
+    "Apple TV",
+    "See-Saw Films",
+    "Flying Studio Pictures",
+    "Sony Pictures Television"
+   ],
+   "release_date": "2026-10-21",
+   "first_air_date": "2022-04-01",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "popularity": 280.2,
+   "tmdb_vote": 8.1,
+   "tmdb_votes": 1062,
+   "imdb_id": "tt5875444",
+   "tmdb_url": "https://www.themoviedb.org/tv/95480",
+   "tmdb_reviews": [
+    {
+     "author": "Chandler Danier",
+     "rating": 9.0,
+     "text": "Source material seems great. Oldman is a wonderful piece of work. Twisty spy craft with good humour. Bureaucratic nonsense and secret dealings.",
+     "url": "https://www.themoviedb.org/review/658c7414ebb99d085def0dce"
+    },
+    {
+     "author": "misubisu",
+     "rating": 9.0,
+     "text": "## **Slow Horses: A Gloriously Grubby Masterclass in Spycraft** Forget the slick, high-tech world of James Bond. In the shadowy corners of London, there’s a crumbling, foul-smelling building on Slough House where failed MI5 agents are sent to rot. They are the \"Slow Horses,\" and their story is the best spy thriller on television. A potent cocktail of whip-smart writing, flawless performances, and unapologetic grit, *Slow Horses* is a near-perfect series that consistently exceeds expectations. ##",
+     "url": "https://www.themoviedb.org/review/6902e30865d9cca8119a7a41"
+    },
+    {
+     "author": "TarynsEyes",
+     "rating": null,
+     "text": "A little late to this site, and certainly wish I knew about it sooner. This is a fantastic show with a awesome cast with each filling their role incredibly. Gary Oldman is by far a most underrated actor. The plots, dialog, settingsare wonderful. Do not ignore this show.",
+     "url": "https://www.themoviedb.org/review/69b465be01e1361e4d718f80"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 162097.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "7ed91404b7d4",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 80,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "great source material",
+     "wonderful cast and Gary Oldman",
+     "twisty spycraft with humour"
+    ],
+    "complaints": [],
+    "buzz": "High",
+    "box_office_verdict": "not stated",
+    "summary": "Slow Horses is praised for its smart writing, strong cast and gritty spycraft.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-22T15:30:57+00:00"
    }
   },
   {
@@ -1495,9 +1490,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-   "popularity": 251.1,
-   "tmdb_vote": 7.3,
-   "tmdb_votes": 609,
+   "popularity": 257.7,
+   "tmdb_vote": 7.284,
+   "tmdb_votes": 612,
    "imdb_id": "tt31192372",
    "tmdb_url": "https://www.themoviedb.org/movie/1101412",
    "tmdb_reviews": [
@@ -1520,7 +1515,7 @@
    "metascore": 53.0,
    "box_office_usd": 3443026.0,
    "trade": [],
-   "input_hash": "6f4010c8f2fb",
+   "input_hash": "1731137753a4",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1544,57 +1539,68 @@
    }
   },
   {
-   "key": "tv-82873",
-   "kind": "tv",
-   "tmdb_id": 82873,
-   "title": "The Kelly Clarkson Show",
-   "studio": "Syndication",
-   "parent": "Syndication",
+   "key": "movie-1291595",
+   "kind": "movie",
+   "tmdb_id": 1291595,
+   "title": "Insidious: Out of the Further",
+   "studio": "Sony Pictures",
+   "parent": "Sony",
    "group": "Rest of industry",
    "companies": [
-    "Syndication",
-    "NBCUniversal Syndication Studios"
+    "Screen Gems",
+    "Stage 6 Films",
+    "Atomic Monster",
+    "TSG Entertainment",
+    "Blumhouse Atomic Monster"
    ],
-   "release_date": "2026-08-31",
-   "first_air_date": "2019-09-09",
+   "release_date": "2026-08-19",
+   "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-   "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-   "popularity": 232.5,
-   "tmdb_vote": 6.2,
-   "tmdb_votes": 73,
-   "imdb_id": "tt9022950",
-   "tmdb_url": "https://www.themoviedb.org/tv/82873",
+   "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+   "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+   "popularity": 255.6,
+   "tmdb_vote": 7.717,
+   "tmdb_votes": 866,
+   "imdb_id": "tt32393988",
+   "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
     {
-     "author": "doggy30",
-     "rating": 9.0,
-     "text": "I am a guy who can't work due to disability so most of my days are spent watching daytime TV I kept seeing ads for this and thought oh my God how stupid but boy was I ever wrong this is one of the best new talk shows this fall Kelly herself is a blast funny beautiful and exciting so much fun to watch a show I don't miss",
-     "url": "https://www.themoviedb.org/review/5d836ac8162bc30227de9dd8"
+     "author": "CinemaSerf",
+     "rating": 6.0,
+     "text": "We discover from fairly early on that the young \"Gemma\" (Charli Penton) is usually left to her own devices by her clearly distracted mother, so it's no surprise when we spin forward a generation and discover that she (now Amelie Eve) has had to deal with a fairly traumatic experience before going on to becoming a dentist and raising her own daughter \"Maya\" (Island Austin) in the very same house. She's been dating, on the quiet, the hunky cop \"Nick\" (Brandon Perez) and all in her life seems stabl",
+     "url": "https://www.themoviedb.org/review/6a90105f3e443f651c8ada26"
+    },
+    {
+     "author": "Dean",
+     "rating": 7.0,
+     "text": "*Insidious: Out of the Further* isn't reinventing the wheel on its sixth go-around, but it delivers enough legitimate chills to earn its keep. Directed by Jacob Chase, the film shines brightest when it leans into surreal visual set pieces—including a nauseatingly tense dental-chair sequence and a claustrophobic, spatial-warping couch fort. Amelia Eve gives a strong, grounded lead performance, and Lin Shaye’s return as Elise Rainier provides the usual warm, ghostly nostalgia that ties the franchi",
+     "url": "https://www.themoviedb.org/review/6a9c4df97d8d28aa55d18488"
     }
    ],
-   "imdb_rating": 5.9,
-   "imdb_votes": 1433.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
+   "imdb_rating": 6.2,
+   "imdb_votes": 13228.0,
+   "rt": 57.0,
+   "metascore": 47.0,
+   "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "e2788923b816",
+   "input_hash": "630e8a5e4cbd",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
-    "audience_score": 62,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
+    "audience_score": 77,
+    "critics_vs_audience": "Audience higher",
+    "gap_note": "critics lower",
     "praises": [
-     "best new talk show",
-     "Kelly a blast",
-     "fun to watch"
+     "legitimate chills",
+     "surreal visual set pieces",
+     "strong grounded performance"
     ],
-    "complaints": [],
-    "buzz": "High",
+    "complaints": [
+     "not reinventing the wheel"
+    ],
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Highly praised talk show praised for its host and entertaining format",
+    "summary": "Delivers enough chills with striking visuals despite familiar formula",
     "unverified_dropped": [
      "key"
     ],
