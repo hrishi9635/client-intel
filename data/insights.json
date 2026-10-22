@@ -1490,183 +1490,116 @@
  },
  "Pearson": {
   "results_found": true,
-  "period_label": "H1 2026",
+  "period_label": "nine months ended September 2026",
   "fiscal_label": null,
-  "period_end": "2026-06-30",
-  "results_date": "2026-07-31",
-  "headline": "Pearson delivered 4% revenue growth and a 14% rise in adjusted operating profit in H1 2026.",
+  "period_end": "2026-09-30",
+  "results_date": "2026-10-22",
+  "headline": "Pearson reports accelerated revenue growth and narrows its 2026 operating profit guidance.",
   "metrics": {
-   "revenue_m": 1779,
-   "revenue_growth_yoy_pct": 4,
-   "operating_income_m": 252,
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": 5,
+   "operating_income_m": null,
    "operating_margin_pct": null,
-   "net_income_m": 149,
-   "eps": 24.0
+   "net_income_m": null,
+   "eps": null
   },
-  "guidance": "Mid‑single‑digit underlying revenue growth and adjusted operating profit of £640m‑£685m for 2026.",
-  "guidance_change": "retained",
+  "guidance": "Underlying revenue growth mid‑single‑digit for 2026; adjusted operating profit target £650m‑£675m; free cash flow conversion 90‑100%.",
+  "guidance_change": "cut",
   "segments": [
-   {
-    "name": "Virtual Learning",
-    "trend": "Up",
-    "note": "Revenue grew 19%"
-   },
    {
     "name": "Assessment & Qualifications",
     "trend": "Up",
-    "note": "Returned to growth in Q2"
+    "note": "Revenue grew 7% in the nine‑month period."
+   },
+   {
+    "name": "Virtual Learning",
+    "trend": "Up",
+    "note": "Revenue up 17% for the nine‑month period, Q3 up 13%."
+   },
+   {
+    "name": "Higher Education",
+    "trend": "Flat",
+    "note": "Revenue up 2% for the nine‑month period."
    },
    {
     "name": "English Language Learning",
     "trend": "Down",
-    "note": "Revenue declined 3%"
-   },
-   {
-    "name": "Higher Education",
-    "trend": "Down",
-    "note": "Challenging trading conditions"
-   },
-   {
-    "name": "Workforce Skills",
-    "trend": "Mixed",
-    "note": "Enterprise growth strong, AI‑driven upskilling initiatives"
+    "note": "Revenue declined 4% for the nine‑month period."
    }
   ],
   "highlights": [
-   "Underlying revenue grew 4% to £1,779m.",
-   "Adjusted operating profit rose 14% to £276m with margin expansion to 15.5%.",
-   "Free cash flow increased 66% to £259m.",
-   "Interim dividend up 5% and £350m share buyback completed.",
-   "New AI lab partnership and Adobe strategic account announced."
+   "Underlying Group revenue increased 5% for the nine‑month period, accelerating to 6% in Q3.",
+   "Adjusted operating profit guidance narrowed to £650m‑£675m.",
+   "Acquired ITS to bring assessment technology in‑house.",
+   "Acquired Workera to add an AI‑driven skills intelligence platform.",
+   "Re‑segmented into four customer‑focused business units."
   ],
-  "management_view": "Management sees strong momentum from virtual learning and AI‑driven upskilling, reinforcing confidence in 2026 guidance.",
+  "management_view": "Management says accelerated growth puts Pearson on track to meet its 2026 guidance while strengthening its portfolio through strategic acquisitions.",
   "risks": [
-   "International Higher Education market headwinds.",
-   "Language Learning revenue pressure.",
-   "Investment and inflation partially offsetting cost efficiencies."
+   "Potential one‑off reorganisation costs.",
+   "Integration risk of new acquisitions.",
+   "Margin pressure if growth slows."
   ],
   "sentiment": "Positive",
-  "sentiment_reason": "Revenue and profit both beat prior year, with strong cash generation and strategic AI partnerships.",
+  "sentiment_reason": "Revenue acceleration and strategic acquisitions signal growth momentum.",
   "it_signals": [
    {
-    "type": "AI & tech investment",
-    "detail": "AI placed at the heart of learning and new AI practice tool launched",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2VuZWdfU0QySEhnV1BxZ3dwQmVfT0tyMG5uZmtuczJGdGkyYWdoZk9iY0t5MmU0RjU1bV9XcHlCZzljWHZMZzBfUl9tQ2JVVWZPXzN5Y3FKd1NGVC1WRXQyazVMRDlncnAyRm5JTlNGaG5nSHV2ampvS1d4aDNlQmVHcVFzeWZyajRLX0FOVl91X0lhS0FoOGpHOXUtYVBlU3R1UzdZMGZqbnoxMV9zVGVTdXFzQ28?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-19"
+    "type": "M&A / spin-off",
+    "detail": "Acquisition of ITS to strengthen assessment technology capabilities.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
+    "source": "6-K",
+    "published": "2026-10-22"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "Career Studio launch emphasises AI skills strategy",
-    "source_id": 15,
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTJyV240TWptWVZVWllYYzRwLXdXS0lVcjJTQlpndWpZeVB5Rkg4eU9DUnVTQWhUYk42a3gxWENmcFc2QTFPbjJXWjZaZFNLb0FPQUJiQkZuSkhuRHNMcTh6N0ZfZ2JGNHVURjlRRmlELS1wN2xWM0xlUkc3bzVhUWJVVmhtVjk1WDUxVmcyM2ZXUmxHbFF1ZENrMHIxWmV3SGJJVDFzMXV0bEZqeFRJUkMzQUNRXzN5d0lscUVkTDZMXzA0bFRjUTNDYlA?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-15"
-   },
-   {
-    "type": "AI & tech investment",
-    "detail": "Addition of AI‑native assessment business to portfolio",
-    "source_id": 36,
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2huM1Z5T09XS1J0SHpEYVhzaHVRT2JHR0dlcXhMLTBHSEpQYzZyemVzUlM0dGhyZjNKV3haRnVoS2NxODhfWU5LVkxlcWhMNzY5OG9EaUJuODY0MEgtYzl5UWVfREVVUUh5UXNrNXVNRlp6MkY0Ym0zTzF1WXEyNk85bEVDRi1fSGMzdmJhSXpjY2FPZWZ1dWJVWktBc0EyNGw2RnNjWl96a3psd3l5THJvSVJ1T0UwYkRSa2QyZXM3Um54cHY1NDc5a3o3ZTF5aUJwenBTVktubTczZ2h6dHFn?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-06"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "Partnership with Workera to deliver AI‑driven reskilling",
-    "source_id": 44,
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTZUekd6Zi0ybzdRaXk2VFpydHRrTUNxbVI5aklWVzhSdG5iOFlodjdmSTdENVZRcFZCQkw0QmpqVHVRU193S0Nvb0hfOGtHVmttdnRVMnZDOEtpLUVqVjFpOEliX0dpUmVWTHhHVVRQSW83cUliY0VpQ09zLUNWak1kc2dpZkEwcW5BQmJwOURSR1EyeUhIblA3alp1WnQ1R29QZ3RKVkxxeE5UQzBKSm5qM3E0dw?oc=5",
-    "source": "ad-hoc-news.de",
-    "published": "2026-09-30"
+    "type": "M&A / spin-off",
+    "detail": "Acquisition of Workera to add AI‑driven skills verification platform.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
+    "source": "6-K",
+    "published": "2026-10-22"
    },
    {
     "type": "Other",
-    "detail": "Board adds AI expertise following recent acquisitions",
-    "source_id": 22,
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUpuLWpqOGQzeWtKSEltMldMd0c3T0FzakIxR3hKOFprWHhxVGdJcXRHekt6VndYOW9rRnlnSjRaSDNaM3lMQ0FWNFpVRWFVZG9KVzYzS1doWGNvaDVDb1ItTHpNTFF1Sy10Qlk5RUNGc2tVb0lYRm0zSGZWazNveFo2LThsYXFoODM3cm1XMC1uNFNGRGs4Q1J4Y0lFMFJYQ3FvUWY2OHIxYTdSZkdnSFpiMWd4NWNKZ0RqRmJwOTl0dw?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-13"
+    "detail": "Re‑segmentation into four customer‑focused units to improve agility.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
+    "source": "6-K",
+    "published": "2026-10-22"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit spend figures disclosed; focus is on strategic AI initiatives",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Strategic acquisitions of technology firms and focus on AI‑driven assessment indicate increased tech investment.",
   "talking_points": [
-   "How Pearson’s AI‑centric products could create opportunities for our cloud and data platforms",
-   "Potential collaboration on scaling the Career Studio digital infrastructure",
-   "Assessing the impact of the Workera partnership on reskilling technology needs"
+   "Discuss how the ITS acquisition can enhance Pearson’s assessment platform and integration roadmap.",
+   "Explore opportunities to support the Workera AI skills intelligence platform with cloud and data services.",
+   "Assess the impact of Pearson’s re‑segmentation on technology procurement and vendor relationships."
   ],
-  "unverified_dropped": [
-   "metrics.operating_margin_pct"
-  ],
+  "unverified_dropped": [],
   "sources": [
    {
-    "title": "PEARSON 2026 INTERIM RESULTS",
-    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
+    "title": "PEARSON 2026 NINE MONTH TRADING UPDATE",
+    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
     "source": "6-K",
-    "published": "2026-07-31",
+    "published": "2026-10-22",
     "official": true
-   },
-   {
-    "title": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-09-29T07:00:00+00:00",
-    "official": false
    }
   ],
   "company": "Pearson",
   "mode": "results",
-  "analysed_at": "2026-10-13T21:57:56+00:00",
+  "analysed_at": "2026-10-22T12:05:46+00:00",
   "release": {
    "form": "6-K",
-   "filed": "2026-07-31",
-   "accepted": "2026-07-31T16:55:25.000Z",
-   "accession": "0001654954-26-007081",
-   "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081/a6516o.htm",
-   "title": "PEARSON 2026 INTERIM RESULTS",
-   "index": "https://www.sec.gov/Archives/edgar/data/938323/000165495426007081",
-   "published": "2026-07-31"
+   "filed": "2026-10-22",
+   "accepted": "2026-10-22T10:43:18.000Z",
+   "accession": "0001654954-26-009084",
+   "url": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
+   "title": "PEARSON 2026 NINE MONTH TRADING UPDATE",
+   "index": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084",
+   "published": "2026-10-22"
   },
-  "release_key": "0001654954-26-007081",
-  "signals_at": "2026-10-20T22:05:14+00:00",
-  "signal_sources": [
-   {
-    "title": "FTSE 100 Pearson (LSE:PSON) Puts AI at the Heart of Learning",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2VuZWdfU0QySEhnV1BxZ3dwQmVfT0tyMG5uZmtuczJGdGkyYWdoZk9iY0t5MmU0RjU1bV9XcHlCZzljWHZMZzBfUl9tQ2JVVWZPXzN5Y3FKd1NGVC1WRXQyazVMRDlncnAyRm5JTlNGaG5nSHV2ampvS1d4aDNlQmVHcVFzeWZyajRLX0FOVl91X0lhS0FoOGpHOXUtYVBlU3R1UzdZMGZqbnoxMV9zVGVTdXFzQ28?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-19T08:13:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Pearson (LSE:PSON) Career Studio Launch Puts AI Skills Strategy and Valuation in Focus",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcTJyV240TWptWVZVWllYYzRwLXdXS0lVcjJTQlpndWpZeVB5Rkg4eU9DUnVTQWhUYk42a3gxWENmcFc2QTFPbjJXWjZaZFNLb0FPQUJiQkZuSkhuRHNMcTh6N0ZfZ2JGNHVURjlRRmlELS1wN2xWM0xlUkc3bzVhUWJVVmhtVjk1WDUxVmcyM2ZXUmxHbFF1ZENrMHIxWmV3SGJJVDFzMXV0bEZqeFRJUkMzQUNRXzN5d0lscUVkTDZMXzA0bFRjUTNDYlA?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-15T05:40:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Why Is Pearson (LSE:PSON) Stock In Focus Today After Adding An AI-Native Assessment Business?",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX2huM1Z5T09XS1J0SHpEYVhzaHVRT2JHR0dlcXhMLTBHSEpQYzZyemVzUlM0dGhyZjNKV3haRnVoS2NxODhfWU5LVkxlcWhMNzY5OG9EaUJuODY0MEgtYzl5UWVfREVVUUh5UXNrNXVNRlp6MkY0Ym0zTzF1WXEyNk85bEVDRi1fSGMzdmJhSXpjY2FPZWZ1dWJVWktBc0EyNGw2RnNjWl96a3psd3l5THJvSVJ1T0UwYkRSa2QyZXM3Um54cHY1NDc5a3o3ZTF5aUJwenBTVktubTczZ2h6dHFn?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-06T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Pearson stock trades at EUR 14.19 after Workera deal",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTZUekd6Zi0ybzdRaXk2VFpydHRrTUNxbVI5aklWVzhSdG5iOFlodjdmSTdENVZRcFZCQkw0QmpqVHVRU193S0Nvb0hfOGtHVmttdnRVMnZDOEtpLUVqVjFpOEliX0dpUmVWTHhHVVRQSW83cUliY0VpQ09zLUNWak1kc2dpZkEwcW5BQmJwOURSR1EyeUhIblA3alp1WnQ1R29QZ3RKVkxxeE5UQzBKSm5qM3E0dw?oc=5",
-    "source": "ad-hoc-news.de",
-    "published": "2026-09-30T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Why Is Pearson (LSE:PSON) Adding AI Know-How To Its Board This Month?",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUpuLWpqOGQzeWtKSEltMldMd0c3T0FzakIxR3hKOFprWHhxVGdJcXRHekt6VndYOW9rRnlnSjRaSDNaM3lMQ0FWNFpVRWFVZG9KVzYzS1doWGNvaDVDb1ItTHpNTFF1Sy10Qlk5RUNGc2tVb0lYRm0zSGZWazNveFo2LThsYXFoODM3cm1XMC1uNFNGRGs4Q1J4Y0lFMFJYQ3FvUWY2OHIxYTdSZkdnSFpiMWd4NWNKZ0RqRmJwOTl0dw?oc=5",
-    "source": "Kalkine Media",
-    "published": "2026-10-13T09:52:00+00:00",
-    "official": false
-   }
-  ]
+  "release_key": "0001654954-26-009084",
+  "signals_at": "2026-10-22T12:05:46+00:00"
  },
  "NYU": {
   "headline": "NYU secures a multi‑hundred‑million dollar partnership with New York City to build a quantum fabrication facility",
