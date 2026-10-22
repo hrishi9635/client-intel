@@ -1,10 +1,13 @@
 """
-Sends the e-mail digest (with a one-page PDF snapshot) and Telegram alerts.
+Sends the client-by-client account update by e-mail (one-page summary in the body, summary + full PDFs
+attached; see report.py), and short Telegram alerts.
 
 When it sends:
-  * as soon as a company's results are out and read by the AI (each results release is announced once)
+  * as soon as a company's results are out and its official documents have been read in depth
+    (each release is announced once; the e-mail waits up to a day for the account update)
   * a weekly round-up on Mondays
   * NOTIFY_FORCE=yes sends a round-up right now (the "Run workflow" button can set it)
+  * NOTIFY_RESEND=Pearson,Disney sends those companies' latest account update again
 The very first time a channel is switched on it sends one "alerts are on" message with the current
 status, instead of announcing every company that already reported.
 
@@ -166,32 +169,66 @@ def email_html(s, settings, new, weekly):
 <p>Full dashboard: {lk or '—'}</p><p style='color:#5B6475;font-size:12px'>A one-page PDF snapshot is attached. Sent automatically by your agent.</p></div>"""
 
 
+def load_briefs():
+    try:
+        return json.loads((DATA / "briefs.json").read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def brief_ready(r, briefs):
+    """Wait for the account update (up to a day after the release) so the e-mail carries the full analysis."""
+    b = briefs.get(r["company"]) or {}
+    if b.get("release_key") == r.get("release_key") and b.get("format") == 2:
+        return True
+    try:
+        filed = datetime.fromisoformat(str(r.get("filed"))[:10]).date()
+        return (datetime.now(timezone.utc).date() - filed).days >= 1
+    except ValueError:
+        return True
+
+
 def send_email(s, settings, new, weekly, intro=False):
+    """Client-by-client account update. Returns True when sent."""
+    import brief_email
+    import report
     user, pw, to = os.environ.get("GMAIL_USER"), os.environ.get("GMAIL_APP_PASSWORD"), os.environ.get("EMAIL_TO")
     if not (user and pw and to):
         print("Email: skipped (GMAIL_USER / GMAIL_APP_PASSWORD / EMAIL_TO not set)")
         return False
+    briefs = load_briefs()
+    by = {r["company"]: r for r in s["rows"]}
+    new_cos = [r["company"] for _, r in new]
+    pdfs = []
+    for c in new_cos:
+        b = briefs.get(c)
+        if brief_email.is_current(b, by.get(c)):
+            try:
+                pdfs += report.make_pdfs(b)
+            except Exception as ex:  # noqa: BLE001  # the e-mail still goes, without that PDF
+                print(f"Email: PDF for {c} skipped ({type(ex).__name__}: {str(ex)[:150]})")
     if new:
-        subject = f"Results out: {', '.join(r['company'] for _, r in new)}"
+        tags = []
+        for c in new_cos:
+            b = briefs.get(c) or {}
+            name = (by.get(c) or {}).get("name") or c
+            tags.append(name + (f" (guidance {str(b.get('guidance_verdict')).lower()})" if b.get("guidance_verdict") else ""))
+        subject = f"Account update · {'; '.join(tags)}"
     elif intro:
-        subject = f"Client Intelligence alerts are on · {s['kpi']['reported']}/{s['kpi']['listed']} results out"
+        subject = "Client Intelligence account updates are on"
     else:
-        subject = f"Client Intelligence weekly round-up · {datetime.now(timezone.utc):%d %b %Y}"
+        subject = f"Weekly account round-up · {datetime.now(timezone.utc):%d %b %Y}"
     msg = EmailMessage()
     msg["Subject"], msg["From"], msg["To"] = subject, user, to
     msg.set_content("Your email app shows the HTML version of this message.")
-    msg.add_alternative(email_html(s, settings, new, weekly or intro), subtype="html")
-    try:
-        pdf = make_pdf(s, DATA.parent / "snapshot.pdf")
-        msg.add_attachment(pdf.read_bytes(), maintype="application", subtype="pdf",
-                           filename=f"Client-Intelligence-{datetime.now(timezone.utc):%Y-%m-%d}.pdf")
-        pdf.unlink(missing_ok=True)
-    except Exception as ex:  # noqa: BLE001
-        print(f"Email: PDF skipped ({ex})")
+    msg.add_alternative(brief_email.email_html(s["rows"], briefs, new_cos, weekly or intro, links(settings), s.get("generated"),
+                                               attached=bool(pdfs)), subtype="html")
+    for p in pdfs:
+        msg.add_attachment(p.read_bytes(), maintype="application", subtype="pdf", filename=p.name)
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context(), timeout=60) as smtp:
         smtp.login(user, pw)
         smtp.send_message(msg)
-    print(f"Email: sent '{subject}'")
+    print(f"Email: sent '{subject}'" + (f" with {len(pdfs)} PDFs" if pdfs else ""))
     return True
 
 
@@ -246,10 +283,19 @@ def main():
     state = load_state()
     force = os.environ.get("NOTIFY_FORCE", "").lower() in ("yes", "true", "1")
     today = datetime.now(timezone.utc)
+    briefs = load_briefs()
     for channel, sender in (("email", send_email), ("telegram", send_telegram)):
         st = state.setdefault(channel, {})
         intro = "announced" not in st
         new = [] if intro else new_results(s, st)  # first time: one "alerts are on" message, not a flood
+        if channel == "email":
+            new = [(k, r) for k, r in new if brief_ready(r, briefs)]
+            # "Run workflow" -> "Send again" box: e-mail these companies' latest update again (e.g. Pearson)
+            again = {x.strip().lower() for x in os.environ.get("NOTIFY_RESEND", "").split(",") if x.strip()}
+            have = {r["company"] for _, r in new}
+            new += [(f"{r['company']}|{r['release_key']}", r) for r in s["rows"]
+                    if r["reported"] and r["company"] not in have
+                    and (r["company"].lower() in again or str(r.get("name") or "").lower() in again)]
         weekly = force or (today.weekday() == 0 and st.get("last_weekly") != today.date().isoformat())
         if not (new or weekly or intro):
             print(f"{channel.title()}: nothing new")
@@ -260,7 +306,9 @@ def main():
             print(f"{channel.title()}: problem – {type(ex).__name__}: {str(ex)[:200]}")
             continue
         if sent:
-            st["announced"] = sorted(set(st.get("announced", [])) | done_keys(s))
+            # only what was actually announced (e-mails may wait for the in-depth brief)
+            sent_keys = done_keys(s) if (intro or channel != "email") else {k for k, _ in new}
+            st["announced"] = sorted(set(st.get("announced", [])) | sent_keys)
             if weekly or intro:
                 st["last_weekly"] = today.date().isoformat()
     save_state(state)

@@ -280,6 +280,17 @@ def part_results(args, settings, companies, llm, log):
         write_csv("prices.csv", keep + prices + bench, ["date", "company", "close"])
     log["steps"].append(f"AI analysed: {', '.join(analysed) or 'none'}")
 
+    print("\nAccount updates · reading each new official release in depth (guidance, organisation, leadership, technology)")
+    if args.skip_ai or not llm.available():
+        print("   Skipped (no AI this run).")
+    else:
+        from agent import brief as briefmod
+        try:
+            briefmod.run(llm, sec, companies, status, log, force=args.force)
+        except Exception as e:  # noqa: BLE001
+            print(f"   Problem: {type(e).__name__}: {e}")
+            log["errors"].append(f"briefs: {str(e)[:200]}")
+
     print("\nStep 5 of 5 · Sector view by industry")
     sector = read_json("sector.json", {})
     stale = sector.get("written_at", "") < (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
