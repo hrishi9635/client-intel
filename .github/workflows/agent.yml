@@ -31,6 +31,10 @@ on:
         type: choice
         options: ["no", "yes"]
         default: "no"
+      resend:
+        description: "Send again: company names to e-mail again, comma-separated (e.g. Pearson)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -74,7 +78,7 @@ jobs:
       - name: Build the static copy (Cloudflare Pages)
         continue-on-error: true
         run: python build_site.py
-      - name: Send e-mail digest and Telegram alerts
+      - name: Send account updates (e-mail with PDFs) and Telegram alerts
         continue-on-error: true
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
@@ -83,8 +87,10 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NOTIFY_FORCE: ${{ github.event.inputs.notify }}
+          NOTIFY_RESEND: ${{ github.event.inputs.resend }}
         run: |
-          pip install reportlab
+          pip install playwright
+          python -m playwright install --with-deps chromium
           python notify.py
       - name: Save the new data
         run: |
