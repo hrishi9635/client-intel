@@ -19,6 +19,8 @@ RULES = """Rules:
   as plain numbers (23650 not "$23.65 billion"); percentages as numbers (5.2 not "5.2%").
 - Previews, expectations, analyst estimates, "results date" announcements, "what to watch" and generic topic pages
   are NOT results.
+- guidance_change: "narrowed" when a range is tightened (e.g. 640-685 to 650-675); use "cut" only if the midpoint or
+  the whole range went down; "retained" when unchanged.
 - IT services signals = anything an IT services / technology vendor account team should know: technology or AI
   investment plans, digital or platform rebuilds, cloud or data moves, cost-cutting, restructuring, layoffs,
   M&A or spin-offs, vendor or outsourcing mentions, big systems projects.
@@ -36,7 +38,7 @@ RESULTS_SCHEMA = """{
  "headline": "one sentence: the most important takeaway",
  "metrics": {"revenue_m": number|null, "revenue_growth_yoy_pct": number|null, "operating_income_m": number|null,
              "operating_margin_pct": number|null, "net_income_m": number|null, "eps": number|null},
- "guidance": "text or null", "guidance_change": "raised|cut|retained|introduced|none|unknown",
+ "guidance": "text or null", "guidance_change": "raised|cut|narrowed|retained|introduced|withdrawn|none|unknown",
  "segments": [{"name": "segment, e.g. Parks / Streaming / Casinos / iGaming / Lottery / Education", "trend": "Up|Down|Flat|Mixed", "note": "short"}],
  "highlights": ["3-5 short points"],
  "management_view": "one-sentence paraphrase of management commentary, or null",
@@ -221,7 +223,7 @@ def _finish(result, company, mode):
     result["sentiment"] = _clean_choice(result.get("sentiment"), ["Positive", "Neutral", "Negative"], None)
     result["it_spend_outlook"] = _clean_choice(result.get("it_spend_outlook"), ["Expanding", "Stable", "Tightening", "Unclear"], "Unclear")
     result["guidance_change"] = _clean_choice(result.get("guidance_change"),
-                                              ["raised", "cut", "retained", "introduced", "none", "unknown"], None)
+                                              ["raised", "cut", "narrowed", "retained", "introduced", "withdrawn", "none", "unknown"], None)
     for s in result.get("it_signals") or []:
         s["type"] = _clean_choice(s.get("type"), SIGNAL_TYPES, "Other")
     for k in ("follow_up_queries", "source_ids", "missing"):
