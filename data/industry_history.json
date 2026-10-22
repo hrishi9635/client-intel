@@ -31,6 +31,10 @@
   {
    "date": "2026-10-21",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-22",
+   "mood": "Positive"
   }
  ],
  "Publishing": [
@@ -64,6 +68,10 @@
   },
   {
    "date": "2026-10-21",
+   "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-22",
    "mood": "Mixed"
   }
  ],
@@ -99,6 +107,10 @@
   {
    "date": "2026-10-21",
    "mood": "Positive"
+  },
+  {
+   "date": "2026-10-22",
+   "mood": "Positive"
   }
  ],
  "Gaming": [
@@ -132,6 +144,10 @@
   },
   {
    "date": "2026-10-21",
+   "mood": "Mixed"
+  },
+  {
+   "date": "2026-10-22",
    "mood": "Mixed"
   }
  ]
