@@ -1,4 +1,5 @@
 date,company,close
+2025-10-22,Disney,111.466
 2025-10-23,Disney,111.4167
 2025-10-24,Disney,110.0859
 2025-10-27,Disney,110.7365
@@ -250,7 +251,7 @@ date,company,close
 2026-10-20,Disney,111.67
 2026-10-21,Disney,111.83
 2026-10-22,Disney,113.13
-2026-10-23,Disney,112.52
+2025-10-22,WBD / Skydance,16.2682
 2025-10-23,WBD / Skydance,16.1701
 2025-10-24,WBD / Skydance,16.4155
 2025-10-27,WBD / Skydance,16.2682
@@ -392,9 +393,9 @@ date,company,close
 2026-05-13,WBD / Skydance,10.3721
 2026-05-14,WBD / Skydance,10.0154
 2026-05-15,WBD / Skydance,9.7975
-2026-05-18,WBD / Skydance,9.7282
+2026-05-18,WBD / Skydance,9.7281
 2026-05-19,WBD / Skydance,9.8074
-2026-05-20,WBD / Skydance,10.0352
+2026-05-20,WBD / Skydance,10.0353
 2026-05-21,WBD / Skydance,10.1838
 2026-05-22,WBD / Skydance,10.3622
 2026-05-26,WBD / Skydance,10.273
@@ -502,7 +503,6 @@ date,company,close
 2026-10-20,WBD / Skydance,7.1
 2026-10-21,WBD / Skydance,7.87
 2026-10-22,WBD / Skydance,7.79
-2026-10-23,WBD / Skydance,7.77
 2025-12-15,Versant,44.188
 2025-12-16,Versant,45.9304
 2025-12-17,Versant,45.7465
@@ -718,7 +718,7 @@ date,company,close
 2026-10-20,Versant,31.73
 2026-10-21,Versant,31.35
 2026-10-22,Versant,32.29
-2026-10-23,Versant,31.43
+2025-10-22,Caesars,22.61
 2025-10-23,Caesars,23.08
 2025-10-24,Caesars,22.225
 2025-10-27,Caesars,22.55
@@ -970,7 +970,7 @@ date,company,close
 2026-10-20,Caesars,29.09
 2026-10-21,Caesars,28.9
 2026-10-22,Caesars,29.07
-2026-10-23,Caesars,28.8
+2025-10-22,Bally's,17.46
 2025-10-23,Bally's,18.72
 2025-10-24,Bally's,19.11
 2025-10-27,Bally's,18.62
@@ -1222,7 +1222,6 @@ date,company,close
 2026-10-20,Bally's,13.69
 2026-10-21,Bally's,13.79
 2026-10-22,Bally's,13.76
-2026-10-23,Bally's,13.86
 2025-10-23,Light & Wonder,119.22
 2025-10-24,Light & Wonder,119.0
 2025-10-27,Light & Wonder,117.24
@@ -1478,6 +1477,7 @@ date,company,close
 2026-10-21,Light & Wonder,123.18
 2026-10-22,Light & Wonder,126.46
 2026-10-23,Light & Wonder,130.0
+2025-10-22,Brightstar (IGT),15.4544
 2025-10-23,Brightstar (IGT),15.6219
 2025-10-24,Brightstar (IGT),15.4544
 2025-10-27,Brightstar (IGT),15.7521
@@ -1729,7 +1729,7 @@ date,company,close
 2026-10-20,Brightstar (IGT),9.36
 2026-10-21,Brightstar (IGT),9.23
 2026-10-22,Brightstar (IGT),9.56
-2026-10-23,Brightstar (IGT),9.48
+2025-10-22,Wolters Kluwer,108.315
 2025-10-23,Wolters Kluwer,108.4111
 2025-10-24,Wolters Kluwer,109.6119
 2025-10-27,Wolters Kluwer,108.267
@@ -1819,7 +1819,7 @@ date,company,close
 2026-02-25,Wolters Kluwer,61.2328
 2026-02-26,Wolters Kluwer,63.5
 2026-02-27,Wolters Kluwer,65.4213
-2026-03-02,Wolters Kluwer,65.479
+2026-03-02,Wolters Kluwer,65.4789
 2026-03-03,Wolters Kluwer,65.3829
 2026-03-04,Wolters Kluwer,65.0563
 2026-03-05,Wolters Kluwer,65.7287
@@ -1985,7 +1985,7 @@ date,company,close
 2026-10-20,Wolters Kluwer,83.72
 2026-10-21,Wolters Kluwer,85.1
 2026-10-22,Wolters Kluwer,86.8
-2026-10-23,Wolters Kluwer,88.18
+2025-10-22,Scholastic,27.3348
 2025-10-23,Scholastic,28.1744
 2025-10-24,Scholastic,28.5453
 2025-10-27,Scholastic,28.2525
@@ -2237,7 +2237,7 @@ date,company,close
 2026-10-20,Scholastic,38.71
 2026-10-21,Scholastic,38.67
 2026-10-22,Scholastic,39.01
-2026-10-23,Scholastic,38.5
+2025-10-22,Pearson,11.1673
 2025-10-23,Pearson,11.1773
 2025-10-24,Pearson,11.2872
 2025-10-27,Pearson,11.0823
@@ -2320,7 +2320,7 @@ date,company,close
 2026-02-16,Pearson,9.0378
 2026-02-17,Pearson,9.2957
 2026-02-18,Pearson,9.2757
-2026-02-19,Pearson,9.2318
+2026-02-19,Pearson,9.2317
 2026-02-20,Pearson,9.2777
 2026-02-23,Pearson,9.2817
 2026-02-24,Pearson,9.3337
@@ -2491,7 +2491,6 @@ date,company,close
 2026-10-20,Pearson,13.69
 2026-10-21,Pearson,13.605
 2026-10-22,Pearson,13.71
-2026-10-23,Pearson,13.685
 2025-10-23,STOXX Europe 600,574.43
 2025-10-24,STOXX Europe 600,575.76
 2025-10-27,STOXX Europe 600,577.03
@@ -2742,7 +2741,6 @@ date,company,close
 2026-10-20,STOXX Europe 600,638.64
 2026-10-21,STOXX Europe 600,644.49
 2026-10-22,STOXX Europe 600,637.74
-2026-10-23,STOXX Europe 600,635.77
 2025-10-24,S&P 500,6791.69
 2025-10-27,S&P 500,6875.16
 2025-10-28,S&P 500,6890.89
