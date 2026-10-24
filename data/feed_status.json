@@ -31,9 +31,9 @@
   "area": "Education",
   "name": "Inside Higher Ed",
   "ok": true,
-  "via": "RSS feed",
+  "via": "Google News (site search)",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:08+00:00"
  },
  {
   "area": "Education",
@@ -41,7 +41,7 @@
   "ok": true,
   "via": "RSS feed",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:08+00:00"
  },
  {
   "area": "Education",
@@ -49,7 +49,7 @@
   "ok": true,
   "via": "RSS feed",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:08+00:00"
  },
  {
   "area": "Education",
@@ -57,7 +57,7 @@
   "ok": true,
   "via": "Google News (site search)",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:08+00:00"
  },
  {
   "area": "Publishing",
@@ -65,7 +65,7 @@
   "ok": true,
   "via": "Google News (site search)",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:09+00:00"
  },
  {
   "area": "Publishing",
@@ -73,7 +73,7 @@
   "ok": true,
   "via": "Google News (site search)",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:09+00:00"
  },
  {
   "area": "Publishing",
@@ -81,7 +81,7 @@
   "ok": true,
   "via": "RSS feed",
   "error": null,
-  "checked": "2026-10-23T06:12+00:00"
+  "checked": "2026-10-24T06:09+00:00"
  },
  {
   "area": "Gaming",
@@ -89,7 +89,7 @@
   "ok": true,
   "via": "RSS feed",
   "error": null,
-  "checked": "2026-10-23T06:13+00:00"
+  "checked": "2026-10-24T06:10+00:00"
  },
  {
   "area": "Gaming",
@@ -97,7 +97,7 @@
   "ok": true,
   "via": "Google News (site search)",
   "error": null,
-  "checked": "2026-10-23T06:13+00:00"
+  "checked": "2026-10-24T06:10+00:00"
  },
  {
   "area": "Gaming",
@@ -105,7 +105,7 @@
   "ok": true,
   "via": "RSS feed",
   "error": null,
-  "checked": "2026-10-23T06:13+00:00"
+  "checked": "2026-10-24T06:10+00:00"
  },
  {
   "area": "Gaming",
@@ -113,6 +113,6 @@
   "ok": true,
   "via": "RSS feed",
   "error": null,
-  "checked": "2026-10-23T06:13+00:00"
+  "checked": "2026-10-24T06:10+00:00"
  }
 ]

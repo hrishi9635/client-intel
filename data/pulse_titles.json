@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:12:19+00:00",
+ "updated": "2026-10-24T06:08:42+00:00",
  "titles": [
   {
    "key": "tv-1416",
@@ -21,7 +21,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 6342.2,
+   "popularity": 9717.4,
    "tmdb_vote": 8.204,
    "tmdb_votes": 11093,
    "imdb_id": "tt0413573",
@@ -93,9 +93,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 1227.7,
+   "popularity": 1138.7,
    "tmdb_vote": 8.468,
-   "tmdb_votes": 5968,
+   "tmdb_votes": 6010,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -130,7 +130,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "381d364360a9",
+   "input_hash": "1a58939ae03c",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -148,66 +148,6 @@
     "buzz": "High",
     "box_office_verdict": "hit",
     "summary": "A mixed reception with strong emotional praise but criticism for pacing.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T06:12:45+00:00"
-   }
-  },
-  {
-   "key": "tv-213375",
-   "kind": "tv",
-   "tmdb_id": 213375,
-   "title": "VisionQuest",
-   "studio": "Disney+ originals",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "Disney+",
-    "Marvel Studios",
-    "Kevin Feige Productions"
-   ],
-   "release_date": "2026-10-20",
-   "first_air_date": "2026-10-13",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 369.2,
-   "tmdb_vote": 8.781,
-   "tmdb_votes": 160,
-   "imdb_id": "tt23112594",
-   "tmdb_url": "https://www.themoviedb.org/tv/213375",
-   "tmdb_reviews": [
-    {
-     "author": "Sejian",
-     "rating": 5.0,
-     "text": "I am genuinely glad to finally see *Not Vision* and Paul Bettany return, but seriously, like this? Queue the vague trying-to-be-spoiler-free criticisms of every episode! -- Episode 1: ♪ Tell me why! - Everyone inside, but not the guy outside? Really? Did he even need to be there? Had he not been there, it'd seem less stupid. - Is all of it gonna be this nonsensical? Episode 2: ♪ Let the baddies hit the floor! - I think someone forgot the s'mores. Methinks there's enough glass on the ground that ",
-     "url": "https://www.themoviedb.org/review/6ad03f4acafe90634d1b88f3"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "c5840584b584",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -30,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "Paul Bettany return"
-    ],
-    "complaints": [
-     "vague",
-     "nonsensical"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers appreciate the casting but find the show confusing and pointless.",
     "unverified_dropped": [
      "key"
     ],
@@ -234,8 +174,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
    "popularity": 357.3,
-   "tmdb_vote": 7.613,
-   "tmdb_votes": 2598,
+   "tmdb_vote": 7.614,
+   "tmdb_votes": 2599,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -252,7 +192,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a77dbed39fc0",
+   "input_hash": "605a8e7a6643",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -294,9 +234,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 347.0,
+   "popularity": 347.9,
    "tmdb_vote": 8.026,
-   "tmdb_votes": 11098,
+   "tmdb_votes": 11100,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -331,7 +271,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "d55aa2c6c6e7",
+   "input_hash": "9b110a129704",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -358,6 +298,66 @@
    }
   },
   {
+   "key": "tv-213375",
+   "kind": "tv",
+   "tmdb_id": 213375,
+   "title": "VisionQuest",
+   "studio": "Disney+ originals",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "Disney+",
+    "Marvel Studios",
+    "Kevin Feige Productions"
+   ],
+   "release_date": "2026-10-20",
+   "first_air_date": "2026-10-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "popularity": 342.2,
+   "tmdb_vote": 8.786,
+   "tmdb_votes": 168,
+   "imdb_id": "tt23112594",
+   "tmdb_url": "https://www.themoviedb.org/tv/213375",
+   "tmdb_reviews": [
+    {
+     "author": "Sejian",
+     "rating": 5.0,
+     "text": "I am genuinely glad to finally see *Not Vision* and Paul Bettany return, but seriously, like this? Queue the vague trying-to-be-spoiler-free criticisms of every episode! -- Episode 1: ♪ Tell me why! - Everyone inside, but not the guy outside? Really? Did he even need to be there? Had he not been there, it'd seem less stupid. - Is all of it gonna be this nonsensical? Episode 2: ♪ Let the baddies hit the floor! - I think someone forgot the s'mores. Methinks there's enough glass on the ground that ",
+     "url": "https://www.themoviedb.org/review/6ad03f4acafe90634d1b88f3"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "55ba787d3aa8",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -30,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "Paul Bettany return"
+    ],
+    "complaints": [
+     "vague",
+     "nonsensical"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Viewers appreciate the casting but find the show confusing and pointless.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-22T06:12:45+00:00"
+   }
+  },
+  {
    "key": "tv-108978",
    "kind": "tv",
    "tmdb_id": 108978,
@@ -377,9 +377,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 341.8,
-   "tmdb_vote": 8.131,
-   "tmdb_votes": 3533,
+   "popularity": 312.1,
+   "tmdb_vote": 8.13,
+   "tmdb_votes": 3538,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -414,7 +414,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2584dc084799",
+   "input_hash": "58d48dad91c9",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -441,40 +441,6 @@
    }
   },
   {
-   "key": "tv-2224",
-   "kind": "tv",
-   "tmdb_id": 2224,
-   "title": "The Daily Show",
-   "studio": "Paramount Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Comedy Central",
-    "Comedy Central",
-    "MTV Entertainment Studios",
-    "Ark Angel",
-    "Busboy Productions"
-   ],
-   "release_date": "2026-10-08",
-   "first_air_date": "1996-07-22",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 305.1,
-   "tmdb_vote": 6.422,
-   "tmdb_votes": 672,
-   "imdb_id": "tt0115147",
-   "tmdb_url": "https://www.themoviedb.org/tv/2224",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.3,
-   "imdb_votes": 49905.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "7b49fda7799f"
-  },
-  {
    "key": "tv-247718",
    "kind": "tv",
    "tmdb_id": 247718,
@@ -494,9 +460,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 245.8,
-   "tmdb_vote": 8.537,
-   "tmdb_votes": 1070,
+   "popularity": 289.7,
+   "tmdb_vote": 8.551,
+   "tmdb_votes": 1080,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -519,7 +485,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "ae4761250259",
+   "input_hash": "c820e4e26a6e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -546,6 +512,116 @@
    }
   },
   {
+   "key": "tv-2224",
+   "kind": "tv",
+   "tmdb_id": 2224,
+   "title": "The Daily Show",
+   "studio": "Paramount Pictures",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Comedy Central",
+    "Comedy Central",
+    "MTV Entertainment Studios",
+    "Ark Angel",
+    "Busboy Productions"
+   ],
+   "release_date": "2026-10-08",
+   "first_air_date": "1996-07-22",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+   "popularity": 287.5,
+   "tmdb_vote": 6.424,
+   "tmdb_votes": 673,
+   "imdb_id": "tt0115147",
+   "tmdb_url": "https://www.themoviedb.org/tv/2224",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.3,
+   "imdb_votes": 49905.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "771d71254cb6"
+  },
+  {
+   "key": "tv-153312",
+   "kind": "tv",
+   "tmdb_id": 153312,
+   "title": "Tulsa King",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "101 Studios",
+    "MTV Entertainment Studios",
+    "Bosque Ranch Productions",
+    "Balboa Productions"
+   ],
+   "release_date": "2026-10-16",
+   "first_air_date": "2022-11-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+   "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "popularity": 259.7,
+   "tmdb_vote": 8.301,
+   "tmdb_votes": 2856,
+   "imdb_id": "tt16358384",
+   "tmdb_url": "https://www.themoviedb.org/tv/153312",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 6.0,
+     "text": "I have to confess I stumbled across this, quite by chance. I don't watch a lot of US entertainment these days. I did however, grow up watching my share of Stallone action films, so a dash of nostalgia and curiosity, drew me in. There's nothing terribly original by now about the plot of Tulsa King. Its Mafia style antics are noting new. I think it was a smart move, playing this as a dark comedy. It fits the well worn character, Stallone, inhabits. That said, I guess the key question is, is it ent",
+     "url": "https://www.themoviedb.org/review/6372afbbed2ac2009b9f60e9"
+    },
+    {
+     "author": "Emily",
+     "rating": 9.0,
+     "text": "It's not Shakespeare but it's a fun show to watch after you get home from work or school. Plus it's nice to see a show that is set somewhere other then usual: NYC or LA. I really liked it and I'm looking forward to next season.",
+     "url": "https://www.themoviedb.org/review/68b792df55ff55b5e58cd610"
+    },
+    {
+     "author": "Marco-Hugo Landeta Vacas",
+     "rating": 8.0,
+     "text": "(CASTELLANO) Tulsa King me ha encantado. No será la serie más profunda, más innovadora ni más perfecta del mundo, pero tiene algo que muchas otras no tienen: carisma, ritmo y una forma muy consciente de divertirse con su propio planteamiento. Y eso, en un panorama lleno de series que van de importantísimas sin serlo tanto, se agradece muchísimo. Aquí se nota desde el principio que la serie sabe muy bien lo que quiere ser y no pierde el tiempo fingiendo otra cosa. Gran parte de su encanto está en",
+     "url": "https://www.themoviedb.org/review/69cc6a6d0626634fe4c9d34d"
+    }
+   ],
+   "imdb_rating": 7.9,
+   "imdb_votes": 121614.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "39f88418fd41",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 40,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "fun after work",
+     "unique setting outside NYC/LA",
+     "charisma and rhythm"
+    ],
+    "complaints": [
+     "not original plot",
+     "lacks innovation"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "A nostalgic mafia drama with mixed originality but enjoyable tone.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-24T06:08:16+00:00"
+   }
+  },
+  {
    "key": "tv-1433",
    "kind": "tv",
    "tmdb_id": 1433,
@@ -565,8 +641,8 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith fam",
-   "popularity": 243.6,
-   "tmdb_vote": 7.021,
+   "popularity": 244.4,
+   "tmdb_vote": 7.0,
    "tmdb_votes": 2470,
    "imdb_id": "tt0397306",
    "tmdb_url": "https://www.themoviedb.org/tv/1433",
@@ -577,7 +653,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "4733ba79b730"
+   "input_hash": "bfd9a3b80e29"
   },
   {
    "key": "tv-4656",
@@ -599,7 +675,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 243.3,
+   "popularity": 233.6,
    "tmdb_vote": 6.778,
    "tmdb_votes": 381,
    "imdb_id": "tt0185103",
@@ -633,8 +709,8 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-   "popularity": 241.0,
-   "tmdb_vote": 8.538,
+   "popularity": 229.4,
+   "tmdb_vote": 8.537,
    "tmdb_votes": 3583,
    "imdb_id": "tt7587890",
    "tmdb_url": "https://www.themoviedb.org/tv/79744",
@@ -670,7 +746,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "b527cd3a0425",
+   "input_hash": "da0f8a45b22e",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -695,80 +771,6 @@
    }
   },
   {
-   "key": "movie-1148365",
-   "kind": "movie",
-   "tmdb_id": 1148365,
-   "title": "Matchbox the Movie",
-   "studio": "Skydance",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Mattel Studios",
-    "Skydance Media"
-   ],
-   "release_date": "2026-10-05",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg",
-   "overview": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot—and must save the world.",
-   "popularity": 234.4,
-   "tmdb_vote": 7.755,
-   "tmdb_votes": 469,
-   "imdb_id": "tt28498219",
-   "tmdb_url": "https://www.themoviedb.org/movie/1148365",
-   "tmdb_reviews": [
-    {
-     "author": "Manuel São Bento",
-     "rating": 6.0,
-     "text": "Check out my full review @ https://movieswetextedabout.com/matchbox-the-movie-movie-review-john-cena-leads-a-fun-practical-ride-that-never-leaves-its-lane/ Rating: B- MATCHBOX THE MOVIE is exactly the film I expected: a formulaic, predictable spy comedy that never tries to be more than what it truly is. The practical, on-location action gives it a real edge over most of its genre, as Sam Hargrave's choreography and kinetic camera work remain as solid as ever. John Cena carries it with ease, doin",
-     "url": "https://www.themoviedb.org/review/6ac7e0c079805a3d9058b0d3"
-    },
-    {
-     "author": "Ryan Ting",
-     "rating": 8.0,
-     "text": "Unleash your inner child with the 17x WWE Champion John Cena along with his group of former childhood friends as they stumbled upon an international plot & save the world based on the popular diecast vehicles from Hasbro.",
-     "url": "https://www.themoviedb.org/review/6ac9ce37ee912c41794809b9"
-    },
-    {
-     "author": "Fruitless_Tux 🐧",
-     "rating": 6.0,
-     "text": "I can’t quite understand why the whole thing is called ‘Matchbox – The Movie’. The only connection is that a few children are occasionally seen holding a Matchbox car. However, although the protagonists are supposed to be in their early to mid-30s, the actors playing them are easily 15 years older. That doesn’t come across as very credible. As products are repeatedly highlighted in the film, it seems to be a sort of infomercial. I’m feeling a slight urge to order a Leatherman afterwards... All i",
-     "url": "https://www.themoviedb.org/review/6ad0abd0c2de9a58b37a5251"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "15b135a0be9d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 78,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "fun practical ride",
-     "inner child fun",
-     "on-location action"
-    ],
-    "complaints": [
-     "formulaic predictable",
-     "actors too old",
-     "weak title connection"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "A predictable spy comedy with playful action but mixed audience reaction.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T06:13:38+00:00"
-   }
-  },
-  {
    "key": "movie-1003596",
    "kind": "movie",
    "tmdb_id": 1003596,
@@ -786,34 +788,47 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 765.0,
+   "popularity": 694.4,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
    "tmdb_url": "https://www.themoviedb.org/movie/1003596",
    "tmdb_reviews": [],
-   "trade": [],
-   "input_hash": "1d253905c51f",
+   "trade": [
+    {
+     "title": "‘Avengers: Doomsday’ World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+     "link": "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+     "source": "Deadline",
+     "published": "2026-10-24",
+     "snippet": "As the World Series got underway, MCU fans were treated to a new sneak peek at Avengers: Doomsday, premiering Dec. 18. During Friday’s Game 1, the MLB and the MCU teamed up for a special preview of the upcoming movie, in which Pedro Pascal’s Mister Fantastic takes the mound for the ceremonial first pitch to […]"
+    },
+    {
+     "title": "Sandra Hüller Joins ‘Avengers: Doomsday’ in Cameo Role",
+     "link": "https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
+     "source": "Variety",
+     "published": "2026-10-23",
+     "snippet": "Oscar nominee Sandra Hüller will make a cameo in Marvel’s “Avengers: Doomsday.” News of Hüller’s top-secret role comes as directors Anthony and Joe Russo are in post-production on the project, ahead of its Dec. 18 release date. The superhero movie is already stuffed to the gills with award-winning actors and massive movie stars, including Chris […]"
+    }
+   ],
+   "input_hash": "4ca70e4795f2",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
+    "audience_sentiment": "Positive",
     "audience_score": 0,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "fans expect action",
-     "Marvel brand"
+     "sneak‑peek excitement",
+     "high‑profile cameo"
     ],
-    "complaints": [
-     "concerns about storyline"
-    ],
+    "complaints": [],
     "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "High anticipation for the upcoming Marvel release.",
+    "summary": "Highly anticipated MCU entry with cameo buzz.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-13T19:26:33+00:00"
+    "analysed_at": "2026-10-24T06:08:16+00:00"
    }
   },
   {
@@ -836,9 +851,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
    "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-   "popularity": 1442.5,
+   "popularity": 1287.6,
    "tmdb_vote": 8.33,
-   "tmdb_votes": 5214,
+   "tmdb_votes": 5217,
    "imdb_id": "tt0121955",
    "tmdb_url": "https://www.themoviedb.org/tv/2190",
    "tmdb_reviews": [
@@ -861,7 +876,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "04f543a3ed6b",
+   "input_hash": "d3c52bed83d2",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -907,9 +922,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 1412.7,
-   "tmdb_vote": 7.285,
-   "tmdb_votes": 738,
+   "popularity": 1267.3,
+   "tmdb_vote": 7.284,
+   "tmdb_votes": 737,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
    "tmdb_reviews": [],
@@ -918,23 +933,34 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "trade": [],
-   "input_hash": "d3ce5526e789",
+   "trade": [
+    {
+     "title": "‘Law & Order: SVU’ Sets Stephanie March to Return as Alexandra Cabot",
+     "link": "https://variety.com/2026/tv/news/law-order-svu-stephanie-march-return-alexandra-cabot-1236929966/",
+     "source": "Variety",
+     "published": "2026-10-23",
+     "snippet": "Assistant district attorney Alexandra Cabot is back. Stephanie March will appear in the ninth episode of “Law & Order: Special Victims Unit” Season 28 to reprise the role she has played in more than 100 episodes. March was a member of the main “Special Victims Unit” cast from Season 2 in 2000 to Season 5 […]"
+    }
+   ],
+   "input_hash": "9c17100ef790",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
+    "audience_sentiment": "Positive",
     "audience_score": 0,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
-    "praises": [],
+    "praises": [
+     "return of Alexandra Cabot",
+     "season continuation"
+    ],
     "complaints": [],
-    "buzz": "Low",
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Only a recap headline is available, offering no clear audience sentiment.",
+    "summary": "Returning character sparks interest in new season.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-16T06:10:19+00:00"
+    "analysed_at": "2026-10-24T06:08:16+00:00"
    }
   },
   {
@@ -955,7 +981,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 634.6,
+   "popularity": 589.0,
    "tmdb_vote": 4.9,
    "tmdb_votes": 100,
    "imdb_id": "tt2057880",
@@ -987,9 +1013,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 458.5,
-   "tmdb_vote": 6.9,
-   "tmdb_votes": 298,
+   "popularity": 478.3,
+   "tmdb_vote": 6.8,
+   "tmdb_votes": 310,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1024,7 +1050,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "07e18591fc30",
+   "input_hash": "8fe6216dd0b6",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1051,6 +1077,75 @@
    }
   },
   {
+   "key": "tv-2734",
+   "kind": "tv",
+   "tmdb_id": 2734,
+   "title": "Law & Order: Special Victims Unit",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Wolf Entertainment",
+    "Universal Television",
+    "Studios USA",
+    "Universal Media Studios"
+   ],
+   "release_date": "2026-10-15",
+   "first_air_date": "1999-09-20",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
+   "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+   "popularity": 420.0,
+   "tmdb_vote": 7.962,
+   "tmdb_votes": 4386,
+   "imdb_id": "tt0203259",
+   "tmdb_url": "https://www.themoviedb.org/tv/2734",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 3.0,
+     "text": "This series is a poster child for the way the US wants the world, to perceive its justice system. Hard working, earnest police, backed by an imperfect but mostly well meaning, justice system. Of course, if you look behind the veil nothing could be further from the truth. The justice system and not just in the US, mind you is abusive and broken. More often than not failing victims and on a certain level, criminals, who often started out as victims of its indifference and outright cruelty. I find ",
+     "url": "https://www.themoviedb.org/review/66c1325eecbb1915cc898af9"
+    },
+    {
+     "author": "Nicki",
+     "rating": 9.0,
+     "text": "**26 SEASONS** there's a reason SVU is the longest-running primetime live-action series on American television. Every year this show is a must watch. The storylines are compelling and the actors are usually current, former or up-and-coming stars. Some \"fans\" have complained about the changing of cast members but I think it's what keeps the show fresh. Hoping for many more seasons with Benson to come.",
+     "url": "https://www.themoviedb.org/review/6708dd1b8d487f6541286af6"
+    }
+   ],
+   "imdb_rating": 8.1,
+   "imdb_votes": 147907.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "7cbe02acdd2b",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "longest‑running primetime series",
+     "compelling storylines"
+    ],
+    "complaints": [
+     "portrayal of a broken justice system",
+     "frequent cast changes"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "The show remains popular but draws mixed reactions over its themes and cast turnover.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-23T06:12:19+00:00"
+   }
+  },
+  {
    "key": "movie-1368337",
    "kind": "movie",
    "tmdb_id": 1368337,
@@ -1067,9 +1162,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 423.2,
-   "tmdb_vote": 8.015,
-   "tmdb_votes": 4220,
+   "popularity": 400.1,
+   "tmdb_vote": 8.013,
+   "tmdb_votes": 4237,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1103,16 +1198,8 @@
    "rt": 94.0,
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
-   "trade": [
-    {
-     "title": "Oscars Predictions 2027: Is ‘You Can See Everything’ the Film That Can Take Down ‘The Odyssey’?",
-     "link": "https://variety.com/lists/2027-oscars-predictions/",
-     "source": "Variety",
-     "published": "2026-10-23",
-     "snippet": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual […"
-    }
-   ],
-   "input_hash": "0357a20e7026",
+   "trade": [],
+   "input_hash": "1732a0f5f0d3",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1139,75 +1226,6 @@
    }
   },
   {
-   "key": "tv-2734",
-   "kind": "tv",
-   "tmdb_id": 2734,
-   "title": "Law & Order: Special Victims Unit",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Wolf Entertainment",
-    "Universal Television",
-    "Studios USA",
-    "Universal Media Studios"
-   ],
-   "release_date": "2026-10-15",
-   "first_air_date": "1999-09-20",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
-   "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 421.3,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4385,
-   "imdb_id": "tt0203259",
-   "tmdb_url": "https://www.themoviedb.org/tv/2734",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 3.0,
-     "text": "This series is a poster child for the way the US wants the world, to perceive its justice system. Hard working, earnest police, backed by an imperfect but mostly well meaning, justice system. Of course, if you look behind the veil nothing could be further from the truth. The justice system and not just in the US, mind you is abusive and broken. More often than not failing victims and on a certain level, criminals, who often started out as victims of its indifference and outright cruelty. I find ",
-     "url": "https://www.themoviedb.org/review/66c1325eecbb1915cc898af9"
-    },
-    {
-     "author": "Nicki",
-     "rating": 9.0,
-     "text": "**26 SEASONS** there's a reason SVU is the longest-running primetime live-action series on American television. Every year this show is a must watch. The storylines are compelling and the actors are usually current, former or up-and-coming stars. Some \"fans\" have complained about the changing of cast members but I think it's what keeps the show fresh. Hoping for many more seasons with Benson to come.",
-     "url": "https://www.themoviedb.org/review/6708dd1b8d487f6541286af6"
-    }
-   ],
-   "imdb_rating": 8.1,
-   "imdb_votes": 147907.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "bbfd8f7c5013",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "longest‑running primetime series",
-     "compelling storylines"
-    ],
-    "complaints": [
-     "portrayal of a broken justice system",
-     "frequent cast changes"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The show remains popular but draws mixed reactions over its themes and cast turnover.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-23T06:12:19+00:00"
-   }
-  },
-  {
    "key": "tv-59941",
    "kind": "tv",
    "tmdb_id": 59941,
@@ -1226,9 +1244,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 403.2,
-   "tmdb_vote": 5.789,
-   "tmdb_votes": 395,
+   "popularity": 384.2,
+   "tmdb_vote": 5.799,
+   "tmdb_votes": 396,
    "imdb_id": "tt3444938",
    "tmdb_url": "https://www.themoviedb.org/tv/59941",
    "tmdb_reviews": [
@@ -1245,26 +1263,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "c8cd5493b290",
+   "input_hash": "922551f233e4",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
-    "audience_score": -70,
+    "audience_score": -60,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [],
     "complaints": [
      "not funny",
      "not entertaining",
-     "bad memes"
+     "backroom deals"
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "The Tonight Show Starring Jimmy Fallon receives strongly negative audience feedback.",
+    "summary": "Audience finds the show unfunny and poorly justified",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-16T20:39:58+00:00"
+    "analysed_at": "2026-10-24T06:08:42+00:00"
    }
   },
   {
@@ -1286,7 +1304,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 308.9,
+   "popularity": 293.4,
    "tmdb_vote": 5.1,
    "tmdb_votes": 136,
    "imdb_id": "tt3513388",
@@ -1328,6 +1346,145 @@
    }
   },
   {
+   "key": "movie-1101412",
+   "kind": "movie",
+   "tmdb_id": 1101412,
+   "title": "Fall 2: Deadpoint",
+   "studio": "Tea Shop Productions",
+   "parent": "Tea Shop Productions",
+   "group": "Rest of industry",
+   "companies": [
+    "Tea Shop Productions",
+    "Capstone Pictures",
+    "Flawless Production",
+    "Cousin Jones"
+   ],
+   "release_date": "2026-09-01",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+   "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+   "popularity": 280.3,
+   "tmdb_vote": 7.304,
+   "tmdb_votes": 634,
+   "imdb_id": "tt31192372",
+   "tmdb_url": "https://www.themoviedb.org/movie/1101412",
+   "tmdb_reviews": [
+    {
+     "author": "CinemaSerf",
+     "rating": 5.0,
+     "text": "\"Jax\" (Harriet Slater) is disposing of the property of her recently deceased sister when she encounters her college friend \"Luce\" (Arsema Thomas) who encourages \"Jax\" to embrace some of the challenges sister \"Shiloh\" had intended to carry out before her untimely death. One such trip involves the pair travelling to Thailand and walking a precarious route four thousand feet above sea level to visit a sacred dragon that will eat all of their fears. Turning up, they discover that this route has been",
+     "url": "https://www.themoviedb.org/review/6aa4c88250b3e70eb6455f6d"
+    },
+    {
+     "author": "Sierbahnn",
+     "rating": 6.0,
+     "text": "Trying to tie this to the first movie is possibly the downfall of this entire endeavor. The main character is related to one of the main characters from the first movie and carries some trauma about her dead sister, but the movie isn't about that, and it serves as a long dying hook for a story that doesn't play out. In substance, the movie is pretty much like the first one, and the twist isn't welcome, nor is it interesting. The first movie had a ludicrous premise, and while this movie has a sim",
+     "url": "https://www.themoviedb.org/review/6acc99fa7ef4f32fbb8fadf0"
+    }
+   ],
+   "imdb_rating": 5.7,
+   "imdb_votes": 1565.0,
+   "rt": 53.0,
+   "metascore": 53.0,
+   "box_office_usd": 3443026.0,
+   "trade": [],
+   "input_hash": "c93330051a24",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 73,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "ties to first movie"
+    ],
+    "complaints": [
+     "downfall tying to first",
+     "long dying hook"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Repeats the original formula with mixed results and a cumbersome plot hook",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-22T06:14:32+00:00"
+   }
+  },
+  {
+   "key": "tv-95480",
+   "kind": "tv",
+   "tmdb_id": 95480,
+   "title": "Slow Horses",
+   "studio": "Apple",
+   "parent": "Apple",
+   "group": "Rest of industry",
+   "companies": [
+    "Apple TV",
+    "See-Saw Films",
+    "Flying Studio Pictures",
+    "Sony Pictures Television"
+   ],
+   "release_date": "2026-10-21",
+   "first_air_date": "2022-04-01",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "popularity": 271.4,
+   "tmdb_vote": 8.062,
+   "tmdb_votes": 1071,
+   "imdb_id": "tt5875444",
+   "tmdb_url": "https://www.themoviedb.org/tv/95480",
+   "tmdb_reviews": [
+    {
+     "author": "Chandler Danier",
+     "rating": 9.0,
+     "text": "Source material seems great. Oldman is a wonderful piece of work. Twisty spy craft with good humour. Bureaucratic nonsense and secret dealings.",
+     "url": "https://www.themoviedb.org/review/658c7414ebb99d085def0dce"
+    },
+    {
+     "author": "misubisu",
+     "rating": 9.0,
+     "text": "## **Slow Horses: A Gloriously Grubby Masterclass in Spycraft** Forget the slick, high-tech world of James Bond. In the shadowy corners of London, there’s a crumbling, foul-smelling building on Slough House where failed MI5 agents are sent to rot. They are the \"Slow Horses,\" and their story is the best spy thriller on television. A potent cocktail of whip-smart writing, flawless performances, and unapologetic grit, *Slow Horses* is a near-perfect series that consistently exceeds expectations. ##",
+     "url": "https://www.themoviedb.org/review/6902e30865d9cca8119a7a41"
+    },
+    {
+     "author": "TarynsEyes",
+     "rating": null,
+     "text": "A little late to this site, and certainly wish I knew about it sooner. This is a fantastic show with a awesome cast with each filling their role incredibly. Gary Oldman is by far a most underrated actor. The plots, dialog, settingsare wonderful. Do not ignore this show.",
+     "url": "https://www.themoviedb.org/review/69b465be01e1361e4d718f80"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 162097.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "fbae7f261a36",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 80,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "great source material",
+     "wonderful cast and Gary Oldman",
+     "twisty spycraft with humour"
+    ],
+    "complaints": [],
+    "buzz": "High",
+    "box_office_verdict": "not stated",
+    "summary": "Slow Horses is praised for its smart writing, strong cast and gritty spycraft.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-22T15:30:57+00:00"
+   }
+  },
+  {
    "key": "movie-1153576",
    "kind": "movie",
    "tmdb_id": 1153576,
@@ -1344,9 +1501,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against eac",
-   "popularity": 282.5,
-   "tmdb_vote": 6.308,
-   "tmdb_votes": 151,
+   "popularity": 254.1,
+   "tmdb_vote": 6.348,
+   "tmdb_votes": 158,
    "imdb_id": "tt27419420",
    "tmdb_url": "https://www.themoviedb.org/movie/1153576",
    "tmdb_reviews": [
@@ -1380,8 +1537,16 @@
    "rt": null,
    "metascore": 46.0,
    "box_office_usd": null,
-   "trade": [],
-   "input_hash": "0b710fa1c54d",
+   "trade": [
+    {
+     "title": "‘Street Fighter’ Breakout Callina Liang Talks Embracing Fan Skepticism and Reveals Two Key Scrapped Moments",
+     "link": "https://www.hollywoodreporter.com/movies/movie-features/street-fighter-callina-liang-chin-li-1236739271/",
+     "source": "The Hollywood Reporter",
+     "published": "2026-10-23",
+     "snippet": "The character nearly lost a finger before the creative team and Capcom reached a compromise on an alternative outcome."
+    }
+   ],
+   "input_hash": "d1d0a8cb74b0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1408,145 +1573,6 @@
    }
   },
   {
-   "key": "tv-95480",
-   "kind": "tv",
-   "tmdb_id": 95480,
-   "title": "Slow Horses",
-   "studio": "Apple",
-   "parent": "Apple",
-   "group": "Rest of industry",
-   "companies": [
-    "Apple TV",
-    "See-Saw Films",
-    "Flying Studio Pictures",
-    "Sony Pictures Television"
-   ],
-   "release_date": "2026-10-21",
-   "first_air_date": "2022-04-01",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-   "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "popularity": 276.9,
-   "tmdb_vote": 8.06,
-   "tmdb_votes": 1070,
-   "imdb_id": "tt5875444",
-   "tmdb_url": "https://www.themoviedb.org/tv/95480",
-   "tmdb_reviews": [
-    {
-     "author": "Chandler Danier",
-     "rating": 9.0,
-     "text": "Source material seems great. Oldman is a wonderful piece of work. Twisty spy craft with good humour. Bureaucratic nonsense and secret dealings.",
-     "url": "https://www.themoviedb.org/review/658c7414ebb99d085def0dce"
-    },
-    {
-     "author": "misubisu",
-     "rating": 9.0,
-     "text": "## **Slow Horses: A Gloriously Grubby Masterclass in Spycraft** Forget the slick, high-tech world of James Bond. In the shadowy corners of London, there’s a crumbling, foul-smelling building on Slough House where failed MI5 agents are sent to rot. They are the \"Slow Horses,\" and their story is the best spy thriller on television. A potent cocktail of whip-smart writing, flawless performances, and unapologetic grit, *Slow Horses* is a near-perfect series that consistently exceeds expectations. ##",
-     "url": "https://www.themoviedb.org/review/6902e30865d9cca8119a7a41"
-    },
-    {
-     "author": "TarynsEyes",
-     "rating": null,
-     "text": "A little late to this site, and certainly wish I knew about it sooner. This is a fantastic show with a awesome cast with each filling their role incredibly. Gary Oldman is by far a most underrated actor. The plots, dialog, settingsare wonderful. Do not ignore this show.",
-     "url": "https://www.themoviedb.org/review/69b465be01e1361e4d718f80"
-    }
-   ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 162097.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "89d3584bba9d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "great source material",
-     "wonderful cast and Gary Oldman",
-     "twisty spycraft with humour"
-    ],
-    "complaints": [],
-    "buzz": "High",
-    "box_office_verdict": "not stated",
-    "summary": "Slow Horses is praised for its smart writing, strong cast and gritty spycraft.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T15:30:57+00:00"
-   }
-  },
-  {
-   "key": "movie-1101412",
-   "kind": "movie",
-   "tmdb_id": 1101412,
-   "title": "Fall 2: Deadpoint",
-   "studio": "Tea Shop Productions",
-   "parent": "Tea Shop Productions",
-   "group": "Rest of industry",
-   "companies": [
-    "Tea Shop Productions",
-    "Capstone Pictures",
-    "Flawless Production",
-    "Cousin Jones"
-   ],
-   "release_date": "2026-09-01",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-   "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-   "popularity": 272.8,
-   "tmdb_vote": 7.284,
-   "tmdb_votes": 621,
-   "imdb_id": "tt31192372",
-   "tmdb_url": "https://www.themoviedb.org/movie/1101412",
-   "tmdb_reviews": [
-    {
-     "author": "CinemaSerf",
-     "rating": 5.0,
-     "text": "\"Jax\" (Harriet Slater) is disposing of the property of her recently deceased sister when she encounters her college friend \"Luce\" (Arsema Thomas) who encourages \"Jax\" to embrace some of the challenges sister \"Shiloh\" had intended to carry out before her untimely death. One such trip involves the pair travelling to Thailand and walking a precarious route four thousand feet above sea level to visit a sacred dragon that will eat all of their fears. Turning up, they discover that this route has been",
-     "url": "https://www.themoviedb.org/review/6aa4c88250b3e70eb6455f6d"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 6.0,
-     "text": "Trying to tie this to the first movie is possibly the downfall of this entire endeavor. The main character is related to one of the main characters from the first movie and carries some trauma about her dead sister, but the movie isn't about that, and it serves as a long dying hook for a story that doesn't play out. In substance, the movie is pretty much like the first one, and the twist isn't welcome, nor is it interesting. The first movie had a ludicrous premise, and while this movie has a sim",
-     "url": "https://www.themoviedb.org/review/6acc99fa7ef4f32fbb8fadf0"
-    }
-   ],
-   "imdb_rating": 5.7,
-   "imdb_votes": 1565.0,
-   "rt": 53.0,
-   "metascore": 53.0,
-   "box_office_usd": 3443026.0,
-   "trade": [],
-   "input_hash": "93392a5df6b1",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 73,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "ties to first movie"
-    ],
-    "complaints": [
-     "downfall tying to first",
-     "long dying hook"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Repeats the original formula with mixed results and a cumbersome plot hook",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-22T06:14:32+00:00"
-   }
-  },
-  {
    "key": "movie-1291595",
    "kind": "movie",
    "tmdb_id": 1291595,
@@ -1566,9 +1592,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-   "popularity": 239.7,
-   "tmdb_vote": 7.713,
-   "tmdb_votes": 872,
+   "popularity": 221.4,
+   "tmdb_vote": 7.695,
+   "tmdb_votes": 886,
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
@@ -1591,7 +1617,7 @@
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "584b3233aea2",
+   "input_hash": "506c16316b99",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1616,48 +1642,6 @@
    }
   },
   {
-   "key": "movie-1170608",
-   "kind": "movie",
-   "tmdb_id": 1170608,
-   "title": "Dune: Part Three",
-   "studio": "Legendary",
-   "parent": "Legendary",
-   "group": "Rest of industry",
-   "companies": [
-    "Legendary Pictures",
-    "Image Nation Studios"
-   ],
-   "release_date": "2026-12-15",
-   "first_air_date": null,
-   "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-   "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of hi",
-   "popularity": 122.6,
-   "tmdb_vote": null,
-   "tmdb_votes": 0,
-   "imdb_id": "tt31378509",
-   "tmdb_url": "https://www.themoviedb.org/movie/1170608",
-   "tmdb_reviews": [],
-   "trade": [],
-   "input_hash": "1d253905c51f",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Anticipation builds with no reviews yet.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-20T06:11:37+00:00"
-   }
-  },
-  {
    "key": "movie-1294189",
    "kind": "movie",
    "tmdb_id": 1294189,
@@ -1674,7 +1658,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "popularity": 121.7,
+   "popularity": 121.1,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt13611778",
@@ -1713,6 +1697,48 @@
    }
   },
   {
+   "key": "movie-1170608",
+   "kind": "movie",
+   "tmdb_id": 1170608,
+   "title": "Dune: Part Three",
+   "studio": "Legendary",
+   "parent": "Legendary",
+   "group": "Rest of industry",
+   "companies": [
+    "Legendary Pictures",
+    "Image Nation Studios"
+   ],
+   "release_date": "2026-12-15",
+   "first_air_date": null,
+   "upcoming": true,
+   "poster": "https://image.tmdb.org/t/p/w342/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+   "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of hi",
+   "popularity": 102.1,
+   "tmdb_vote": null,
+   "tmdb_votes": 0,
+   "imdb_id": "tt31378509",
+   "tmdb_url": "https://www.themoviedb.org/movie/1170608",
+   "tmdb_reviews": [],
+   "trade": [],
+   "input_hash": "1d253905c51f",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 0,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Anticipation builds with no reviews yet.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-20T06:11:37+00:00"
+   }
+  },
+  {
    "key": "movie-1381071",
    "kind": "movie",
    "tmdb_id": 1381071,
@@ -1730,7 +1756,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an inst",
-   "popularity": 71.7,
+   "popularity": 59.1,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt34384661",
