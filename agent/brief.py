@@ -75,7 +75,8 @@ Set "src" to "call" or "news" for items that come only from those.
 - focus: where the company will spend or invest over the coming quarter, year or few years. Technology & IT first.
 - organisation: fill it whenever the company is reorganising or changing its operating model / business units:
   the old structure, every new unit (what it includes, size, leader), effective date, cost and savings. Otherwise null.
-- leadership: only real changes. A person leaving is "Leaving", never "Appointed". Do not list people whose role did not change.
+- leadership: only real changes announced in these sources. A person leaving is "Leaving", never "Appointed".
+  Never list a chief executive or other executive who simply continues in their existing role. Do not list people whose role did not change.
 Return ONE JSON object."""
 
 SCHEMA_REDUCE = """{
