@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:16:05+00:00",
+ "updated": "2026-10-26T13:58:32+00:00",
  "titles": [
   {
    "key": "tv-1416",
@@ -22,8 +22,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
    "popularity": 11898.3,
-   "tmdb_vote": 8.205,
-   "tmdb_votes": 11099,
+   "tmdb_vote": 8.204,
+   "tmdb_votes": 11100,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -52,7 +52,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "8c03209162a2",
+   "input_hash": "66316ed09d79",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -93,9 +93,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 1036.5,
-   "tmdb_vote": 8.47,
-   "tmdb_votes": 6134,
+   "popularity": 868.7,
+   "tmdb_vote": 8.5,
+   "tmdb_votes": 6171,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -130,7 +130,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "1bb9c3bdd94e",
+   "input_hash": "a62a2537daee",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -170,7 +170,7 @@
     "20th Television Animation",
     "20th Television"
    ],
-   "release_date": "2026-10-18",
+   "release_date": "2026-10-25",
    "first_air_date": "1989-12-17",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
@@ -314,9 +314,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 324.1,
-   "tmdb_vote": 8.8,
-   "tmdb_votes": 178,
+   "popularity": 309.9,
+   "tmdb_vote": 8.76,
+   "tmdb_votes": 179,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -333,7 +333,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "747bc7e0f6e1",
+   "input_hash": "b1b1810e3208",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -357,6 +357,77 @@
    }
   },
   {
+   "key": "tv-247718",
+   "kind": "tv",
+   "tmdb_id": 247718,
+   "title": "MobLand",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "Paramount+",
+    "MTV Entertainment Studios",
+    "101 Studios",
+    "Toff Guy Films"
+   ],
+   "release_date": "2026-10-23",
+   "first_air_date": "2025-03-30",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "popularity": 305.5,
+   "tmdb_vote": 8.572,
+   "tmdb_votes": 1099,
+   "imdb_id": "tt31510819",
+   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 7.0,
+     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
+     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
+    },
+    {
+     "author": "mukundala",
+     "rating": 7.0,
+     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
+     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
+    }
+   ],
+   "imdb_rating": 8.3,
+   "imdb_votes": 131558.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "b2889e4bac3f",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 30,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "Tom Hardy is brilliant",
+     "Pierce Brosnan's performance stands out",
+     "entertaining gangster story"
+    ],
+    "complaints": [
+     "loud tones and predictable stereotypes",
+     "implausible plot twists",
+     "nothing spectacular"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "A watchable Brit crime drama with strong leads but hampered by clichés and uneven plotting.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-25T06:09:45+00:00"
+   }
+  },
+  {
    "key": "tv-108978",
    "kind": "tv",
    "tmdb_id": 108978,
@@ -376,9 +447,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 308.0,
-   "tmdb_vote": 8.13,
-   "tmdb_votes": 3547,
+   "popularity": 304.6,
+   "tmdb_vote": 8.1,
+   "tmdb_votes": 3548,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -413,7 +484,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "34ba6612c4f2",
+   "input_hash": "a34704d95ba1",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -435,77 +506,6 @@
      "key"
     ],
     "analysed_at": "2026-10-25T06:09:18+00:00"
-   }
-  },
-  {
-   "key": "tv-247718",
-   "kind": "tv",
-   "tmdb_id": 247718,
-   "title": "MobLand",
-   "studio": "Paramount+ originals",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Paramount+",
-    "Paramount+",
-    "MTV Entertainment Studios",
-    "101 Studios",
-    "Toff Guy Films"
-   ],
-   "release_date": "2026-10-23",
-   "first_air_date": "2025-03-30",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 305.5,
-   "tmdb_vote": 8.568,
-   "tmdb_votes": 1094,
-   "imdb_id": "tt31510819",
-   "tmdb_url": "https://www.themoviedb.org/tv/247718",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 7.0,
-     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
-     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
-    },
-    {
-     "author": "mukundala",
-     "rating": 7.0,
-     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
-     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
-    }
-   ],
-   "imdb_rating": 8.3,
-   "imdb_votes": 131558.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "1f78351ebdad",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 30,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "Tom Hardy is brilliant",
-     "Pierce Brosnan's performance stands out",
-     "entertaining gangster story"
-    ],
-    "complaints": [
-     "loud tones and predictable stereotypes",
-     "implausible plot twists",
-     "nothing spectacular"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "A watchable Brit crime drama with strong leads but hampered by clichés and uneven plotting.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-25T06:09:45+00:00"
    }
   },
   {
@@ -564,7 +564,7 @@
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
    "popularity": 278.0,
    "tmdb_vote": 8.305,
-   "tmdb_votes": 2867,
+   "tmdb_votes": 2868,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -593,7 +593,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "4a04447514b9",
+   "input_hash": "840fbedee914",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -640,12 +640,12 @@
    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… b",
    "popularity": 267.5,
    "tmdb_vote": 7.6,
-   "tmdb_votes": 188,
+   "tmdb_votes": 193,
    "imdb_id": "tt34890576",
    "tmdb_url": "https://www.themoviedb.org/movie/1400940",
    "tmdb_reviews": [
     {
-     "author": "AblissMusic",
+     "author": "Abliss_",
      "rating": 7.0,
      "text": "I originally thought this was a straight horror film, so I was surprised to find out it was more of a drama, but I LOVED the visual effects!",
      "url": "https://www.themoviedb.org/review/6adac740762c9c36c8b0d9fa"
@@ -676,28 +676,14 @@
    "box_office_usd": null,
    "trade": [
     {
-     "title": "‘Clayface’ Beams $43M WW Opening, Delivers Paramount-Warner Bros. Second No. 1 Weekend Win Since Merger – Global Box Office",
-     "link": "https://deadline.com/2026/10/box-office-global-clayface-1237172755/",
-     "source": "Deadline",
-     "published": "2026-10-25",
-     "snippet": "The newly combined Paramount-Warner Bros merger (aka Skydance) saw its second back-to-back No. 1 weekend win at the global box office with DC’s Clayface which filed $43M WW. Is this the new norm? A consecutive weekend win by Skydance? Should the platinum studio Disney be worried? Even if A24’s You Can See Everything pops to […]"
-    },
-    {
      "title": "‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?",
      "link": "https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/",
      "source": "IndieWire",
      "published": "2026-10-25",
      "snippet": "James Gunn and Peter Safran were brought in to revitalize the comic book brand with mixed results."
-    },
-    {
-     "title": "‘Clayface’ Scares Off Elizabeth Holmes & Nathan Fielder From No. 1 With $24M; But ‘You Can See Everything’ Still Widely Seen With Near Epic $20M – Update",
-     "link": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/",
-     "source": "Deadline",
-     "published": "2026-10-25",
-     "snippet": "SUNDAY AM: Elizabeth Holmes and Nathan Fielder couldn’t draw enough blood to keep Clayface out of No. 1 as the lower-budget DC genre film flexed some muscle with a $24.5M opening, but the three-hour A24 documentary You Can See Everything remained widely seen with an excellent $19.5M second weekend, up 25%. Global start for Clayface […]"
     }
    ],
-   "input_hash": "8096a19b4108",
+   "input_hash": "05bfd8cea2c2",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -743,7 +729,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith fam",
-   "popularity": 249.6,
+   "popularity": 243.1,
    "tmdb_vote": 7.021,
    "tmdb_votes": 2473,
    "imdb_id": "tt0397306",
@@ -777,7 +763,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 224.5,
+   "popularity": 226.7,
    "tmdb_vote": 6.778,
    "tmdb_votes": 381,
    "imdb_id": "tt0185103",
@@ -807,7 +793,7 @@
    "release_date": "2026-12-16",
    "first_air_date": null,
    "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
    "popularity": 417.6,
    "tmdb_vote": null,
@@ -978,8 +964,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
    "popularity": 587.0,
-   "tmdb_vote": 6.784,
-   "tmdb_votes": 341,
+   "tmdb_vote": 6.791,
+   "tmdb_votes": 345,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1014,7 +1000,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "b9d690fb78a3",
+   "input_hash": "955ac1b2397e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1091,9 +1077,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 409.7,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4387,
+   "popularity": 396.8,
+   "tmdb_vote": 7.963,
+   "tmdb_votes": 4389,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -1116,7 +1102,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a4c735c3d02a",
+   "input_hash": "8cacaeed21e0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1219,8 +1205,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
    "popularity": 348.9,
-   "tmdb_vote": 8.015,
-   "tmdb_votes": 4267,
+   "tmdb_vote": 8.0,
+   "tmdb_votes": 4268,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1255,7 +1241,7 @@
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
    "trade": [],
-   "input_hash": "2997639ba20c",
+   "input_hash": "d2c9d4452b34",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1301,8 +1287,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
    "popularity": 326.9,
-   "tmdb_vote": 7.288,
-   "tmdb_votes": 668,
+   "tmdb_vote": 7.292,
+   "tmdb_votes": 669,
    "imdb_id": "tt31192372",
    "tmdb_url": "https://www.themoviedb.org/movie/1101412",
    "tmdb_reviews": [
@@ -1325,7 +1311,7 @@
    "metascore": 53.0,
    "box_office_usd": 3443026.0,
    "trade": [],
-   "input_hash": "07a8e9ca1d4b",
+   "input_hash": "8e487e37b8f3",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -1427,7 +1413,7 @@
    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
    "popularity": 288.4,
-   "tmdb_vote": 8.068,
+   "tmdb_vote": 8.069,
    "tmdb_votes": 1079,
    "imdb_id": "tt5875444",
    "tmdb_url": "https://www.themoviedb.org/tv/95480",
@@ -1457,7 +1443,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a0987d663135",
+   "input_hash": "3af03c08f0d0",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1500,8 +1486,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
    "popularity": 225.3,
-   "tmdb_vote": 7.7,
-   "tmdb_votes": 915,
+   "tmdb_vote": 7.712,
+   "tmdb_votes": 920,
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
@@ -1524,7 +1510,7 @@
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "e1f9bd04f61e",
+   "input_hash": "4720217d396b",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1585,7 +1571,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "23e2b3f4a56a"
+   "input_hash": "23e2b3f4a56a",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 55,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "fairly realistic",
+     "humor and drama in equal measure",
+     "strong cast"
+    ],
+    "complaints": [
+     "decline over last 30 years",
+     "inconsistent quality"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "A long‑running drama praised for realism and cast but seen as uneven in recent decades.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-26T13:58:32+00:00"
+   }
   },
   {
    "key": "movie-1294189",
@@ -1604,9 +1613,9 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "popularity": 129.0,
-   "tmdb_vote": null,
-   "tmdb_votes": 0,
+   "popularity": 135.2,
+   "tmdb_vote": 8.6,
+   "tmdb_votes": 4,
    "imdb_id": "tt13611778",
    "tmdb_url": "https://www.themoviedb.org/movie/1294189",
    "tmdb_reviews": [
@@ -1618,28 +1627,28 @@
     }
    ],
    "trade": [],
-   "input_hash": "6c0b6ae8b2b0",
+   "input_hash": "a01649a33acd",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
+    "audience_sentiment": "Positive",
+    "audience_score": 86,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "not a bad movie",
-     "enjoyed watching"
+     "Rambo‑style action",
+     "thought‑provoking themes",
+     "enjoyable watch"
     ],
     "complaints": [
-     "makes me feel uneasy",
-     "police overreach"
+     "creates uneasy feeling"
     ],
-    "buzz": "Low",
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Viewers find it decent but unsettling due to its themes.",
+    "summary": "An action‑drama praised for its intensity and themes, though it leaves some viewers uncomfortable.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-16T06:11:39+00:00"
+    "analysed_at": "2026-10-26T13:58:32+00:00"
    }
   },
   {
@@ -1659,7 +1668,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
    "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of hi",
-   "popularity": 92.6,
+   "popularity": 75.2,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt31378509",
