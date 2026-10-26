@@ -1,7 +1,7 @@
 [
  {
-  "started": "2026-10-26T13:37:08+00:00",
-  "part": "all",
+  "started": "2026-10-26T13:59:51+00:00",
+  "part": "results",
   "steps": [
    "market data for 10 listed companies",
    "news updated",
@@ -13,18 +13,16 @@
    "Wolters Kluwer: 0 documents from the company's results page",
    "Light & Wonder: 0 documents from the company's results page",
    "Caesars: 0 documents from the company's results page",
-   "account updates written: Pearson, Scholastic, Bally's, Versant, Disney, WBD / Skydance, Light & Wonder, Brightstar (IGT), Caesars",
-   "audience pulse: 27 titles, 23 with AI notes",
-   "industry news: 480 stories"
+   "account updates written: Pearson, Scholastic, Bally's, Versant, Disney, WBD / Skydance, Light & Wonder, Brightstar (IGT), Caesars"
   ],
   "errors": [
    "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
    "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
    "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
   ],
-  "finished": "2026-10-26T13:58:49+00:00",
-  "ai_calls": 41,
-  "ai_tokens": 114299
+  "finished": "2026-10-26T14:21:40+00:00",
+  "ai_calls": 40,
+  "ai_tokens": 114085
  },
  {
   "started": "2026-10-26T06:15:11+00:00",

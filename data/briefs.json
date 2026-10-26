@@ -2,7 +2,7 @@
  "Disney": {
   "document_type": "Quarterly results",
   "period": "Q3 fiscal 2026 (quarter ended June 27, 2026)",
-  "headline": "Disney posted $25.2 billion revenue, +7% YoY, and plans major technology investments including AI tools and triple local original series. Share repurchase target at least $9 billion for fiscal 2026.",
+  "headline": "Strong Q3 results with revenue $25.2 billion and operating income $5.6 billion; Disney is expanding AI tools and original content production.",
   "key_numbers": [
    {
     "label": "Revenue",
@@ -29,40 +29,32 @@
     "src": "official"
    }
   ],
-  "outlook_line": "Target at least $9 billion in share repurchases in fiscal 2026.",
+  "outlook_line": "Guidance for fiscal 2026 cash provided by operations at least $19 billion and capital expenditures approximately $9 billion.",
   "segments_basis": "Revenue, Q3 fiscal 2026 (quarter ended June 27, 2026)",
   "segments": [
    {
     "name": "Entertainment",
     "revenue": "$11,345 million",
-    "growth": "+34,669 vs $10,704 million (34,669?)",
-    "comment": "Core streaming and studios",
+    "growth": "+12%",
+    "comment": "Operating income up 64%",
     "src": "official"
    },
    {
     "name": "Sports",
     "revenue": "$4,500 million",
-    "growth": null,
-    "comment": "ESPN and sports content",
+    "growth": "+5%",
+    "comment": "Operating income down 17%",
     "src": "official"
    },
    {
     "name": "Experiences",
     "revenue": "$9,968 million",
     "growth": "+10%",
-    "comment": "Parks and resorts",
+    "comment": "Operating margin ~30%",
     "src": "official"
    }
   ],
   "focus": [
-   {
-    "area": "AI tools",
-    "plan": "Make J.A.R.V.I.S. AI tool available to Imagineers",
-    "amount": null,
-    "timing": "earlier this year",
-    "tech": true,
-    "src": "official"
-   },
    {
     "area": "Original series",
     "plan": "Triple number of local original series on Disney+",
@@ -72,73 +64,96 @@
     "src": "official"
    },
    {
-    "area": "Depreciation for tech",
-    "plan": "Depreciation increased $20 million due to technology investments",
-    "amount": "$20 million",
-    "timing": "Quarter ended June 27, 2026",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Depreciation Sports tech",
-    "plan": "Depreciation increased $16 million due to technology investments in Sports",
-    "amount": "$16 million",
-    "timing": "Quarter ended June 27, 2026",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "AI patents",
-    "plan": "Secured new AI patents for character‑guest interactions",
+    "area": "AI tools",
+    "plan": "Deploy AI tool J.A.R.V.I.S. to >2,000 Imagineers",
     "amount": null,
-    "timing": "2026",
+    "timing": "earlier this year",
     "tech": true,
-    "src": "news"
+    "src": "official"
    },
    {
-    "area": "Character.AI staff",
-    "plan": "Hire most of Character.AI staff",
-    "amount": "$60 million a year",
-    "timing": "2026",
+    "area": "Digital twins",
+    "plan": "Use AI‑powered digital twins for new attractions, e.g., Abu Dhabi park",
+    "amount": null,
+    "timing": null,
     "tech": true,
-    "src": "news"
+    "src": "official"
+   },
+   {
+    "area": "TikTok partnership",
+    "plan": "First‑of‑its‑kind agreement to bring creator content to Disney+",
+    "amount": null,
+    "timing": null,
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Disney+ ecosystem",
+    "plan": "Introduce membership ecosystem elements",
+    "amount": null,
+    "timing": "Spring 2027",
+    "tech": true,
+    "src": "official"
    }
   ],
   "tech_spend": [
-   "Depreciation and amortization increased $20 million (Entertainment) and $16 million (Sports) due to technology investments",
-   "J.A.R.V.I.S. AI tool deployed to >2,000 Imagineers",
-   "Triple local original series on Disney+ over three years",
-   "New AI patents for character‑guest knowledge",
-   "Hiring Character.AI staff at $60 million annually"
+   "Depreciation and amortization increased $20 million to $218 million due to technology investments",
+   "Depreciation and amortization increased $16 million to $29 million in Sports due to technology investments",
+   "AI tool J.A.R.V.I.S. rollout to Imagineers",
+   "AI‑powered digital twins for attractions",
+   "TikTok‑enhanced Disney+ Verts"
   ],
-  "organisation": null,
+  "organisation": {
+   "summary": "Consumer Products moves from Experiences to Entertainment segment",
+   "before": "Consumer Products under Experiences",
+   "effective": "Q1 fiscal 2027",
+   "units": [
+    {
+     "name": "Entertainment",
+     "revenue": "$11,345 million",
+     "includes": "Films, TV, streaming, Consumer Products",
+     "leader": null,
+     "src": "official"
+    },
+    {
+     "name": "Experiences",
+     "revenue": "$9,968 million",
+     "includes": "Parks, resorts, cruises",
+     "leader": null,
+     "src": "official"
+    }
+   ],
+   "cost": null,
+   "savings": null,
+   "src": "official"
+  },
   "key_changes": [
-   {
-    "type": "Product",
-    "change": "AI tool rollout",
-    "detail": "J.A.R.V.I.S. AI tool made available to more than 2,000 Imagineers",
-    "when": null,
-    "src": "official"
-   },
-   {
-    "type": "Partnership",
-    "change": "TikTok agreement",
-    "detail": "First‑of‑its‑kind agreement with TikTok to enhance Disney+ Verts",
-    "when": null,
-    "src": "official"
-   },
    {
     "type": "Organisation",
     "change": "Consumer Products shift",
-    "detail": "Shift Consumer Products business from Experiences to Entertainment beginning Q1 fiscal 2027",
+    "detail": "Consumer Products moves to Entertainment segment Q1 fiscal 2027",
     "when": "Q1 fiscal 2027",
+    "src": "official"
+   },
+   {
+    "type": "Disposal",
+    "change": "A+E stake sale",
+    "detail": "Sell 50% stake in A+E Global Media for $1.2 billion cash",
+    "when": "by end of fiscal 2026",
     "src": "official"
    },
    {
     "type": "Acquisition",
     "change": "ESPN NFL assets",
-    "detail": "ESPN acquired NFL Network assets giving Disney 72% interest",
+    "detail": "ESPN acquired NFL Network assets, giving 72% ESPN interest",
     "when": "January 31, 2026",
+    "src": "official"
+   },
+   {
+    "type": "Product",
+    "change": "AI investments",
+    "detail": "AI tool J.A.R.V.I.S. and digital twins for attractions",
+    "when": "2026",
     "src": "official"
    }
   ],
@@ -168,27 +183,37 @@
   "dates": [
    {
     "date": "June 27, 2026",
-    "event": "Q3 fiscal 2026 quarter ended",
+    "event": "Q3 fiscal 2026 quarter end",
     "src": "official"
    },
    {
     "date": "August 5, 2026",
     "event": "Live webcast of earnings release",
     "src": "official"
+   },
+   {
+    "date": "Spring 2027",
+    "event": "Disney+ membership ecosystem rollout",
+    "src": "official"
+   },
+   {
+    "date": "Q1 fiscal 2027",
+    "event": "Consumer Products shift to Entertainment",
+    "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Invest in AI tools and patents for guest experiences",
-    "Triple local original Disney+ series over three years",
-    "Increase technology‑related depreciation reflecting capex",
-    "Hire Character.AI staff at $60 million annually"
+    "Triple Disney+ local original series over three years",
+    "Deploy AI tool J.A.R.V.I.S. to Imagineers",
+    "Expand AI digital twins for new attractions",
+    "Launch TikTok‑enhanced Disney+ content"
    ],
    "changes": [
-    "TikTok partnership to boost Disney+ Verts",
-    "Consumer Products moved to Entertainment segment Q1 FY27",
-    "ESPN gains 72% interest in NFL Network assets",
-    "New CEO and CFO appointments"
+    "Consumer Products moves to Entertainment segment Q1 FY27",
+    "Sale of 50% A+E stake for $1.2 billion",
+    "ESPN acquires NFL Network assets",
+    "Increased technology‑related depreciation reflecting AI investments"
    ]
   },
   "unverified_dropped": [
@@ -214,12 +239,12 @@
   ],
   "news_used": true,
   "chunks_read": 6,
-  "written_at": "2026-10-26T13:51:08+00:00"
+  "written_at": "2026-10-26T14:14:23+00:00"
  },
  "WBD / Skydance": {
   "document_type": "Quarterly results",
-  "period": "Q2 2026",
-  "headline": "Skydance is unifying Paramount+ and Pluto TV onto a single technology stack and expanding AI‑driven engineering. The pending Warner Bros. Discovery merger drives further restructuring.",
+  "period": "Q2’26",
+  "headline": "Full‑year 2026 adj. EBITDA guidance raised to $3.8‑$3.9 billion; $800 million transformation spend and $1.5 billion new content budget announced.",
   "key_numbers": [
    {
     "label": "Total revenue",
@@ -240,88 +265,95 @@
     "src": "official"
    },
    {
-    "label": "DTC revenue",
-    "value": "$2.5 billion",
-    "context": "Q2 2026",
+    "label": "Cash and equivalents",
+    "value": "$1.6 billion",
+    "context": "2026",
     "src": "official"
    }
   ],
-  "outlook_line": "Guidance for 2026 total revenue $6,950‑$7,150 million.",
-  "segments_basis": "Revenue, Q2 2026",
+  "outlook_line": "2026 total revenue guidance $6,950 million – $7,150 million; adj. EBITDA $875 million – $975 million.",
+  "segments_basis": "Revenue, Q2’26",
   "segments": [
    {
-    "name": "DTC",
-    "revenue": "$2.5 billion",
-    "growth": "+9% YoY",
-    "comment": "Direct‑to‑Consumer",
+    "name": "Direct-to-Consumer",
+    "revenue": "$2,398 million",
+    "growth": null,
+    "comment": "Core DTC segment",
     "src": "official"
    },
    {
     "name": "Studios",
-    "revenue": "$1.3 billion",
-    "growth": "+16% YoY",
-    "comment": "Studios segment",
+    "revenue": "$1,314 million",
+    "growth": null,
+    "comment": "Film and TV production",
     "src": "official"
    },
    {
     "name": "TV Media",
-    "revenue": "$3.1 billion",
-    "growth": "-9% YoY",
-    "comment": "TV Media",
+    "revenue": "$3,666 million",
+    "growth": null,
+    "comment": "Cable and broadcast",
+    "src": "official"
+   },
+   {
+    "name": "Paramount+",
+    "revenue": "$2,061 million",
+    "growth": null,
+    "comment": "Streaming platform",
     "src": "official"
    }
   ],
   "focus": [
    {
     "area": "Platform unification",
-    "plan": "move Paramount+ and Pluto TV onto single stack",
-    "amount": null,
-    "timing": "ongoing in 2026",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "AI engineering",
-    "plan": "invest in AI across engineering teams",
+    "plan": "Bring Paramount+ and Pluto TV onto a single technology stack",
     "amount": null,
     "timing": null,
     "tech": true,
     "src": "official"
    },
    {
-    "area": "Enterprise apps",
-    "plan": "build in‑house procurement, recruiting, finance, HR apps using AI tools",
+    "area": "AI investment",
+    "plan": "Deploy AI across engineering, ad‑tech and enterprise apps",
     "amount": null,
     "timing": null,
     "tech": true,
     "src": "official"
    },
    {
-    "area": "ERP integration",
-    "plan": "bring company onto unified Oracle Fusion ERP",
+    "area": "ERP unification",
+    "plan": "Unify company on Oracle Fusion ERP",
     "amount": null,
-    "timing": "early 2027",
+    "timing": "early next year",
     "tech": true,
     "src": "official"
    },
    {
-    "area": "Transformation tech",
-    "plan": "approximately $800 million of technology investment in transformation costs",
+    "area": "Transformation costs",
+    "plan": "Business transformation, content and technology",
     "amount": "$800 million",
     "timing": "2026",
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Q3 transformation",
+    "plan": "Transformation initiatives",
+    "amount": "$200 million",
+    "timing": "Q3 2026",
     "tech": true,
     "src": "official"
    }
   ],
   "tech_spend": [
-   "Investing in platform unification for Paramount+ and Pluto TV",
-   "AI tools used to build enterprise apps for procurement, recruiting, finance and HR",
-   "Divisions went live on Oracle Fusion in July 2026",
-   "Unified ERP system planned for early 2027",
-   "Approximately $800 million of transformation costs include technology investment"
+   "Platform unification of Paramount+ and Pluto TV",
+   "AI across engineering, ad‑tech and enterprise applications",
+   "Oracle Fusion ERP rollout (July) and company‑wide ERP early next year",
+   "$800 million transformation spend in 2026",
+   "$200 million transformation spend in Q3"
   ],
   "organisation": {
-   "summary": "Transitioned to three segments—Studios, Direct‑to‑Consumer and TV Media—in 2026.",
+   "summary": "Reporting structure shifted to Studios, Direct‑to‑Consumer and TV Media in 2026.",
    "before": "Filmed Entertainment, Direct‑to‑Consumer, Media",
    "effective": "2026",
    "units": [
@@ -335,14 +367,14 @@
     {
      "name": "Direct‑to‑Consumer",
      "revenue": null,
-     "includes": "Streaming services HBO Max, Paramount+",
+     "includes": "Paramount+, Showtime, streaming assets",
      "leader": null,
      "src": "official"
     },
     {
      "name": "TV Media",
      "revenue": null,
-     "includes": "Traditional TV advertising and distribution",
+     "includes": "Cable and broadcast assets",
      "leader": null,
      "src": "official"
     }
@@ -353,77 +385,64 @@
   },
   "key_changes": [
    {
-    "type": "Organisation",
-    "change": "Segment restructure",
-    "detail": "Three new segments effective 2026 replacing old Media segment",
-    "when": "2026",
+    "type": "Product",
+    "change": "Platform unification",
+    "detail": "Paramount+ and Pluto TV moved to single stack",
+    "when": null,
     "src": "official"
    },
    {
     "type": "Product",
-    "change": "Platform unification",
-    "detail": "Paramount+ and Pluto TV moved onto single technology stack",
-    "when": "2026",
-    "src": "official"
-   },
-   {
-    "type": "Technology",
-    "change": "AI deployment",
-    "detail": "AI tools used across engineering and enterprise app development",
+    "change": "AI rollout",
+    "detail": "AI tools added to engineering, ad‑tech and enterprise apps",
     "when": null,
     "src": "official"
    },
    {
-    "type": "ERP",
-    "change": "Oracle Fusion rollout",
-    "detail": "Divisions live on Oracle Fusion; full company by early 2027",
-    "when": "July 2026",
+    "type": "Organisation",
+    "change": "ERP unification",
+    "detail": "Oracle Fusion live July; full rollout early next year",
+    "when": null,
     "src": "official"
-   }
-  ],
-  "leadership": [
+   },
    {
-    "person": "David Ellison",
-    "role": "Chairman & CEO",
-    "change": "New role",
+    "type": "Cost programme",
+    "change": "Transformation spend",
+    "detail": "$800 million in 2026, $200 million in Q3",
     "when": null,
     "src": "official"
    }
   ],
+  "leadership": [],
   "dates": [
    {
-    "date": "August 4 2026",
-    "event": "Earnings release",
-    "src": "official"
-   },
-   {
-    "date": "June 2026",
-    "event": "Launch of Paramount Games",
-    "src": "official"
-   },
-   {
-    "date": "July 2026",
+    "date": "July 2026",
     "event": "Divisions went live on Oracle Fusion",
     "src": "official"
    },
    {
-    "date": "early 2027",
-    "event": "Company‑wide unified ERP system",
+    "date": "early next year",
+    "event": "Company‑wide unified ERP rollout",
+    "src": "official"
+   },
+   {
+    "date": "Q3 2026",
+    "event": "Transformation costs $200 million",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Unify streaming platforms to cut costs and speed innovation",
-    "Scale AI across engineering and internal app development",
-    "Complete Oracle Fusion ERP integration by early 2027",
-    "Allocate ~$800 million to technology‑focused transformation"
+    "$800 million transformation spend in 2026",
+    "AI across engineering and ad‑tech",
+    "Oracle Fusion ERP rollout",
+    "Platform unification of Paramount+ and Pluto TV"
    ],
    "changes": [
-    "Restructured into Studios, Direct‑to‑Consumer and TV Media segments",
-    "Pending merger with Warner Bros. Discovery reshapes operating model",
-    "New leadership with David Ellison as Chairman & CEO",
-    "Platform unification of Paramount+ and Pluto TV underway"
+    "Reporting structure changed to Studios, Direct‑to‑Consumer, TV Media",
+    "Integration of Paramount+ with Pluto TV platform",
+    "AI and enterprise app investments",
+    "ERP unification on Oracle Fusion"
    ]
   },
   "unverified_dropped": [],
@@ -446,12 +465,12 @@
   ],
   "news_used": true,
   "chunks_read": 6,
-  "written_at": "2026-10-26T13:54:19+00:00"
+  "written_at": "2026-10-26T14:17:34+00:00"
  },
  "Versant": {
   "document_type": "Quarterly results",
-  "period": "Q2 2026",
-  "headline": "Versant reported $1.64 B revenue and $211 M net income for Q2 2026. The company is investing in new sports and streaming assets while incurring IT‑separation costs.",
+  "period": "Second quarter of 2026",
+  "headline": "Versant completed the Full Swing technology acquisition and added a five‑year Bundesliga sports agreement. Dividend of $0.375 per share declared and $100 million ASR completed.",
   "key_numbers": [
    {
     "label": "Revenue",
@@ -478,7 +497,7 @@
     "src": "official"
    }
   ],
-  "outlook_line": "Guidance for 2026 total revenue $6.2 bn‑$6.45 bn.",
+  "outlook_line": "Guidance for 2026 total revenue $6.2 billion‑$6.45 billion; Adjusted EBITDA $1.9 billion‑$2.05 billion; Free Cash Flow $1.0 billion‑$1.2 billion.",
   "segments_basis": "Growth, Q2 2026",
   "segments": [
    {
@@ -492,7 +511,7 @@
     "name": "Advertising",
     "revenue": null,
     "growth": "-0.6%",
-    "comment": "flat ad market",
+    "comment": "slight advertising dip",
     "src": "official"
    },
    {
@@ -505,30 +524,48 @@
   ],
   "focus": [
    {
-    "area": "IT separation",
-    "plan": "implementation and advisory costs for standalone operations",
+    "area": "Full Swing acquisition",
+    "plan": "Integrate golf‑tech ecosystem",
     "amount": null,
-    "timing": null,
+    "timing": "Q2 2026",
     "tech": true,
     "src": "official"
    },
    {
-    "area": "Corporate IT expansion",
-    "plan": "broaden finance, supply chain, HR, legal and insurance systems",
+    "area": "Bundesliga agreement",
+    "plan": "Five‑year premium sports rights",
     "amount": null,
-    "timing": null,
+    "timing": "Q2 2026",
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Direct‑to‑consumer",
+    "plan": "Expand DTC at CNBC and MS NOW",
+    "amount": null,
+    "timing": "Q2 2026",
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Fandango platform",
+    "plan": "Launch ad‑supported streaming service",
+    "amount": null,
+    "timing": "Q2 2026",
     "tech": true,
     "src": "official"
    }
   ],
   "tech_spend": [
-   "Transaction‑related costs include IT separation and implementation (amounts not disclosed)",
-   "Incremental corporate admin costs cover expanding information technology, finance, supply chain, HR, legal, tax, facilities and insurance"
+   "Full Swing acquisition adds golf technology platform",
+   "Bundesliga rights support streaming infrastructure",
+   "Direct‑to‑consumer initiatives require cloud and data investments",
+   "Fandango ad‑supported service expands digital platform capabilities"
   ],
   "organisation": {
-   "summary": "Separated from Comcast to become an independent public company",
-   "before": "Part of Comcast",
-   "effective": "January 2, 2026",
+   "summary": "Separated from Comcast with full IT separation and cost program.",
+   "before": null,
+   "effective": "January 2 2026",
    "units": [],
    "cost": null,
    "savings": null,
@@ -536,37 +573,30 @@
   },
   "key_changes": [
    {
-    "type": "Organisation",
-    "change": "Separation from Comcast",
-    "detail": "Versant became independent on Jan 2 2026",
-    "when": "January 2, 2026",
-    "src": "official"
-   },
-   {
     "type": "Acquisition",
-    "change": "Full Swing purchase",
-    "detail": "Acquired Full Swing golf ecosystem in Q2 2026",
+    "change": "Full Swing",
+    "detail": "Technology/golf ecosystem acquisition completed in Q2 2026",
     "when": "Q2 2026",
     "src": "official"
    },
    {
     "type": "Contract win",
-    "change": "Bundesliga deal",
-    "detail": "Signed five‑year Bundesliga agreement in Q2 2026",
+    "change": "Bundesliga",
+    "detail": "Five‑year premium sports agreement announced in Q2 2026",
     "when": "Q2 2026",
     "src": "official"
    },
    {
     "type": "Product",
-    "change": "Fandango expansion",
-    "detail": "Launched ad‑supported streaming service on Fandango in Q2 2026",
+    "change": "Fandango streaming",
+    "detail": "Ad‑supported streaming service launched in Q2 2026",
     "when": "Q2 2026",
     "src": "official"
    },
    {
-    "type": "Cost programme",
-    "change": "IT separation costs",
-    "detail": "One‑time IT separation and implementation costs incurred",
+    "type": "Disposal",
+    "change": "SportsEngine",
+    "detail": "Divested SportsEngine during Q2 2026",
     "when": "Q2 2026",
     "src": "official"
    }
@@ -589,43 +619,38 @@
   ],
   "dates": [
    {
-    "date": "August 6, 2026",
+    "date": "August 6 2026",
     "event": "Release of Q2 2026 results",
     "src": "official"
    },
    {
-    "date": "May 15, 2026",
-    "event": "ASR Agreement to repurchase $100 million",
+    "date": "May 15 2026",
+    "event": "ASR Agreement signed",
     "src": "official"
    },
    {
-    "date": "August 7, 2026",
-    "event": "Planned ASR Agreement to repurchase $100 million",
+    "date": "August 7 2026",
+    "event": "Planned ASR Agreement start",
     "src": "official"
    },
    {
-    "date": "October 22, 2026",
-    "event": "Dividend payable",
-    "src": "official"
-   },
-   {
-    "date": "October 1, 2026",
-    "event": "Dividend record date",
+    "date": "January 2 2026",
+    "event": "Separation from Comcast effective",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Invest in direct‑to‑consumer offerings at CNBC and MS NOW",
-    "Expand sports portfolio with Bundesliga rights",
-    "Launch ad‑supported streaming on Fandango",
-    "Implement IT separation and broaden corporate systems"
+    "Integrate Full Swing golf technology",
+    "Deploy Bundesliga streaming rights",
+    "Expand DTC at CNBC/MS NOW",
+    "Launch ad‑supported Fandango service"
    ],
    "changes": [
-    "Separated from Comcast on Jan 2 2026",
-    "Acquired Full Swing golf ecosystem",
-    "Added Bundesliga to premium sports lineup",
-    "Extended Fandango into broader entertainment platform"
+    "Full Swing acquisition completed",
+    "Bundesliga five‑year deal signed",
+    "Divested SportsEngine",
+    "Separated from Comcast with IT separation"
    ]
   },
   "unverified_dropped": [],
@@ -656,103 +681,119 @@
   ],
   "news_used": true,
   "chunks_read": 6,
-  "written_at": "2026-10-26T13:47:56+00:00"
+  "written_at": "2026-10-26T14:10:42+00:00"
  },
  "Caesars": {
-  "document_type": "Quarterly results",
-  "period": "Second quarter ended June 30, 2026",
-  "headline": "Caesars announced a pending definitive agreement to be acquired by Fertitta Entertainment. GAAP net loss was $62 million for the quarter.",
+  "document_type": "Half-year results",
+  "period": "Second Quarter 2026",
+  "headline": "Caesars reports $3.0 billion GAAP net revenues and $62 million net loss; Fertitta acquisition announced May 28, 2026.",
   "key_numbers": [
    {
     "label": "GAAP net revenues",
     "value": "$3.0 billion",
-    "context": "quarter",
+    "context": "Second Quarter 2026",
     "src": "official"
    },
    {
     "label": "GAAP net loss",
     "value": "$62 million",
-    "context": "quarter",
+    "context": "Second Quarter 2026",
     "src": "official"
    },
    {
     "label": "Consolidated Adjusted EBITDA",
     "value": "$920 million",
-    "context": "quarter",
+    "context": "Second Quarter 2026",
     "src": "official"
    },
    {
     "label": "Caesars Digital Adjusted EBITDA",
     "value": "$68 million",
-    "context": "quarter",
+    "context": "Second Quarter 2026",
     "src": "official"
    }
   ],
   "outlook_line": null,
-  "segments_basis": "Revenue, three months ended June 30, 2026",
+  "segments_basis": "Revenue, Second Quarter 2026",
   "segments": [
    {
     "name": "Las Vegas",
-    "revenue": "$1,017 million",
+    "revenue": "1,017",
     "growth": "(3.5)",
-    "comment": "decline vs prior",
+    "comment": "Revenue in millions",
     "src": "official"
    },
    {
     "name": "Regional",
-    "revenue": "$1,570 million",
-    "growth": null,
-    "comment": "stable revenue",
+    "revenue": "1,570",
+    "growth": "null",
+    "comment": "Revenue in millions",
     "src": "official"
    },
    {
     "name": "Caesars Digital Managed and Branded",
     "revenue": "(23.0)",
-    "growth": null,
-    "comment": "decline in digital revenue",
+    "growth": "null",
+    "comment": "Revenue in millions",
+    "src": "official"
+   },
+   {
+    "name": "Corporate and Other Caesars",
+    "revenue": "2,993",
+    "growth": "null",
+    "comment": "Revenue in millions",
     "src": "official"
    }
   ],
   "focus": [
    {
-    "area": "Acquisition",
-    "plan": "Pending definitive agreement to be acquired by Fertitta Entertainment",
-    "amount": null,
-    "timing": "May 28, 2026 announcement",
-    "tech": false,
+    "area": "Technology & IT",
+    "plan": "Invest in digital platforms and data analytics",
+    "amount": "null",
+    "timing": "null",
+    "tech": true,
     "src": "official"
    }
   ],
   "tech_spend": [],
-  "organisation": null,
+  "organisation": {
+   "summary": "No reorganisation announced",
+   "before": null,
+   "effective": null,
+   "units": [],
+   "cost": null,
+   "savings": null,
+   "src": "official"
+  },
   "key_changes": [
    {
     "type": "Acquisition",
-    "change": "Pending acquisition",
-    "detail": "Fertitta Entertainment announced a definitive agreement to acquire Caesars on May 28, 2026.",
-    "when": "May 28, 2026",
+    "change": "Fertitta deal",
+    "detail": "Fertitta Entertainment, Inc. announced definitive agreement to acquire Caesars on May 28, 2026.",
+    "when": "May 28, 2026",
     "src": "official"
    }
   ],
   "leadership": [],
   "dates": [
    {
-    "date": "May 28, 2026",
-    "event": "Acquisition announcement",
+    "date": "2026-05-28",
+    "event": "Fertitta acquisition announced",
     "src": "official"
    },
    {
-    "date": "July 28, 2026",
+    "date": "2026-07-28",
     "event": "Earnings release",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Pending acquisition by Fertitta Entertainment."
+    "Invest in digital platforms",
+    "Data analytics expansion"
    ],
    "changes": [
-    "Acquisition agreement announced May 28, 2026."
+    "Fertitta acquisition pending"
    ]
   },
   "unverified_dropped": [],
@@ -775,81 +816,75 @@
   ],
   "news_used": true,
   "chunks_read": 2,
-  "written_at": "2026-10-26T13:58:06+00:00"
+  "written_at": "2026-10-26T14:21:40+00:00"
  },
  "Bally's": {
   "document_type": "Quarterly results",
   "period": "second quarter ended June 30, 2026",
-  "headline": "Bally's is investing $4.0 billion in the Bronx integrated casino and targeting an early‑2027 opening for the Chicago casino.",
+  "headline": "Bally’s secured financing for the Bronx integrated casino and is on track for the Chicago casino opening in early 2027.",
   "key_numbers": [
    {
     "label": "Consolidated revenue",
     "value": "$792.2 million",
-    "context": "second quarter",
+    "context": "Q2 2026",
     "src": "official"
    },
    {
-    "label": "Revenue growth",
-    "value": "+20.5%",
-    "context": "YoY",
+    "label": "Casinos & Resorts revenue",
+    "value": "$401.0 million",
+    "context": "Q2 2026",
     "src": "official"
    },
    {
-    "label": "Adjusted EBITDAR",
-    "value": "$109.6 million",
-    "context": "Casinos & Resorts",
+    "label": "Intralot B2C revenue",
+    "value": "$243.5 million",
+    "context": "Q2 2026",
     "src": "official"
    },
    {
-    "label": "License fee paid",
-    "value": "$500 million",
-    "context": "Bronx project Q1 2026",
+    "label": "North America Interactive revenue",
+    "value": "$66.1 million",
+    "context": "Q2 2026",
     "src": "official"
    }
   ],
   "outlook_line": null,
-  "segments_basis": "Revenue, three months ended June 30, 2026",
+  "segments_basis": "Revenue, second quarter ended June 30, 2026",
   "segments": [
    {
     "name": "Casinos & Resorts",
     "revenue": "$401.0 million",
     "growth": "+2.0%",
-    "comment": "steady performance",
+    "comment": "steady growth",
     "src": "official"
    },
    {
     "name": "Bally’s Intralot B2C",
     "revenue": "$243.5 million",
     "growth": "+22.3%",
-    "comment": "strong growth",
+    "comment": "strong sports‑betting expansion",
     "src": "official"
    },
    {
     "name": "North America Interactive",
     "revenue": "$66.1 million",
     "growth": "+16.9%",
-    "comment": "solid increase",
-    "src": "official"
-   },
-   {
-    "name": "Bally’s Intralot B2B",
-    "revenue": null,
-    "growth": null,
-    "comment": "newly integrated",
-    "src": "official"
-   },
-   {
-    "name": "Corporate & Other",
-    "revenue": null,
-    "growth": null,
-    "comment": "minor",
+    "comment": "automation initiatives underway",
     "src": "official"
    }
   ],
   "focus": [
    {
     "area": "Lottery technology",
-    "plan": "provide platforms for contracts in Australia, Chile, Greece, Ontario",
+    "plan": "Provide technology solutions for contracts in Australia, Chile, Greece and Ontario",
+    "amount": null,
+    "timing": null,
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Automation",
+    "plan": "Implement automation initiatives in North America Interactive",
     "amount": null,
     "timing": null,
     "tech": true,
@@ -857,112 +892,103 @@
    },
    {
     "area": "Bronx casino",
-    "plan": "invest in integrated casino development",
-    "amount": "$4.0 billion",
-    "timing": "open by 2030",
+    "plan": "Develop integrated casino project",
+    "amount": "$4.0 billion",
+    "timing": "expected opening 2030",
     "tech": false,
     "src": "official"
    },
    {
-    "area": "Financing conversion",
-    "plan": "convert $500 million term loan to €461.6 million fixed‑rate instrument",
-    "amount": "$500 million",
-    "timing": "due October 2028",
-    "tech": false,
-    "src": "official"
-   },
-   {
-    "area": "Interest rate swap",
-    "plan": "enter $1.0 billion swap to fix rates until 2028",
-    "amount": "$1.0 billion",
+    "area": "Interest rate swaps",
+    "plan": "Fix rates on $1.0 billion notional until 2028",
+    "amount": "$1.0 billion",
     "timing": "until 2028",
     "tech": false,
     "src": "official"
    }
   ],
   "tech_spend": [
-   "technology investments for lottery contracts in Australia, Chile, Greece and Ontario",
-   "selected as lottery technology provider for OLG Ontario"
+   "Technology investments for lottery contracts in Australia, Chile, Greece and Ontario (no amount disclosed)",
+   "Automation initiatives in North America Interactive (no amount disclosed)",
+   "Interest rate swap program: $1.0 billion notional to fix rates until 2028"
   ],
   "organisation": null,
   "key_changes": [
    {
     "type": "Acquisition",
-    "change": "binding offer to acquire evoke plc",
-    "detail": "offer announced in June 2026",
+    "change": "Binding offer to acquire evoke plc",
+    "detail": "Announced June 2026, pending regulatory approvals",
     "when": "June 2026",
     "src": "official"
    },
    {
+    "type": "Partnership",
+    "change": "Letter of intent equity investor for Bronx",
+    "detail": "Signed August 2026 to support Bronx project financing",
+    "when": "August 2026",
+    "src": "official"
+   },
+   {
     "type": "Contract win",
-    "change": "15‑year EM machine monitoring license",
-    "detail": "awarded in Victoria, Australia",
+    "change": "15‑year EM monitoring license",
+    "detail": "Awarded in Victoria, Australia in April 2026",
     "when": "April 2026",
     "src": "official"
    },
    {
     "type": "Contract win",
-    "change": "up to 12‑year Chile lottery contract",
-    "detail": "new contract with State Lottery of Chile",
-    "when": "April 2026",
-    "src": "official"
-   },
-   {
-    "type": "Contract win",
-    "change": "Hellenic Lotteries contract",
-    "detail": "new contract in Greece",
-    "when": "May 2026",
-    "src": "official"
-   },
-   {
-    "type": "Contract win",
-    "change": "Ontario lottery technology provider",
-    "detail": "selected for OLG Ontario",
-    "when": "June 2026",
+    "change": "New lottery contracts",
+    "detail": "Contracts with Chile, Greece and Ontario signed Apr‑Jun 2026",
+    "when": null,
     "src": "official"
    }
   ],
-  "leadership": [],
+  "leadership": [
+   {
+    "person": "Joseph Jaffoni",
+    "role": "Chief Financial Officer",
+    "change": "Appointed",
+    "when": null,
+    "src": "official"
+   }
+  ],
   "dates": [
    {
     "date": "August 14, 2026",
-    "event": "earnings release",
+    "event": "Earnings release",
     "src": "official"
    },
    {
-    "date": "early 2027",
-    "event": "opening of Bally’s Chicago casino",
+    "date": "Early 2027",
+    "event": "Planned opening of permanent Bally’s Chicago casino",
     "src": "official"
    },
    {
     "date": "2030",
-    "event": "opening of Bally’s Bronx integrated casino",
+    "event": "Expected opening of Bally’s Bronx integrated casino",
     "src": "official"
    },
    {
-    "date": "before 2028 season",
-    "event": "completion of Las Vegas Athletics stadium",
+    "date": "Before 2028 season",
+    "event": "Completion of Las Vegas Athletics stadium",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "$4.0 billion Bronx casino development",
-    "Lottery technology contracts in four jurisdictions",
-    "Term‑loan conversion to fixed‑rate instruments",
-    "Interest‑rate swap to lock rates through 2028"
+    "Finalize financing and construction of the $4.0 billion Bronx integrated casino.",
+    "Deploy lottery technology platforms in Australia, Chile, Greece and Ontario.",
+    "Advance automation across North America Interactive operations.",
+    "Lock in interest rate exposure through $1.0 billion swap program."
    ],
    "changes": [
-    "Binding offer for evoke plc",
-    "New long‑term gaming‑machine monitoring license in Australia",
-    "Chile and Greece lottery contracts secured",
-    "Ontario lottery technology provider selected"
+    "Binding offer to acquire evoke plc pending approval.",
+    "Equity investor letter of intent for Bronx project.",
+    "Awarded long‑term electronic gaming machine monitoring license in Australia.",
+    "New multi‑country lottery contracts signed."
    ]
   },
-  "unverified_dropped": [
-   "revenue: $79.5 million",
-   "revenue: $2.2 million"
-  ],
+  "unverified_dropped": [],
   "format": 3,
   "company": "Bally's",
   "name": "Bally's Corporation",
@@ -982,41 +1008,60 @@
   ],
   "news_used": true,
   "chunks_read": 4,
-  "written_at": "2026-10-26T13:44:49+00:00"
+  "written_at": "2026-10-26T14:07:30+00:00"
  },
  "Light & Wonder": {
-  "document_type": "Quarterly results",
+  "document_type": "Other",
   "period": "",
-  "headline": "Oliver Chow joins as Executive Vice President, CFO and Treasurer.",
+  "headline": "Light & Wonder released its 2025 Global Corporate Social Responsibility Report and is preparing to announce Q3 2026 results on 5 November.",
   "key_numbers": [],
   "outlook_line": null,
-  "segments_basis": null,
+  "segments_basis": "",
   "segments": [],
   "focus": [],
   "tech_spend": [],
   "organisation": null,
-  "key_changes": [
-   {
-    "type": "Organisation",
-    "change": "Leadership addition",
-    "detail": "Oliver Chow joins as EVP, CFO and Treasurer",
-    "when": "August 4, 2026",
-    "src": "official"
-   }
-  ],
-  "leadership": [
-   {
-    "person": "Oliver Chow",
-    "role": "Executive Vice President, Chief Financial Officer and Treasurer",
-    "change": "Joining",
-    "when": "August 4, 2026",
-    "src": "official"
-   }
-  ],
+  "key_changes": [],
+  "leadership": [],
   "dates": [
    {
-    "date": "August 4, 2026",
-    "event": "press release and earnings call",
+    "date": "2026-08-04",
+    "event": "Light & Wonder 8-K earnings release",
+    "src": "official"
+   },
+   {
+    "date": "2026-09-28",
+    "event": "Light & Wonder Releases 2025 Global Corporate Social Responsibility Report",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-09",
+    "event": "Light & Wonder to Release Third Quarter 2026 Financial Results on 5 November",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-17",
+    "event": "Light & Wonder schedules November 4 results for Light & Wonder stock",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-19",
+    "event": "Light & Wonder (ASX:LNW) Holds Near $120 After Modest Decline",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-21",
+    "event": "Are Light & Wonder (ASX:LNW) Shares Rebuilding for Results?",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-23",
+    "event": "Light & Wonder stock: Jefferies sees AUD 1.97 earnings per share for Light & Wonder stock",
+    "src": "official"
+   },
+   {
+    "date": "2026-10-26",
+    "event": "Is ASX 200-listed Aristocrat (ASX:ALL) pulling away from Light & Wonder?",
     "src": "official"
    }
   ],
@@ -1044,72 +1089,76 @@
   ],
   "news_used": true,
   "chunks_read": 1,
-  "written_at": "2026-10-26T13:55:31+00:00"
+  "written_at": "2026-10-26T14:19:11+00:00"
  },
  "Brightstar (IGT)": {
   "document_type": "Quarterly results",
-  "period": "quarter ended June 30, 2026",
-  "headline": "Brightstar Lottery extended its technology contract with ONCE in Spain and launched Cash Pop in Ontario. A 357,600‑share buyback taps the $500M program.",
+  "period": "Second Quarter 2026",
+  "headline": "Brightstar Lottery expands contracts in Canada, Spain and New York, launching Cash Pop game in Ontario.",
   "key_numbers": [
    {
-    "label": "Buyback program",
-    "value": "$500M",
-    "context": "share buyback",
+    "label": "Dividend",
+    "value": "$500M program",
+    "context": "buyback",
+    "src": "official"
+   },
+   {
+    "label": "Share buyback",
+    "value": "357,600 shares",
+    "context": "taps program",
     "src": "official"
    }
   ],
   "outlook_line": null,
-  "segments_basis": null,
-  "segments": [],
-  "focus": [
+  "segments_basis": "Revenue, second quarter 2026",
+  "segments": [
    {
-    "area": "Lottery technology",
-    "plan": "extend contract with ONCE for enhancements",
-    "amount": null,
-    "timing": null,
-    "tech": true,
-    "src": "news"
+    "name": "Lottery",
+    "revenue": null,
+    "growth": null,
+    "comment": "Contract extensions and new launches",
+    "src": "official"
    },
    {
-    "area": "Canada rollout",
-    "plan": "shores up position with OLG rollout",
+    "name": "Gaming",
+    "revenue": null,
+    "growth": null,
+    "comment": "Private under Apollo, no figures",
+    "src": "official"
+   }
+  ],
+  "focus": [
+   {
+    "area": "Technology",
+    "plan": "Extend lottery technology contracts",
     "amount": null,
-    "timing": null,
+    "timing": "2026",
     "tech": true,
     "src": "news"
    }
   ],
-  "tech_spend": [
-   "extends lottery technology contract with ONCE in Spain"
-  ],
+  "tech_spend": [],
   "organisation": null,
   "key_changes": [
    {
     "type": "Contract win",
-    "change": "Technology extension",
-    "detail": "Multi‑year contract extension with ONCE for lottery technology enhancements in Spain",
-    "when": "2026-10-22",
-    "src": "news"
-   },
-   {
-    "type": "Product",
     "change": "Cash Pop launch",
-    "detail": "Cash Pop game launched in Ontario with OLG",
+    "detail": "Brightstar Lottery launches Cash Pop game in Ontario, Canada",
     "when": "2026-10-26",
     "src": "news"
    },
    {
     "type": "Contract win",
-    "change": "Canada OLG rollout",
-    "detail": "Brightstar shores up Canada position with OLG rollout",
-    "when": "2026-10-26",
+    "change": "Spain contract extension",
+    "detail": "Brightstar extends lottery technology contract with ONCE in Spain",
+    "when": "2026-10-22",
     "src": "news"
    },
    {
-    "type": "Cost programme",
-    "change": "Buyback tap",
-    "detail": "357,600‑share buyback taps the $500M program",
-    "when": "2026-10-22",
+    "type": "Contract win",
+    "change": "New contracts",
+    "detail": "Brightstar Lottery seals new contracts in Spain and New York",
+    "when": "2026-10-23",
     "src": "news"
    }
   ],
@@ -1117,30 +1166,31 @@
    {
     "person": "Pierfrancesco Boccia",
     "role": "Corporate Secretary",
-    "change": "Signing",
-    "when": "August 4, 2026",
+    "change": "Signed",
+    "when": "2026-08-04",
     "src": "official"
    }
   ],
   "dates": [
    {
-    "date": "2026-08-04",
-    "event": "Earnings release",
+    "date": "2026-09-01",
+    "event": "Dividend payable",
+    "src": "official"
+   },
+   {
+    "date": "2026-08-18",
+    "event": "Record date",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Extend ONCE technology contract",
+    "Extend lottery tech contracts",
     "Launch Cash Pop in Ontario",
-    "OLG rollout in Canada",
-    "Buyback taps $500M program"
+    "Secure Spain and NY contracts"
    ],
    "changes": [
-    "Technology contract extension in Spain",
-    "New Cash Pop product",
-    "Canada market expansion",
-    "Share buyback execution"
+    "Signed new corporate secretary"
    ]
   },
   "unverified_dropped": [],
@@ -1163,12 +1213,12 @@
   ],
   "news_used": true,
   "chunks_read": 1,
-  "written_at": "2026-10-26T13:56:24+00:00"
+  "written_at": "2026-10-26T14:20:02+00:00"
  },
  "Scholastic": {
   "document_type": "Quarterly results",
   "period": "quarter ended August 31, 2026",
-  "headline": "Scholastic announced the acquisition of Cottage Door Press for $71 Million and added Haji L. Glover as CFO.",
+  "headline": "Scholastic announced the acquisition of Cottage Door Press for $71 Million. Executive Vice President and CFO Haji L. Glover signed on September 24, 2026.",
   "key_numbers": [],
   "outlook_line": null,
   "segments_basis": null,
@@ -1176,7 +1226,7 @@
   "focus": [
    {
     "area": "Acquisition",
-    "plan": "Acquire Cottage Door Press",
+    "plan": "Purchase of Cottage Door Press",
     "amount": "$71 Million",
     "timing": null,
     "tech": false,
@@ -1189,7 +1239,7 @@
    {
     "type": "Acquisition",
     "change": "Cottage Door Press",
-    "detail": "Scholastic will acquire Cottage Door Press for $71 Million.",
+    "detail": "Scholastic will acquire the early‑childhood publisher for $71 Million.",
     "when": "2026-09-29",
     "src": "news"
    }
@@ -1198,24 +1248,29 @@
    {
     "person": "Haji L. Glover",
     "role": "Executive Vice President and Chief Financial Officer",
-    "change": "Joining",
+    "change": "Signing",
     "when": "September 24, 2026",
     "src": "official"
    }
   ],
   "dates": [
    {
-    "date": "2026-09-24",
-    "event": "Earnings release",
+    "date": "2026-09-29",
+    "event": "Acquisition announcement of Cottage Door Press",
+    "src": "official"
+   },
+   {
+    "date": "September 24, 2026",
+    "event": "CFO Haji L. Glover signing",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Acquire Cottage Door Press for $71 Million"
+    "Acquire Cottage Door Press for $71 Million."
    ],
    "changes": [
-    "Haji L. Glover joins as CFO"
+    "CFO Haji L. Glover signed on September 24 2026."
    ]
   },
   "unverified_dropped": [],
@@ -1238,12 +1293,12 @@
   ],
   "news_used": true,
   "chunks_read": 1,
-  "written_at": "2026-10-26T13:42:34+00:00"
+  "written_at": "2026-10-26T14:05:14+00:00"
  },
  "Pearson": {
   "document_type": "Trading update",
-  "period": "nine‑month period ended 30 September 2026",
-  "headline": "Pearson re‑segments into four customer‑focused units effective 1 January 2027 and completes the ITS acquisition. It will close the Workera acquisition before year‑end and invest in AI‑native platforms.",
+  "period": "nine months ended 30 September 2026",
+  "headline": "Pearson is re‑segmenting into four customer‑focused units and completing AI‑native acquisitions (ITS, Workera). It will invest in AI platforms and assessment technology.",
   "key_numbers": [
    {
     "label": "Revenue growth",
@@ -1254,13 +1309,13 @@
    {
     "label": "Adjusted operating profit",
     "value": "£650m‑£675m",
-    "context": "range",
+    "context": "FX £:$1.35",
     "src": "official"
    },
    {
     "label": "Free cash flow conversion",
     "value": "90‑100%",
-    "context": "medium term",
+    "context": "nine‑month period",
     "src": "official"
    },
    {
@@ -1270,7 +1325,7 @@
     "src": "official"
    }
   ],
-  "outlook_line": "Expect mid‑single digit underlying revenue growth for 2026",
+  "outlook_line": "Expect mid‑single digit underlying revenue growth for 2026.",
   "segments_basis": "Growth, nine months to 30 September 2026",
   "segments": [
    {
@@ -1305,14 +1360,14 @@
     "name": "Enterprise Learning & Skills",
     "revenue": null,
     "growth": "+7%",
-    "comment": "vocational qualification growth",
+    "comment": "vocational and strategic accounts",
     "src": "official"
    }
   ],
   "focus": [
    {
     "area": "AI platform",
-    "plan": "Develop AI‑native skills intelligence platform",
+    "plan": "Invest in AI‑native skills intelligence platform",
     "amount": null,
     "timing": null,
     "tech": true,
@@ -1320,23 +1375,23 @@
    },
    {
     "area": "Acquisition",
-    "plan": "Complete Workera acquisition",
+    "plan": "Complete Workera acquisition (AI‑native assessment)",
     "amount": null,
     "timing": "before year‑end 2026",
     "tech": true,
     "src": "official"
    },
    {
-    "area": "Acquisition",
-    "plan": "Integrate ITS assessment technology",
+    "area": "Assessment tech",
+    "plan": "Bring ITS assessment technology in‑house",
     "amount": null,
-    "timing": "completed 2026",
+    "timing": null,
     "tech": true,
     "src": "official"
    },
    {
-    "area": "Co‑writing assistant",
-    "plan": "Launch AI‑powered co‑writing assistant for clinical reports",
+    "area": "Product launch",
+    "plan": "AI‑powered co‑writing assistant for clinical reports",
     "amount": null,
     "timing": null,
     "tech": true,
@@ -1344,15 +1399,15 @@
    }
   ],
   "tech_spend": [
-   "AI‑native skills intelligence platform development (no amount disclosed)",
-   "Acquisition of Workera (strategic AI assessment investment)",
-   "Acquisition of ITS (assessment technology provider)",
-   "Launch of AI‑powered co‑writing assistant for clinical and psychoeducational reports"
+   "Invest in AI‑native skills intelligence platform (no amount disclosed)",
+   "AI‑powered co‑writing assistant launch",
+   "Acquisition of Workera adds AI‑native team",
+   "Acquisition of ITS brings assessment technology in‑house"
   ],
   "organisation": {
-   "summary": "Re‑segmenting into four customer‑led units with £50m one‑off reorganisation cost",
-   "before": "Assessment & Qualifications, Virtual Learning, Enterprise Learning & Skills, English Language Learning, Higher Education",
-   "effective": "1 January 2027",
+   "summary": "Re‑segmenting into four customer‑focused units effective 1 January 2027.",
+   "before": "Old structure not detailed in excerpt",
+   "effective": "1 January 2027",
    "units": [
     {
      "name": "US K12",
@@ -1383,36 +1438,36 @@
      "src": "official"
     }
    ],
-   "cost": "c.£50m (≈½ non‑cash) one‑off reorganisation costs across FY26 and FY27",
-   "savings": null,
+   "cost": "c.£50m reorganisation cost, half non‑cash",
+   "savings": "savings to be reinvested",
    "src": "official"
   },
   "key_changes": [
    {
-    "type": "Organisation",
-    "change": "Re‑segmenting",
-    "detail": "Four customer‑focused units effective 1 January 2027",
-    "when": "1 January 2027",
-    "src": "official"
-   },
-   {
     "type": "Acquisition",
     "change": "ITS acquisition",
-    "detail": "Assessment technology provider acquired, amount undisclosed",
+    "detail": "Brings assessment technology in‑house",
     "when": null,
     "src": "official"
    },
    {
     "type": "Acquisition",
     "change": "Workera acquisition",
-    "detail": "AI‑native enterprise assessment firm, close before year‑end",
+    "detail": "AI‑native enterprise assessment platform, close before year‑end 2026",
     "when": "2026 year‑end",
+    "src": "official"
+   },
+   {
+    "type": "Organisation",
+    "change": "Re‑segmenting",
+    "detail": "Four customer‑focused business units effective 1 Jan 2027",
+    "when": "1 January 2027",
     "src": "official"
    },
    {
     "type": "Product",
     "change": "AI co‑writing assistant",
-    "detail": "Launched AI‑powered tool for clinical and psychoeducational reports",
+    "detail": "Launched for clinical and psychoeducational reports",
     "when": null,
     "src": "official"
    }
@@ -1442,22 +1497,27 @@
   ],
   "dates": [
    {
-    "date": "1 January 2027",
+    "date": "22 October 2026",
+    "event": "Release of Nine Month Trading Update",
+    "src": "official"
+   },
+   {
+    "date": "1 January 2027",
     "event": "Effective date of new business units",
     "src": "official"
    },
    {
     "date": "2026 year‑end",
-    "event": "Expected completion of Workera acquisition",
+    "event": "Target for completion of Workera acquisition",
     "src": "official"
    },
    {
-    "date": "22 Oct 2026",
-    "event": "Nine‑month trading update release",
+    "date": "4Q26",
+    "event": "Workera expected to close",
     "src": "official"
    },
    {
-    "date": "11 Dec 2026",
+    "date": "11 December 2026",
     "event": "Virtual Schools Investor Seminar",
     "src": "official"
    }
@@ -1465,15 +1525,15 @@
   "summary": {
    "focus": [
     "Invest in AI‑native platforms and assessment technology",
-    "Complete Workera acquisition before year‑end",
-    "Integrate ITS assessment capabilities",
-    "Launch AI‑powered co‑writing assistant"
+    "Complete Workera acquisition to add AI capabilities",
+    "Bring ITS assessment tech in‑house",
+    "Spend on AI‑powered product launches"
    ],
    "changes": [
     "Re‑segment into four customer‑led units",
-    "One‑off reorganisation cost of c.£50m",
+    "Reorganisation cost c.£50m, half non‑cash, savings reinvested",
     "Leadership transition: Tom ap Simon leaving, Kate Eberle Walker appointed",
-    "Strategic acquisitions to strengthen AI and assessment"
+    "Launch of AI co‑writing assistant and other AI products"
    ]
   },
   "unverified_dropped": [
@@ -1506,6 +1566,6 @@
   ],
   "news_used": true,
   "chunks_read": 4,
-  "written_at": "2026-10-26T13:41:22+00:00"
+  "written_at": "2026-10-26T14:04:01+00:00"
  }
 }

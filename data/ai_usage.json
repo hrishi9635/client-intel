@@ -1,5 +1,6 @@
 {
  "2026-10-26": {
-  "openai/gpt-oss-120b": 125819
+  "openai/gpt-oss-120b": 111206,
+  "openai/gpt-oss-20b": 14399
  }
 }
