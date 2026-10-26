@@ -1,7 +1,7 @@
 """
 Client-by-client e-mail, built from data/briefs.json (written by agent/brief.py) and report.py.
 
- - New release: the one-page summary for each client that just reported, in the body.
+ - New release: the one-page summary (key numbers, revenue by segment, area of focus, key changes, leadership) for each client that just reported, in the body.
    The full and summary PDFs are attached by notify.py.
  - Weekly round-up: one short card per client, grouped by industry.
 Plain inline styles only, so it renders the same in Outlook, Gmail and on phones.
@@ -10,6 +10,7 @@ import html
 from datetime import date
 
 import report
+from agent.brief import FORMAT
 
 INK, MUTED, LINE, SOFT, ACCENT = "#1B2333", "#5B6475", "#E4E7EC", "#F4F6FB", "#2F41BF"
 INDUSTRY_ORDER = ["Media & Entertainment", "Gaming & Lottery", "Publishing & Information", "Education"]
@@ -30,18 +31,19 @@ def pill(t):
 
 
 def compact(b, color):
-    """Short weekly card: headline, guidance, leadership and technology in one glance."""
+    """Short weekly card: headline, top spending focus and leadership changes."""
+    m = report.Money()
+    focus = [f"{x.get('area')}: {x.get('plan')}" for x in (b.get("focus") or [])[:2]]
     lead = [f"{e(x.get('person'))} ({e(str(x.get('change') or '').lower())})" for x in (b.get("leadership") or [])[:3]]
-    tech = ((b.get("summary") or {}).get("technology") or [])[:2]
     lines = []
+    if focus:
+        lines.append(f"<b>Focus:</b> {e(m.text(' · '.join(focus)))}")
     if lead:
         lines.append(f"<b>Leadership:</b> {'; '.join(lead)}")
-    if tech:
-        lines.append(f"<b>Technology:</b> {e(' · '.join(tech))}")
     return (f"<div style='border-left:4px solid {color};padding:8px 12px;margin:8px 0;background:{SOFT}'>"
             f"<b>{e(b.get('name') or b.get('company'))}</b> <span style='color:{MUTED};font-size:12px'>{e(b.get('period'))} · "
-            f"released {e(report.nice_date(b.get('release_date')))}</span> {pill(b.get('guidance_verdict'))}"
-            f"<div style='margin-top:4px'>{e(b.get('headline') or b.get('one_line'))}</div>"
+            f"released {e(report.nice_date(b.get('release_date')))}</span>"
+            f"<div style='margin-top:4px'>{e(m.text(b.get('headline')))}</div>"
             + "".join(f"<div style='font-size:13px;margin-top:3px'>{x}</div>" for x in lines) + "</div>")
 
 
@@ -53,7 +55,7 @@ def status_card(r, color):
 
 
 def is_current(b, r):
-    return bool(b) and b.get("format") == 2 and b.get("release_key") == (r or {}).get("release_key")
+    return bool(b) and b.get("format") == FORMAT and b.get("release_key") == (r or {}).get("release_key")
 
 
 def email_html(rows, briefs, new_companies, weekly, links=None, generated="", attached=None):
@@ -84,7 +86,7 @@ def email_html(rows, briefs, new_companies, weekly, links=None, generated="", at
             out.append(f"<div style='font-weight:bold;color:{MUTED};text-transform:uppercase;font-size:12px;letter-spacing:.05em;margin:16px 0 2px'>{e(ind)}</div>")
             for r in members:
                 b = briefs.get(r["company"])
-                out.append(compact(b, r.get("color", ACCENT)) if b and b.get("format") == 2 else status_card(r, r.get("color", ACCENT)))
+                out.append(compact(b, r.get("color", ACCENT)) if b and b.get("format") == FORMAT else status_card(r, r.get("color", ACCENT)))
     lk = " · ".join(f"<a href='{e(u)}' style='color:{ACCENT}'>{e(n)}</a>" for n, u in (links or []))
     out.append(f"<p style='color:{MUTED};font-size:12px;margin-top:18px;border-top:1px solid {LINE};padding-top:8px'>"
                + (f"Dashboard: {lk}. " if lk else "")

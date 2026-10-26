@@ -27,6 +27,7 @@ from email.message import EmailMessage
 
 import requests
 
+from agent.brief import FORMAT
 from backup_summary import DATA, build, done_keys, money, new_results, pct, pulse_groups, site_links
 
 STATE = DATA / "notify_state.json"
@@ -179,7 +180,7 @@ def load_briefs():
 def brief_ready(r, briefs):
     """Wait for the account update (up to a day after the release) so the e-mail carries the full analysis."""
     b = briefs.get(r["company"]) or {}
-    if b.get("release_key") == r.get("release_key") and b.get("format") == 2:
+    if b.get("release_key") == r.get("release_key") and b.get("format") == FORMAT:
         return True
     try:
         filed = datetime.fromisoformat(str(r.get("filed"))[:10]).date()
