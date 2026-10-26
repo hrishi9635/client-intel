@@ -195,7 +195,7 @@ class Money:
 
 
 NUMS = re.compile(r"(\$\d[\d,]*(?:\.\d+)?(?:bn|m|k)?(?:–\$\d[\d,]*(?:\.\d+)?(?:bn|m|k)?)?"
-                  r"|[+\-−–]?\d+(?:\.\d+)?\s?(?:%|pts|ppt|bps)|\b\d+(?:\.\d+)?x\b)")
+                  r"|[+\-−–‑]?\d+(?:\.\d+)?\s?(?:%|pts|ppt|bps)|\b\d+(?:\.\d+)?x\b)")
 
 
 class Doc:
@@ -285,9 +285,9 @@ class Doc:
         else:
             data = []
             for s in segs:
-                m = re.search(r"([+\-−–]?)\s?(\d+(?:\.\d+)?)\s?%", str(s.get("growth") or ""))
+                m = re.search(r"([+\-−–‑]?)\s?(\d+(?:\.\d+)?)\s?%", str(s.get("growth") or ""))
                 if m:
-                    data.append((s, float(m.group(2)) * (-1 if m.group(1) in "-−–" and m.group(1) else 1)))
+                    data.append((s, float(m.group(2)) * (-1 if m.group(1) in "-−–‑" and m.group(1) else 1)))
             if len(data) < 2:
                 return ""
             top = max(abs(v) for _, v in data) or 1
