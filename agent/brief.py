@@ -1,136 +1,104 @@
 """
-Account update per client, built from the OFFICIAL documents of each results release.
-It is written for a sales SPOC who needs to know what is going on at the client right now.
+Account update per client, built from the company's OWN documents for each results release.
+Written for a sales colleague who wants to know what is going on at the client and where it will spend.
 
 What it reads (all public):
- - the official release (SEC 8-K Exhibit 99.1 / 6-K / company release page), with the outlook, strategy,
-   organisation, technology and deal paragraphs picked first, plus other exhibits filed with it
- - the earnings-call transcript if a public copy can be found (secondary: items are marked "call")
- - recent news headlines about leadership moves and technology / IT spending (secondary: marked "news")
+ - the company's results page on its own website ("results_page" in companies.csv): press release,
+   results presentation, and the call transcript when the company publishes one (agent/irsite.py)
+ - the same release as filed with the SEC (8-K / 6-K and exhibits), used when the website can't be read
+ - a public earnings-call transcript if the company doesn't publish one (marked "call")
+ - recent news headlines on leadership moves and technology spending (marked "news")
 
-What it writes (data/briefs.json, one entry per client, kept until the next release), in the same sections
-as the PDFs: at a glance, guidance, business units, organisation changes, leadership changes,
-technology & IT spending, contracts & partnerships, pressures & risks, management quotes, key dates,
-and short summary bullets for the one-page version.
-
-Checks: every number must appear in the sources, quotes must be word for word, people's names must appear
-in the sources. Anything that fails is removed. Two AI calls per release keep each request inside the
-free per-minute limit.
+How: every document is read in full, in chunks. For each chunk the AI writes short notes (numbers, segment
+revenue, spending plans, changes, leadership, dates). A final step turns the notes into the update.
+Checks: every number must appear in the sources, quotes must be word for word, people's names must appear in
+the sources. Anything that fails is removed. Amounts stay in the company's currency here; report.py
+converts them to US dollars when drawing the PDFs.
 """
+import json
 import re
 from datetime import datetime, timezone
 
+from . import irsite
 from . import news as newsmod
 from .verify import flat, text_ok
 
+FORMAT = 3
+CHUNK = 7500       # characters per AI call (fits the free per-minute limit)
+MAX_CHUNKS = 6     # per release; the most relevant chunks are read first
+NOTES_BUDGET = 9500
+
 KEYWORDS = {
-    3: ["outlook", "guidance", "expect", "medium term", "medium-term", "target", "full year", "full-year", "reaffirm",
-        "narrow", "raise", "lower", "range", "forecast"],
-    2: ["strategy", "strategic", "priorit", "invest", "operating model", "reorganis", "reorganiz", "restructur",
-        "simplif", "efficien", "saving", "cost", "platform", "technology", "digital", "ai ", "artificial intelligence",
-        "cloud", "data", "automation", "acqui", "partner", "contract", "customer", "launch", "transform", "consolidat",
-        "vendor", "outsourc", "headcount", "workforce", "leadership", "appoint", "chief", "president", "join",
-        "step down", "depart", "succeed", "said", "capex", "capital expenditure", "systems", "integration"],
-    1: ["segment", "division", "revenue", "growth", "margin", "headwind", "risk", "pressure", "decline", "demand"],
+    3: ["invest", "spend", "capex", "capital expenditure", "technology", "platform", "digital", " ai ", "ai-", "artificial intelligence",
+        "cloud", "data", "automation", "systems", "modernis", "moderniz", "transform", "priorit", "outlook", "guidance",
+        "expect", "appoint", "chief", "president", "step down", "leave", "join", "reorganis", "reorganiz", "restructur"],
+    2: ["strategy", "operating model", "simplif", "efficien", "saving", "cost", "acqui", "partner", "contract", "launch",
+        "consolidat", "vendor", "outsourc", "integration", "headcount", "workforce", "medium term", "target", "full year"],
+    1: ["segment", "division", "revenue", "sales", "growth", "margin", "risk", "pressure", "decline", "demand"],
 }
 
-RULES = """You read a company's OFFICIAL results documents (numbered sources) and write a clear, factual account update
-for a sales colleague at an IT services firm who wants to know everything that is going on at this company right now.
-Rules:
-- Use ONLY the numbered sources. Every number, name, date and quote must appear in them. No outside knowledge.
-- OFFICIAL sources are the company's own documents. CALL sources are third-party transcripts of the earnings call:
-  use them, and set "src": "call" (or end a text point with " (call)"). NEWS sources are recent headlines:
-  use them only for leadership moves and technology / IT spending, with "src": "news" (or " (news)").
-- Plain, short sentences a busy person can scan. State facts; no sales pitch, no advice, no opinions.
-- The company is an industry player; never call it a client or "our"."""
+RULES = """Use ONLY the text given. Every number, name, date and quote must appear in it. No outside knowledge.
+Keep amounts EXACTLY as written, in the company's own currency (e.g. "£650m", "€1.2bn", "$3.4bn"); never convert.
+The company is an industry player; never call it a client or "our". Plain, short, factual sentences; no sales pitch."""
 
-SYSTEM_A = RULES + """
-This part: results, guidance, business units, contracts, risks, quotes and dates.
-- Guidance: list EVERY guided item separately (revenue, growth, profit, margin, EPS, cash flow, capex, tax, interest,
-  buybacks). "narrowed" = range tightened (say in the note whether the midpoint moved); "reaffirmed" = unchanged.
-  Never call a narrowed range "cut" unless the midpoint went down.
-- Quotes must be copied word for word (max 30 words). If unsure, leave them out.
+SYSTEM_MAP = """You take notes from one excerpt of a company's results documents for a sales colleague at an IT services firm.
+""" + RULES + """
+Capture especially: where the company will SPEND or INVEST (next quarter, next year, next few years), above all on
+technology & IT (platforms, systems, vendors, cloud, data, AI, automation, cybersecurity, capex, acquired technology);
+revenue by segment / business unit; key changes (reorganisation, acquisitions, disposals, contracts, partnerships,
+products, cost programmes); any REORGANISATION in detail (old structure, new business units, what each includes,
+their size and leader, effective date, cost, savings); every leadership change (appointed, leaving, retiring, new role). Return ONE JSON object."""
+
+SCHEMA_MAP = """{
+ "period": "reporting period exactly as stated, or null",
+ "numbers": ["headline figures with their label, e.g. 'Revenue £3.1bn, +5% underlying'"],
+ "segments": [{"name": "", "revenue": "as written or null", "growth": "e.g. +4% or null", "period": "or null"}],
+ "spend": ["plans to spend / invest / prioritise, with amount and timing when stated; technology & IT first"],
+ "changes": ["key changes with timing"],
+ "organisation": ["reorganisation details: old structure, each new unit with what it includes, size and leader, effective date, cost, savings"],
+ "leadership": [{"person": "", "role": "", "change": "Appointed|Leaving|Retiring|Promoted|New role|Expanded role|Joining", "when": "or null"}],
+ "outlook": ["guidance / outlook statements"],
+ "dates": ["upcoming events with their date"],
+ "quotes": ["verbatim quote (max 30 words) — speaker"]
+}"""
+
+SYSTEM_REDUCE = """You write a clear, factual account update for a sales colleague at an IT services firm who wants to know
+what is going on at this company and WHERE IT WILL SPEND, especially on technology & IT.
+""" + RULES + """
+You get notes taken from the company's documents (OFFICIAL = the company's own documents; CALL = a third-party
+transcript of the earnings call; NEWS = recent headlines, usable only for leadership and technology spending).
+Set "src" to "call" or "news" for items that come only from those.
+- period: the reporting period exactly as the documents state it (e.g. "nine months to 30 September 2026").
+- key_numbers: the 3-4 figures that matter most (revenue, growth, profit, cash or capex / technology investment).
+- segments: revenue by segment or business unit, using the most recent period with figures for EVERY segment;
+  if no amounts are given, give each segment's growth instead.
+- focus: where the company will spend or invest over the coming quarter, year or few years. Technology & IT first.
+- organisation: fill it whenever the company is reorganising or changing its operating model / business units:
+  the old structure, every new unit (what it includes, size, leader), effective date, cost and savings. Otherwise null.
+- leadership: only real changes. A person leaving is "Leaving", never "Appointed". Do not list people whose role did not change.
 Return ONE JSON object."""
 
-SCHEMA_A = """{
+SCHEMA_REDUCE = """{
  "document_type": "Quarterly results|Half-year results|Full-year results|Trading update|Investor update|Other",
- "period": "e.g. Nine months to 30 September 2026",
- "headline": "2-3 sentences: the most important things happening at the company now",
- "at_a_glance": ["4-6 short bullets: growth, strongest and weakest areas, big moves"],
- "guidance_verdict": "Raised|Lowered|Narrowed|Reaffirmed|Mixed|Introduced|Withdrawn|None given",
- "guidance": [{"metric": "", "new": "", "previous": "or null", "change": "raised|lowered|narrowed|reaffirmed|introduced|withdrawn|n/a",
-               "note": "e.g. midpoint unchanged, or null", "src": "official|call"}],
- "guidance_notes": ["basis, exchange rates, phasing, what is excluded"],
- "unit_outlook": [{"unit": "", "outlook": ""}],
- "medium_term": ["medium-term targets, one per bullet"],
- "units": [{"unit": "business unit", "numbers": "headline growth as stated", "points": ["2-4 facts: drivers, wins, problems"]}],
- "deals": [{"name": "", "type": "Acquisition|Disposal|Partnership|Contract win|Contract loss|Extension|Launch|Other", "detail": "", "src": "official|call|news"}],
- "risks": ["pressures and risks stated"],
- "quotes": [{"speaker": "name and role", "quote": "verbatim"}],
- "dates": [{"date": "", "event": ""}]
+ "period": "",
+ "headline": "max 2 sentences: the most important things happening now",
+ "key_numbers": [{"label": "max 4 words", "value": "as written, e.g. £3.1bn or +5%", "context": "max 8 words"}],
+ "outlook_line": "one sentence on full-year guidance, or null",
+ "segments_basis": "what the segment figures are, e.g. 'Revenue, nine months to 30 September 2026'",
+ "segments": [{"name": "", "revenue": "as written or null", "growth": "e.g. +4% or null", "comment": "max 12 words"}],
+ "focus": [{"area": "max 5 words", "plan": "what they will spend on / invest in", "amount": "as written or null",
+            "timing": "or null", "tech": true, "src": "official|call|news"}],
+ "tech_spend": ["technology & IT spending facts: platforms, systems, vendors, cloud, data, AI, capex, acquired technology"],
+ "organisation": {"summary": "one sentence", "before": "old structure, or null", "effective": "date or null",
+                  "units": [{"name": "", "revenue": "as written or null", "includes": "max 10 words", "leader": "or null"}],
+                  "cost": "as written or null", "savings": "what savings are used for, or null", "src": "official|call"},
+ "key_changes": [{"type": "Organisation|Acquisition|Disposal|Contract win|Contract loss|Partnership|Product|Cost programme|Other",
+                  "change": "max 8 words", "detail": "one sentence", "when": "or null", "src": "official|call|news"}],
+ "leadership": [{"person": "", "role": "", "change": "Appointed|Leaving|Retiring|Promoted|New role|Expanded role|Joining",
+                 "when": "or null", "src": "official|call|news"}],
+ "dates": [{"date": "", "event": ""}],
+ "summary": {"focus": ["max 4 bullets, max 20 words each"], "changes": ["max 4 bullets, max 20 words each"]}
 }"""
-
-SYSTEM_B = RULES + """
-This part: organisation changes, leadership changes, and technology & IT spending.
-- Organisation: any reorganisation, new operating model, new business units (with size and leader when stated),
-  restructuring cost, savings and what they are reinvested in, timing.
-- Leadership: EVERY person named as appointed, leaving, retiring, promoted, given a new or bigger role, or leading
-  a new unit (including people joining through acquisitions). Unchanged CEO/CFO go in "unchanged".
-- Technology & IT spending: anything about technology platforms, systems, vendors, consolidation, cloud, data, AI,
-  automation, digital products, capex or technology investment, acquired technology to integrate, technology partners.
-  Group the points under short topics. Include amounts and timing when stated.
-- Summary: very short bullets for a one-page version.
-Return ONE JSON object."""
-
-SCHEMA_B = """{
- "organisation": {"summary": "1-2 sentences or null", "effective": "date or null",
-                  "units": [{"unit": "", "size": "e.g. revenue, or null", "includes": "", "leader": "or null", "src": "official|call"}],
-                  "points": ["cost, savings, reinvestment, timing"]},
- "leadership": [{"person": "", "role": "", "change": "Appointed|Leaving|Retiring|Promoted|New role|Expanded role|Joining|Other",
-                 "detail": "timing or context", "src": "official|call|news"}],
- "unchanged": ["e.g. Jane Doe (Chief Executive)"],
- "technology": [{"topic": "e.g. Platform & vendor consolidation / Acquisitions to integrate / AI products / Technology partners / Technology investment",
-                 "points": ["facts; end with (call) or (news) when not from the official documents"]}],
- "summary": {"happening": ["max 4 bullets, max 20 words each"], "technology": ["max 5 bullets, max 25 words each"]}
-}"""
-
-
-def select_text(text, budget):
-    """Keep the opening, then the most relevant paragraphs (in their original order) until the budget is used."""
-    text = re.sub(r"[ \t\xa0]+", " ", text or "")
-    paras = [p.strip() for p in re.split(r"\n+", text) if len(p.strip()) > 40]
-    if sum(len(p) for p in paras) <= budget:
-        return "\n".join(paras)
-    head, used, keep = [], 0, set()
-    head_budget = min(1600, budget // 5)  # the opening (headline numbers), then the most relevant paragraphs
-    for i, p in enumerate(paras):
-        if used >= head_budget:
-            break
-        head.append(i)
-        p = p[:head_budget]
-        paras[i] = p
-        used += len(p)
-    scored = []
-    for i, p in enumerate(paras):
-        if i in head:
-            continue
-        low = p.lower()
-        s = sum(w * sum(low.count(k) for k in ks) for w, ks in KEYWORDS.items())
-        s += 2 * len(re.findall(r"[£$€]\s?\d|\d+(?:\.\d+)?\s?%|\bbps\b", p))
-        scored.append((s, i))
-    for s, i in sorted(scored, reverse=True):
-        if s <= 0 or used + len(paras[i]) > budget:
-            continue
-        keep.add(i)
-        used += len(paras[i])
-    order = sorted(set(head) | keep)
-    out, last = [], -1
-    for i in order:
-        if last >= 0 and i != last + 1:
-            out.append("[...]")
-        out.append(paras[i][:1500])
-        last = i
-    return "\n".join(out)
 
 
 def official_documents(sec, company, rel, log):
@@ -197,23 +165,34 @@ def news_context(company, days=90):
     return out[:12]
 
 
-def build_corpus(docs, news_lines=None, budget=11000):
-    off = [d for d in docs if d.get("official")]
-    call = [d for d in docs if not d.get("official")]
-    news_txt = "\n".join(news_lines or [])[:1600]
-    budget -= len(news_txt)
-    lines = []
-    share_off = budget if not call else int(budget * 0.72)
-    per = max(2500, share_off // max(1, len(off))) if off else 0
-    for i, d in enumerate(off):
-        b = per if i else max(per, share_off - per * (len(off) - 1))
-        lines.append(f"[{len(lines) + 1}] OFFICIAL: {d['title']}\n{select_text(d['text'], b)}")
-    for d in call:
-        lines.append(f"[{len(lines) + 1}] CALL (earnings call transcript, third-party): {d['title']}\n"
-                     f"{select_text(d['text'], budget - share_off)}")
-    if news_txt:
-        lines.append(f"[{len(lines) + 1}] NEWS (recent headlines, secondary):\n{news_txt}")
-    return "\n\n".join(lines)
+
+def _score(text):
+    low = f" {text.lower()} "
+    s = sum(w * sum(low.count(k) for k in ks) for w, ks in KEYWORDS.items())
+    return s + 2 * len(re.findall(r"[£$€]\s?\d|\d+(?:\.\d+)?\s?%", text))
+
+
+def chunks(docs):
+    """Split every document into CHUNK-sized pieces; keep the most relevant MAX_CHUNKS, release first."""
+    rank = {"release": 0, "presentation": 1, "commentary": 2, "transcript": 3}
+    out = []
+    for di, d in enumerate(docs):
+        paras = [p.strip() for p in re.split(r"\n+", d["text"] or "") if len(p.strip()) > 3]
+        cur = ""
+        part = 0
+        for p in paras:
+            if len(cur) + len(p) > CHUNK and cur:
+                out.append({"doc": di, "part": part, "text": cur})
+                part, cur = part + 1, ""
+            cur += p[:CHUNK] + "\n"
+        if cur.strip():
+            out.append({"doc": di, "part": part, "text": cur})
+    for c in out:
+        d = docs[c["doc"]]
+        c["src"] = "official" if d.get("official") else "call"
+        c["prio"] = (c["part"] == 0 and rank.get(d.get("kind", "release"), 0) == 0, _score(c["text"]))
+    keep = sorted(out, key=lambda c: c["prio"], reverse=True)[:MAX_CHUNKS]
+    return sorted(keep, key=lambda c: (c["doc"], c["part"]))
 
 
 def _norm(s):
@@ -223,20 +202,59 @@ def _norm(s):
 SRC = {"official", "call", "news"}
 
 
-def _check(brief, corpus):
-    """Remove anything with a number not in the sources, quotes that are not verbatim, names not in the sources."""
-    fc, nc, dropped = flat(corpus), _norm(corpus), []
+def _ok_factory(source_text):
+    fc = flat(source_text)
 
     def ok(s):
         if not isinstance(s, str):
             return True
-        # small percentages ("9%") are skipped by the shared check, so test them here
-        for m in re.finditer(r"(\d+(?:\.\d+)?)\s?(%|per ?cent)", s):
+        for m in re.finditer(r"(\d+(?:\.\d+)?)\s?(%|per ?cent)", s):  # small percentages too
             if not re.search(rf"(?<![\d.]){re.escape(m.group(1))}\s?(%|per ?cent)", fc):
                 return False
         return text_ok(s, fc)
+    return ok
 
-    def strings(items):
+
+def take_notes(llm, company, chunk, docs, dropped):
+    d = docs[chunk["doc"]]
+    user = (f"Company: {company['name']}. Document: {d['title']} ({'OFFICIAL' if d.get('official') else 'CALL transcript, third-party'}).\n"
+            f"Excerpt:\n{chunk['text']}\n\nReturn JSON exactly in this shape:\n{SCHEMA_MAP}")
+    n = llm.chat_json(SYSTEM_MAP, user, max_tokens=1500)
+    if not isinstance(n, dict):
+        return None
+    ok, nc = _ok_factory(chunk["text"]), _norm(chunk["text"])
+    clean = {"src": chunk["src"], "doc": d["title"]}
+    for k in ("numbers", "spend", "changes", "organisation", "outlook", "dates"):
+        clean[k] = [x for x in (n.get(k) or []) if isinstance(x, str) and (ok(x) or dropped.append(x[:60]))]
+    clean["quotes"] = [q for q in (n.get("quotes") or []) if isinstance(q, str)
+                       and _norm(q.split("—")[0].strip(' "“”')) in nc]
+    clean["segments"] = [s for s in (n.get("segments") or []) if isinstance(s, dict) and s.get("name")
+                         and all(ok(s.get(k)) for k in ("revenue", "growth"))]
+    clean["leadership"] = [x for x in (n.get("leadership") or []) if isinstance(x, dict) and x.get("person")
+                           and _norm(x["person"]) in nc]
+    clean["period"] = n.get("period") if ok(n.get("period")) else None
+    return clean
+
+
+def notes_text(notes, news_lines):
+    parts = []
+    for i, n in enumerate(notes, 1):
+        tag = "OFFICIAL" if n["src"] == "official" else "CALL"
+        body = {k: v for k, v in n.items() if k not in ("src", "doc") and v}
+        parts.append(f"[{i}] {tag} – {n['doc']}\n{json.dumps(body, ensure_ascii=False)}")
+    txt = "\n\n".join(parts)
+    if len(txt) > NOTES_BUDGET:
+        txt = txt[:NOTES_BUDGET] + "\n[...]"
+    if news_lines:
+        txt += "\n\n[NEWS] recent headlines (leadership and technology only):\n" + "\n".join(news_lines)[:1500]
+    return txt
+
+
+def _check(brief, corpus):
+    """Remove anything with a number not in the sources, quotes that are not verbatim, names not in the sources."""
+    ok, nc, dropped = _ok_factory(corpus), _norm(corpus), []
+
+    def strings(items, limit=None):
         out = []
         for x in items or []:
             if isinstance(x, str) and x.strip():
@@ -244,7 +262,7 @@ def _check(brief, corpus):
                     out.append(x.strip())
                 else:
                     dropped.append(x[:60])
-        return out
+        return out[:limit] if limit else out
 
     def objects(items, keys, must):
         out = []
@@ -255,115 +273,125 @@ def _check(brief, corpus):
                 if isinstance(x.get(k), str) and not ok(x[k]):
                     dropped.append(f"{k}: {x[k][:60]}")
                     x[k] = None
-                elif isinstance(x.get(k), list):
-                    x[k] = strings(x[k])
             if x.get("src") not in SRC:
                 x["src"] = "official"
             if all(x.get(m) for m in must):
                 out.append(x)
         return out
 
-    def named(items, key):
-        out = []
-        for x in items:
-            if x.get(key) and _norm(x[key]) not in nc:
-                dropped.append(f"name not in sources: {x[key]}")
-                x[key] = None
-            out.append(x)
-        return out
-
-    for k in ("headline",):
+    for k in ("headline", "outlook_line", "period", "segments_basis"):
         if not ok(brief.get(k)):
             dropped.append(k)
             brief[k] = None
-    for k in ("at_a_glance", "guidance_notes", "medium_term", "risks", "unchanged"):
-        brief[k] = strings(brief.get(k))
-    brief["guidance"] = objects(brief.get("guidance"), ["metric", "new", "previous", "note"], ["metric", "new"])
-    brief["unit_outlook"] = objects(brief.get("unit_outlook"), ["unit", "outlook"], ["unit", "outlook"])
-    brief["units"] = objects(brief.get("units"), ["unit", "numbers", "points"], ["unit"])
-    brief["deals"] = objects(brief.get("deals"), ["name", "detail"], ["name"])
-    brief["dates"] = objects(brief.get("dates"), ["date", "event"], ["event"])
-    brief["technology"] = [t for t in objects(brief.get("technology"), ["topic", "points"], ["topic"]) if t.get("points")]
-    org = brief.get("organisation") if isinstance(brief.get("organisation"), dict) else {}
-    for k in ("summary", "effective"):
-        if not ok(org.get(k)):
-            dropped.append(f"organisation {k}")
-            org[k] = None
-    org["units"] = named(objects(org.get("units"), ["unit", "size", "includes", "leader"], ["unit"]), "leader")
-    org["points"] = strings(org.get("points"))
+    brief["key_numbers"] = objects(brief.get("key_numbers"), ["label", "value", "context"], ["label", "value"])[:4]
+    brief["segments"] = objects(brief.get("segments"), ["revenue", "growth", "comment"], ["name"])
+    brief["focus"] = sorted(objects(brief.get("focus"), ["area", "plan", "amount", "timing"], ["area", "plan"]),
+                            key=lambda x: not x.get("tech"))
+    brief["tech_spend"] = strings(brief.get("tech_spend"))
+    org = brief.get("organisation") if isinstance(brief.get("organisation"), dict) else None
+    if org:
+        for k in ("summary", "before", "effective", "cost", "savings"):
+            if not ok(org.get(k)):
+                dropped.append(f"organisation {k}")
+                org[k] = None
+        org["units"] = objects(org.get("units"), ["revenue", "includes"], ["name"])
+        for u in org["units"]:
+            if u.get("leader") and _norm(u["leader"]) not in nc:
+                dropped.append(f"leader not in sources: {u['leader']}")
+                u["leader"] = None
+        if org.get("src") not in SRC:
+            org["src"] = "official"
+        org = org if (org.get("summary") or org["units"]) else None
     brief["organisation"] = org
+    brief["key_changes"] = objects(brief.get("key_changes"), ["change", "detail", "when"], ["change"])
+    brief["dates"] = objects(brief.get("dates"), ["date", "event"], ["date", "event"])
     lead = []
-    for x in objects(brief.get("leadership"), ["role", "detail"], ["person"]):
+    for x in objects(brief.get("leadership"), ["role", "when"], ["person", "change"]):
+        if str(x["change"]).lower() in ("unchanged", "none", "n/a"):
+            continue
         if _norm(x["person"]) in nc:
             lead.append(x)
         else:
             dropped.append(f"person not in sources: {x.get('person')}")
     brief["leadership"] = lead
-    quotes = []
-    for q in brief.get("quotes") or []:
-        if isinstance(q, dict) and q.get("quote") and len(_norm(q["quote"])) > 15 and _norm(q["quote"]) in nc:
-            quotes.append(q)
-        elif isinstance(q, dict):
-            dropped.append(f"quote not verbatim: {str(q.get('quote'))[:50]}")
-    brief["quotes"] = quotes[:5]
     sm = brief.get("summary") if isinstance(brief.get("summary"), dict) else {}
-    brief["summary"] = {"happening": strings(sm.get("happening"))[:4], "technology": strings(sm.get("technology"))[:5]}
-    allowed = {"Raised", "Lowered", "Narrowed", "Reaffirmed", "Mixed", "Introduced", "Withdrawn", "None given"}
-    if brief.get("guidance_verdict") not in allowed:
-        brief["guidance_verdict"] = "Mixed" if brief["guidance"] else "None given"
+    brief["summary"] = {"focus": strings(sm.get("focus"), 4), "changes": strings(sm.get("changes"), 4)}
     brief["unverified_dropped"] = dropped
     return brief
 
 
+def gather_documents(sec, company, rel, log):
+    """Company website first; the SEC copy when the website gives nothing; a public transcript if none."""
+    docs = []
+    try:
+        docs = irsite.official_site_documents(company, rel.get("filed"), log)
+    except Exception as e:  # noqa: BLE001
+        log["errors"].append(f"results page {company['short']}: {type(e).__name__}")
+    if not any(d.get("kind") == "release" for d in docs):
+        for i, d in enumerate(official_documents(sec, company, rel, log)):
+            d["kind"] = "release" if i == 0 else "commentary"  # main filing, then its other exhibits
+            docs.append(d)
+    if not any(d.get("kind") == "transcript" for d in docs):
+        tr = call_transcript(company)
+        if tr:
+            tr["kind"] = "transcript"
+            docs.append(tr)
+    return [d for d in docs if (d.get("text") or "").strip()]
+
+
 def make_brief(llm, sec, company, rel, log):
-    docs = official_documents(sec, company, rel, log)
+    docs = gather_documents(sec, company, rel, log)
     if not docs:
         return None
-    tr = call_transcript(company)
-    if tr:
-        docs.append(tr)
     news_lines = news_context(company)
-    corpus = build_corpus(docs, news_lines)
-    intro = (f"Company: {company['name']} (also called {', '.join(company['aliases'][:4])}). Industry: {', '.join(company['industries'])}.\n"
-             f"Business areas: {company['segment']}. Reporting currency: {company['currency']}. Note: {company['note'] or 'none'}.\n\n"
-             f"Sources:\n{corpus}\n\n")
-    out = llm.chat_json(SYSTEM_A, intro + f"Return JSON exactly in this shape:\n{SCHEMA_A}", max_tokens=3000)
-    if not isinstance(out, dict):
-        out = {}
-    try:
-        part_b = llm.chat_json(SYSTEM_B, intro + f"Return JSON exactly in this shape:\n{SCHEMA_B}", max_tokens=2600)
-        if isinstance(part_b, dict):
-            out.update({k: part_b.get(k) for k in ("organisation", "leadership", "unchanged", "technology", "summary")})
-    except Exception as e:  # noqa: BLE001  # part A alone still makes a useful update
-        log["errors"].append(f"brief part B {company['short']}: {str(e)[:120]}")
-    brief = _check(out, corpus)
+    dropped, notes = [], []
+    for ch in chunks(docs):
+        try:
+            n = take_notes(llm, company, ch, docs, dropped)
+        except Exception as e:  # noqa: BLE001
+            if "allowance" in str(e):
+                raise
+            log["errors"].append(f"notes {company['short']}: {str(e)[:120]}")
+            continue
+        if n:
+            notes.append(n)
+    if not notes:
+        return None
+    user = (f"Company: {company['name']} (also called {', '.join(company['aliases'][:4])}). Industry: {', '.join(company['industries'])}.\n"
+            f"Business areas: {company['segment']}. Reporting currency: {company['currency']}. Release dated {rel.get('filed')}.\n\n"
+            f"Notes:\n{notes_text(notes, news_lines)}\n\nReturn JSON exactly in this shape:\n{SCHEMA_REDUCE}")
+    out = llm.chat_json(SYSTEM_REDUCE, user, max_tokens=2800)
+    corpus = "\n".join(d["text"] for d in docs) + "\n" + "\n".join(news_lines)
+    brief = _check(out if isinstance(out, dict) else {}, corpus)
+    brief["unverified_dropped"] = dropped + brief["unverified_dropped"]
     brief.update({
-        "format": 2,
-        "company": company["short"], "name": company["name"], "industry": company["industry"],
-        "release_key": rel.get("accession"), "release_date": rel.get("filed"),
-        "documents": [{"title": d["title"], "url": d.get("url"), "official": d["official"], "source": d.get("source")} for d in docs],
-        "news_used": bool(news_lines),
+        "format": FORMAT, "company": company["short"], "name": company["name"], "industry": company["industry"],
+        "currency": company["currency"], "release_key": rel.get("accession"), "release_date": rel.get("filed"),
+        "documents": [{"title": d["title"], "url": d.get("url"), "official": d["official"], "kind": d.get("kind"),
+                       "site": bool(d.get("site")), "source": d.get("source")} for d in docs],
+        "news_used": bool(news_lines), "chunks_read": len(notes),
         "written_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     })
     return brief
 
 
 def run(llm, sec, companies, status, log, force=False):
-    """Write an account update for every client whose latest official release has none yet (or an old-format one)."""
+    """Write an account update for every client whose latest release has none yet in the current format."""
     from .settings import read_json, write_json
     briefs = read_json("briefs.json", {})
     done = []
-    for c in companies:
+    newest = sorted(companies, key=lambda c: str(((status.get(c["short"]) or {}).get("release") or {}).get("filed") or ""), reverse=True)
+    for c in newest:  # newest releases first, in case the free AI allowance runs out
         rel = (status.get(c["short"]) or {}).get("release")
         if not rel or c["type"] == "private":
             continue
         old = briefs.get(c["short"]) or {}
-        if not force and old.get("release_key") == rel.get("accession") and old.get("format") == 2:
+        if not force and old.get("release_key") == rel.get("accession") and old.get("format") == FORMAT:
             continue
-        if llm.left_today() < 20000:
+        if llm.left_today() < 45000:
             print("   Not enough free AI allowance left today; the remaining updates wait for the next run.")
             break
-        print(f"   {c['short']}: reading the official documents ({rel.get('form')}, {rel.get('filed')})...")
+        print(f"   {c['short']}: reading the company's documents ({rel.get('form')}, {rel.get('filed')})...")
         try:
             b = make_brief(llm, sec, c, rel, log)
         except Exception as e:  # noqa: BLE001
@@ -375,9 +403,10 @@ def run(llm, sec, companies, status, log, force=False):
         if b:
             briefs[c["short"]] = b
             done.append(c["short"])
-            print(f"      -> guidance {b.get('guidance_verdict')}: {len(b['guidance'])} guided items, "
-                  f"{len(b['leadership'])} leadership changes, {len(b['technology'])} technology topics"
-                  + (f" (removed unverified: {len(b['unverified_dropped'])})" if b.get("unverified_dropped") else ""))
+            write_json("briefs.json", briefs)  # save as we go
+            print(f"      -> {len(b['documents'])} documents ({sum(1 for d in b['documents'] if d['site'])} from the website), "
+                  f"{b['chunks_read']} parts read, {len(b['segments'])} segments, {len(b['focus'])} focus areas, "
+                  f"{len(b['leadership'])} leadership changes" + (f", removed unverified: {len(b['unverified_dropped'])}" if b.get("unverified_dropped") else ""))
     write_json("briefs.json", briefs)
     log["steps"].append(f"account updates written: {', '.join(done) or 'none'}")
     return briefs

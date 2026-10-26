@@ -89,6 +89,7 @@ def load_companies():
                 "benchmark": (r.get("benchmark") or "").strip(),
                 "official_domains": _split(r.get("official_domains")),
                 "report_url": (r.get("report_url") or "").strip(),
+                "results_page": (r.get("results_page") or "").strip(),
                 "note": (r.get("note") or "").strip(),
             })
     return rows
