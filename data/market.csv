@@ -1,11 +1,11 @@
 company,name,ticker,price,price_currency,price_date,market_cap_m,currency,market_cap_usd_m,return_1m,return_3m,return_1y,high_52w,low_52w,pe_ttm,next_results
-Disney,The Walt Disney Company,DIS,111.86,USD,2026-10-26,193147.0,USD,193147.0,5.38,15.74,1.01,115.0,91.72,22.5,2026-11-17
-WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.7,USD,2026-10-26,38800.0,USD,38800.0,-22.74,-3.73,-52.7,16.44,6.8,92.8,2026-11-09
-Versant,Versant Media Group,VSNT,31.6,USD,2026-10-26,4398.0,USD,4398.0,-2.51,-10.87,,45.93,26.54,3.8,2026-11-03
+Disney,The Walt Disney Company,DIS,111.58,USD,2026-10-26,192664.0,USD,192664.0,5.12,15.45,0.76,115.0,91.72,22.4,2026-11-17
+WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.68,USD,2026-10-26,38749.0,USD,38749.0,-22.84,-3.85,-52.76,16.44,6.8,92.7,2026-11-09
+Versant,Versant Media Group,VSNT,31.42,USD,2026-10-26,4373.0,USD,4373.0,-3.06,-11.38,,45.93,26.54,3.8,2026-11-03
 Caesars,Caesars Entertainment,CZR,28.86,USD,2026-10-26,5882.0,USD,5882.0,-2.45,-3.69,28.0,30.41,18.14,,2026-10-27
-Bally's,Bally's Corporation,BALY,13.58,USD,2026-10-26,685.0,USD,685.0,-3.0,-3.07,-27.07,19.46,8.84,,2026-11-09
-Light & Wonder,Light & Wonder,LNW.AX,128.5,AUD,2026-10-26,6848.0,USD,6848.0,16.29,21.19,9.6,182.5,102.66,25.3,
-Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.52,USD,2026-10-26,1741.0,USD,1741.0,-4.37,-7.27,-39.53,15.82,9.23,7.0,2026-11-10
-Wolters Kluwer,Wolters Kluwer,WKL.AS,88.18,EUR,2026-10-26,19614.0,EUR,22012.0,28.43,32.8,-18.55,108.27,54.85,,
-Scholastic,Scholastic,SCHL,38.94,USD,2026-10-26,717.0,USD,717.0,20.37,-3.85,37.83,47.04,26.54,12.7,2026-12-17
-Pearson,Pearson,PSON.L,13.82,GBP,2026-10-26,8310.0,GBP,11034.0,13.46,9.82,24.75,13.82,8.91,,
+Bally's,Bally's Corporation,BALY,13.54,USD,2026-10-26,683.0,USD,683.0,-3.29,-3.35,-27.28,19.46,8.84,,2026-11-09
+Light & Wonder,Light & Wonder,LNW.AX,128.5,AUD,2026-10-26,6702.0,USD,6702.0,16.29,21.19,9.6,182.5,102.66,24.7,
+Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.48,USD,2026-10-26,1733.0,USD,1733.0,-4.77,-7.66,-39.79,15.82,9.23,7.0,2026-11-10
+Wolters Kluwer,Wolters Kluwer,WKL.AS,88.38,EUR,2026-10-26,19659.0,EUR,22063.0,28.72,33.1,-18.37,108.27,54.85,,
+Scholastic,Scholastic,SCHL,38.93,USD,2026-10-26,717.0,USD,717.0,20.34,-3.87,37.79,47.04,26.54,12.7,2026-12-17
+Pearson,Pearson,PSON.L,13.84,GBP,2026-10-26,8316.0,GBP,11042.0,13.54,9.9,24.84,13.84,8.91,,
