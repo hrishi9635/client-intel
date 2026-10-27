@@ -684,93 +684,99 @@
   "written_at": "2026-10-26T14:10:42+00:00"
  },
  "Caesars": {
-  "document_type": "Half-year results",
-  "period": "Second Quarter 2026",
-  "headline": "Caesars reports $3.0 billion GAAP net revenues and $62 million net loss; Fertitta acquisition announced May 28, 2026.",
+  "document_type": "Quarterly results",
+  "period": "Third quarter ended September 30, 2026",
+  "headline": "Pending definitive agreement to be acquired by Fertitta Entertainment announced May 28, 2026. Digital growth offset by margin pressure.",
   "key_numbers": [
    {
     "label": "GAAP net revenues",
-    "value": "$3.0 billion",
-    "context": "Second Quarter 2026",
+    "value": "$2.9 billion",
+    "context": "three months",
     "src": "official"
    },
    {
     "label": "GAAP net loss",
-    "value": "$62 million",
-    "context": "Second Quarter 2026",
+    "value": "$123 million",
+    "context": "three months",
     "src": "official"
    },
    {
     "label": "Consolidated Adjusted EBITDA",
-    "value": "$920 million",
-    "context": "Second Quarter 2026",
+    "value": "$865 million",
+    "context": "three months",
     "src": "official"
    },
    {
     "label": "Caesars Digital Adjusted EBITDA",
-    "value": "$68 million",
-    "context": "Second Quarter 2026",
+    "value": "$44 million",
+    "context": "three months",
     "src": "official"
    }
   ],
   "outlook_line": null,
-  "segments_basis": "Revenue, Second Quarter 2026",
+  "segments_basis": "Revenue, nine months to 30 September 2026",
   "segments": [
    {
     "name": "Las Vegas",
-    "revenue": "1,017",
-    "growth": "(3.5)",
-    "comment": "Revenue in millions",
+    "revenue": "$2,950",
+    "growth": "(2.0)",
+    "comment": "nine months",
     "src": "official"
    },
    {
     "name": "Regional",
-    "revenue": "1,570",
-    "growth": "null",
-    "comment": "Revenue in millions",
+    "revenue": "$4,627",
+    "growth": null,
+    "comment": "nine months",
     "src": "official"
    },
    {
-    "name": "Caesars Digital Managed and Branded",
-    "revenue": "(23.0)",
-    "growth": "null",
-    "comment": "Revenue in millions",
+    "name": "Caesars Digital",
+    "revenue": "$1,051",
+    "growth": null,
+    "comment": "nine months",
     "src": "official"
    },
    {
-    "name": "Corporate and Other Caesars",
-    "revenue": "2,993",
-    "growth": "null",
-    "comment": "Revenue in millions",
+    "name": "Managed and Branded",
+    "revenue": "(15.4)",
+    "growth": null,
+    "comment": "nine months",
+    "src": "official"
+   },
+   {
+    "name": "Corporate and Other",
+    "revenue": null,
+    "growth": null,
+    "comment": "nine months",
+    "src": "official"
+   },
+   {
+    "name": "Caesars",
+    "revenue": "$8,803",
+    "growth": null,
+    "comment": "nine months",
     "src": "official"
    }
   ],
   "focus": [
    {
-    "area": "Technology & IT",
-    "plan": "Invest in digital platforms and data analytics",
-    "amount": "null",
-    "timing": "null",
-    "tech": true,
+    "area": "Acquisition",
+    "plan": "Pending definitive agreement to be acquired by Fertitta Entertainment",
+    "amount": null,
+    "timing": "May 28, 2026",
+    "tech": false,
     "src": "official"
    }
   ],
   "tech_spend": [],
-  "organisation": {
-   "summary": "No reorganisation announced",
-   "before": null,
-   "effective": null,
-   "units": [],
-   "cost": null,
-   "savings": null,
-   "src": "official"
-  },
+  "organisation": null,
   "key_changes": [
    {
     "type": "Acquisition",
-    "change": "Fertitta deal",
-    "detail": "Fertitta Entertainment, Inc. announced definitive agreement to acquire Caesars on May 28, 2026.",
-    "when": "May 28, 2026",
+    "change": "Pending acquisition",
+    "detail": "Fertitta Entertainment announced definitive agreement on May 28, 2026",
+    "when": "May 28, 2026",
     "src": "official"
    }
   ],
@@ -778,22 +784,22 @@
   "dates": [
    {
     "date": "2026-05-28",
-    "event": "Fertitta acquisition announced",
+    "event": "Acquisition agreement announced",
     "src": "official"
    },
    {
-    "date": "2026-07-28",
-    "event": "Earnings release",
+    "date": "2026-10-27",
+    "event": "Q3 2026 results released",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Invest in digital platforms",
-    "Data analytics expansion"
+    "Pending acquisition by Fertitta Entertainment",
+    "Digital segment shows modest EBITDA"
    ],
    "changes": [
-    "Fertitta acquisition pending"
+    "Acquisition agreement announced May 28 2026"
    ]
   },
   "unverified_dropped": [],
@@ -802,12 +808,12 @@
   "name": "Caesars Entertainment",
   "industry": "Gaming & Lottery",
   "currency": "USD",
-  "release_key": "0001590895-26-000027",
-  "release_date": "2026-07-28",
+  "release_key": "0001590895-26-000032",
+  "release_date": "2026-10-27",
   "documents": [
    {
     "title": "Caesars Entertainment 8-K earnings release (Item 2.02)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027/ex991-2026q2ceiearningsrel.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000032/ex991-2026q3ceiearningsrel.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -816,7 +822,7 @@
   ],
   "news_used": true,
   "chunks_read": 2,
-  "written_at": "2026-10-26T14:21:40+00:00"
+  "written_at": "2026-10-27T22:07:54+00:00"
  },
  "Bally's": {
   "document_type": "Quarterly results",

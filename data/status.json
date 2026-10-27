@@ -46,15 +46,15 @@
  "Caesars": {
   "release": {
    "form": "8-K",
-   "filed": "2026-07-28",
-   "accepted": "2026-07-28T20:11:18.000Z",
-   "accession": "0001590895-26-000027",
-   "url": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027/ex991-2026q2ceiearningsrel.htm",
+   "filed": "2026-10-27",
+   "accepted": "2026-10-27T20:12:34.000Z",
+   "accession": "0001590895-26-000032",
+   "url": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000032/ex991-2026q3ceiearningsrel.htm",
    "title": "Caesars Entertainment 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000027",
-   "published": "2026-07-28"
+   "index": "https://www.sec.gov/Archives/edgar/data/1590895/000159089526000032",
+   "published": "2026-10-27"
   },
-  "xbrl_accession": "0001590895-26-000028",
+  "xbrl_accession": "0001590895-26-000033",
   "next_results": "2026-10-27"
  },
  "Bally's": {
