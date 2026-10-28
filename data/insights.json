@@ -532,55 +532,23 @@
   "signals_at": "2026-10-20T22:02:07+00:00"
  },
  "LA Times": {
-  "headline": "Los Angeles Times highlights unexpected AI developments",
-  "highlights": [
-   "AI topics featured across multiple articles",
-   "Coverage includes AI's role in filmmaking and law enforcement",
-   "Discussion of AI oversight and political implications"
-  ],
-  "risks": [
-   "Potential regulatory scrutiny of AI use"
-  ],
+  "headline": null,
+  "highlights": [],
+  "risks": [],
   "sentiment": "Neutral",
-  "sentiment_reason": "Coverage is informational without clear positive or negative tone",
-  "segments": [
-   {
-    "name": "Newsroom",
-    "trend": "Flat",
-    "note": "No clear change in newsroom operations reported"
-   }
-  ],
-  "it_signals": [
-   {
-    "type": "AI & tech investment",
-    "detail": "The paper reports on unexpected AI developments and applications",
-    "source_id": 1,
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzODhUZGVOTDRrMXNSbkVCY2ZrckpWYzhETTRKZXJWbnZsT1FRRzgwZjJsRC15YnlieUgwc293ZFltNFk2R3U2M0FhNUVhcGtyeFdPV2lieTJKY0lISlJTNW9QZWNTTWpxdWpjY0tfRTlEaHR1ZHNpNUJROGw3dw?oc=5",
-    "source": "Magzter",
-    "published": "2026-10-18"
-   }
-  ],
+  "sentiment_reason": "No specific developments reported for LA Times",
+  "segments": [],
+  "it_signals": [],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No specific spending information provided in the sources",
-  "talking_points": [
-   "Ask about their AI strategy and any planned technology upgrades",
-   "Explore how AI is being integrated into their newsroom workflows"
-  ],
+  "it_spend_reason": "No information on IT spending provided",
+  "talking_points": [],
   "unverified_dropped": [],
-  "sources": [
-   {
-    "title": "UNEXPECTED AI | Los Angeles Times - newspaper",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzODhUZGVOTDRrMXNSbkVCY2ZrckpWYzhETTRKZXJWbnZsT1FRRzgwZjJsRC15YnlieUgwc293ZFltNFk2R3U2M0FhNUVhcGtyeFdPV2lieTJKY0lISlJTNW9QZWNTTWpxdWpjY0tfRTlEaHR1ZHNpNUJROGw3dw?oc=5",
-    "source": "Magzter",
-    "published": "2026-10-18T14:40:21+00:00",
-    "official": false
-   }
-  ],
+  "sources": [],
   "company": "LA Times",
   "mode": "signals",
-  "analysed_at": "2026-10-21T12:04:34+00:00",
+  "analysed_at": "2026-10-28T12:14:55+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-21T12:04:34+00:00"
+  "signals_at": "2026-10-28T12:14:55+00:00"
  },
  "Caesars": {
   "results_found": true,
@@ -843,79 +811,104 @@
   ]
  },
  "Light & Wonder": {
-  "headline": "Light & Wonder is rolling out its RAPIDPLAY cashless payment platform across Nevada casinos while focusing on debt reduction",
+  "results_found": false,
+  "period_label": null,
+  "fiscal_label": null,
+  "period_end": null,
+  "results_date": "2026-08-04",
+  "headline": "Light & Wonder announced Q2 2026 results but specific financial figures were not disclosed in the available sources.",
+  "metrics": {
+   "revenue_m": null,
+   "revenue_growth_yoy_pct": null,
+   "operating_income_m": null,
+   "operating_margin_pct": null,
+   "net_income_m": null,
+   "eps": null
+  },
+  "guidance": null,
+  "guidance_change": "none",
+  "segments": [],
   "highlights": [
-   "First global installation of RAPIDPLAY completed at Crystal Bay Casino (source 7)",
-   "Additional cashless deployments announced at Lake Tahoe and other Nevada venues (sources 1,2,3,6)",
-   "New SVP/GM of Global Systems appointed to drive technology rollout (source 4)",
-   "Company prioritising leverage reduction and recurring revenue growth (sources 16,31)"
+   "Company issued a press release for the three and six months ended June 30, 2026 (source 1).",
+   "RapidPlay cashless payment system was launched at multiple Nevada casinos (sources 2‑7).",
+   "New SVP and GM of Global Systems appointed (source 8)."
   ],
+  "management_view": null,
   "risks": [
-   "Reliance on rapid cashless adoption may face integration challenges",
-   "Debt reduction focus could limit discretionary IT spend"
+   "Potential integration risk of the new RAPIDPLAY platform across venues."
   ],
-  "sentiment": "Positive",
-  "sentiment_reason": "Technology rollout expands product offering and supports revenue growth",
-  "segments": [
-   {
-    "name": "Gaming machines",
-    "trend": "Up",
-    "note": "Cashless solution adds new revenue streams"
-   },
-   {
-    "name": "iGaming",
-    "trend": "Flat",
-    "note": "No specific updates"
-   },
-   {
-    "name": "Social casino (SciPlay)",
-    "trend": "Flat",
-    "note": "No specific updates"
-   }
-  ],
+  "sentiment": "Neutral",
+  "sentiment_reason": "Results data missing; only technology rollout news available.",
   "it_signals": [
    {
-    "type": "Digital / platform rebuild",
-    "detail": "Launch of RAPIDPLAY cashless payment system across multiple Nevada casinos",
-    "source_id": 1,
+    "type": "Other",
+    "detail": "Launch of RAPIDPLAY cashless payment system at Lake Tahoe casino (source 5).",
+    "source_id": 5,
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFFFUlJSNVZjdkowREdJSWhRVERRdXQ4MmJQNkdibFdwVXVLUDRHOVNTdm5yQkxYUE05cUZMS29lZGRyVzFPRHV3UzZSVnlTVzFoSXlmaGR5WGRmZ2ExX2Zadm5QbWZWU2FrSFc5TW9YT1lHc2NQemkydE9IVmMxX2NTdGFsd1JPRHdRVU5qcTRRWXBHX3RYaWlYYk9tUQ?oc=5",
     "source": "CDC Gaming",
     "published": "2026-10-27"
    },
    {
-    "type": "Digital / platform rebuild",
-    "detail": "First global installation of RAPIDPLAY at Crystal Bay Casino",
-    "source_id": 7,
+    "type": "Other",
+    "detail": "First global installation of RAPIDPLAY at Crystal Bay Casino (source 11).",
+    "source_id": 11,
     "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
     "source": "asgam.com",
     "published": "2026-10-26"
    },
    {
     "type": "Other",
-    "detail": "Appointment of Muthu Palanichamy as SVP and GM of Global Systems to lead technology initiatives",
-    "source_id": 4,
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTERFVjJNRTVlZmFWNEQ1Y0ttQkJfcUZyV2FhVlRNUzlPTWI2Uy1neWFQLVNJUkNyUTlBcmJBSHRfNHdkSTFrZVBmczhSSEROTzU5SzAxNEZmVjNvdXpWV2JuZ1RscDdWR1YxRzNsUkFRUktGN2MyUEQ4UW0ycUZkXzRlQnBtekZBQ0JLY2hQaDVRcGpmdDhRYWZ0bG8zZ21F?oc=5",
-    "source": "GGB Magazine",
+    "detail": "Installation of cashless slot machines in Nevada (source 7).",
+    "source_id": 7,
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9MYURSYU9VWjJwbEJsWkl2dlJvd2E1b2xCcHZHM3lDdlNRN2VWOWItY3BjWHk3VEpkRklBZGJoNmNERU5IRTNOVDFXSDlMWjBHT3NWOEdoR1Rkbl9rYlBPUk5LeEVscVhydTE2ei1MdzJwTnAyTWdLelRvNEQ0Q3BvakFRUkRkY254VHpCZ0c2eU0?oc=5",
+    "source": "Casino.org",
     "published": "2026-10-27"
    },
    {
-    "type": "Cost-cutting / restructuring",
-    "detail": "Company emphasises debt reduction and leverage improvement as priority",
-    "source_id": 16,
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHNtelVZREk4Vm10eExJZUdVLVdEQWI4ODBJNWJSWWlDdW9JQ0VXRVRSMXFGSkZzeWliQmk4OGhka1owVF9TUmhfeVlwRl9rcW1WaDh6VlNqSHFvb0kxOWFYRl9VMHcwcTV0MlNQZG9rakxrSjl3MDBZNm5QMGdNaDFOVWxZYzg3WGtLR2NQWkdIUldKbDhXZlAyeW9iRF9KV2E2RUJ6V3lpSndZRUd5clk3Ql9iUlk?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-21"
+    "type": "Other",
+    "detail": "Appointment of SVP/GM of Global Systems, indicating focus on system expansion (source 8).",
+    "source_id": 8,
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTERFVjJNRTVlZmFWNEQ1Y0ttQkJfcUZyV2FhVlRNUzlPTWI2Uy1neWFQLVNJUkNyUTlBcmJBSHRfNHdkSTFrZVBmczhSSEROTzU5SzAxNEZmVjNvdXpWV2JuZ1RscDdWR1YxRzNsUkFRUktGN2MyUEQ4UW0ycUZkXzRlQnBtekZBQ0JLY2hQaDVRcGpmdDhRYWZ0bG8zZ21F?oc=5",
+    "source": "GGB Magazine",
+    "published": "2026-10-27"
    }
   ],
-  "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Focus on leverage reduction may curb discretionary technology budgets despite cashless rollout",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No explicit statements about future technology spending were found.",
   "talking_points": [
-   "Discuss how RAPIDPLAY integration could be supported by our cloud and data analytics services",
-   "Explore opportunities to partner on future cashless or AI‑driven gaming solutions",
-   "Assess how Light & Wonder’s debt‑reduction agenda might affect their technology investment timeline"
+   "Discuss Light & Wonder’s rapid rollout of the RAPIDPLAY cashless platform and potential needs for integration support.",
+   "Explore opportunities to partner on further digital payment innovations across their casino network."
   ],
   "unverified_dropped": [],
   "sources": [
+   {
+    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+    "source": "8-K",
+    "published": "2026-08-04",
+    "official": true
+   },
+   {
+    "title": "Light & Wonder marks RapidPlay milestone",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXZ4UzJTQ01Sa0RSMnVWWDRRRDF6WEZUSVRtUzBESElKc3lmd3VyNGlScDk4QmxCdmg4eGJQelNCUEMyUVBRY24zdDR6b01xSjRKbV9Db3FGYl9QN0d0SGJkVm9oWk5iODQ3NGI2RHRFNEtXQXpPUVRHR2d2cXZCYVBXX0lSRDZwb0VOMXhlbG5pZTlmOXNDa3lybEZNdw?oc=5",
+    "source": "InterGame Online",
+    "published": "2026-10-28T10:06:39+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder announces first RapidPlay",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbnBza0M5YkQ0MDlVWkQzczZMek5YRzFDTExFVURkMy1WZDBXMVZuODF6clc4NmZXTXZpTXU1S0Rnd2NFejlxVHo2Wk16Tm93QXl2SzVneldNUGlKZDE3enNCdG8tSmU1c3lnTXZWM1N6Z2ZaM3EyOG4tSzhJVGRoNXoxRERPWWViX3VPUU5MU2Zhd0lhaTZ3Qw?oc=5",
+    "source": "InterGame Online",
+    "published": "2026-10-28T08:55:33+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Deploys Its Innovative RAPIDPLAY Cashless System",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0dveDI5R0ptVHc1TVRGN2RCZzFFMTN3aVRnNEx4dXpYYkVvS2VaSVlBanh4Q1BmYnJyWkx5MXdhZTdSU2F4RDY5SHRWZExkUjV6S2oybjB1d0o2RkZBUU5Ba294cVFycFZJVG8wS1V5YUhidXpUbEIxU08xbmpVOEVOQWQwMjJFc0dmQ29URFlZQmd3OWtWTnJzX04?oc=5",
+    "source": "Gambling News",
+    "published": "2026-10-28T07:53:03+00:00",
+    "official": false
+   },
    {
     "title": "Light & Wonder debuts cashless solution RAPIDPLAY at Lake Tahoe casino",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFFFUlJSNVZjdkowREdJSWhRVERRdXQ4MmJQNkdibFdwVXVLUDRHOVNTdm5yQkxYUE05cUZMS29lZGRyVzFPRHV3UzZSVnlTVzFoSXlmaGR5WGRmZ2ExX2Zadm5QbWZWU2FrSFc5TW9YT1lHc2NQemkydE9IVmMxX2NTdGFsd1JPRHdRVU5qcTRRWXBHX3RYaWlYYk9tUQ?oc=5",
@@ -945,39 +938,28 @@
     "official": false
    },
    {
-    "title": "Light & Wonder debuts RapidPlay cashless payment system",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGxJMjIwdVh4M1YyaGRrTXg3SXZTcC1VSHRQZTZZeHh1VUktc1doakc0M19PdTlQN2p1d3B4alFFMzVuaU9BSnlZdjVka18wRFRka3pWMWlrSUdobVN2VjN1VV9yQ011bW1OOVNZRWIxV0NLQmlTbF9fZGhLcWxkbXJ4bw?oc=5",
-    "source": "GGRAsia",
-    "published": "2026-10-27T01:44:06+00:00",
-    "official": false
-   },
-   {
     "title": "Light & Wonder completes first global installation of cashless solution RAPIDPLAY",
     "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
     "source": "asgam.com",
     "published": "2026-10-26T23:30:00+00:00",
     "official": false
-   },
-   {
-    "title": "What Did Light & Wonder (ASX:LNW) Report for Q2 2026, and How Is It Reducing Leverage?",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHNtelVZREk4Vm10eExJZUdVLVdEQWI4ODBJNWJSWWlDdW9JQ0VXRVRSMXFGSkZzeWliQmk4OGhka1owVF9TUmhfeVlwRl9rcW1WaDh6VlNqSHFvb0kxOWFYRl9VMHcwcTV0MlNQZG9rakxrSjl3MDBZNm5QMGdNaDFOVWxZYzg3WGtLR2NQWkdIUldKbDhXZlAyeW9iRF9KV2E2RUJ6V3lpSndZRUd5clk3Ql9iUlk?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-21T10:51:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder (ASX:LNW): Debt Reduction and Recurring Revenue Shape the Next Phase",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVoyakQ3OEhVNEp4U1VHbGFXQ21nZHg4by1iVk5iRnBrNlRHYS12eFk4V1JaN0hTMzF0NFBBWE1IWXJPajZHYzVTZ1RPS2tQS1NwQmJUbTRaSjd5eVJJalJxVU9mWTR4aDFLa1NYaEowTVZ5U3pxRjdDSmpxaXZ6MDVabTIxei1kcWVfaU5QYlpmTi1aWVlRdG9oeS1xcEhOa2FIdW9ESHFOd1hKcUJzY285VmY?oc=5",
-    "source": "Kalkine",
-    "published": "2026-10-08T07:00:00+00:00",
-    "official": false
    }
   ],
   "company": "Light & Wonder",
-  "mode": "signals",
-  "analysed_at": "2026-10-28T01:32:09+00:00",
-  "guidance_change": null,
-  "signals_at": "2026-10-28T01:32:09+00:00"
+  "mode": "results",
+  "analysed_at": "2026-10-28T12:15:22+00:00",
+  "release": {
+   "form": "8-K",
+   "filed": "2026-08-04",
+   "accepted": "2026-08-04T21:04:24.000Z",
+   "accession": "0000750004-26-000032",
+   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+   "title": "Light & Wonder 8-K earnings release (Item 2.02)",
+   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
+   "published": "2026-08-04"
+  },
+  "release_key": "0000750004-26-000032",
+  "signals_at": "2026-10-28T12:15:22+00:00"
  },
  "Brightstar (IGT)": {
   "results_found": true,
