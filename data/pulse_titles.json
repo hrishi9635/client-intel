@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T06:17:23+00:00",
+ "updated": "2026-10-28T06:18:40+00:00",
  "titles": [
   {
    "key": "tv-1416",
@@ -21,9 +21,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 11181.5,
+   "popularity": 11267.0,
    "tmdb_vote": 8.203,
-   "tmdb_votes": 11102,
+   "tmdb_votes": 11104,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -52,7 +52,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "e689eb1aa527",
+   "input_hash": "4326aa5c414a",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -94,9 +94,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 3020.9,
+   "popularity": 6372.5,
    "tmdb_vote": 8.026,
-   "tmdb_votes": 11110,
+   "tmdb_votes": 11112,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -131,7 +131,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "5bbf1d8276e3",
+   "input_hash": "e247c4fa9f78",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -176,9 +176,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 557.0,
-   "tmdb_vote": 8.471,
-   "tmdb_votes": 6209,
+   "popularity": 472.8,
+   "tmdb_vote": 8.475,
+   "tmdb_votes": 6256,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -213,7 +213,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "8ac36fd71778",
+   "input_hash": "e07ec0d5f836",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -258,9 +258,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 328.8,
-   "tmdb_vote": 7.6,
-   "tmdb_votes": 2600,
+   "popularity": 314.0,
+   "tmdb_vote": 7.615,
+   "tmdb_votes": 2601,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -277,7 +277,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1d494f774e00",
+   "input_hash": "3e06a00ecbe6",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -320,8 +320,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
    "popularity": 302.0,
-   "tmdb_vote": 8.579,
-   "tmdb_votes": 1105,
+   "tmdb_vote": 8.586,
+   "tmdb_votes": 1110,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -344,7 +344,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6189a1fd19b6",
+   "input_hash": "bfc6d08eaa79",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -390,9 +390,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 287.0,
-   "tmdb_vote": 8.13,
-   "tmdb_votes": 3550,
+   "popularity": 283.1,
+   "tmdb_vote": 8.129,
+   "tmdb_votes": 3554,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -427,7 +427,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2364df8e25e6",
+   "input_hash": "31ed5809fe81",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -465,14 +465,14 @@
     "Marvel Studios",
     "Kevin Feige Productions"
    ],
-   "release_date": "2026-10-20",
+   "release_date": "2026-10-27",
    "first_air_date": "2026-10-13",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 279.1,
-   "tmdb_vote": 8.674,
-   "tmdb_votes": 184,
+   "popularity": 266.4,
+   "tmdb_vote": 8.603,
+   "tmdb_votes": 194,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -489,7 +489,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "253ddef87e51",
+   "input_hash": "c25ee27fd383",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -531,9 +531,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 276.0,
-   "tmdb_vote": 8.306,
-   "tmdb_votes": 2874,
+   "popularity": 262.5,
+   "tmdb_vote": 8.307,
+   "tmdb_votes": 2882,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -562,29 +562,29 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "f20a877d81e3",
+   "input_hash": "2c3a389d89c4",
    "ai": {
     "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 60,
-    "critics_vs_audience": "Aligned",
+    "audience_sentiment": "Mixed",
+    "audience_score": 70,
+    "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "fun show after work",
-     "charisma and rhythm",
-     "different setting from NYC/LA"
+     "fun to watch after work",
+     "unique setting outside NYC/LA",
+     "charisma and rhythm"
     ],
     "complaints": [
-     "not terribly original plot",
-     "not the most deep or innovative"
+     "plot not original",
+     "not very innovative"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Generally liked for its fun tone and charisma despite a familiar premise.",
+    "summary": "A nostalgic, charismatic series with familiar mafia tropes that divides viewers.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-26T06:15:40+00:00"
+    "analysed_at": "2026-10-28T06:18:14+00:00"
    }
   },
   {
@@ -607,7 +607,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 272.7,
+   "popularity": 259.8,
    "tmdb_vote": 6.4,
    "tmdb_votes": 673,
    "imdb_id": "tt0115147",
@@ -641,9 +641,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… b",
-   "popularity": 238.0,
-   "tmdb_vote": 7.5,
-   "tmdb_votes": 211,
+   "popularity": 251.5,
+   "tmdb_vote": 7.473,
+   "tmdb_votes": 238,
    "imdb_id": "tt34890576",
    "tmdb_url": "https://www.themoviedb.org/movie/1400940",
    "tmdb_reviews": [
@@ -677,16 +677,8 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "trade": [
-    {
-     "title": "‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?",
-     "link": "https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/",
-     "source": "IndieWire",
-     "published": "2026-10-25",
-     "snippet": "James Gunn and Peter Safran were brought in to revitalize the comic book brand with mixed results."
-    }
-   ],
-   "input_hash": "12a3a0e11f61",
+   "trade": [],
+   "input_hash": "5a245fe2d56d",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -713,40 +705,6 @@
    }
   },
   {
-   "key": "tv-1433",
-   "kind": "tv",
-   "tmdb_id": 1433,
-   "title": "American Dad!",
-   "studio": "20th Century Studios",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "FOX",
-    "TBS",
-    "20th Century Fox Television",
-    "Underdog Productions",
-    "Fuzzy Door Productions"
-   ],
-   "release_date": "2026-09-13",
-   "first_air_date": "2005-02-06",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-   "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith fam",
-   "popularity": 227.8,
-   "tmdb_vote": 7.0,
-   "tmdb_votes": 2474,
-   "imdb_id": "tt0397306",
-   "tmdb_url": "https://www.themoviedb.org/tv/1433",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.4,
-   "imdb_votes": 145904.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "77a79a807309"
-  },
-  {
    "key": "tv-4656",
    "kind": "tv",
    "tmdb_id": 4656,
@@ -766,7 +724,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 225.4,
+   "popularity": 213.0,
    "tmdb_vote": 6.8,
    "tmdb_votes": 381,
    "imdb_id": "tt0185103",
@@ -779,6 +737,87 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "9dd9fb0741c9"
+  },
+  {
+   "key": "tv-79744",
+   "kind": "tv",
+   "tmdb_id": 79744,
+   "title": "The Rookie",
+   "studio": "ABC",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "ABC",
+    "ABC Studios",
+    "Entertainment One",
+    "Lionsgate Television",
+    "ABC Signature"
+   ],
+   "release_date": "2026-05-04",
+   "first_air_date": "2018-10-16",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+   "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+   "popularity": 212.8,
+   "tmdb_vote": 8.538,
+   "tmdb_votes": 3589,
+   "imdb_id": "tt7587890",
+   "tmdb_url": "https://www.themoviedb.org/tv/79744",
+   "tmdb_reviews": [
+    {
+     "author": "superbro",
+     "rating": 10.0,
+     "text": "Wow wow wow thats all I can say I watched the premeire of this show and it was a all out blast this is not a show that takes itsself too seriously or jokes too much it's kinda in the middle just rhe way I love it hilarious and also kick-ass the guy from castle is upbeat and charming. As well I love love loved this show it was fantastic no doubt one of the falls best",
+     "url": "https://www.themoviedb.org/review/5bca5294c3a36840aa01c352"
+    },
+    {
+     "author": "Dean",
+     "rating": 10.0,
+     "text": "What a great show! No propaganda, agenda or any political BS. Characters are very well developed. You care about them, you love them. I really can't say anything bad about this show. It's great. Definitely deserves 10/10!",
+     "url": "https://www.themoviedb.org/review/667a865c4641262f1a566eaa"
+    },
+    {
+     "author": "misubisu",
+     "rating": 7.0,
+     "text": "**Score: 7/10 — A Fun, Flawed, and Unapologetically Idealistic Procedural** *The Rookie* succeeds because of [not in spite of] its well crafted contradictions... It is a show that is at once deeply entertaining and profoundly naive, a character-driven workplace drama wrapped in the glossy, sun-drenched packaging of a police recruitment ad. For what it sets out to do—provide optimistic, weekly escapism with a beloved cast—it earns its keep, even as its disconnect from reality grows more pronounce",
+     "url": "https://www.themoviedb.org/review/667f757e5d2fbf285257304b"
+    },
+    {
+     "author": "ephraimk",
+     "rating": 9.0,
+     "text": "Really good. Like really good. The way it navigated through the drama following George Floyd's death was really good. A balance between a need for reform and a need for police. Well done.",
+     "url": "https://www.themoviedb.org/review/67a7d77c58d93cefedc8c3bd"
+    }
+   ],
+   "imdb_rating": 8.0,
+   "imdb_votes": 137322.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "6c150df4dd0b",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 85,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "highly entertaining",
+     "well‑developed characters",
+     "balanced handling of social issues"
+    ],
+    "complaints": [
+     "some find it overly idealistic"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "not stated",
+    "summary": "A fun, well‑crafted procedural that resonates strongly with audiences.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-28T06:18:14+00:00"
+   }
   },
   {
    "key": "movie-1003596",
@@ -798,7 +837,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 145.9,
+   "popularity": 98.1,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -846,9 +885,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 3483.7,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4390,
+   "popularity": 8035.0,
+   "tmdb_vote": 7.963,
+   "tmdb_votes": 4391,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -871,29 +910,29 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "be40cf0c2107",
+   "input_hash": "dae56d012740",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 20,
+    "audience_score": 40,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "longest‑running primetime series",
+     "long‑running popularity",
      "compelling storylines",
      "fresh cast changes"
     ],
     "complaints": [
-     "portrayal of a broken justice system",
-     "changing cast members divide fans"
+     "portrays justice system as broken",
+     "inconsistent quality"
     ],
-    "buzz": "High",
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Fans appreciate its longevity and storylines, though some criticize its justice portrayal and cast shifts.",
+    "summary": "A veteran series praised for longevity but criticized for its depiction of the justice system.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-26T06:15:40+00:00"
+    "analysed_at": "2026-10-28T06:18:14+00:00"
    }
   },
   {
@@ -915,8 +954,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
    "popularity": 542.0,
-   "tmdb_vote": 6.8,
-   "tmdb_votes": 351,
+   "tmdb_vote": 6.756,
+   "tmdb_votes": 363,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -951,7 +990,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "c52fae1ff8f9",
+   "input_hash": "cab268526d55",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -994,7 +1033,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 505.5,
+   "popularity": 472.2,
    "tmdb_vote": 4.9,
    "tmdb_votes": 100,
    "imdb_id": "tt2057880",
@@ -1007,6 +1046,66 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "bca9858c7611"
+  },
+  {
+   "key": "tv-59941",
+   "kind": "tv",
+   "tmdb_id": 59941,
+   "title": "The Tonight Show Starring Jimmy Fallon",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Broadway Video",
+    "Universal Television",
+    "Electric Hot Dog"
+   ],
+   "release_date": "2026-10-22",
+   "first_air_date": "2014-02-17",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+   "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+   "popularity": 349.3,
+   "tmdb_vote": 5.797,
+   "tmdb_votes": 397,
+   "imdb_id": "tt3444938",
+   "tmdb_url": "https://www.themoviedb.org/tv/59941",
+   "tmdb_reviews": [
+    {
+     "author": "AshenArcanist",
+     "rating": 2.0,
+     "text": "Fallon. What is there to say? He's not funny, he's not entertaining, and seemingly the only reason he has a show is backroom deals with whoever is making the horrible decision to keep him on the air -- even his memes are bad! 1 star is too much. Not recommended.",
+     "url": "https://www.themoviedb.org/review/65ec82636f31af0185e83fb6"
+    }
+   ],
+   "imdb_rating": 7.0,
+   "imdb_votes": 20366.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "443e8bcc04c6",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -80,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "not funny",
+     "not entertaining",
+     "bad memes"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Audience finds the show unfunny and poorly entertaining.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-28T06:18:40+00:00"
+   }
   },
   {
    "key": "tv-549",
@@ -1028,8 +1127,8 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 482.8,
-   "tmdb_vote": 7.277,
+   "popularity": 334.2,
+   "tmdb_vote": 7.3,
    "tmdb_votes": 737,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
@@ -1040,7 +1139,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "c1ec3c099b90",
+   "input_hash": "7d14e3073095",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1062,135 +1161,6 @@
    }
   },
   {
-   "key": "tv-2190",
-   "kind": "tv",
-   "tmdb_id": 2190,
-   "title": "South Park",
-   "studio": "Comedy Central",
-   "parent": "Comedy Central",
-   "group": "Rest of industry",
-   "companies": [
-    "Comedy Central",
-    "South Park Studios",
-    "Comedy Central",
-    "Braniff Productions",
-    "MTV Entertainment Studios"
-   ],
-   "release_date": "2026-10-14",
-   "first_air_date": "1997-08-13",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-   "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-   "popularity": 419.7,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 5223,
-   "imdb_id": "tt0121955",
-   "tmdb_url": "https://www.themoviedb.org/tv/2190",
-   "tmdb_reviews": [
-    {
-     "author": "GenerationofSwine",
-     "rating": 10.0,
-     "text": "There are a lot of words that are associated with the high praise of South Park. None of them are really accurate. The fact is that Trey Parker and Matt Stone are jerks. They really are, there is no better word for them. However, they are hysterical jerks. It's not satire and it's not social commentary. What you are doing is watching Parker and Stone ruthlessly mock people. Just because the cruel mockery is witty and intelligent doesn't make it any better. However...it is witty and intelligent, ",
-     "url": "https://www.themoviedb.org/review/63bf8c1623be4600b2f09291"
-    },
-    {
-     "author": "smirno",
-     "rating": null,
-     "text": "The celebrity takedowns are world famous and the shows ability to hold a mirror up to society in a fun and entertaining way seems timeless.",
-     "url": "https://www.themoviedb.org/review/63d9ff7e3dc313007d80dff2"
-    }
-   ],
-   "imdb_rating": 8.7,
-   "imdb_votes": 450335.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "dfaec43792dd",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "celebrity takedowns",
-     "mirror to society"
-    ],
-    "complaints": [
-     "creators are jerks",
-     "not satire"
-    ],
-    "buzz": "High",
-    "box_office_verdict": "not stated",
-    "summary": "South Park draws mixed reactions, praised for its celebrity takedowns but criticized for its creators' attitude.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-27T06:16:57+00:00"
-   }
-  },
-  {
-   "key": "tv-59941",
-   "kind": "tv",
-   "tmdb_id": 59941,
-   "title": "The Tonight Show Starring Jimmy Fallon",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Broadway Video",
-    "Universal Television",
-    "Electric Hot Dog"
-   ],
-   "release_date": "2026-10-22",
-   "first_air_date": "2014-02-17",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-   "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 371.7,
-   "tmdb_vote": 5.8,
-   "tmdb_votes": 396,
-   "imdb_id": "tt3444938",
-   "tmdb_url": "https://www.themoviedb.org/tv/59941",
-   "tmdb_reviews": [
-    {
-     "author": "AshenArcanist",
-     "rating": 2.0,
-     "text": "Fallon. What is there to say? He's not funny, he's not entertaining, and seemingly the only reason he has a show is backroom deals with whoever is making the horrible decision to keep him on the air -- even his memes are bad! 1 star is too much. Not recommended.",
-     "url": "https://www.themoviedb.org/review/65ec82636f31af0185e83fb6"
-    }
-   ],
-   "imdb_rating": 7.0,
-   "imdb_votes": 20366.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "1ecc5530b0e9",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -70,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "not funny",
-     "backroom deals keep him on air",
-     "bad memes"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Widely panned as unfunny and unentertaining.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-10-26T06:15:40+00:00"
-   }
-  },
-  {
    "key": "movie-1101412",
    "kind": "movie",
    "tmdb_id": 1101412,
@@ -1209,9 +1179,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
    "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-   "popularity": 326.9,
-   "tmdb_vote": 7.287,
-   "tmdb_votes": 674,
+   "popularity": 289.8,
+   "tmdb_vote": 7.302,
+   "tmdb_votes": 680,
    "imdb_id": "tt31192372",
    "tmdb_url": "https://www.themoviedb.org/movie/1101412",
    "tmdb_reviews": [
@@ -1234,7 +1204,7 @@
    "metascore": 53.0,
    "box_office_usd": 3443026.0,
    "trade": [],
-   "input_hash": "99f19c4a738a",
+   "input_hash": "6262f76dc269",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -1275,7 +1245,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 293.4,
+   "popularity": 268.4,
    "tmdb_vote": 5.1,
    "tmdb_votes": 136,
    "imdb_id": "tt3513388",
@@ -1335,9 +1305,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "popularity": 288.4,
-   "tmdb_vote": 8.066,
-   "tmdb_votes": 1082,
+   "popularity": 249.2,
+   "tmdb_vote": 8.069,
+   "tmdb_votes": 1086,
    "imdb_id": "tt5875444",
    "tmdb_url": "https://www.themoviedb.org/tv/95480",
    "tmdb_reviews": [
@@ -1366,7 +1336,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "52f841812981",
+   "input_hash": "bc9ff48a1d02",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1403,11 +1373,11 @@
    "release_date": "2026-07-15",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 268.7,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4273,
+   "popularity": 227.8,
+   "tmdb_vote": 8.015,
+   "tmdb_votes": 4286,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1442,7 +1412,7 @@
    "metascore": 88.0,
    "box_office_usd": 588976965.0,
    "trade": [],
-   "input_hash": "ea95ef2869e9",
+   "input_hash": "3f4d191ef8ad",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1469,6 +1439,77 @@
    }
   },
   {
+   "key": "tv-120911",
+   "kind": "tv",
+   "tmdb_id": 120911,
+   "title": "The Terminal List",
+   "studio": "Amazon MGM Studios",
+   "parent": "Amazon",
+   "group": "Rest of industry",
+   "companies": [
+    "Prime Video",
+    "Amazon Studios",
+    "Civic Center Media",
+    "MRC",
+    "Fuqua Films"
+   ],
+   "release_date": "2026-10-21",
+   "first_air_date": "2022-06-30",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+   "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+   "popularity": 207.0,
+   "tmdb_vote": 8.0,
+   "tmdb_votes": 1287,
+   "imdb_id": "tt11743610",
+   "tmdb_url": "https://www.themoviedb.org/tv/120911",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "The Terminal List is painfully slow, cliched, and violently meaningless. In spite of excellent acting from the cast, this series takes forever to go nowhere interesting. It drags the viewer along, at a painfully lethargic pace,weighed down by often cringe worthy, pro US military cliches.When it does finally go somewhere, its to a dark place, filled with ugly, empty, meaningless, violence. I really wanted to like this series, in the same way I did like Jack Reacher. That said, where Reacher was l",
+     "url": "https://www.themoviedb.org/review/62f96dcc7eb5f2007ea471c9"
+    },
+    {
+     "author": "misubisu",
+     "rating": 7.0,
+     "text": "Best revenge story ever! This is how I would track down the people that killed my family to avenge them... if I was in any way physically capable of doing it :-) Chris Pratt has come a long way since Andy Dwyer on Parks And Recreation. He's turned out to be an excellent action actor. He's very believable in this role (as he is in his others).",
+     "url": "https://www.themoviedb.org/review/63a17b2a4f33ad008c0190eb"
+    }
+   ],
+   "imdb_rating": 7.9,
+   "imdb_votes": 130904.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "69cb4c48a5a6",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 0,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "excellent acting",
+     "believable action hero",
+     "great revenge story"
+    ],
+    "complaints": [
+     "painfully slow",
+     "clichéd",
+     "meaningless violence"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Views are split between praise for acting and criticism of pacing and tone.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-10-28T06:18:40+00:00"
+   }
+  },
+  {
    "key": "tv-291",
    "kind": "tv",
    "tmdb_id": 291,
@@ -1485,7 +1526,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-   "popularity": 207.3,
+   "popularity": 194.3,
    "tmdb_vote": 5.3,
    "tmdb_votes": 120,
    "imdb_id": "tt0053494",
@@ -1549,9 +1590,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
    "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-   "popularity": 198.4,
-   "tmdb_vote": 7.703,
-   "tmdb_votes": 924,
+   "popularity": 186.5,
+   "tmdb_vote": 7.715,
+   "tmdb_votes": 934,
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "tmdb_reviews": [
@@ -1574,7 +1615,7 @@
    "metascore": 47.0,
    "box_office_usd": 55689759.0,
    "trade": [],
-   "input_hash": "079054b2b49b",
+   "input_hash": "92d8108310da",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1617,9 +1658,9 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
-   "popularity": 125.7,
-   "tmdb_vote": 8.5,
-   "tmdb_votes": 4,
+   "popularity": 127.8,
+   "tmdb_vote": 7.0,
+   "tmdb_votes": 6,
    "imdb_id": "tt13611778",
    "tmdb_url": "https://www.themoviedb.org/movie/1294189",
    "tmdb_reviews": [
@@ -1631,7 +1672,7 @@
     }
    ],
    "trade": [],
-   "input_hash": "0a919f2eb09e",
+   "input_hash": "849546fd4692",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
