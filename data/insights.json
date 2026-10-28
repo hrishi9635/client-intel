@@ -843,76 +843,141 @@
   ]
  },
  "Light & Wonder": {
-  "results_found": false,
-  "period_label": null,
-  "fiscal_label": null,
-  "period_end": null,
-  "results_date": "2026-08-04",
-  "headline": null,
-  "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
-   "operating_income_m": null,
-   "operating_margin_pct": null,
-   "net_income_m": null,
-   "eps": null
-  },
-  "guidance": null,
-  "guidance_change": "none",
-  "segments": [],
-  "highlights": [],
-  "management_view": null,
-  "risks": [],
-  "sentiment": "Neutral",
-  "sentiment_reason": "No results data available",
-  "it_signals": [
+  "headline": "Light & Wonder is rolling out its RAPIDPLAY cashless payment platform across Nevada casinos while focusing on debt reduction",
+  "highlights": [
+   "First global installation of RAPIDPLAY completed at Crystal Bay Casino (source 7)",
+   "Additional cashless deployments announced at Lake Tahoe and other Nevada venues (sources 1,2,3,6)",
+   "New SVP/GM of Global Systems appointed to drive technology rollout (source 4)",
+   "Company prioritising leverage reduction and recurring revenue growth (sources 16,31)"
+  ],
+  "risks": [
+   "Reliance on rapid cashless adoption may face integration challenges",
+   "Debt reduction focus could limit discretionary IT spend"
+  ],
+  "sentiment": "Positive",
+  "sentiment_reason": "Technology rollout expands product offering and supports revenue growth",
+  "segments": [
    {
-    "type": "Vendor / outsourcing",
-    "detail": "Selected to replace Delaware North Table Games technology",
-    "source_id": 44,
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWtQZUdWSndWN2hQa0lSamhFR3UtVGlqUzJzSW9ScHpoY3l2NUdXYXprTmlNLUFmX1dpQ2Jxa243N0syZFBuazVtNHUxRkNjd25sVHJqRjdJYWdzQV9pV3JpNzZTZ3pMX1VaanhGcFJMRS02X0ZqLTA4Y1hpeWxjUXRpU2dPRGlpQnp3MVZDSVRvSGpKSEl1Rlh6NUdIdE5LR3JzTjNfRQ?oc=5",
-    "source": "GGB Magazine",
-    "published": "2026-09-21"
+    "name": "Gaming machines",
+    "trend": "Up",
+    "note": "Cashless solution adds new revenue streams"
+   },
+   {
+    "name": "iGaming",
+    "trend": "Flat",
+    "note": "No specific updates"
+   },
+   {
+    "name": "Social casino (SciPlay)",
+    "trend": "Flat",
+    "note": "No specific updates"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit spending guidance in available sources",
+  "it_signals": [
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Launch of RAPIDPLAY cashless payment system across multiple Nevada casinos",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFFFUlJSNVZjdkowREdJSWhRVERRdXQ4MmJQNkdibFdwVXVLUDRHOVNTdm5yQkxYUE05cUZMS29lZGRyVzFPRHV3UzZSVnlTVzFoSXlmaGR5WGRmZ2ExX2Zadm5QbWZWU2FrSFc5TW9YT1lHc2NQemkydE9IVmMxX2NTdGFsd1JPRHdRVU5qcTRRWXBHX3RYaWlYYk9tUQ?oc=5",
+    "source": "CDC Gaming",
+    "published": "2026-10-27"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "First global installation of RAPIDPLAY at Crystal Bay Casino",
+    "source_id": 7,
+    "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
+    "source": "asgam.com",
+    "published": "2026-10-26"
+   },
+   {
+    "type": "Other",
+    "detail": "Appointment of Muthu Palanichamy as SVP and GM of Global Systems to lead technology initiatives",
+    "source_id": 4,
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTERFVjJNRTVlZmFWNEQ1Y0ttQkJfcUZyV2FhVlRNUzlPTWI2Uy1neWFQLVNJUkNyUTlBcmJBSHRfNHdkSTFrZVBmczhSSEROTzU5SzAxNEZmVjNvdXpWV2JuZ1RscDdWR1YxRzNsUkFRUktGN2MyUEQ4UW0ycUZkXzRlQnBtekZBQ0JLY2hQaDVRcGpmdDhRYWZ0bG8zZ21F?oc=5",
+    "source": "GGB Magazine",
+    "published": "2026-10-27"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "Company emphasises debt reduction and leverage improvement as priority",
+    "source_id": 16,
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHNtelVZREk4Vm10eExJZUdVLVdEQWI4ODBJNWJSWWlDdW9JQ0VXRVRSMXFGSkZzeWliQmk4OGhka1owVF9TUmhfeVlwRl9rcW1WaDh6VlNqSHFvb0kxOWFYRl9VMHcwcTV0MlNQZG9rakxrSjl3MDBZNm5QMGdNaDFOVWxZYzg3WGtLR2NQWkdIUldKbDhXZlAyeW9iRF9KV2E2RUJ6V3lpSndZRUd5clk3Ql9iUlk?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-21"
+   }
+  ],
+  "it_spend_outlook": "Tightening",
+  "it_spend_reason": "Focus on leverage reduction may curb discretionary technology budgets despite cashless rollout",
   "talking_points": [
-   "Discuss potential opportunities around the new table‑games technology platform.",
-   "Explore how Light & Wonder’s shift to new vendors may affect integration and support needs."
+   "Discuss how RAPIDPLAY integration could be supported by our cloud and data analytics services",
+   "Explore opportunities to partner on future cashless or AI‑driven gaming solutions",
+   "Assess how Light & Wonder’s debt‑reduction agenda might affect their technology investment timeline"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
-    "source": "8-K",
-    "published": "2026-08-04",
-    "official": true
+    "title": "Light & Wonder debuts cashless solution RAPIDPLAY at Lake Tahoe casino",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFFFUlJSNVZjdkowREdJSWhRVERRdXQ4MmJQNkdibFdwVXVLUDRHOVNTdm5yQkxYUE05cUZMS29lZGRyVzFPRHV3UzZSVnlTVzFoSXlmaGR5WGRmZ2ExX2Zadm5QbWZWU2FrSFc5TW9YT1lHc2NQemkydE9IVmMxX2NTdGFsd1JPRHdRVU5qcTRRWXBHX3RYaWlYYk9tUQ?oc=5",
+    "source": "CDC Gaming",
+    "published": "2026-10-27T22:27:17+00:00",
+    "official": false
    },
    {
-    "title": "Light & Wonder Selected to Replace Delaware North Table Games Technology",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWtQZUdWSndWN2hQa0lSamhFR3UtVGlqUzJzSW9ScHpoY3l2NUdXYXprTmlNLUFmX1dpQ2Jxa243N0syZFBuazVtNHUxRkNjd25sVHJqRjdJYWdzQV9pV3JpNzZTZ3pMX1VaanhGcFJMRS02X0ZqLTA4Y1hpeWxjUXRpU2dPRGlpQnp3MVZDSVRvSGpKSEl1Rlh6NUdIdE5LR3JzTjNfRQ?oc=5",
+    "title": "Light & Wonder Debuts RAPIDPLAY Cashless Tech at Crystal Bay",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2MwY0Ryc1ZDN3lKRzlRYTdXeWluTGRCdXJiSVpvVjF4dVNOUjVqa1R4dUJnUmF2d0J1NXBialk4V3gwSEJFRTZkSzZBTWhxVVlBb1c4cDNEeGhLWkd1WGVHaHFfN1RUc3BMUFNQNGdHNW1IWkU0bHBDQTU4eG1RRVFEeDBzc1dwb1Q3bEhLR25kSDBRcjctQkxfNA?oc=5",
+    "source": "RG.org",
+    "published": "2026-10-27T22:23:35+00:00",
+    "official": false
+   },
+   {
+    "title": "No Cash? No Problem: Light & Wonder Installs First Cashless Slot Machines in Nevada",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9MYURSYU9VWjJwbEJsWkl2dlJvd2E1b2xCcHZHM3lDdlNRN2VWOWItY3BjWHk3VEpkRklBZGJoNmNERU5IRTNOVDFXSDlMWjBHT3NWOEdoR1Rkbl9rYlBPUk5LeEVscVhydTE2ei1MdzJwTnAyTWdLelRvNEQ0Q3BvakFRUkRkY254VHpCZ0c2eU0?oc=5",
+    "source": "Casino.org",
+    "published": "2026-10-27T19:08:13+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Names Muthu Palanichamy SVP and GM of Global Systems",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTERFVjJNRTVlZmFWNEQ1Y0ttQkJfcUZyV2FhVlRNUzlPTWI2Uy1neWFQLVNJUkNyUTlBcmJBSHRfNHdkSTFrZVBmczhSSEROTzU5SzAxNEZmVjNvdXpWV2JuZ1RscDdWR1YxRzNsUkFRUktGN2MyUEQ4UW0ycUZkXzRlQnBtekZBQ0JLY2hQaDVRcGpmdDhRYWZ0bG8zZ21F?oc=5",
     "source": "GGB Magazine",
-    "published": "2026-09-21T07:00:00+00:00",
+    "published": "2026-10-27T16:47:02+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder debuts RapidPlay cashless payment system",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGxJMjIwdVh4M1YyaGRrTXg3SXZTcC1VSHRQZTZZeHh1VUktc1doakc0M19PdTlQN2p1d3B4alFFMzVuaU9BSnlZdjVka18wRFRka3pWMWlrSUdobVN2VjN1VV9yQ011bW1OOVNZRWIxV0NLQmlTbF9fZGhLcWxkbXJ4bw?oc=5",
+    "source": "GGRAsia",
+    "published": "2026-10-27T01:44:06+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder completes first global installation of cashless solution RAPIDPLAY",
+    "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
+    "source": "asgam.com",
+    "published": "2026-10-26T23:30:00+00:00",
+    "official": false
+   },
+   {
+    "title": "What Did Light & Wonder (ASX:LNW) Report for Q2 2026, and How Is It Reducing Leverage?",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHNtelVZREk4Vm10eExJZUdVLVdEQWI4ODBJNWJSWWlDdW9JQ0VXRVRSMXFGSkZzeWliQmk4OGhka1owVF9TUmhfeVlwRl9rcW1WaDh6VlNqSHFvb0kxOWFYRl9VMHcwcTV0MlNQZG9rakxrSjl3MDBZNm5QMGdNaDFOVWxZYzg3WGtLR2NQWkdIUldKbDhXZlAyeW9iRF9KV2E2RUJ6V3lpSndZRUd5clk3Ql9iUlk?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-21T10:51:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder (ASX:LNW): Debt Reduction and Recurring Revenue Shape the Next Phase",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVoyakQ3OEhVNEp4U1VHbGFXQ21nZHg4by1iVk5iRnBrNlRHYS12eFk4V1JaN0hTMzF0NFBBWE1IWXJPajZHYzVTZ1RPS2tQS1NwQmJUbTRaSjd5eVJJalJxVU9mWTR4aDFLa1NYaEowTVZ5U3pxRjdDSmpxaXZ6MDVabTIxei1kcWVfaU5QYlpmTi1aWVlRdG9oeS1xcEhOa2FIdW9ESHFOd1hKcUJzY285VmY?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-08T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "Light & Wonder",
-  "mode": "results",
-  "analysed_at": "2026-10-21T01:14:12+00:00",
-  "release": {
-   "form": "8-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-05T01:04:24.000Z",
-   "accession": "0000750004-26-000032",
-   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
-   "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
-   "published": "2026-08-04"
-  },
-  "release_key": "0000750004-26-000032",
-  "signals_at": "2026-10-21T01:14:12+00:00"
+  "mode": "signals",
+  "analysed_at": "2026-10-28T01:32:09+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-10-28T01:32:09+00:00"
  },
  "Brightstar (IGT)": {
   "results_found": true,
@@ -1120,51 +1185,67 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Added AI tools to Genya suite for tax and accounting workflows.",
-    "source_id": 25,
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOem5ka1RaaktLRnExWlp2QW0tSUJ6Vl80VG9KYkxxbnl5TG82NG1GekUxQlJJTVNEdlNCdXEzSTlMM2ZUU21QbENkTzFHMHo2cDB1M0x0VEp3cXRsLVVycWJXX2tiYUJBc29aY05adVBPM1lKT2JNY3FvUWI3XzZoN185emNLS002dmtDQmR1NHUtV0RVNE5QRnJqa3hwejBHS1BTWmY0N3Q3SUYtY3dDdWtXMlJ1eEhzaGM5dVdrNVpuWHB5ZklWTGNB?oc=5",
+    "detail": "Agentic tax preparation capability launched in CCH Axcess Tax",
+    "source_id": 8,
+    "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wolters-kluwer-launches-agentic-tax-tools-wolters-kluwer-stock-gains-1-10-percent/70413543",
     "source": "ad-hoc-news.de",
-    "published": "2026-10-14"
+    "published": "2026-10-26"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Introduced conversational AI and automated bank reconciliation in Genya cloud suite for Italian professional service firms.",
-    "source_id": 30,
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbTZqODhkLVNmZXJjei1YemFQTG8ydGdEMGpmaUl6cHZGcHZrcFUyR2tzSi1DOUJLZS1nSkRMZzNLWUtsaGFPeHNlVDdMRTd2NGd4dlNiOEVsSUFiWmpzZUdTOE9Pb1FnM2d1bll2UWZpaHpKQmpkVXZFOElxRGViRkxkS2Vkclg1bURTU1U3QThTYkx1YUI4MThTUGM0ek90ZS1TT04wdmZSeElWSUNWQmJzeExwbXY4WWJGaHNwVGVfYjBxdlRQVkY3NEF3ZXk1V0FVY1M1WU9JQzZnS2dTSTg5Smx1UWZyU1hYVFVIaFFjVjVmcWVyUXp4UURpY3VOY1hRQg?oc=5",
-    "source": "01net",
+    "detail": "AI partnership with Inscope for financial statement preparation",
+    "source_id": 12,
+    "link": "https://www.businesswire.com/news/home/20261022865344/en/Wolters-Kluwer-partners-with-Inscope-to-launch-agentic-financial-statement-preparation-in-CCH-Axcess",
+    "source": "businesswire.com",
+    "published": "2026-10-22"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Libra AI made available in InView Legal and InView Tax in the Netherlands",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXRhQjZydkJ6cFR4d2RDVmxCVm41ZWUyQWlaRmR2VUotSWpLUnIzd0FDcFZSZjR5RGNFZkVEQUcweWZUeGFVYVltUW0xMTBLbW5iNlVvTW9vbWYwOFlod0gzQXljMGVtR2twN0RYcVZIN2NsYS1HcW5jTk9OdkJ5ZUpYZUlLX1Z1Xzh4Y1JNSzROOExGRHJJZTdYTVRDYnBSckExRDVhWUJCVEZEWFNMVHgyUk83SGRRM3loWHl3?oc=5",
+    "source": "Wolters Kluwer",
+    "published": "2026-10-21"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Conversational AI and automated bank reconciliation added to Genya cloud suite for Italian firms",
+    "source_id": 17,
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFo1QkFnNHI5eGtlS0dCcGRHaFBSNU5BSU5halZYVkl6NnV4VFlTSWNSWGVXWWQ5b3dVVEhYdEl6Uk84a3piTjJXN0F1SHVGUl80cGxxWDZjeGdndjMzV1Z6ZFYzbkZyeVZXbDVLYTQtLWtGRGIyck5oTElWQV9IVWVaMDg3cFNtS0lqRmh5eUQ0VVA4X2dxRE5XMjNpMG9odzF5ZVdhUWQ1WDg?oc=5",
+    "source": "Yahoo Finance",
     "published": "2026-10-13"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "Integrated UpToDate AI into Doximity Ask platform.",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmRZWktFZGhrUXFWR3NnZHRJZ3I0ZFMzR3Bsb0FkbmNnY2tzamhnbHFfbFRCbW5KSm0tNTFkTl85MHJaWmFqM1pZMUZaSEFkMlRpMkdNNW5lWGN0YThRT1FhdU42TWY2NVNYV3N3NGhoSVgtQmxKc2lPamg0bE5JM3BzUDBjSFExeU9PVHp5VHBNUkN4OWt1dDN6NUQyV0FiOHc?oc=5",
-    "source": "01net",
-    "published": "2026-10-20"
-   },
-   {
-    "type": "AI & tech investment",
-    "detail": "Enhanced legal documentation with Expert AI additions to CT’s hCue.",
-    "source_id": 14,
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQejBjZ0huWlRscjV0Z2ZKRUU2X2pncGFlQkRqUjctWGpKcS1aUmFYVmhNZEM3bHptR05tT1draWhidjVleS0zSENWZVBJWk9VRE1HM0FFekRoOE92a3FycFBvSmZlWWlMc3J0c2FtQUtfVkhCM1c3QTlLUV84Ni1sd0llRGdwcHJieGpZOXltUUZ5V3QyZEFWd2dhcW9PSEZRb2pfdHlEMXM2X2NXYkwyTXpUSzd6MEx3b3phWDREVlltSHhweHgtdm9CUjJTWEc4bFRXUQ?oc=5",
-    "source": "Legal Reader",
-    "published": "2026-10-16"
-   },
-   {
     "type": "Cloud & data",
-    "detail": "Migrated 3,000 desktops to Amazon WorkSpaces without disruption.",
-    "source_id": 33,
+    "detail": "Migrated 3,000 desktops to Amazon WorkSpaces at scale",
+    "source_id": 18,
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
     "source": "Amazon Web Services (AWS)",
     "published": "2026-10-12"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Partnership with Doximity to bring UpToDate to Doximity Ask",
+    "source_id": 14,
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJGTm1ab2RIYXg2YlhXR3NfMHRZSGU0ZlNCa0ZiSWR4WGltck83ZDJha3JkUTYzdkRoUG9kbmczZEFYV1hjWTNaZE11X1h3N3V2ZHdwbWk0aXNlZXpQQmFTNjAzeVVOWS1SdHd0NEhCajFwLXN2LVRRVnNxeElzbWZHV3Vzd1IyY0dV?oc=5",
+    "source": "Wolters Kluwer",
+    "published": "2026-10-20"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Suki launches “Ask” powered by Wolters Kluwer UpToDate Expert AI",
+    "source_id": 19,
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVTdwb3VWTUpIMEh3ZnlvX0RGcGZ5T0xXbVV3RXMzYTlHSWxGQ1FCRnN2SVRHT3NSQ3cyWVV5WWdzeUdmM0J6b014bFFFMTQ1S0FyM2hoZFBZckVDclh0c2Fia0hpNG1OS0hBbjdjWjB5TG96aTI1NldkTWpWOGhZcHFTUGZqaUt5dG9LMzFyclhvT3lXV2IxUG4zYXA5Q0JxbUJZWU9CcS0ydWhjd0NIaGxkQ2toT0RLV0NPN3F6aXBTdm51X1JWODZfUUVybHBqNUFFa3VWd292RGxWY1llM0lFbFpERl91c3ZWMDZaUTJQZFBCRnNpSHV3?oc=5",
+    "source": "Business Wire",
+    "published": "2026-10-08"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit spend guidance is provided in the available sources.",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Multiple AI product launches and a large cloud migration indicate increased technology investment",
   "talking_points": [
-   "Wolters Kluwer is rapidly expanding AI capabilities across tax, accounting, health and legal products.",
-   "The company completed a large‑scale desktop migration to AWS, indicating a strong cloud focus.",
-   "Partnerships such as the Doximity‑UpToDate integration show a strategy to embed content in clinical decision‑support tools."
+   "How can our AI and automation solutions complement Wolters Kluwer's new agentic tax platform?",
+   "What support do they need for scaling the Genya cloud suite and the AWS desktop migration?",
+   "Can we help mitigate integration risks from the rapid rollout of third‑party AI partnerships?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1223,7 +1304,79 @@
    "published": "2026-08-05T07:00:00+00:00"
   },
   "release_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-  "signals_at": "2026-10-21T01:15:07+00:00"
+  "signals_at": "2026-10-28T01:32:36+00:00",
+  "signal_sources": [
+   {
+    "title": "Wolters Kluwer launches agentic tax tools. Wolters Kluwer stock gains 1.10 percent.",
+    "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wolters-kluwer-launches-agentic-tax-tools-wolters-kluwer-stock-gains-1-10-percent/70413543",
+    "source": "ad-hoc-news.de",
+    "published": "2026-10-26T03:25:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer adds agentic tax preparation capability to CCH Axcess Tax",
+    "link": "https://www.msn.com/en-us/money/other/wolters-kluwer-adds-agentic-tax-preparation-capability-to-cch-axcess-tax/ar-AA2g7ex3",
+    "source": "msn.com",
+    "published": "2026-10-26T02:47:25+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer launches agentic tax preparation in CCH Axcess, the agentic platform for tax and accounting",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEp6bTB6dnBjYkVjZ2tRcGJvR0d2eldMOVFSN0x4ZGVwU0dNMnlNZ3piLXJCUGlhMjZvWS16b2hPVGdpcTdjRnRUNFVZNG8tQmVqNjhpd0M3dFF0bmNKUHg3VDZaWVNIQVpVWE85eEdpLWc4RldUYmR5VWdGZGRfcDQ5N2dCOGIyU1Q1bUs4WEtscEZDZC1PUzJJRVJtbVF6?oc=5",
+    "source": "Wolters Kluwer",
+    "published": "2026-10-23T23:16:10+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer partners with Inscope to launch agentic financial statement preparation in CCH Axcess",
+    "link": "https://www.businesswire.com/news/home/20261022865344/en/Wolters-Kluwer-partners-with-Inscope-to-launch-agentic-financial-statement-preparation-in-CCH-Axcess",
+    "source": "businesswire.com",
+    "published": "2026-10-22T08:46:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer makes Libra AI capabilities available in InView Legal and InView Tax in the Netherlands",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXRhQjZydkJ6cFR4d2RDVmxCVm41ZWUyQWlaRmR2VUotSWpLUnIzd0FDcFZSZjR5RGNFZkVEQUcweWZUeGFVYVltUW0xMTBLbW5iNlVvTW9vbWYwOFlod0gzQXljMGVtR2twN0RYcVZIN2NsYS1HcW5jTk9OdkJ5ZUpYZUlLX1Z1Xzh4Y1JNSzROOExGRHJJZTdYTVRDYnBSckExRDVhWUJCVEZEWFNMVHgyUk83SGRRM3loWHl3?oc=5",
+    "source": "Wolters Kluwer",
+    "published": "2026-10-21T12:02:36+00:00",
+    "official": false
+   },
+   {
+    "title": "Doximity and Wolters Kluwer Sign Partnership to Bring UpToDate to Doximity Ask",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJGTm1ab2RIYXg2YlhXR3NfMHRZSGU0ZlNCa0ZiSWR4WGltck83ZDJha3JkUTYzdkRoUG9kbmczZEFYV1hjWTNaZE11X1h3N3V2ZHdwbWk0aXNlZXpQQmFTNjAzeVVOWS1SdHd0NEhCajFwLXN2LVRRVnNxeElzbWZHV3Vzd1IyY0dV?oc=5",
+    "source": "Wolters Kluwer",
+    "published": "2026-10-20T14:27:13+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer introduces conversational AI and automated bank reconciliation into the Genya cloud suite for Italian professional service firms and SMEs",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFo1QkFnNHI5eGtlS0dCcGRHaFBSNU5BSU5halZYVkl6NnV4VFlTSWNSWGVXWWQ5b3dVVEhYdEl6Uk84a3piTjJXN0F1SHVGUl80cGxxWDZjeGdndjMzV1Z6ZFYzbkZyeVZXbDVLYTQtLWtGRGIyck5oTElWQV9IVWVaMDg3cFNtS0lqRmh5eUQ0VVA4X2dxRE5XMjNpMG9odzF5ZVdhUWQ1WDg?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-10-13T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Cross-Region Amazon WorkSpaces Migration at Scale – How Wolters Kluwer Migrated 3,000 Desktops Without Disruption",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "published": "2026-10-12T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Suki Launches “Ask,” Accelerating Complex Clinical Decision Support Powered by Wolters Kluwer UpToDate Expert AI",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVTdwb3VWTUpIMEh3ZnlvX0RGcGZ5T0xXbVV3RXMzYTlHSWxGQ1FCRnN2SVRHT3NSQ3cyWVV5WWdzeUdmM0J6b014bFFFMTQ1S0FyM2hoZFBZckVDclh0c2Fia0hpNG1OS0hBbjdjWjB5TG96aTI1NldkTWpWOGhZcHFTUGZqaUt5dG9LMzFyclhvT3lXV2IxUG4zYXA5Q0JxbUJZWU9CcS0ydWhjd0NIaGxkQ2toT0RLV0NPN3F6aXBTdm51X1JWODZfUUVybHBqNUFFa3VWd292RGxWY1llM0lFbFpERl91c3ZWMDZaUTJQZFBCRnNpSHV3?oc=5",
+    "source": "Business Wire",
+    "published": "2026-10-08T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer brings AI-powered drafting directly into the Libra legal workspace",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXIxQWZOT2dNYk5hRmxMLXJmQWd4bDlndVpyU0JmWWM0dDhxY2JlSFNmUTVWSGdkZHNUal92TjZ5RU9rWmVaMXdtTUdNTmdmZWJBWi11MDdlSE1jcEVJYy1TMWEyVGhzSXBJRjVpeFBjb2tXV0hJWlp2dk5WSTdBTTZqV0hPazdBMG5ydTd2OU4wcng5eTF4QXY4bkk?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-10-07T07:00:00+00:00",
+    "official": false
+   }
+  ]
  },
  "Scholastic": {
   "results_found": true,
@@ -1261,18 +1414,18 @@
    {
     "type": "M&A / spin-off",
     "detail": "Scholastic to acquire Cottage Door Press for $71 million",
-    "source_id": 21,
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGE5OEw3Y1dpT0NWNjNQWXdtNUZKaVhKOHJDYW4zZ3NWWVRiSUFFaThXTmZUbnE2TkpaNVhBcWJWTWtqeUlOdVg3LVMxUURPS3V4VUlYbUl6SXBsaTYwcmx4NFdMeDN1bUhGS2p0THBnOUliOTYyU1dJTm5JWGxPT2t6SFE4UnRWNFRxX3dsNWI1NFFOZVN0SFd3?oc=5",
-    "source": "citybiz",
+    "source_id": 20,
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdWNqVThxSjQyRHNFeXFPelVCd0c5eXlVUnMxMmx3Vi1uWTdQR0xMMmh1UUZrRTRDSXZJTmJ6Vk1Ec0xfUFFXTEoyQThUWURyTFRybnIzV2tQb1dOTVFRWkVLZkZlYWpMRlQ4eU1JQzJwSVM4OGI2czhsTDgwVmtBTEhMRlZLX0pDSV83dFczVWxvNlljVDlNNXhRR09fTzF3ekxrbXMyMWtDWWtTZ0RBdzVha1Rwa3NMUF8xOE9JMmI0Nk9tZWcwWVZQMDJhZlhnNmpHYmd2TnBwUzVidHp5eEpYSFBYRWtrUl9IQkpn?oc=5",
+    "source": "Publishers Weekly",
     "published": "2026-09-29"
    }
   ],
-  "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Revenue decline and margin pressure suggest tighter IT budgeting",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "Acquisition suggests potential spend increase, but investigation and market pressure create uncertainty",
   "talking_points": [
-   "How will the Cottage Door Press acquisition impact Scholastic’s digital publishing platforms?",
-   "Can Scholastic leverage the acquisition to accelerate its early‑childhood tech offerings?",
-   "What cost‑control measures might Scholastic adopt given the Q1 loss and ongoing investigation?"
+   "How will the Cottage Door Press acquisition impact Scholastic’s digital content platform roadmap?",
+   "What technology integration challenges might arise from merging early‑childhood publishing assets?",
+   "Can Scholastic leverage the acquisition to expand its education‑tech offerings despite the ongoing investigation?"
   ],
   "unverified_dropped": [
    "metrics.revenue_growth_yoy_pct",
@@ -1309,27 +1462,41 @@
    "published": "2026-09-24"
   },
   "release_key": "0000866729-26-000022",
-  "signals_at": "2026-10-20T22:04:47+00:00",
+  "signals_at": "2026-10-28T01:33:03+00:00",
   "signal_sources": [
    {
-    "title": "Scholastic slides 7% after results miss estimates",
-    "link": "https://seekingalpha.com/news/4647312-scholastic-slides-7-after-results-miss-estimates",
-    "source": "seekingalpha.com",
-    "published": "2026-09-25T14:23:00+00:00",
+    "title": "Pomerantz LLP investigates Scholastic over Q1 l...",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFXbzVvSlN2OF95YjVBdl9PTC1PeFk4MU1mMTd3TzJ5bV82ZHVVNXJ2VHdSY0NDQUs5MGZJdEVON0dVYzY1aWVlOTEtQU5zVV9KNExrYVZwZmRDYzlvUGkxM2hDN1pzRkNwVElmZGxGSVhTaFBlX3ZReFViUEJGLXdjNGN1U1RxTEVYWTNUZ0xWd3kwYUI3SzkyeEJZazR3U0s0YjhMYw?oc=5",
+    "source": "Pluang",
+    "published": "2026-10-27T22:27:35+00:00",
     "official": false
    },
    {
-    "title": "Scholastic Corp (SCHL) (Q1 2027) Earnings Call Highlights: Navigating Revenue Declines and ...",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlNqSXNpaEd0c3JLUldjeno2UERWZFB6RGNvVTN6b0RJYUVXNF94THRTcV80R2ZjdmlXZkNBcGk3SkNUTVhmTzhtaExEWFBRdHVIeENxdzkzaEIyYWxsWFVlcjFVSzh1LTg2aGwzRXBVR0VvUW54aXdaZDNZYkVtTk5feVRhWU5BZFlvYVNvZDd3bnhPd1ZYaA?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-09-25T07:00:00+00:00",
+    "title": "An ETF’s interest exceeds 5% as BlackRock amends its Scholastic (SCHL) passive stake report.",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXA3ZEo5OVY2MlAzZTBfYWhoclYtSHJLbTlUOV83ajFwNXlyQWtaLU16c25NUUt4cmpyUXJ0RS01c2V1c3ZHYkJVbHpZbWd3S0FvSU1Ca1B1aklFem1LRWM4U19BajU2Z0NEMGxVaS15X2pNU3ZlNUlKYkljeEl2V0VjRE92alVpVTdpdDdrcVBPNW5oRzFBWTNDQ1dqMGlGU3hsQkZHUFBCY054bjR4WkRpRzJiMUdIT3gwV3Z3bEpnM2poZDNNVVdn?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-10-27T21:29:44+00:00",
     "official": false
    },
    {
-    "title": "Key facts: Scholastic (SCHL) Q1 loss; affirms FY27; $25.8M buyback",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmI1Z2U1Zjg1MGlrMndkejFlQ1JUb3dLM3VkR0RZY2lBeWFVdlh4MHhfaGoxQTIyQVV3VTZiQUFqYWpNSFRITS05dVVqRk5CelRHSW1yRV9adUdRT3E2UWxaWDZ5WF82bHlsX2dNbU83SHRPMDFCeVoyUXRCejBoQWhDa2Nnd1k4cFJJbW90WjZTbXBMN09EUUxqbFcxR1psYkNkcEM0bUtpc2xGV1RlbnpyRE1HS0xXc0ppZXg0TQ?oc=5",
-    "source": "TradingView",
-    "published": "2026-09-25T07:00:00+00:00",
+    "title": "Scholastic (NASDAQ:SCHL) Stock Gets Downgrade from Wall Street Zen",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0MtNVhtM2k4U1B0N1ZQQTd1RjZIMTNHN1hpTGI5Yi1GRkN4M0dySzNTZ1FQOFhycFRWTlBDQmpfX05pVmgxZWFLYUcwVk5sXzRIRjJ5MnBLaXVDazZYYWk3UGEyVklhb0ZLUk1aZ2NNaUJUR3Mxb0hBckVvbHA0MWFpN2c1S2x1U2d3ZGFPdE8wMHd0Um9sWHpuUDlTMFNyUU9XTWZ5eWtRbEVsLXl0U0QteGZvUDRGTHZiVzFRYzFIc1pO?oc=5",
+    "source": "MarketBeat",
+    "published": "2026-10-10T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0dZa0dfdHNmVW9wRkdEUGdhQnZXcU9INWVueFhiZDNuMEp4ellXLVB0QXdZZmNLWk9aWVdOVTdoa0QwSVRjVGhVOWlDR2g5TGJlLThOSU1IYXRCZFlncVlZc19ueDVhaHlySGtSRWN2d2hSWms5UjNfQkVubnN3eWlZd0NWdklScUlPM2FrQm1Bb2RxMkN1LWxQaTFkd1NsdHl6OVJsay1uaDN2eUIxWklHMDBLaUhDSUJLelRxQWtaNFZWVmprZW0xXzVyTjVkTWd3X1dXS2RSdzA4UXJ6cnRScXBmR1dfTTR5YkRqaVE?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-09-29T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Scholastic Agrees to Buy Cottage Door Press for $71 Million",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdWNqVThxSjQyRHNFeXFPelVCd0c5eXlVUnMxMmx3Vi1uWTdQR0xMMmh1UUZrRTRDSXZJTmJ6Vk1Ec0xfUFFXTEoyQThUWURyTFRybnIzV2tQb1dOTVFRWkVLZkZlYWpMRlQ4eU1JQzJwSVM4OGI2czhsTDgwVmtBTEhMRlZLX0pDSV83dFczVWxvNlljVDlNNXhRR09fTzF3ekxrbXMyMWtDWWtTZ0RBdzVha1Rwa3NMUF8xOE9JMmI0Nk9tZWcwWVZQMDJhZlhnNmpHYmd2TnBwUzVidHp5eEpYSFBYRWtrUl9IQkpn?oc=5",
+    "source": "Publishers Weekly",
+    "published": "2026-09-29T07:00:00+00:00",
     "official": false
    },
    {
@@ -1337,13 +1504,6 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGE5OEw3Y1dpT0NWNjNQWXdtNUZKaVhKOHJDYW4zZ3NWWVRiSUFFaThXTmZUbnE2TkpaNVhBcWJWTWtqeUlOdVg3LVMxUURPS3V4VUlYbUl6SXBsaTYwcmx4NFdMeDN1bUhGS2p0THBnOUliOTYyU1dJTm5JWGxPT2t6SFE4UnRWNFRxX3dsNWI1NFFOZVN0SFd3?oc=5",
     "source": "citybiz",
     "published": "2026-09-29T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Scholastic Corporation - SCHL",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRV9ZYWotUUZiYkxmMkR5U3dqaEdMVkhjTlpDOXhuOE1zMlhaWF96VURaRmVFU3pMY2F3N2w0Nk9nc3picmt5dE90Q3E2eHVtb3NjUkV6cHFleEF2WnBTbTdtR01LTmdjNnNYZUNZeDBKbVV4SlZ2dGJNNXpJQTdEQzhaZDR5d0NJdld2amZOTG84QS1zUU01TUFrNTBFTTBnM2NRVlBSMDNpekNoUHVYeVR3b3NkWVJjaG4xbW5WT25aS01rWVplSjJSQjZ6a2J3LWpsZ1ZYeUg1TEdvRkhnV0IydUNaMzZGYWxscklEQm9aSWpMLXM5ZA?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-10-15T14:00:00+00:00",
     "official": false
    }
   ]
@@ -1462,174 +1622,140 @@
   "signals_at": "2026-10-22T12:05:46+00:00"
  },
  "NYU": {
-  "headline": "NYU secures a multi‑hundred‑million dollar partnership with New York City to build a quantum fabrication facility",
+  "headline": "NYU secures major city-backed funding to build a quantum fabrication facility",
   "highlights": [
-   "NYC invests roughly $29‑30 M for a quantum lab and a $284 M quantum fabrication facility at NYU",
-   "The partnership gives the city a stake in future quantum inventions",
-   "NYU also launches AI‑driven archaeology research and an animal media initiative"
+   "NYC pledged $29.2M–$30M to establish a quantum fabrication lab at NYU",
+   "The partnership is framed as a revenue‑sharing venture for the city",
+   "NYU also received $6M for Washington Square Park improvements"
   ],
   "risks": [
-   "Heavy reliance on municipal funding may expose projects to political shifts"
+   "Reliance on municipal funding could be vulnerable to political shifts",
+   "Large capital outlay may pressure university budgeting"
   ],
   "sentiment": "Positive",
-  "sentiment_reason": "Significant new tech funding and research initiatives",
+  "sentiment_reason": "Significant new tech investment and partnership",
   "segments": [
    {
     "name": "Research & Innovation",
     "trend": "Up",
-    "note": "Quantum and AI projects expanding"
+    "note": "Quantum lab funding boosts capabilities"
    }
   ],
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "NYU researchers use AI to reconstruct archaeological finds",
-    "source_id": 2,
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWFWODZCOV9SRmVpTEpLUEJwSVlWZkw4X3FlZVc2Wk1waXN6M1R3WDE1SXg0dGxlb2RYMFZEbHJJdjRUTmNYNjBXZ2RmVXZCTGctdG9wUG1acEstczA4Q1VuSkwyVkpYNHE0RTZkaFhQT21GNEJwX2NMMHMwY3I0N0ZXbjlHYnk2WjFnMUoxS29ENTlWUDNydzlIMkFNbmcweUZSVG9jTQ?oc=5",
-    "source": "HPCwire",
-    "published": "2026-10-19"
+    "detail": "NYC invested $29.2M (reported as $30M) to create a quantum fabrication facility at NYU",
+    "source_id": 16,
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUFGQkpNMHFUb3lZYW1aaDQ2SlFLUE84enN1MjR1R21TNFpHbkpaZ1ZOQjZiRUdFMjZpQ1pSVDBoQ1pMaXdCN0xCYklYTFV3bllNUTJpek55OTBpcVJiTFh2VWFrVUtmUDFydDk2VlFyUGRLWWlDV3VuNFQwd1VTcXphTUhxMnRtWHlFMWJCY2dSNE9vQXdnUEN4RV8ycnlzck5uNk9iZjRjNDBORFppa1FmZDI3UXZ0SUE2NQ?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "2026-10-15"
    },
    {
     "type": "AI & tech investment",
-    "detail": "NYU launches Animal Media Initiative (tech‑focused)",
-    "source_id": 6,
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTd4NWdpbGpwekRyT3NFMDhmMmF5bl9xMWdMR1IwbzVteHg5ckVUWXNHZm5XV05rOVRYMG5DSnlYcGxqWXloVDZXNG1ieUh6YWlldTViejhyRzg1NHpBVS11Q245VGduZjlGc0ZBTllsLUx0VmpqT25GajV6a1dFaE1sd1pMaV9udy1QcDM4YVc0ZnJOQ3BzT0pxaURDbHJEaGNwTjFR?oc=5",
-    "source": "New York University",
+    "detail": "NYC pledged $29M for a quantum technology lab at NYU",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczRRblNzMTVJQ2d3XzhGbmhiNUZwNUNMTksyUjh0ZEtnakU1ZjlNSi1Fb2otaV9IN3FlbUd4aUlvZlhEYjM2TUw0TURoWDRRNjFYdGF3aExjV3RGMktZTjIxcVBzRXE0RS1rYnFNQlk3VkpyR0cxLWRIbHEwUFVhRw?oc=5",
+    "source": "Washington Square News",
     "published": "2026-10-15"
    },
    {
-    "type": "Other",
-    "detail": "NYC invests $29‑30 M in NYU quantum lab and $284 M for a quantum fabrication facility, securing a stake in future tech revenue",
-    "source_id": 13,
+    "type": "AI & tech investment",
+    "detail": "NYC and NYU announced a $284M quantum fabrication facility partnership",
+    "source_id": 22,
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTZaUlcteXY5bE9RSzJkbGtKTHp4WE03X2I5NEJCMDJBWnVMNTFLdXlDZjFKSmxycUZlbktJb1VPRnRwQ1pFTjNFcW5RVTJNZWRaQUhvdGU0NHQ1M01LOFg5VFhYcno0WTlQOXl4MGViQ3dhZlJRcHN6QThQUEd6akRIUVJaR1QtTDI2LVQ4b3BYNFk5UGkwOWVhTlRPeS1lN1lqcWgyWS1tQjhCNGdSYnZZd2dBcFHSAbwBQVVfeXFMTl9iclFWVXJfYmRKSThWaWJsMk5qTDNoU3pKdUpSZXU3ek5POGQtSGNlLU9IdFV1NnkzYjhqRXRMN0Y2RG0yUncwQ2ZScGI0VS1JQU1mQkpaN1E5YjBzbHQwU1VtQ3FBT01jVEh2c05LZ3NLWXhZeUZaOHdZS2xOUUdOd1AyWHM0Zjc1MXJjZkhoSEZ4OXg4QlBvZmpfYU5WYW14SFNrYUlZbEpfc3ZrY01neVlUbXV0MW9zY3k?oc=5",
     "source": "Quantum Computing Report",
-    "published": "2026-10-15"
+    "published": "2026-10-14"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Large municipal investments in quantum and AI research indicate growing IT budgets",
+  "it_spend_reason": "Multiple multi‑million city commitments signal growing IT‑related capital spending",
   "talking_points": [
    "Discuss how NYU’s new quantum facility could create demand for high‑performance computing services",
-   "Explore partnership opportunities around AI tools for archaeology and media projects",
-   "Assess the impact of city‑backed funding on NYU’s long‑term technology roadmap"
+   "Explore partnership models for vendors to support the city’s revenue‑share arrangement",
+   "Assess potential follow‑on projects in AI and data analytics linked to the quantum lab"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "NYU Engineers and Archaeologists Use AI to Piece Together the Past",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWFWODZCOV9SRmVpTEpLUEJwSVlWZkw4X3FlZVc2Wk1waXN6M1R3WDE1SXg0dGxlb2RYMFZEbHJJdjRUTmNYNjBXZ2RmVXZCTGctdG9wUG1acEstczA4Q1VuSkwyVkpYNHE0RTZkaFhQT21GNEJwX2NMMHMwY3I0N0ZXbjlHYnk2WjFnMUoxS29ENTlWUDNydzlIMkFNbmcweUZSVG9jTQ?oc=5",
-    "source": "HPCwire",
-    "published": "2026-10-19T13:30:46+00:00",
+    "title": "New York City fronts $29M for quantum tech lab at NYU",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczRRblNzMTVJQ2d3XzhGbmhiNUZwNUNMTksyUjh0ZEtnakU1ZjlNSi1Fb2otaV9IN3FlbUd4aUlvZlhEYjM2TUw0TURoWDRRNjFYdGF3aExjV3RGMktZTjIxcVBzRXE0RS1rYnFNQlk3VkpyR0cxLWRIbHEwUFVhRw?oc=5",
+    "source": "Washington Square News",
+    "published": "2026-10-15T07:00:00+00:00",
     "official": false
    },
    {
-    "title": "NYU Launches Animal Media Initiative",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTTd4NWdpbGpwekRyT3NFMDhmMmF5bl9xMWdMR1IwbzVteHg5ckVUWXNHZm5XV05rOVRYMG5DSnlYcGxqWXloVDZXNG1ieUh6YWlldTViejhyRzg1NHpBVS11Q245VGduZjlGc0ZBTllsLUx0VmpqT25GajV6a1dFaE1sd1pMaV9udy1QcDM4YVc0ZnJOQ3BzT0pxaURDbHJEaGNwTjFR?oc=5",
-    "source": "New York University",
-    "published": "2026-10-15T17:06:36+00:00",
+    "title": "City of New York awards NYU $29.2m to establish a Quantum Fabrication Facility",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUFGQkpNMHFUb3lZYW1aaDQ2SlFLUE84enN1MjR1R21TNFpHbkpaZ1ZOQjZiRUdFMjZpQ1pSVDBoQ1pMaXdCN0xCYklYTFV3bllNUTJpek55OTBpcVJiTFh2VWFrVUtmUDFydDk2VlFyUGRLWWlDV3VuNFQwd1VTcXphTUhxMnRtWHlFMWJCY2dSNE9vQXdnUEN4RV8ycnlzck5uNk9iZjRjNDBORFppa1FmZDI3UXZ0SUE2NQ?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "2026-10-15T07:00:00+00:00",
     "official": false
    },
    {
     "title": "New York City and NYU Partner to Launch $284 Million Quantum Fabrication Facility",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTZaUlcteXY5bE9RSzJkbGtKTHp4WE03X2I5NEJCMDJBWnVMNTFLdXlDZjFKSmxycUZlbktJb1VPRnRwQ1pFTjNFcW5RVTJNZWRaQUhvdGU0NHQ1M01LOFg5VFhYcno0WTlQOXl4MGViQ3dhZlJRcHN6QThQUEd6akRIUVJaR1QtTDI2LVQ4b3BYNFk5UGkwOWVhTlRPeS1lN1lqcWgyWS1tQjhCNGdSYnZZd2dBcFHSAbwBQVVfeXFMTl9iclFWVXJfYmRKSThWaWJsMk5qTDNoU3pKdUpSZXU3ek5POGQtSGNlLU9IdFV1NnkzYjhqRXRMN0Y2RG0yUncwQ2ZScGI0VS1JQU1mQkpaN1E5YjBzbHQwU1VtQ3FBT01jVEh2c05LZ3NLWXhZeUZaOHdZS2xOUUdOd1AyWHM0Zjc1MXJjZkhoSEZ4OXg4QlBvZmpfYU5WYW14SFNrYUlZbEpfc3ZrY01neVlUbXV0MW9zY3k?oc=5",
     "source": "Quantum Computing Report",
-    "published": "2026-10-15T00:52:47+00:00",
-    "official": false
-   },
-   {
-    "title": "New York City fronts $29M for quantum tech lab at NYU",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczRRblNzMTVJQ2d3XzhGbmhiNUZwNUNMTksyUjh0ZEtnakU1ZjlNSi1Fb2otaV9IN3FlbUd4aUlvZlhEYjM2TUw0TURoWDRRNjFYdGF3aExjV3RGMktZTjIxcVBzRXE0RS1rYnFNQlk3VkpyR0cxLWRIbHEwUFVhRw?oc=5",
-    "source": "Washington Square News",
-    "published": "2026-10-15T13:10:57+00:00",
-    "official": false
-   },
-   {
-    "title": "NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG8zbTRjSzlvRGRaVEVZWldzd09jOFVzWmtjTlhydmc3YXl0RGM1RU42VWQ5U1Y4dnNTb1Q1Y2ctNGdvWEJIVGctWm1uMDVUeUtURUlTMVlMX1FfdkhHSFZ4WG9KeDdpTC1rakV2MXZvOFpYaWg2Zm9QUUsxX25xNWFkVmZmT2pxSi1ONmRPc0kxNkFuT1VyLUQwdmotWlJVZnplbEMwNHdieFlTNWktWENZLTh2X0c0MGdaQlZuWGVueWVHWGFZMW9UMVI4QlBWMGoyNWU4anFFaURJTWc?oc=5",
-    "source": "The Quantum Insider",
-    "published": "2026-10-14T22:41:15+00:00",
-    "official": false
-   },
-   {
-    "title": "NYC Invests $29M In NYU Quantum Lab, Secures Share Of Future Inventions",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSnVYMWNWeEMxZW90TEd3TnN6UjFxZmtfZVRpdnYyR04xU2g4LTVUMzVUWnA1SmNyU1lQMUxlSFFPbXRJZTZGT3Y1OWNXSkI0S0wtS1dVRDNsY2Rsdk9GSDFucEcwZWcwNm1jY3pqdktYd0xkWlFCSTVObk1iNDZhOHBEcno4UWV5NDAtM2E4QWRQbTVaSm1lNTlrRkxvdTBvakJzZGJOWdIBwAFBVV95cUxQOEhXWEduMXZPbUhaZGdYR1hidVFEMmstdm5Hd25VRUsyeDc5TWxQVlVUbFVJV3R1ZUxhWDhNYnZpdnZmUG5OUTliVjlIdkNiOUttSmdjbFowWG1kdk1pS0ctdnVNNzNzWjRNbXpKbGoxT210ZF9qZjlfMXlEblZvRkRxRllBWUttREk5b291N2dHYUFyQXlUQ2pFSWQ5a0R4LWNtN2duSWVZOTZlSmdKOWkxVHZvV1NjS0Z5bFhLN1Q?oc=5",
-    "source": "Patch",
-    "published": "2026-10-14T17:52:08+00:00",
+    "published": "2026-10-14T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "NYU",
   "mode": "signals",
-  "analysed_at": "2026-10-20T22:05:40+00:00",
+  "analysed_at": "2026-10-28T01:33:29+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-20T22:05:40+00:00"
+  "signals_at": "2026-10-28T01:33:29+00:00"
  },
  "SLU": {
-  "headline": "Saint Louis University expands its partnership with World Wide Technology, adding an AI‑focused collaboration and jersey branding",
+  "headline": "World Wide Technology expands partnership with Saint Louis University, adding an AI‑focused technology collaboration and jersey sponsorship",
   "highlights": [
-   "World Wide Technology partnership extended with AI focus (source 15)",
-   "WWT becomes official jersey partner and adds branding to SLU uniforms (sources 13,14)",
-   "AI and digital resilience dialogue hosted by SLU at the Asia Pacific Regional Internet Governance Forum (source 17)",
-   "Graduate student workers ratified a union contract, indicating labor organization activity (source 38)"
+   "WWT becomes official jersey partner for SLU athletics",
+   "Partnership expanded to include AI research and technology collaboration",
+   "Collaboration announced by both SLU and WWT on Oct 7, 2026"
   ],
   "risks": [
-   "Potential budget pressures from new technology initiatives without disclosed funding",
-   "Labor contract may increase operational costs"
+   "Reliance on a single vendor for AI initiatives may limit flexibility",
+   "No disclosed funding amounts, making budget impact unclear"
   ],
   "sentiment": "Positive",
-  "sentiment_reason": "New AI partnership and branding signal growth and innovation",
+  "sentiment_reason": "New AI partnership signals innovation and external investment",
   "segments": [
    {
-    "name": "Technology Partnerships",
+    "name": "Technology collaboration",
     "trend": "Up",
-    "note": "Wider collaboration with WWT and AI emphasis"
-   },
-   {
-    "name": "Student Labor Relations",
-    "trend": "Mixed",
-    "note": "Union contract could affect costs"
+    "note": "AI focus added to existing partnership"
    }
   ],
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "World Wide Technology partnership expanded with AI focus",
-    "source_id": 15,
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
-    "source": "FOX 2",
-    "published": "2026-10-07"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "World Wide Technology becomes official jersey partner and adds branding to SLU uniforms",
-    "source_id": 13,
+    "detail": "World Wide Technology expands partnership with SLU to include AI research and technology collaboration",
+    "source_id": 10,
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
     "source": "slubillikens.com",
     "published": "2026-10-07"
    },
    {
     "type": "Vendor / outsourcing",
-    "detail": "World Wide Technology partnership includes jersey patch addition",
-    "source_id": 14,
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
-    "source": "STLtoday.com",
+    "detail": "WWT becomes official jersey partner and technology collaborator with SLU",
+    "source_id": 11,
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
+    "source": "FOX 2",
     "published": "2026-10-07"
    },
    {
     "type": "Other",
-    "detail": "SLU hosted AI and digital resilience dialogue at regional internet governance forum",
-    "source_id": 17,
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTy1CMTIxV21JR3RhZmx1YVZ1Znd1YWFjWTBzRE14QmtaaEc4N2gxTnBTMjkyZ21ROHJIODUzeEx6S2ZWcVdjLWJlREgzN0I0VTl4QlhsVjNrS0lFZERQbjVzRHlDTzk4NkRuSFp3YWtBUjF1MWk0WFhDSjlBaU5oa1JXOUt4eHNtdmJibzNEdjVlejh1S3VXQW9zVHQ4TG5rR040T1dFbnVTLW9FNnRxOHRUTDEzU2Y5aGdiVEdKOUxjYjZGbk53N2RrTnNTUXM2TXNyWjhHcWk5akhDMTBzbkZiTWs1czA?oc=5",
-    "source": "Saint Louis University, Philippines",
-    "published": "2026-10-06"
+    "detail": "Partnership includes branding on jerseys as part of the agreement",
+    "source_id": 12,
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
+    "source": "STLtoday.com",
+    "published": "2026-10-07"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No financial amounts disclosed for the new AI collaboration",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "The new AI‑focused collaboration suggests increased technology spending at SLU",
   "talking_points": [
-   "Discuss how the AI focus in the WWT partnership could create opportunities for cloud or data platform services",
-   "Explore whether SLU’s new AI dialogue indicates a broader curriculum shift that may need additional tech resources",
-   "Consider implications of the graduate student union contract on future IT budgeting"
+   "Discuss how SLU plans to integrate AI research into its curriculum and operations",
+   "Explore opportunities for additional technology services beyond the current WWT partnership",
+   "Assess potential for joint cloud or data initiatives linked to the AI collaboration"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1637,13 +1763,6 @@
     "title": "World Wide Technology to Expand Technology Collaboration with SLU; Becomes Official Jersey Partner",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
     "source": "slubillikens.com",
-    "published": "2026-10-07T18:25:31+00:00",
-    "official": false
-   },
-   {
-    "title": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
-    "source": "STLtoday.com",
     "published": "2026-10-07T07:00:00+00:00",
     "official": false
    },
@@ -1655,88 +1774,86 @@
     "official": false
    },
    {
-    "title": "SLU students engage in a Dialogue on AI and Digital Resilience at the Asia Pacific Regional Internet Governance Forum",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTy1CMTIxV21JR3RhZmx1YVZ1Znd1YWFjWTBzRE14QmtaaEc4N2gxTnBTMjkyZ21ROHJIODUzeEx6S2ZWcVdjLWJlREgzN0I0VTl4QlhsVjNrS0lFZERQbjVzRHlDTzk4NkRuSFp3YWtBUjF1MWk0WFhDSjlBaU5oa1JXOUt4eHNtdmJibzNEdjVlejh1S3VXQW9zVHQ4TG5rR040T1dFbnVTLW9FNnRxOHRUTDEzU2Y5aGdiVEdKOUxjYjZGbk53N2RrTnNTUXM2TXNyWjhHcWk5akhDMTBzbkZiTWs1czA?oc=5",
-    "source": "Saint Louis University, Philippines",
-    "published": "2026-10-06T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Graduate student workers at SLU ratify union contract",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekdOTEpOLWdNdkhVMnQwSjdGYmVvOGlRdWtNVnBtQlVSaFFEVm0ySmhkV0hjY2dfMnFFY3RWSFpDN1pWM1R1MWNCanhKcFZqWDdQdWlKY0lBcjBldkw1U0d4UVhFOHVWajFhUk9heERRUXFEVS1XOTJSTHg0eU8tV1A5ZmpvV19ndHlqVmJIelgxWXA4NlBKdFBRQQ?oc=5",
+    "title": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
     "source": "STLtoday.com",
-    "published": "2026-09-21T07:00:00+00:00",
+    "published": "2026-10-07T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "SLU",
   "mode": "signals",
-  "analysed_at": "2026-10-20T22:06:07+00:00",
+  "analysed_at": "2026-10-28T01:33:56+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-20T22:06:07+00:00"
+  "signals_at": "2026-10-28T01:33:56+00:00"
  },
  "ACT": {
-  "headline": "Colleges are reinstating SAT and ACT requirements for admissions starting 2027",
+  "headline": "ACT test scores show mixed state trends with notable retake improvements",
   "highlights": [
-   "Notre Dame will require ACT scores again for fall 2028 applicants (1)",
-   "Multiple colleges adding ACT back to requirements for 2027 admissions (10)",
-   "ACT scores showing regional variations, with some states slipping while others rise (5,3)"
+   "Georgia ACT scores decreased (source 2)",
+   "Utah high school graduates ACT scores rose (source 3)",
+   "Wyoming students rank second nationally among states with 100% testing (source 4)",
+   "One in three test‑takers retook the exam and raised their scores (source 6)"
   ],
   "risks": [
-   "Potential decline in testing volume if colleges later drop requirements again"
+   "Declining scores in some states could affect test demand"
   ],
   "sentiment": "Neutral",
-  "sentiment_reason": "Mixed policy changes create uncertainty",
+  "sentiment_reason": "Mixed performance data without clear growth or decline",
   "segments": [
    {
     "name": "Testing volumes",
     "trend": "Mixed",
-    "note": "Scores and requirements vary by region"
+    "note": "State score changes suggest variable participation"
+   },
+   {
+    "name": "Digital testing",
+    "trend": "Flat",
+    "note": "No new digital initiatives reported"
    }
   ],
   "it_signals": [],
   "it_spend_outlook": "Unclear",
   "it_spend_reason": "No information on technology investments or cost changes",
   "talking_points": [
-   "Colleges reinstating ACT requirements could boost testing demand",
-   "Regional score trends may affect future test‑prep and digital service needs",
-   "Monitor any upcoming announcements on digital testing platforms"
+   "Discuss how state score trends might influence ACT's digital testing roadmap",
+   "Explore opportunities to support ACT's retake program with analytics or AI‑driven score prediction tools"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Notre Dame Will Require SAT And ACT Scores Again Starting With Fall 2028 Applicants",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcXg4elBrd2drVUhRTmh1ZExYbkgyaS00cmlENFdhcnR4Wk9xdmN0dmptckVvRWRYdnRiQ1I4dk9VbExhQzl0VmZ3cHdVREE4QTdpdjB3bzkxTHBGNll2N3FTUDNwempac1hBM0FIMHFOeThlRTQ3d1dsa2JkdDVaMnhZVXdSd0NrdEVTcEZ1UWVVWnlHekRuRmxQTnhpbWdjTFR4Z0NyUU5EM3RsRFpFUzY3ZHd0ekh4SkJ1UVNR?oc=5",
-    "source": "The College Investor",
-    "published": "2026-10-18T04:05:08+00:00",
+    "title": "Georgia ACT scores decrease",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fQXJScUY1QzFOdjJSTUhmMzlOSDVTLTJ1cEREVWxmUnlYdlpyUGM2c2NtRmxyWFdYMmVoWXNYM3hRdUNDYUYwRHRuLXg5WHlXRzBsRnFmalp4MFVvZlhTTzJPMHdpLVBZcmdWZzlSUlpvaTV2NEQ2ZA?oc=5",
+    "source": "The Christian Index",
+    "published": "2026-10-23T13:30:00+00:00",
     "official": false
    },
    {
-    "title": "Colleges Are Requiring SAT and ACT Scores Again — Here’s the Full List for 2027",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWJRVFpBMzdFeWl5dTRTZkU4Vnc3MEc2dXVnNEE5ZlNwMnNvM0VPRXd2MXZoXzcwWEx2R0N0TGdjSmpValZCN3RVWmRfY1dKcEh1NW1oVzBoaGhpZWptMjBnSkV6QjhIbmhOcHhGWHhOVkNiV3JPZU4wUklZTm5fVVJlalZ2aTJEOEl0akxFMXppbjRLTWw5cmkzajFEQVVPYXk3QlBMUmRxUU95MktTUUJfd2o?oc=5",
-    "source": "The College Investor",
-    "published": "2026-10-12T22:54:34+00:00",
+    "title": "Utah high school graduates ACT scores on the rise",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEFBWjFiYWg3dmQwUzd2YnRmUGQtSTBUOTl4eUd3YkhtR0F4MlExWGhzT3ZKTEo2QWphNWxYeldLdXJaS0t1R2JEa2ZkTmxVZVctRmFPOFZ3czhpMFE3TXR1UFRVWkg2ejRrUjdzVmw2bWJSTE5jV2lfb2FrMkpTM2J3alB3OE1Uc3VMa3p1QThScmgxNjlzVDVoWGE?oc=5",
+    "source": "KPCW",
+    "published": "2026-10-22T23:08:00+00:00",
     "official": false
    },
    {
-    "title": "Nebraska ACT scores slip again, but there's more to the numbers",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnI4UE5FVzk0N1BncDkxV3F1bUVhQ0lOSV9uaXo2WC1XUnUxZ3l3VFlueGpvZWxMc2wyV3gwSFRqWHloMXRONUxYNDhjMGwzcTdQZWYxT0d6ODFDRExpb0IzYTFmckJDZGZ1TlFSSWh5UzdnLUo1dWxPaGw5MGg0TzZyWHVFaVdqYk90c0JmRy1UWWxobFRmNnBB?oc=5",
-    "source": "Lincoln Journal Star",
-    "published": "2026-10-15T10:30:00+00:00",
+    "title": "Wyoming students' ACT scores in second place nationally, among states with 100% testing rates",
+    "link": "https://www.yahoo.com/news/us/articles/wyoming-students-act-scores-second-035900628.html",
+    "source": "yahoo.com",
+    "published": "2026-10-22T20:59:00+00:00",
     "official": false
    },
    {
-    "title": "Are rising ACT scores signaling COVID ‘recovery’ in Utah schools?",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTlUNkRnREpCandTWU1PMlVMMlhHWEVLQ01oMkpEckdtamhjdnBmQmI1a1ZRdElUcmhpZ2tFX2pUbFlrZ0plc1cwaVBTVWlEOUF1anp5VXNEMnJERFdKQWR4SHM2aExDRkQ1dndfMjRJNkREaHRLMlJqbHE4dTR1RzBKaDhrTTBFeGJWUEdzMlprR3BGRVpJVWZldWN0S3c0UzI3TXlqMA?oc=5",
-    "source": "Deseret News",
-    "published": "2026-10-15T22:35:12+00:00",
+    "title": "1 in 3 ACT test-takers retook the exam — and raised their scores",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmRzNFR1c3VmMlFJVTQzY2s1bEk1N1NmMTRocnhPVEFKeWRkNUhzRGlKTkh2NFVjNjVMdzhta0FrcnkydlFlRGZNcGdkbzlSaGZKaEREYXBwdU9NX0lZMVEzX2JHZVYtVWpDckZLamxYSlRUdERtZ1d6TUlFYjA0ZFRvQTRSREplbDdkbFZWX1JvREJ0SUVUQ2hzODdqQWY2?oc=5",
+    "source": "K-12 Dive",
+    "published": "2026-10-14T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "ACT",
   "mode": "signals",
-  "analysed_at": "2026-10-20T22:06:33+00:00",
+  "analysed_at": "2026-10-28T01:34:22+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-20T22:06:33+00:00"
+  "signals_at": "2026-10-28T01:34:22+00:00"
  }
 }

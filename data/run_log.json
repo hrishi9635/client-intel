@@ -1,5 +1,24 @@
 [
  {
+  "started": "2026-10-28T01:30:05+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: Light & Wonder, Wolters Kluwer, Scholastic, NYU, SLU, ACT",
+   "Wolters Kluwer: 0 documents from the company's results page",
+   "account updates written: none"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-10-28T01:34:51+00:00",
+  "ai_calls": 7,
+  "ai_tokens": 17331
+ },
+ {
   "started": "2026-10-27T22:01:51+00:00",
   "part": "results",
   "steps": [
@@ -668,22 +687,5 @@
   "finished": "2026-10-20T22:07:01+00:00",
   "ai_calls": 15,
   "ai_tokens": 40453
- },
- {
-  "started": "2026-10-20T15:02:35+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: none"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-10-20T15:04:39+00:00",
-  "ai_calls": 0,
-  "ai_tokens": 0
  }
 ]
