@@ -1546,36 +1546,44 @@
   "sentiment_reason": "Revenue acceleration and strategic acquisitions signal growth momentum.",
   "it_signals": [
    {
-    "type": "M&A / spin-off",
-    "detail": "Acquisition of ITS to strengthen assessment technology capabilities.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
-    "source": "6-K",
-    "published": "2026-10-22"
+    "type": "AI & tech investment",
+    "detail": "Career Studios launch includes AI tutor and success coach",
+    "source_id": 45,
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bVRiQUpjaTBQakRfYmlFTHVKN05nTm5scDAwMy1CS3RaOUVrRl9RbHY5akdad3FrU3h5THctSElyXzZtSngxUXEzUS1kdDNJeWhLX2F5bzg2ME1XVk5UeWljVjY1NFVuV3pyT3k5X3A0UkFFX3Jpd3dURjhOQQ?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-10-14"
    },
    {
-    "type": "M&A / spin-off",
-    "detail": "Acquisition of Workera to add AI‑driven skills verification platform.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
-    "source": "6-K",
-    "published": "2026-10-22"
+    "type": "AI & tech investment",
+    "detail": "Career Studios announced, targeting adult learners",
+    "source_id": 41,
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnFfOG1KRDgtNHpOYlVKODBBMEdnZ1Q2MUw1Z1N3ZU9XYnVHTHdwckhmTFh1V1l1MkstRG0yNUpFcUNWaTRISENVXzNCLWxBQXBVbmtuUUVTWUR0dndEUXNqV3JnU1lfLXdmVlRQQnNDSDVVV2JZazZIUHUzRXYzU2dlQjRUMm5fSk5yMzUtTTcyYnVXMWxUUDNPSWktTjB0NFRaRnJldTBkdjhuUTNzaEpsM0Y1Vzc4VjNsWWdObnA2ZU9rdEU1ME9Hb2dmM28?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-10-18"
    },
    {
-    "type": "Other",
-    "detail": "Re‑segmentation into four customer‑focused units to improve agility.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/938323/000165495426009084/a9556z.htm",
-    "source": "6-K",
+    "type": "Cost-cutting / restructuring",
+    "detail": "Four‑unit reshape and management changes",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemdZRkpGY2YzdnJvdndhQ08wbVRTV2lPUnBjNk1xMmJpM1RpTGxFeTZRZ0VfR2xVSW1OYnhrS3I3OXlOM2VIWTh4Q2tqZVNfLVpCWF84VnlCYS1TbkdjdjlycjdscEwybzBzQkNNalZINHV5RklLSEVXcUZXYmVVclBKbjRKX3RTSXNkSE5NdVpJMjB5QmkzTTA2UHN3NXJHTG54Nmp3bUtUaHVXNGExc05laEdWQ3c?oc=5",
+    "source": "EdTech Innovation Hub",
+    "published": "2026-10-28"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "President Higher Education leaves, new US unit created",
+    "source_id": 34,
+    "link": "https://www.marketscreener.com/news/pearson-plc-announces-management-changes-ce785cd9d089f12c",
+    "source": "marketscreener.com",
     "published": "2026-10-22"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Strategic acquisitions of technology firms and focus on AI‑driven assessment indicate increased tech investment.",
+  "it_spend_reason": "Growth in virtual learning and AI‑driven products signals higher tech investment",
   "talking_points": [
-   "Discuss how the ITS acquisition can enhance Pearson’s assessment platform and integration roadmap.",
-   "Explore opportunities to support the Workera AI skills intelligence platform with cloud and data services.",
-   "Assess the impact of Pearson’s re‑segmentation on technology procurement and vendor relationships."
+   "Discuss how Pearson’s AI Career Studios could integrate with your AI platforms",
+   "Explore partnership opportunities around the new four‑unit structure and digital transformation",
+   "Address potential support needs for Pearson’s restructuring and cost‑optimization initiatives"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1601,7 +1609,51 @@
    "published": "2026-10-22"
   },
   "release_key": "0001654954-26-009084",
-  "signals_at": "2026-10-22T12:05:46+00:00"
+  "signals_at": "2026-10-29T12:14:36+00:00",
+  "signal_sources": [
+   {
+    "title": "Pearson posts 6% Q3 revenue growth as it prepares major business restructure",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemdZRkpGY2YzdnJvdndhQ08wbVRTV2lPUnBjNk1xMmJpM1RpTGxFeTZRZ0VfR2xVSW1OYnhrS3I3OXlOM2VIWTh4Q2tqZVNfLVpCWF84VnlCYS1TbkdjdjlycjdscEwybzBzQkNNalZINHV5RklLSEVXcUZXYmVVclBKbjRKX3RTSXNkSE5NdVpJMjB5QmkzTTA2UHN3NXJHTG54Nmp3bUtUaHVXNGExc05laEdWQ3c?oc=5",
+    "source": "EdTech Innovation Hub",
+    "published": "2026-10-28T01:15:54+00:00",
+    "official": false
+   },
+   {
+    "title": "Pearson reports accelerating growth, confirms full-year guidance",
+    "link": "https://www.reuters.com/world/uk/pearson-reports-accelerating-growth-confirms-full-year-guidance-2026-10-22/",
+    "source": "reuters.com",
+    "published": "2026-10-22T15:08:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Virtual Learning revenue rises 17% over nine months. Pearson (PSO) posts faster Q3 Group growth.",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXZNdFlfSUFkMTBMT1JXaTJTT0l1eGdHMm42SlRXdng3bkpWRm5fX1U2cm5YaHAzUEdIWWVSU0xKNU56SDlael9qMXZFRTNhZGhFbXBkT0Vua3d5bWlNbGt6UV8wSDEzZE1XLUgtQWVSSkYyS3oyLWpEM0paM2E5Y2xia1BYa3FqZXNzTlF0cGtfN3hLYzZzSWF5R0tzbFdZRWdIS3BxSmo3Zw?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-10-22T10:43:46+00:00",
+    "official": false
+   },
+   {
+    "title": "Pearson plc Announces Management Changes",
+    "link": "https://www.marketscreener.com/news/pearson-plc-announces-management-changes-ce785cd9d089f12c",
+    "source": "marketscreener.com",
+    "published": "2026-10-22T01:35:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Pearson launches Career Studios: UBS keeps Pearson stock target at GBp 1,300",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnFfOG1KRDgtNHpOYlVKODBBMEdnZ1Q2MUw1Z1N3ZU9XYnVHTHdwckhmTFh1V1l1MkstRG0yNUpFcUNWaTRISENVXzNCLWxBQXBVbmtuUUVTWUR0dndEUXNqV3JnU1lfLXdmVlRQQnNDSDVVV2JZazZIUHUzRXYzU2dlQjRUMm5fSk5yMzUtTTcyYnVXMWxUUDNPSWktTjB0NFRaRnJldTBkdjhuUTNzaEpsM0Y1Vzc4VjNsWWdObnA2ZU9rdEU1ME9Hb2dmM28?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-10-18T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Pearson's career programs will give adult learners an AI tutor and a success coach.",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bVRiQUpjaTBQakRfYmlFTHVKN05nTm5scDAwMy1CS3RaOUVrRl9RbHY5akdad3FrU3h5THctSElyXzZtSngxUXEzUS1kdDNJeWhLX2F5bzg2ME1XVk5UeWljVjY1NFVuV3pyT3k5X3A0UkFFX3Jpd3dURjhOQQ?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-10-14T07:00:00+00:00",
+    "official": false
+   }
+  ]
  },
  "NYU": {
   "headline": "NYU secures major city-backed funding to build a quantum fabrication facility",
