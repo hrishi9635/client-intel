@@ -1,11 +1,11 @@
 company,name,ticker,price,price_currency,price_date,market_cap_m,currency,market_cap_usd_m,return_1m,return_3m,return_1y,high_52w,low_52w,pe_ttm,next_results
-Disney,The Walt Disney Company,DIS,110.55,USD,2026-10-29,190885.0,USD,190885.0,4.88,14.96,0.28,115.0,91.72,22.2,2026-11-17
-WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.93,USD,2026-10-29,39959.0,USD,39959.0,-20.67,1.94,-47.79,16.44,6.8,95.6,2026-11-09
-Versant,Versant Media Group,VSNT,30.81,USD,2026-10-29,4288.0,USD,4288.0,-3.08,-13.13,,45.93,26.54,3.7,2026-11-03
-Caesars,Caesars Entertainment,CZR,29.01,USD,2026-10-29,5913.0,USD,5913.0,-2.04,-2.01,55.66,30.41,18.14,,
-Bally's,Bally's Corporation,BALY,13.6,USD,2026-10-29,686.0,USD,686.0,-2.61,-5.0,-27.03,19.36,8.84,,2026-11-09
+Disney,The Walt Disney Company,DIS,110.91,USD,2026-10-29,191507.0,USD,191507.0,5.22,15.34,0.6,115.0,91.72,22.3,2026-11-17
+WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.9,USD,2026-10-29,39833.0,USD,39833.0,-20.92,1.62,-47.95,16.44,6.8,95.3,2026-11-09
+Versant,Versant Media Group,VSNT,31.0,USD,2026-10-29,4315.0,USD,4315.0,-2.47,-12.58,,45.93,26.54,3.7,2026-11-03
+Caesars,Caesars Entertainment,CZR,29.13,USD,2026-10-29,5936.0,USD,5936.0,-1.65,-1.62,56.28,30.41,18.14,,
+Bally's,Bally's Corporation,BALY,13.5,USD,2026-10-29,681.0,USD,681.0,-3.3,-5.66,-27.54,19.36,8.84,,2026-11-09
 Light & Wonder,Light & Wonder,LNW.AX,125.13,AUD,2026-10-29,6676.0,USD,6676.0,12.58,5.51,12.22,182.5,102.66,24.6,
-Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.54,USD,2026-10-29,1734.0,USD,1734.0,-3.93,-4.29,-38.23,15.73,9.23,7.0,2026-11-10
-Wolters Kluwer,Wolters Kluwer,WKL.AS,84.84,EUR,2026-10-29,18871.0,EUR,21164.0,24.76,25.13,-16.05,104.57,54.85,,
+Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.6,USD,2026-10-29,1745.0,USD,1745.0,-3.32,-3.69,-37.84,15.73,9.23,7.0,2026-11-10
+Wolters Kluwer,Wolters Kluwer,WKL.AS,84.7,EUR,2026-10-29,18840.0,EUR,21130.0,24.56,24.93,-16.19,104.57,54.85,,
 Scholastic,Scholastic,SCHL,39.23,USD,2026-10-29,722.0,USD,722.0,12.73,-5.63,39.77,47.04,26.54,12.8,2026-12-17
-Pearson,Pearson,PSON.L,13.09,GBP,2026-10-29,7868.0,GBP,10456.0,8.36,1.28,22.02,13.74,8.91,,
+Pearson,Pearson,PSON.L,13.05,GBP,2026-10-29,7847.0,GBP,10428.0,8.07,1.01,21.7,13.74,8.91,,
