@@ -1,5 +1,17 @@
 [
  {
+  "started": "2026-10-30T06:20:08+00:00",
+  "part": "daily",
+  "steps": [
+   "audience pulse: 26 titles, 21 with AI notes",
+   "industry news: 432 stories"
+  ],
+  "errors": [],
+  "finished": "2026-10-30T06:22:03+00:00",
+  "ai_calls": 5,
+  "ai_tokens": 10875
+ },
+ {
   "started": "2026-10-30T01:31:49+00:00",
   "part": "results",
   "steps": [
@@ -683,25 +695,5 @@
   "finished": "2026-10-22T22:01:15+00:00",
   "ai_calls": 0,
   "ai_tokens": 0
- },
- {
-  "started": "2026-10-22T15:20:27+00:00",
-  "part": "all",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: none",
-   "account updates written: Disney, WBD / Skydance, Versant, Caesars, Bally's, Light & Wonder, Brightstar (IGT), Scholastic, Pearson",
-   "audience pulse: 28 titles, 24 with AI notes",
-   "industry news: 459 stories"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-10-22T15:31:12+00:00",
-  "ai_calls": 19,
-  "ai_tokens": 60796
  }
 ]
