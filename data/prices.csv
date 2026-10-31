@@ -5,7 +5,7 @@ date,company,close
 2025-11-04,Disney,109.8789
 2025-11-05,Disney,109.7705
 2025-11-06,Disney,108.9129
-2025-11-07,Disney,109.1594
+2025-11-07,Disney,109.1593
 2025-11-10,Disney,110.6379
 2025-11-11,Disney,113.2107
 2025-11-12,Disney,114.985
@@ -19,7 +19,7 @@ date,company,close
 2025-11-24,Disney,100.485
 2025-11-25,Disney,101.8354
 2025-11-26,Disney,101.9537
-2025-11-28,Disney,102.9789
+2025-11-28,Disney,102.9788
 2025-12-01,Disney,105.246
 2025-12-02,Disney,103.3337
 2025-12-03,Disney,104.2307
@@ -387,9 +387,9 @@ date,company,close
 2026-05-13,WBD / Skydance,10.3721
 2026-05-14,WBD / Skydance,10.0154
 2026-05-15,WBD / Skydance,9.7975
-2026-05-18,WBD / Skydance,9.7282
+2026-05-18,WBD / Skydance,9.7281
 2026-05-19,WBD / Skydance,9.8074
-2026-05-20,WBD / Skydance,10.0352
+2026-05-20,WBD / Skydance,10.0353
 2026-05-21,WBD / Skydance,10.1838
 2026-05-22,WBD / Skydance,10.3622
 2026-05-26,WBD / Skydance,10.273
@@ -533,7 +533,7 @@ date,company,close
 2026-01-26,Versant,32.0303
 2026-01-27,Versant,32.1077
 2026-01-28,Versant,32.5143
-2026-01-29,Versant,31.798
+2026-01-29,Versant,31.7979
 2026-01-30,Versant,31.5366
 2026-02-02,Versant,31.4495
 2026-02-03,Versant,29.9298
@@ -1819,7 +1819,7 @@ date,company,close
 2026-02-25,Wolters Kluwer,61.2328
 2026-02-26,Wolters Kluwer,63.5
 2026-02-27,Wolters Kluwer,65.4213
-2026-03-02,Wolters Kluwer,65.479
+2026-03-02,Wolters Kluwer,65.4789
 2026-03-03,Wolters Kluwer,65.3829
 2026-03-04,Wolters Kluwer,65.0563
 2026-03-05,Wolters Kluwer,65.7287
@@ -2039,7 +2039,7 @@ date,company,close
 2026-01-06,Scholastic,31.1018
 2026-01-07,Scholastic,31.5023
 2026-01-08,Scholastic,31.8149
-2026-01-09,Scholastic,32.6647
+2026-01-09,Scholastic,32.6648
 2026-01-12,Scholastic,33.1629
 2026-01-13,Scholastic,33.3778
 2026-01-14,Scholastic,33.1141
@@ -2053,7 +2053,7 @@ date,company,close
 2026-01-27,Scholastic,33.2606
 2026-01-28,Scholastic,34.0909
 2026-01-29,Scholastic,34.7258
-2026-01-30,Scholastic,34.3525
+2026-01-30,Scholastic,34.3526
 2026-02-02,Scholastic,34.2248
 2026-02-03,Scholastic,34.5687
 2026-02-04,Scholastic,34.1266
@@ -2153,7 +2153,7 @@ date,company,close
 2026-06-22,Scholastic,41.9878
 2026-06-23,Scholastic,41.9286
 2026-06-24,Scholastic,42.3432
-2026-06-25,Scholastic,43.3699
+2026-06-25,Scholastic,43.37
 2026-06-26,Scholastic,45.4234
 2026-06-29,Scholastic,45.5123
 2026-06-30,Scholastic,45.4136
