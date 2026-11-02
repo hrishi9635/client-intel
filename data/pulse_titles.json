@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:23:39+00:00",
+ "updated": "2026-11-02T06:40:47+00:00",
  "titles": [
   {
    "key": "tv-456",
@@ -21,9 +21,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 6045.1,
-   "tmdb_vote": 8.027,
-   "tmdb_votes": 11127,
+   "popularity": 5702.9,
+   "tmdb_vote": 8.0,
+   "tmdb_votes": 11128,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -58,7 +58,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "22b6c1697688",
+   "input_hash": "bad76984ea24",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -106,7 +106,7 @@
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
    "popularity": 3999.0,
    "tmdb_vote": 8.203,
-   "tmdb_votes": 11114,
+   "tmdb_votes": 11115,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -135,7 +135,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "14b18d083f2e",
+   "input_hash": "b1c56a4a7ef4",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -177,9 +177,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
    "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-   "popularity": 1895.8,
-   "tmdb_vote": 6.7,
-   "tmdb_votes": 133,
+   "popularity": 2639.8,
+   "tmdb_vote": 6.623,
+   "tmdb_votes": 134,
    "imdb_id": "tt1601141",
    "tmdb_url": "https://www.themoviedb.org/tv/31991",
    "tmdb_reviews": [],
@@ -189,7 +189,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "14f30a3661f5"
+   "input_hash": "cc366b595d8c"
   },
   {
    "key": "tv-4656",
@@ -206,14 +206,14 @@
     "The New TNN",
     "WWE Home Video"
    ],
-   "release_date": "2026-10-19",
+   "release_date": "2026-10-26",
    "first_air_date": "1993-01-11",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 524.8,
+   "popularity": 500.8,
    "tmdb_vote": 6.8,
-   "tmdb_votes": 381,
+   "tmdb_votes": 382,
    "imdb_id": "tt0185103",
    "tmdb_url": "https://www.themoviedb.org/tv/4656",
    "tmdb_reviews": [],
@@ -223,7 +223,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9dd9fb0741c9"
+   "input_hash": "314a06a5f60c"
   },
   {
    "key": "movie-969681",
@@ -245,8 +245,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
    "popularity": 376.6,
-   "tmdb_vote": 8.476,
-   "tmdb_votes": 6407,
+   "tmdb_vote": 8.479,
+   "tmdb_votes": 6436,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -281,7 +281,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "69f0ba6cf5cb",
+   "input_hash": "71496f5edb2b",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -328,8 +328,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
    "popularity": 321.2,
-   "tmdb_vote": 8.608,
-   "tmdb_votes": 1138,
+   "tmdb_vote": 8.611,
+   "tmdb_votes": 1148,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -352,7 +352,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2661d913d169",
+   "input_hash": "3564b8d7c1a2",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -398,8 +398,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
    "popularity": 281.1,
-   "tmdb_vote": 7.613,
-   "tmdb_votes": 2604,
+   "tmdb_vote": 7.611,
+   "tmdb_votes": 2605,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -416,7 +416,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9da1c85ad01f",
+   "input_hash": "efefc93bc62c",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -425,76 +425,17 @@
     "gap_note": null,
     "praises": [],
     "complaints": [
-     "depressing tone",
-     "predictable story",
-     "contrived female deaths"
+     "depressing and predictable story",
+     "contrived female deaths",
+     "offensive ideological references"
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "Viewers find the new NCIS season overly bleak and formulaic.",
+    "summary": "The review describes the show as overly bleak and repetitive.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-29T06:21:49+00:00"
-   }
-  },
-  {
-   "key": "tv-213375",
-   "kind": "tv",
-   "tmdb_id": 213375,
-   "title": "VisionQuest",
-   "studio": "Disney+ originals",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "Disney+",
-    "Marvel Studios",
-    "Kevin Feige Productions"
-   ],
-   "release_date": "2026-10-27",
-   "first_air_date": "2026-10-13",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 272.2,
-   "tmdb_vote": 8.647,
-   "tmdb_votes": 232,
-   "imdb_id": "tt23112594",
-   "tmdb_url": "https://www.themoviedb.org/tv/213375",
-   "tmdb_reviews": [
-    {
-     "author": "Sejian",
-     "rating": 5.0,
-     "text": "I am genuinely glad to finally see *Not Vision* and Paul Bettany return, but seriously, like this? Queue the vague trying-to-be-spoiler-free criticisms of every episode! -- Episode 1: ♪ Tell me why! - Everyone inside, but not the guy outside? Really? Did he even need to be there? Had he not been there, it'd seem less stupid. - Is all of it gonna be this nonsensical? Episode 2: ♪ Let the baddies hit the floor! - I think someone forgot the s'mores. Methinks there's enough glass on the ground that ",
-     "url": "https://www.themoviedb.org/review/6ad03f4acafe90634d1b88f3"
-    }
-   ],
-   "imdb_rating": 7.9,
-   "imdb_votes": 10244.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "5ae4b917de37",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -30,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "vague criticism",
-     "nonsensical episodes",
-     "unnecessary characters"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers find the series confusing and poorly executed despite returning talent.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-01T06:22:46+00:00"
+    "analysed_at": "2026-11-02T06:40:47+00:00"
    }
   },
   {
@@ -517,9 +458,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 268.2,
-   "tmdb_vote": 6.4,
-   "tmdb_votes": 673,
+   "popularity": 265.9,
+   "tmdb_vote": 6.425,
+   "tmdb_votes": 674,
    "imdb_id": "tt0115147",
    "tmdb_url": "https://www.themoviedb.org/tv/2224",
    "tmdb_reviews": [],
@@ -529,7 +470,66 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "10e128648193"
+   "input_hash": "d5bc2f6110bd"
+  },
+  {
+   "key": "tv-213375",
+   "kind": "tv",
+   "tmdb_id": 213375,
+   "title": "VisionQuest",
+   "studio": "Disney+ originals",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "Disney+",
+    "Marvel Studios",
+    "Kevin Feige Productions"
+   ],
+   "release_date": "2026-10-27",
+   "first_air_date": "2026-10-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+   "popularity": 261.1,
+   "tmdb_vote": 8.641,
+   "tmdb_votes": 237,
+   "imdb_id": "tt23112594",
+   "tmdb_url": "https://www.themoviedb.org/tv/213375",
+   "tmdb_reviews": [
+    {
+     "author": "Sejian",
+     "rating": 5.0,
+     "text": "I am genuinely glad to finally see *Not Vision* and Paul Bettany return, but seriously, like this? Queue the vague trying-to-be-spoiler-free criticisms of every episode! -- Episode 1: ♪ Tell me why! - Everyone inside, but not the guy outside? Really? Did he even need to be there? Had he not been there, it'd seem less stupid. - Is all of it gonna be this nonsensical? Episode 2: ♪ Let the baddies hit the floor! - I think someone forgot the s'mores. Methinks there's enough glass on the ground that ",
+     "url": "https://www.themoviedb.org/review/6ad03f4acafe90634d1b88f3"
+    }
+   ],
+   "imdb_rating": 7.9,
+   "imdb_votes": 10244.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "edee668815b5",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -30,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "vague criticism",
+     "nonsensical episodes",
+     "unnecessary characters"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Viewers find the series confusing and poorly executed despite returning talent.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-01T06:22:46+00:00"
+   }
   },
   {
    "key": "tv-153312",
@@ -551,9 +551,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 261.0,
-   "tmdb_vote": 8.312,
-   "tmdb_votes": 2902,
+   "popularity": 256.6,
+   "tmdb_vote": 8.314,
+   "tmdb_votes": 2908,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -582,7 +582,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "abd892a90df8",
+   "input_hash": "22bd37466706",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -628,8 +628,8 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 246.5,
-   "tmdb_vote": 8.1,
+   "popularity": 243.5,
+   "tmdb_vote": 8.131,
    "tmdb_votes": 3567,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
@@ -665,7 +665,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "48d16000fb09",
+   "input_hash": "cf9a28ca1b69",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -706,9 +706,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5O616X9vmRzQdB68PHzBewPittd.jpg",
    "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenanc",
-   "popularity": 188.9,
-   "tmdb_vote": 7.06,
-   "tmdb_votes": 677,
+   "popularity": 189.7,
+   "tmdb_vote": 7.156,
+   "tmdb_votes": 782,
    "imdb_id": "tt21285562",
    "tmdb_url": "https://www.themoviedb.org/movie/1384216",
    "tmdb_reviews": [
@@ -743,7 +743,7 @@
    "metascore": 49.0,
    "box_office_usd": 13837035.0,
    "trade": [],
-   "input_hash": "64fb6f2ffd34",
+   "input_hash": "32a3b135bda6",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -783,9 +783,9 @@
    "release_date": "2026-12-16",
    "first_air_date": null,
    "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/bqAHPSEyRkM4BpkncGFCKjBXf9p.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 112.6,
+   "popularity": 118.0,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -835,7 +835,7 @@
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
    "popularity": 6761.8,
    "tmdb_vote": 8.0,
-   "tmdb_votes": 4396,
+   "tmdb_votes": 4398,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -858,27 +858,28 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "491525bf7359",
+   "input_hash": "1e743fde68cc",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
+    "audience_score": 0,
+    "critics_vs_audience": null,
+    "gap_note": "mixed reviews",
     "praises": [
      "compelling storylines",
      "fresh cast changes"
     ],
     "complaints": [
-     "abusive broken justice system"
+     "justice system portrayed as abusive",
+     "inconsistent quality"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "The show divides viewers with strong praise for its storytelling but criticism of its portrayal of justice.",
+    "summary": "Reviews range from criticism of its justice portrayal to praise for longevity and storytelling.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-10-31T06:18:14+00:00"
+    "analysed_at": "2026-11-02T06:40:47+00:00"
    }
   },
   {
@@ -896,10 +897,10 @@
    "first_air_date": null,
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-   "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-   "popularity": 1453.3,
-   "tmdb_vote": 8.681,
-   "tmdb_votes": 127,
+   "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Portland, Oregon. Joined by her hapless but loyal classmate Curtis Mehlberg, Prue navigates a world of t",
+   "popularity": 1868.8,
+   "tmdb_vote": 8.7,
+   "tmdb_votes": 136,
    "imdb_id": "tt2056785",
    "tmdb_url": "https://www.themoviedb.org/movie/791523",
    "tmdb_reviews": [
@@ -928,7 +929,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "38e9b0d79179",
+   "input_hash": "99cb5fdd1192",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -970,7 +971,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 478.9,
+   "popularity": 484.6,
    "tmdb_vote": 4.9,
    "tmdb_votes": 100,
    "imdb_id": "tt2057880",
@@ -1002,9 +1003,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 451.9,
-   "tmdb_vote": 6.773,
-   "tmdb_votes": 416,
+   "popularity": 472.2,
+   "tmdb_vote": 6.776,
+   "tmdb_votes": 430,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1039,7 +1040,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "044539d3b3e7",
+   "input_hash": "4e2543105214",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1082,7 +1083,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 341.5,
+   "popularity": 332.2,
    "tmdb_vote": 5.797,
    "tmdb_votes": 397,
    "imdb_id": "tt3444938",
@@ -1139,9 +1140,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
    "overview": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
-   "popularity": 298.0,
-   "tmdb_vote": 7.772,
-   "tmdb_votes": 68,
+   "popularity": 308.4,
+   "tmdb_vote": 7.637,
+   "tmdb_votes": 84,
    "imdb_id": "tt37180686",
    "tmdb_url": "https://www.themoviedb.org/movie/1596275",
    "tmdb_reviews": [],
@@ -1151,7 +1152,103 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "0a5c1b4f19d2"
+   "input_hash": "65b3493cffeb"
+  },
+  {
+   "key": "movie-1507696",
+   "kind": "movie",
+   "tmdb_id": 1507696,
+   "title": "Apocalypse Z: New World",
+   "studio": "Nostromo Pictures",
+   "parent": "Nostromo Pictures",
+   "group": "Rest of industry",
+   "companies": [
+    "Nostromo Pictures"
+   ],
+   "release_date": "2026-10-09",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+   "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Robert",
+   "popularity": 293.6,
+   "tmdb_vote": 6.0,
+   "tmdb_votes": 63,
+   "imdb_id": "tt37522541",
+   "tmdb_url": "https://www.themoviedb.org/movie/1507696",
+   "tmdb_reviews": [],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "7b05f69af591"
+  },
+  {
+   "key": "movie-1101412",
+   "kind": "movie",
+   "tmdb_id": 1101412,
+   "title": "Fall 2: Deadpoint",
+   "studio": "Tea Shop Productions",
+   "parent": "Tea Shop Productions",
+   "group": "Rest of industry",
+   "companies": [
+    "Tea Shop Productions",
+    "Capstone Pictures",
+    "Flawless Production",
+    "Cousin Jones"
+   ],
+   "release_date": "2026-09-01",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+   "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+   "popularity": 266.2,
+   "tmdb_vote": 7.314,
+   "tmdb_votes": 727,
+   "imdb_id": "tt31192372",
+   "tmdb_url": "https://www.themoviedb.org/movie/1101412",
+   "tmdb_reviews": [
+    {
+     "author": "CinemaSerf",
+     "rating": 5.0,
+     "text": "\"Jax\" (Harriet Slater) is disposing of the property of her recently deceased sister when she encounters her college friend \"Luce\" (Arsema Thomas) who encourages \"Jax\" to embrace some of the challenges sister \"Shiloh\" had intended to carry out before her untimely death. One such trip involves the pair travelling to Thailand and walking a precarious route four thousand feet above sea level to visit a sacred dragon that will eat all of their fears. Turning up, they discover that this route has been",
+     "url": "https://www.themoviedb.org/review/6aa4c88250b3e70eb6455f6d"
+    },
+    {
+     "author": "Sierbahnn",
+     "rating": 6.0,
+     "text": "Trying to tie this to the first movie is possibly the downfall of this entire endeavor. The main character is related to one of the main characters from the first movie and carries some trauma about her dead sister, but the movie isn't about that, and it serves as a long dying hook for a story that doesn't play out. In substance, the movie is pretty much like the first one, and the twist isn't welcome, nor is it interesting. The first movie had a ludicrous premise, and while this movie has a sim",
+     "url": "https://www.themoviedb.org/review/6acc99fa7ef4f32fbb8fadf0"
+    }
+   ],
+   "imdb_rating": 5.7,
+   "imdb_votes": 1565.0,
+   "rt": 53.0,
+   "metascore": 53.0,
+   "box_office_usd": 3443026.0,
+   "trade": [],
+   "input_hash": "6e3a3d2784a5",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -20,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "ties to first film feel forced",
+     "long dying hook",
+     "precarious plot feels undercooked"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Fall 2: Deadpoint struggles with its sequel ties and uneven storytelling.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-01T06:23:39+00:00"
+   }
   },
   {
    "key": "tv-61818",
@@ -1172,7 +1269,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 261.6,
+   "popularity": 254.2,
    "tmdb_vote": 5.1,
    "tmdb_votes": 136,
    "imdb_id": "tt3513388",
@@ -1214,70 +1311,34 @@
    }
   },
   {
-   "key": "movie-1101412",
+   "key": "movie-1657630",
    "kind": "movie",
-   "tmdb_id": 1101412,
-   "title": "Fall 2: Deadpoint",
-   "studio": "Tea Shop Productions",
-   "parent": "Tea Shop Productions",
+   "tmdb_id": 1657630,
+   "title": "The Awakening",
+   "studio": "Rhayuela Films",
+   "parent": "Rhayuela Films",
    "group": "Rest of industry",
    "companies": [
-    "Tea Shop Productions",
-    "Capstone Pictures",
-    "Flawless Production",
-    "Cousin Jones"
+    "Rhayuela Films"
    ],
-   "release_date": "2026-09-01",
+   "release_date": "2026-10-29",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-   "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
-   "popularity": 248.6,
-   "tmdb_vote": 7.304,
-   "tmdb_votes": 711,
-   "imdb_id": "tt31192372",
-   "tmdb_url": "https://www.themoviedb.org/movie/1101412",
-   "tmdb_reviews": [
-    {
-     "author": "CinemaSerf",
-     "rating": 5.0,
-     "text": "\"Jax\" (Harriet Slater) is disposing of the property of her recently deceased sister when she encounters her college friend \"Luce\" (Arsema Thomas) who encourages \"Jax\" to embrace some of the challenges sister \"Shiloh\" had intended to carry out before her untimely death. One such trip involves the pair travelling to Thailand and walking a precarious route four thousand feet above sea level to visit a sacred dragon that will eat all of their fears. Turning up, they discover that this route has been",
-     "url": "https://www.themoviedb.org/review/6aa4c88250b3e70eb6455f6d"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 6.0,
-     "text": "Trying to tie this to the first movie is possibly the downfall of this entire endeavor. The main character is related to one of the main characters from the first movie and carries some trauma about her dead sister, but the movie isn't about that, and it serves as a long dying hook for a story that doesn't play out. In substance, the movie is pretty much like the first one, and the twist isn't welcome, nor is it interesting. The first movie had a ludicrous premise, and while this movie has a sim",
-     "url": "https://www.themoviedb.org/review/6acc99fa7ef4f32fbb8fadf0"
-    }
-   ],
-   "imdb_rating": 5.7,
-   "imdb_votes": 1565.0,
-   "rt": 53.0,
-   "metascore": 53.0,
-   "box_office_usd": 3443026.0,
+   "poster": "https://image.tmdb.org/t/p/w342/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
+   "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
+   "popularity": 246.2,
+   "tmdb_vote": 6.631,
+   "tmdb_votes": 84,
+   "imdb_id": "tt39120306",
+   "tmdb_url": "https://www.themoviedb.org/movie/1657630",
+   "tmdb_reviews": [],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
    "trade": [],
-   "input_hash": "dcaa1808e861",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -20,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "ties to first film feel forced",
-     "long dying hook",
-     "precarious plot feels undercooked"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Fall 2: Deadpoint struggles with its sequel ties and uneven storytelling.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-01T06:23:39+00:00"
-   }
+   "input_hash": "943196a079fb"
   },
   {
    "key": "tv-549",
@@ -1299,7 +1360,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 248.3,
+   "popularity": 237.7,
    "tmdb_vote": 7.3,
    "tmdb_votes": 737,
    "imdb_id": "tt0098844",
@@ -1333,66 +1394,6 @@
    }
   },
   {
-   "key": "movie-1507696",
-   "kind": "movie",
-   "tmdb_id": 1507696,
-   "title": "Apocalypse Z: New World",
-   "studio": "Nostromo Pictures",
-   "parent": "Nostromo Pictures",
-   "group": "Rest of industry",
-   "companies": [
-    "Nostromo Pictures"
-   ],
-   "release_date": "2026-10-09",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-   "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Robert",
-   "popularity": 228.0,
-   "tmdb_vote": 6.1,
-   "tmdb_votes": 43,
-   "imdb_id": "tt37522541",
-   "tmdb_url": "https://www.themoviedb.org/movie/1507696",
-   "tmdb_reviews": [],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "c859c1f5b57f"
-  },
-  {
-   "key": "movie-1657630",
-   "kind": "movie",
-   "tmdb_id": 1657630,
-   "title": "The Awakening",
-   "studio": "Rhayuela Films",
-   "parent": "Rhayuela Films",
-   "group": "Rest of industry",
-   "companies": [
-    "Rhayuela Films"
-   ],
-   "release_date": "2026-10-29",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/7pUGiRg9Gq1JqmmNSJLLSonOKum.jpg",
-   "overview": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain.",
-   "popularity": 218.9,
-   "tmdb_vote": 6.682,
-   "tmdb_votes": 66,
-   "imdb_id": "tt39120306",
-   "tmdb_url": "https://www.themoviedb.org/movie/1657630",
-   "tmdb_reviews": [],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "74de31d7c911"
-  },
-  {
    "key": "movie-1283515",
    "kind": "movie",
    "tmdb_id": 1283515,
@@ -1412,9 +1413,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
    "overview": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-   "popularity": 218.7,
-   "tmdb_vote": 6.752,
-   "tmdb_votes": 446,
+   "popularity": 236.8,
+   "tmdb_vote": 6.836,
+   "tmdb_votes": 503,
    "imdb_id": "tt32261958",
    "tmdb_url": "https://www.themoviedb.org/movie/1283515",
    "tmdb_reviews": [
@@ -1449,7 +1450,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "df2e717932f4",
+   "input_hash": "a0f18ef52a77",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
