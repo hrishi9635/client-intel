@@ -1,5 +1,24 @@
 [
  {
+  "started": "2026-11-03T01:35:37+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: none",
+   "Wolters Kluwer: 0 documents from the company's results page",
+   "account updates written: none"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-11-03T01:37:50+00:00",
+  "ai_calls": 0,
+  "ai_tokens": 0
+ },
+ {
   "started": "2026-11-02T22:08:05+00:00",
   "part": "results",
   "steps": [
@@ -691,30 +710,5 @@
   "finished": "2026-10-26T14:26:42+00:00",
   "ai_calls": 0,
   "ai_tokens": 0
- },
- {
-  "started": "2026-10-26T13:59:51+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: none",
-   "Pearson: 2 documents from the company's results page",
-   "Scholastic: 0 documents from the company's results page",
-   "Bally's: 0 documents from the company's results page",
-   "Disney: 0 documents from the company's results page",
-   "Wolters Kluwer: 0 documents from the company's results page",
-   "Light & Wonder: 0 documents from the company's results page",
-   "Caesars: 0 documents from the company's results page",
-   "account updates written: Pearson, Scholastic, Bally's, Versant, Disney, WBD / Skydance, Light & Wonder, Brightstar (IGT), Caesars"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-10-26T14:21:40+00:00",
-  "ai_calls": 40,
-  "ai_tokens": 114085
  }
 ]
