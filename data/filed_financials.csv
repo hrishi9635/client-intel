@@ -794,18 +794,6 @@ Scholastic,,2026-05-31,Q2 2026,3,revenue,476.1,USD,SEC XBRL 10-K (full year minu
 Scholastic,,2026-08-31,Q3 2026,3,net_income,-71.2,USD,SEC XBRL 10-Q
 Scholastic,,2026-08-31,Q3 2026,3,operating_income,-92.2,USD,SEC XBRL 10-Q
 Scholastic,,2026-08-31,Q3 2026,3,revenue,216.8,USD,SEC XBRL 10-Q
-Versant,,2025-03-31,Q1 2025,3,net_income,367.0,USD,SEC XBRL 10-Q
-Versant,,2025-03-31,Q1 2025,3,operating_income,499.0,USD,SEC XBRL 10-Q
-Versant,,2025-03-31,Q1 2025,3,revenue,1706.0,USD,SEC XBRL 10-Q
-Versant,,2025-06-30,Q2 2025,3,net_income,302.0,USD,SEC XBRL 10-Q
-Versant,,2025-06-30,Q2 2025,3,operating_income,410.0,USD,SEC XBRL 10-Q
-Versant,,2025-06-30,Q2 2025,3,revenue,1708.0,USD,SEC XBRL 10-Q
-Versant,,2026-03-31,Q1 2026,3,net_income,286.0,USD,SEC XBRL 10-Q
-Versant,,2026-03-31,Q1 2026,3,operating_income,442.0,USD,SEC XBRL 10-Q
-Versant,,2026-03-31,Q1 2026,3,revenue,1687.0,USD,SEC XBRL 10-Q
-Versant,,2026-06-30,Q2 2026,3,net_income,211.0,USD,SEC XBRL 10-Q
-Versant,,2026-06-30,Q2 2026,3,operating_income,367.0,USD,SEC XBRL 10-Q
-Versant,,2026-06-30,Q2 2026,3,revenue,1644.0,USD,SEC XBRL 10-Q
 WBD / Skydance,,2024-09-30,Q3 2024,3,net_income,1.0,USD,SEC XBRL 10-Q
 WBD / Skydance,,2024-09-30,Q3 2024,3,operating_income,337.0,USD,SEC XBRL 10-Q
 WBD / Skydance,,2024-09-30,Q3 2024,3,revenue,6731.0,USD,SEC XBRL 10-Q
@@ -824,3 +812,24 @@ WBD / Skydance,,2026-03-31,Q1 2026,3,revenue,7347.0,USD,SEC XBRL 10-Q
 WBD / Skydance,,2026-06-30,Q2 2026,3,net_income,41.0,USD,SEC XBRL 10-Q
 WBD / Skydance,,2026-06-30,Q2 2026,3,operating_income,475.0,USD,SEC XBRL 10-Q
 WBD / Skydance,,2026-06-30,Q2 2026,3,revenue,6913.0,USD,SEC XBRL 10-Q
+Versant,,2025-03-31,Q1 2025,3,revenue,1706.0,USD,SEC XBRL 10-Q
+Versant,,2025-06-30,Q2 2025,3,revenue,1708.0,USD,SEC XBRL 10-Q
+Versant,,2025-09-30,Q3 2025,3,revenue,1663.0,USD,SEC XBRL 10-Q
+Versant,,2026-03-31,Q1 2026,3,revenue,1687.0,USD,SEC XBRL 10-Q
+Versant,,2026-06-30,Q2 2026,3,revenue,1644.0,USD,SEC XBRL 10-Q
+Versant,,2026-09-30,Q3 2026,3,revenue,1594.0,USD,SEC XBRL 10-Q
+Versant,,2025-12-31,Q4 2025,3,revenue,1610.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Versant,,2025-03-31,Q1 2025,3,operating_income,499.0,USD,SEC XBRL 10-Q
+Versant,,2025-06-30,Q2 2025,3,operating_income,410.0,USD,SEC XBRL 10-Q
+Versant,,2025-09-30,Q3 2025,3,operating_income,164.0,USD,SEC XBRL 10-Q
+Versant,,2026-03-31,Q1 2026,3,operating_income,442.0,USD,SEC XBRL 10-Q
+Versant,,2026-06-30,Q2 2026,3,operating_income,367.0,USD,SEC XBRL 10-Q
+Versant,,2026-09-30,Q3 2026,3,operating_income,110.0,USD,SEC XBRL 10-Q
+Versant,,2025-12-31,Q4 2025,3,operating_income,199.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Versant,,2025-03-31,Q1 2025,3,net_income,367.0,USD,SEC XBRL 10-Q
+Versant,,2025-06-30,Q2 2025,3,net_income,302.0,USD,SEC XBRL 10-Q
+Versant,,2025-09-30,Q3 2025,3,net_income,80.0,USD,SEC XBRL 10-Q
+Versant,,2026-03-31,Q1 2026,3,net_income,286.0,USD,SEC XBRL 10-Q
+Versant,,2026-06-30,Q2 2026,3,net_income,211.0,USD,SEC XBRL 10-Q
+Versant,,2026-09-30,Q3 2026,3,net_income,47.0,USD,SEC XBRL 10-Q
+Versant,,2025-12-31,Q4 2025,3,net_income,181.0,USD,SEC XBRL 10-K (full year minus 9 months)
