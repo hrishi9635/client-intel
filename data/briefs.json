@@ -469,135 +469,107 @@
  },
  "Versant": {
   "document_type": "Quarterly results",
-  "period": "Second quarter of 2026",
-  "headline": "Versant completed the Full Swing technology acquisition and added a five‑year Bundesliga sports agreement. Dividend of $0.375 per share declared and $100 million ASR completed.",
+  "period": "Q3 2026",
+  "headline": "Revenue $1.59 billion, down 5.3% YoY; Platforms revenue up 9.6% YoY.",
   "key_numbers": [
    {
     "label": "Revenue",
-    "value": "$1.64 Billion",
-    "context": "Q2 2026",
-    "src": "official"
-   },
-   {
-    "label": "Net Income",
-    "value": "$211 Million",
-    "context": "Q2 2026",
+    "value": "$1.59 Billion",
+    "context": "Q3 2026",
     "src": "official"
    },
    {
     "label": "Adjusted EBITDA",
-    "value": "$624 Million",
-    "context": "Q2 2026",
+    "value": "$353 Million",
+    "context": "Q3 2026",
+    "src": "official"
+   },
+   {
+    "label": "Net Income",
+    "value": "$47 Million",
+    "context": "Q3 2026",
     "src": "official"
    },
    {
     "label": "Free Cash Flow",
-    "value": "$350 Million",
-    "context": "Q2 2026",
+    "value": "$302 Million",
+    "context": "Q3 2026",
     "src": "official"
    }
   ],
-  "outlook_line": "Guidance for 2026 total revenue $6.2 billion‑$6.45 billion; Adjusted EBITDA $1.9 billion‑$2.05 billion; Free Cash Flow $1.0 billion‑$1.2 billion.",
-  "segments_basis": "Growth, Q2 2026",
+  "outlook_line": "Reaffirmed FY 2026 revenue guidance $6.2 billion‑$6.45 billion and Adjusted EBITDA $1.90 billion‑$2.05 billion.",
+  "segments_basis": "Revenue, Q3 2026",
   "segments": [
    {
     "name": "Linear Distribution",
     "revenue": null,
-    "growth": "-6.3%",
-    "comment": "decline in linear TV",
+    "growth": "-5.8%",
+    "comment": "decline YoY",
     "src": "official"
    },
    {
     "name": "Advertising",
     "revenue": null,
-    "growth": "-0.6%",
-    "comment": "slight advertising dip",
+    "growth": null,
+    "comment": "no data disclosed",
     "src": "official"
    },
    {
     "name": "Platforms",
     "revenue": null,
-    "growth": "+0.8%",
-    "comment": "platforms modest growth",
+    "growth": "10% (17% ex SportsEngine & Full Swing)",
+    "comment": "growth driven by Fandango",
+    "src": "official"
+   },
+   {
+    "name": "Content licensing and other",
+    "revenue": null,
+    "growth": "decreased YoY",
+    "comment": "decline YoY",
     "src": "official"
    }
   ],
   "focus": [
    {
-    "area": "Full Swing acquisition",
-    "plan": "Integrate golf‑tech ecosystem",
+    "area": "IT separation",
+    "plan": "transaction‑related IT separation and implementation costs",
     "amount": null,
-    "timing": "Q2 2026",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Bundesliga agreement",
-    "plan": "Five‑year premium sports rights",
-    "amount": null,
-    "timing": "Q2 2026",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Direct‑to‑consumer",
-    "plan": "Expand DTC at CNBC and MS NOW",
-    "amount": null,
-    "timing": "Q2 2026",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Fandango platform",
-    "plan": "Launch ad‑supported streaming service",
-    "amount": null,
-    "timing": "Q2 2026",
+    "timing": "2026",
     "tech": true,
     "src": "official"
    }
   ],
   "tech_spend": [
-   "Full Swing acquisition adds golf technology platform",
-   "Bundesliga rights support streaming infrastructure",
-   "Direct‑to‑consumer initiatives require cloud and data investments",
-   "Fandango ad‑supported service expands digital platform capabilities"
+   "Transaction‑related IT separation costs (no amount disclosed)"
   ],
-  "organisation": {
-   "summary": "Separated from Comcast with full IT separation and cost program.",
-   "before": null,
-   "effective": "January 2 2026",
-   "units": [],
-   "cost": null,
-   "savings": null,
-   "src": "official"
-  },
+  "organisation": null,
   "key_changes": [
    {
-    "type": "Acquisition",
-    "change": "Full Swing",
-    "detail": "Technology/golf ecosystem acquisition completed in Q2 2026",
-    "when": "Q2 2026",
-    "src": "official"
-   },
-   {
-    "type": "Contract win",
-    "change": "Bundesliga",
-    "detail": "Five‑year premium sports agreement announced in Q2 2026",
-    "when": "Q2 2026",
-    "src": "official"
-   },
-   {
-    "type": "Product",
-    "change": "Fandango streaming",
-    "detail": "Ad‑supported streaming service launched in Q2 2026",
-    "when": "Q2 2026",
+    "type": "Organisation",
+    "change": "Separation",
+    "detail": "Separated from Comcast effective Jan 2 2026",
+    "when": "Jan 2 2026",
     "src": "official"
    },
    {
     "type": "Disposal",
-    "change": "SportsEngine",
-    "detail": "Divested SportsEngine during Q2 2026",
+    "change": "Divestiture",
+    "detail": "SportsEngine divested in Q2 2026",
     "when": "Q2 2026",
+    "src": "official"
+   },
+   {
+    "type": "Acquisition",
+    "change": "Acquisition",
+    "detail": "Full Swing acquired in Q3 2026",
+    "when": "Q3 2026",
+    "src": "official"
+   },
+   {
+    "type": "Product",
+    "change": "Launch",
+    "detail": "MS NOW Membership launched Q3 2026",
+    "when": "Q3 2026",
     "src": "official"
    }
   ],
@@ -605,52 +577,62 @@
    {
     "person": "Mark Lazarus",
     "role": "Chief Executive Officer",
-    "change": "Expanded role",
+    "change": "New role",
     "when": null,
     "src": "official"
    },
    {
     "person": "Anand Kini",
     "role": "Chief Financial Officer and Chief Operating Officer",
-    "change": "Expanded role",
+    "change": "New role",
     "when": null,
     "src": "official"
    }
   ],
   "dates": [
    {
-    "date": "August 6 2026",
-    "event": "Release of Q2 2026 results",
-    "src": "official"
-   },
-   {
-    "date": "May 15 2026",
-    "event": "ASR Agreement signed",
-    "src": "official"
-   },
-   {
-    "date": "August 7 2026",
-    "event": "Planned ASR Agreement start",
+    "date": "November 3 2026",
+    "event": "Earnings release",
     "src": "official"
    },
    {
     "date": "January 2 2026",
-    "event": "Separation from Comcast effective",
+    "event": "Separation from Comcast",
+    "src": "official"
+   },
+   {
+    "date": "Q2 2026",
+    "event": "Divestiture of SportsEngine",
+    "src": "official"
+   },
+   {
+    "date": "Q3 2026",
+    "event": "Acquisition of Full Swing",
+    "src": "official"
+   },
+   {
+    "date": "Q3 2026",
+    "event": "Launch of MS NOW Membership",
+    "src": "official"
+   },
+   {
+    "date": "Early next year",
+    "event": "CNBC direct‑to‑consumer platform launch",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Integrate Full Swing golf technology",
-    "Deploy Bundesliga streaming rights",
-    "Expand DTC at CNBC/MS NOW",
-    "Launch ad‑supported Fandango service"
+    "Maintain strong balance sheet and free cash flow",
+    "Invest in platform growth, especially Fandango",
+    "Expand streaming (MS NOW) and CNBC digital offering",
+    "No disclosed specific technology or IT spend"
    ],
    "changes": [
-    "Full Swing acquisition completed",
-    "Bundesliga five‑year deal signed",
-    "Divested SportsEngine",
-    "Separated from Comcast with IT separation"
+    "Separated from Comcast Jan 2 2026",
+    "Divested SportsEngine Q2 2026",
+    "Acquired Full Swing Q3 2026",
+    "Launched MS NOW Membership Q3 2026"
    ]
   },
   "unverified_dropped": [],
@@ -659,12 +641,12 @@
   "name": "Versant Media Group",
   "industry": "Media & Entertainment",
   "currency": "USD",
-  "release_key": "0002067876-26-000038",
-  "release_date": "2026-08-06",
+  "release_key": "0002067876-26-000050",
+  "release_date": "2026-11-03",
   "documents": [
    {
     "title": "Versant Media Group 8-K earnings release (Item 2.02)",
-    "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -672,7 +654,7 @@
    },
    {
     "title": "Exhibit exhibit992-supplementalf.htm",
-    "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/exhibit992-supplementalf.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/exhibit992-supplementalf.htm",
     "official": true,
     "kind": "commentary",
     "site": false,
@@ -681,7 +663,7 @@
   ],
   "news_used": true,
   "chunks_read": 6,
-  "written_at": "2026-10-26T14:10:42+00:00"
+  "written_at": "2026-11-03T15:19:44+00:00"
  },
  "Caesars": {
   "document_type": "Quarterly results",

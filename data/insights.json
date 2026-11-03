@@ -298,129 +298,103 @@
  },
  "Versant": {
   "results_found": true,
-  "period_label": "Q2 2026",
-  "fiscal_label": null,
+  "period_label": "Q3 2026",
+  "fiscal_label": "third quarter 2026",
   "period_end": null,
-  "results_date": "2026-08-06",
-  "headline": "Versant Media posted $1.64 B revenue and $211 M net income in Q2 2026 while expanding its portfolio through acquisitions and new distribution deals.",
+  "results_date": "2026-11-03",
+  "headline": "Versant reported Q3 2026 revenue of $1.59 billion and net income of $47 million while reaffirming full‑year guidance.",
   "metrics": {
-   "revenue_m": 1640,
+   "revenue_m": 1590,
    "revenue_growth_yoy_pct": null,
    "operating_income_m": null,
    "operating_margin_pct": null,
-   "net_income_m": 211,
+   "net_income_m": 47,
    "eps": null
   },
-  "guidance": null,
-  "guidance_change": "none",
-  "segments": [],
-  "highlights": [
-   "Revenue of $1.64 B",
-   "Net income of $211 M",
-   "Completed $100 M Full Swing acquisition",
-   "Added Bundesliga rights and expanded Fandango platform",
-   "Declared $0.375 per share cash dividend and announced another $100 M accelerated share repurchase"
+  "guidance": "Versant reaffirmed its full‑year revenue and Adjusted EBITDA outlook and expects free cash flow to exceed the prior $1.0‑$1.2 billion forecast.",
+  "guidance_change": "retained",
+  "segments": [
+   {
+    "name": "Platforms",
+    "trend": "Up",
+    "note": "Revenue grew 10% YoY (17% excl. divestitures)."
+   },
+   {
+    "name": "Cable Networks",
+    "trend": "Mixed",
+    "note": "Audience grew double‑digits but linear ad revenue declined."
+   },
+   {
+    "name": "Digital (Fandango, MS NOW)",
+    "trend": "Up",
+    "note": "Launch of MS NOW membership and strong Fandango growth."
+   }
   ],
-  "management_view": "Management said the quarter showed strong operating momentum, brand strength and continued investment in growth initiatives.",
-  "risks": [],
+  "highlights": [
+   "Revenue of $1.59 billion.",
+   "Net income of $47 million.",
+   "Adjusted EBITDA of $353 million.",
+   "Platforms revenue up 10% YoY.",
+   "MS NOW membership platform launched."
+  ],
+  "management_view": "Management said the quarter showed strong platform growth, audience gains and solid cash flow, supporting its strategy and shareholder returns.",
+  "risks": [
+   "Linear TV ad and distribution revenue pressure.",
+   "Integration risk of recent Full Swing acquisition.",
+   "Uncertainty around future free‑cash‑flow performance."
+  ],
   "sentiment": "Positive",
-  "sentiment_reason": "Results beat expectations and highlighted growth investments.",
+  "sentiment_reason": "Revenue beat estimates and guidance reaffirmed despite profit decline.",
   "it_signals": [
    {
     "type": "Digital / platform rebuild",
-    "detail": "CEO emphasizes digital growth over cable acquisitions",
-    "source_id": 2,
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1czR2k1ZjFzdXZjR2g0bnAyWFd6Y1ExaDZiMDlqTjRQQThjdWlHU1JocDhRZkNEMDlUU25kbzNyTE1KOVN4UEJtazVnT2lXdEQ4dDk3X0NrYWFuek55MmJwcnc2bjQ2Zmc1TXhldzhfYllGMXlYT0JvR0pOQUxQLXdORkNPQnZCZGZpbER2QW5PN2Y4X3kteDZiQ016dnBKZFBrRnhNYUZyUHV2STFBSnFLNHFkMTRPXzFEZGVPWmdlcDA?oc=5",
-    "source": "Editor and Publisher",
-    "published": "2026-10-26"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "Multi‑year distribution renewal agreement with Verizon for cable network carriage",
-    "source_id": 33,
-    "link": "https://www.msn.com/en-us/news/other/versant-completes-2026-distribution-renewal-cycle-with-verizon-deal/ar-AA2dqqlL",
-    "source": "msn.com",
-    "published": "2026-10-02"
+    "detail": "Launched MS NOW direct‑to‑consumer membership platform and advanced CNBC digital offering.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
+    "source": "8-K",
+    "published": "2026-11-03"
    },
    {
     "type": "Other",
-    "detail": "Licensing agreement to stream E! content on Hulu",
-    "source_id": 8,
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeF9GU0U1MVp5SzBvTDhPWllWdElYZ1ZhMGNzX2lGcjB6Q2trS1hsUFZmNXZTLU9KNnpxQm1CVzhFclkxdnFKc3pGOGh5MjBVdVVDeTlubDFWQjlJVzdhNmJ4Yy01Ml9NMWNaWUstVG14b2ZfU0xiZEd6X0dxa29BRlQ2YjJPNHlZYS1WZXIxZzd1d1cweUFfWUowTzd4SUpKQjRfZlhMSGlxWmdsYzhCNkQ5djVpT0hOTEtkMXBiSVNKQQ?oc=5",
-    "source": "TipRanks",
-    "published": "2026-10-21"
-   },
-   {
-    "type": "Other",
-    "detail": "Morgan Stanley says digital growth outweighs linear TV pressure",
-    "source_id": 24,
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMC1YNVZtRlY0U2piS2NlSUR6YUhtbkZWeXpxNG5FQUxISzJSWHRqNTRwdHdvWVpxSFpSckhRTHpERmJfYjgySUhGZUpMbjZCUEpHbXprdmRwZEFqdDNjOTd2b2tjV2hJNVV6bjlnVXFic3BkUTdRbFl1T0N3dDR6ekV3Q3NfaTRaeFdIZkFEd0l4UDY5ZTh1clVLblo3OHZ1anpj?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-15"
+    "detail": "Integrated Full Swing into the golf ecosystem, expanding digital golf services.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
+    "source": "8-K",
+    "published": "2026-11-03"
    }
   ],
-  "it_spend_outlook": "Stable",
-  "it_spend_reason": "No new large‑scale tech investments announced, but ongoing vendor deals suggest steady spending",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Management highlighted platform revenue growth and new digital product launches.",
   "talking_points": [
-   "How can Versant leverage its digital focus to partner on platform modernization?",
-   "What opportunities exist for cloud or data services supporting the new Hulu streaming deal?",
-   "Can we help optimize distribution technology as Versant renews its Verizon agreement?"
+   "Discuss Versant’s double‑digit platforms revenue growth and its implications for technology spend.",
+   "Explore opportunities to support the new MS NOW membership platform and upcoming CNBC digital launch.",
+   "Assess how Full Swing integration may drive further digital investments in the golf ecosystem."
   ],
   "unverified_dropped": [],
   "sources": [
    {
     "title": "Versant Media Group 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
     "source": "8-K",
-    "published": "2026-08-06",
+    "published": "2026-11-03",
     "official": true
    }
   ],
   "company": "Versant",
   "mode": "results",
-  "analysed_at": "2026-10-13T19:18:47+00:00",
+  "analysed_at": "2026-11-03T15:15:19+00:00",
   "release": {
    "form": "8-K",
-   "filed": "2026-08-06",
-   "accepted": "2026-08-06T11:15:06.000Z",
-   "accession": "0002067876-26-000038",
-   "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038/versantmediagroupincex991q.htm",
+   "filed": "2026-11-03",
+   "accepted": "2026-11-03T13:08:26.000Z",
+   "accession": "0002067876-26-000050",
+   "url": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
    "title": "Versant Media Group 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000038",
-   "published": "2026-08-06"
+   "index": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050",
+   "published": "2026-11-03"
   },
-  "release_key": "0002067876-26-000038",
-  "signals_at": "2026-10-27T22:04:53+00:00",
-  "signal_sources": [
-   {
-    "title": "Versant CEO downplays cable-network acquisitions, emphasizing digital growth",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1czR2k1ZjFzdXZjR2g0bnAyWFd6Y1ExaDZiMDlqTjRQQThjdWlHU1JocDhRZkNEMDlUU25kbzNyTE1KOVN4UEJtazVnT2lXdEQ4dDk3X0NrYWFuek55MmJwcnc2bjQ2Zmc1TXhldzhfYllGMXlYT0JvR0pOQUxQLXdORkNPQnZCZGZpbER2QW5PN2Y4X3kteDZiQ016dnBKZFBrRnhNYUZyUHV2STFBSnFLNHFkMTRPXzFEZGVPWmdlcDA?oc=5",
-    "source": "Editor and Publisher",
-    "published": "2026-10-26T13:27:58+00:00",
-    "official": false
-   },
-   {
-    "title": "Versant Completes 2026 Distribution Renewal Cycle With Verizon Deal",
-    "link": "https://www.msn.com/en-us/news/other/versant-completes-2026-distribution-renewal-cycle-with-verizon-deal/ar-AA2dqqlL",
-    "source": "msn.com",
-    "published": "2026-10-02T07:33:13+00:00",
-    "official": false
-   },
-   {
-    "title": "Versant Media enters licensing agreement to stream ‘The Golden Life’ on Hulu",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeF9GU0U1MVp5SzBvTDhPWllWdElYZ1ZhMGNzX2lGcjB6Q2trS1hsUFZmNXZTLU9KNnpxQm1CVzhFclkxdnFKc3pGOGh5MjBVdVVDeTlubDFWQjlJVzdhNmJ4Yy01Ml9NMWNaWUstVG14b2ZfU0xiZEd6X0dxa29BRlQ2YjJPNHlZYS1WZXIxZzd1d1cweUFfWUowTzd4SUpKQjRfZlhMSGlxWmdsYzhCNkQ5djVpT0hOTEtkMXBiSVNKQQ?oc=5",
-    "source": "TipRanks",
-    "published": "2026-10-21T21:07:07+00:00",
-    "official": false
-   },
-   {
-    "title": "Versant Media's Digital Growth Outweighed by Linear TV Pressure, Morgan Stanley Says",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMC1YNVZtRlY0U2piS2NlSUR6YUhtbkZWeXpxNG5FQUxISzJSWHRqNTRwdHdvWVpxSFpSckhRTHpERmJfYjgySUhGZUpMbjZCUEpHbXprdmRwZEFqdDNjOTd2b2tjV2hJNVV6bjlnVXFic3BkUTdRbFl1T0N3dDR6ekV3Q3NfaTRaeFdIZkFEd0l4UDY5ZTh1clVLblo3OHZ1anpj?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-15T07:00:00+00:00",
-    "official": false
-   }
-  ]
+  "release_key": "0002067876-26-000050",
+  "signals_at": "2026-11-03T15:15:19+00:00"
  },
  "Cox": {
   "headline": "Cox Automotive pushes AI‑driven data platforms and pricing tools while Cox Communications faces acquisition uncertainty",
