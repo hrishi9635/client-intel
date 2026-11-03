@@ -1,5 +1,17 @@
 [
  {
+  "started": "2026-11-03T06:36:16+00:00",
+  "part": "daily",
+  "steps": [
+   "audience pulse: 25 titles, 18 with AI notes",
+   "industry news: 467 stories"
+  ],
+  "errors": [],
+  "finished": "2026-11-03T06:40:05+00:00",
+  "ai_calls": 9,
+  "ai_tokens": 17725
+ },
+ {
   "started": "2026-11-03T01:35:37+00:00",
   "part": "results",
   "steps": [
@@ -689,25 +701,6 @@
    "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
   ],
   "finished": "2026-10-26T14:50:21+00:00",
-  "ai_calls": 0,
-  "ai_tokens": 0
- },
- {
-  "started": "2026-10-26T14:24:27+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: none",
-   "Wolters Kluwer: 0 documents from the company's results page",
-   "account updates written: none"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-10-26T14:26:42+00:00",
   "ai_calls": 0,
   "ai_tokens": 0
  }
