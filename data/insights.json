@@ -827,57 +827,133 @@
   ]
  },
  "Light & Wonder": {
-  "results_found": false,
-  "period_label": null,
+  "results_found": true,
+  "period_label": "Q3 2026",
   "fiscal_label": null,
-  "period_end": null,
-  "results_date": "2026-08-04",
+  "period_end": "2026-09-30",
+  "results_date": "2026-11-04",
   "headline": null,
   "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
+   "revenue_m": 824,
+   "revenue_growth_yoy_pct": -2,
    "operating_income_m": null,
    "operating_margin_pct": null,
    "net_income_m": null,
-   "eps": null
+   "eps": 2.12
   },
   "guidance": null,
   "guidance_change": "none",
   "segments": [],
-  "highlights": [],
+  "highlights": [
+   "Revenue of $824 million, down 2% YoY.",
+   "Adjusted EPS of $2.12.",
+   "Launch of RAPIDPLAY cashless slot system in Nevada.",
+   "First global installation of RAPIDPLAY completed."
+  ],
   "management_view": null,
-  "risks": [],
+  "risks": [
+   "Potential slowdown in gaming machine sales.",
+   "Execution risk for new cashless technology roll‑out."
+  ],
   "sentiment": "Neutral",
-  "sentiment_reason": "No results data available in sources",
-  "it_signals": [],
+  "sentiment_reason": "Results in line with expectations, modest revenue decline.",
+  "it_signals": [
+   {
+    "type": "Other",
+    "detail": "Debut of RAPIDPLAY cashless slot system at Crystal Bay Casino.",
+    "source_id": 15,
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxWZ29vZEx5YklBekhSVzZqWDJwMlFqMFkyZE5taHZHVFBoa2JIZ3FUTk5SRUFjZWtBc3UyVzk3Tk1sMl96eTNka3BpTzBNNlI4ODlLa1REcHkxRjJEelV6cE9ORk1YdHRWaFdQaExpa2REeUhxVE9pOVdYZXpmWmlNYVNhWml4dmlBOEVoMXVwcGdiRFJOTjk0aDM?oc=5",
+    "source": "Gaming America",
+    "published": "2026-10-28"
+   },
+   {
+    "type": "Other",
+    "detail": "First global installation of RAPIDPLAY completed at Nevada casino.",
+    "source_id": 21,
+    "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
+    "source": "asgam.com",
+    "published": "2026-10-26"
+   },
+   {
+    "type": "Other",
+    "detail": "RapidPlay cashless solution announced and deployed across multiple venues.",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWDZSTGl3NXppUUwwVU94VkE2ZjkzTWZQN3Y5VVdpV2tQcmEzV2kyUXpTTW9CVUFxbkxvYXk0QWRhejJ2X29Xc3NRMkJURVpjenNESjlRbnBWR0xPMU5sYW1oemVZTXRKQVhENmwtZE5rLWZIcnNVQg?oc=5",
+    "source": "GGRAsia",
+    "published": "2026-10-29"
+   }
+  ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No technology‑spending information found",
-  "talking_points": [],
-  "unverified_dropped": [],
+  "it_spend_reason": "No explicit guidance on future technology spending.",
+  "talking_points": [
+   "Discuss Light & Wonder’s rollout of the RAPIDPLAY cashless platform and potential scaling needs.",
+   "Explore opportunities to support digital payment integration for their gaming machines.",
+   "Assess how the cashless initiative may affect operational efficiency and data analytics."
+  ],
+  "unverified_dropped": [
+   "metrics.operating_margin_pct",
+   "headline",
+   "highlights.1"
+  ],
   "sources": [
    {
     "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000045/lnw-20261104.htm",
     "source": "8-K",
-    "published": "2026-08-04",
+    "published": "2026-11-04",
     "official": true
+   },
+   {
+    "title": "Light & Wonder Posts Q3 Adjusted EPS of $2.12, Revenue of $824 Million",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzU0T2J5NlNWaUJYSnpOeWh3Y2Z5NTZKbUtucVJQWlpRcTJjRTNTVWNZSDl0ZkZ5bk9KM0VhODRqMlFsVU0taGE2LTRmYWQyM0hpdnhsSTJVOTR0X2s1WGRXYlZtMks3T2hUZDB5Z2JrM215VGlpVnRnbEprV3V6NG43NTh3a1MycHNHNmJ0UkFxQjV2WjYtTngwUTdTVmgwS2lZUkNxYjdyd3BRM05UN1p0X0hQQzNMVHc?oc=5",
+    "source": "www.marketscreener.com",
+    "published": "2026-11-04T21:38:16+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder, Inc. Reports Third Quarter 2026 Results",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlN0UDN2WVk4OXdmU3I4b3FSbXJXZG4tU0VuVHBRQkZmTUhlVjFBUFZHR2V0bmJXLV9pMHhYMWxWSzBfWGYtUTdqdkREbEROQlAwRWZKM2U0LWhHSm9QdUNITkNnaXQtckFuUms0S0hQYTBOeldFSmhSZXlST1UzWTFmUTM5bHVaUGo1UmRqNUQwNnRkWnVfZUdZNmNSY3Z5RW1TZzktaHRFUVF1UkE?oc=5",
+    "source": "Business Wire",
+    "published": "2026-11-04T21:23:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder debuts ‘Gremlins’-themed slot game",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWDZSTGl3NXppUUwwVU94VkE2ZjkzTWZQN3Y5VVdpV2tQcmEzV2kyUXpTTW9CVUFxbkxvYXk0QWRhejJ2X29Xc3NRMkJURVpjenNESjlRbnBWR0xPMU5sYW1oemVZTXRKQVhENmwtZE5rLWZIcnNVQg?oc=5",
+    "source": "GGRAsia",
+    "published": "2026-10-29T01:34:53+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Debuts RAPIDPLAY Pay-By-Bank Slots At Crystal Bay Casino In Nevada",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxWZ29vZEx5YklBekhSVzZqWDJwMlFqMFkyZE5taHZHVFBoa2JIZ3FUTk5SRUFjZWtBc3UyVzk3Tk1sMl96eTNka3BpTzBNNlI4ODlLa1REcHkxRjJEelV6cE9ORk1YdHRWaFdQaExpa2REeUhxVE9pOVdYZXpmWmlNYVNhWml4dmlBOEVoMXVwcGdiRFJOTjk0aDM?oc=5",
+    "source": "Gaming America",
+    "published": "2026-10-28T12:30:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder completes first global installation of cashless solution RAPIDPLAY",
+    "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
+    "source": "asgam.com",
+    "published": "2026-10-26T23:30:00+00:00",
+    "official": false
    }
   ],
   "company": "Light & Wonder",
   "mode": "results",
-  "analysed_at": "2026-11-04T15:18:01+00:00",
+  "analysed_at": "2026-11-04T22:17:23+00:00",
   "release": {
    "form": "8-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-04T21:04:24.000Z",
-   "accession": "0000750004-26-000032",
-   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+   "filed": "2026-11-04",
+   "accepted": "2026-11-04T21:26:37.000Z",
+   "accession": "0000750004-26-000045",
+   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000045/lnw-20261104.htm",
    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
-   "published": "2026-08-04"
+   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000045",
+   "published": "2026-11-04"
   },
-  "release_key": "0000750004-26-000032",
-  "signals_at": "2026-11-04T15:18:01+00:00"
+  "release_key": "0000750004-26-000045",
+  "signals_at": "2026-11-04T22:17:23+00:00"
  },
  "Brightstar (IGT)": {
   "results_found": true,

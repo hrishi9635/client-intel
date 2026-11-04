@@ -999,63 +999,98 @@
   "written_at": "2026-10-26T14:07:30+00:00"
  },
  "Light & Wonder": {
-  "document_type": "Other",
-  "period": "",
-  "headline": "Light & Wonder released its 2025 Global Corporate Social Responsibility Report and is preparing to announce Q3 2026 results on 5 November.",
+  "document_type": "Quarterly results",
+  "period": "quarter ended September 30, 2026",
+  "headline": "Light & Wonder launched its RAPIDPLAY cashless payment system and debuted several new slot games in Q3 2026.",
   "key_numbers": [],
   "outlook_line": null,
-  "segments_basis": "",
+  "segments_basis": null,
   "segments": [],
-  "focus": [],
-  "tech_spend": [],
+  "focus": [
+   {
+    "area": "Cashless payments",
+    "plan": "Deploy RAPIDPLAY system globally",
+    "amount": null,
+    "timing": "2026‑2027",
+    "tech": true,
+    "src": "news"
+   },
+   {
+    "area": "New slot games",
+    "plan": "Release ‘Gremlins’-themed slot and other titles",
+    "amount": null,
+    "timing": "Q4 2026",
+    "tech": true,
+    "src": "news"
+   }
+  ],
+  "tech_spend": [
+   "technology & IT spending facts: platforms, systems, vendors, cloud, data, AI, capex, acquired technology"
+  ],
   "organisation": null,
-  "key_changes": [],
+  "key_changes": [
+   {
+    "type": "Product",
+    "change": "Cashless slots",
+    "detail": "RAPIDPLAY cashless payment system installed at multiple casinos",
+    "when": "October 2026",
+    "src": "news"
+   },
+   {
+    "type": "Product",
+    "change": "New slot launch",
+    "detail": "‘Gremlins’-themed slot game debuted",
+    "when": "October 2026",
+    "src": "news"
+   }
+  ],
   "leadership": [],
   "dates": [
    {
-    "date": "2026-08-04",
-    "event": "Light & Wonder 8-K earnings release",
+    "date": "2026-11-04",
+    "event": "Light & Wonder, Inc. Reports Third Quarter 2026 Results",
     "src": "official"
    },
    {
-    "date": "2026-09-28",
-    "event": "Light & Wonder Releases 2025 Global Corporate Social Responsibility Report",
+    "date": "2026-10-29",
+    "event": "Debuts ‘Gremlins’-themed slot game",
     "src": "official"
    },
    {
-    "date": "2026-10-09",
-    "event": "Light & Wonder to Release Third Quarter 2026 Financial Results on 5 November",
+    "date": "2026-10-28",
+    "event": "Debuts RAPIDPLAY Pay-By-Bank Slots At Crystal Bay Casino",
     "src": "official"
    },
    {
-    "date": "2026-10-17",
-    "event": "Light & Wonder schedules November 4 results for Light & Wonder stock",
-    "src": "official"
-   },
-   {
-    "date": "2026-10-19",
-    "event": "Light & Wonder (ASX:LNW) Holds Near $120 After Modest Decline",
-    "src": "official"
-   },
-   {
-    "date": "2026-10-21",
-    "event": "Are Light & Wonder (ASX:LNW) Shares Rebuilding for Results?",
-    "src": "official"
-   },
-   {
-    "date": "2026-10-23",
-    "event": "Light & Wonder stock: Jefferies sees AUD 1.97 earnings per share for Light & Wonder stock",
+    "date": "2026-10-27",
+    "event": "Debuts RapidPlay cashless payment system",
     "src": "official"
    },
    {
     "date": "2026-10-26",
-    "event": "Is ASX 200-listed Aristocrat (ASX:ALL) pulling away from Light & Wonder?",
+    "event": "Completes first global installation of RAPIDPLAY",
+    "src": "official"
+   },
+   {
+    "date": "2026-09-28",
+    "event": "Releases 2025 Global Corporate Social Responsibility Report",
+    "src": "official"
+   },
+   {
+    "date": "2026-09-25",
+    "event": "Names Systems Chief As Fair Value Narrative Stays In Focus",
     "src": "official"
    }
   ],
   "summary": {
-   "focus": [],
-   "changes": []
+   "focus": [
+    "Deploy RAPIDPLAY cashless system globally",
+    "Launch new themed slot games"
+   ],
+   "changes": [
+    "Cashless payment technology rollout",
+    "New slot game introductions"
+   ]
   },
   "unverified_dropped": [],
   "format": 3,
@@ -1063,12 +1098,12 @@
   "name": "Light & Wonder",
   "industry": "Gaming & Lottery",
   "currency": "USD",
-  "release_key": "0000750004-26-000032",
-  "release_date": "2026-08-04",
+  "release_key": "0000750004-26-000045",
+  "release_date": "2026-11-04",
   "documents": [
    {
     "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-    "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000045/lnw-20261104.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -1077,7 +1112,7 @@
   ],
   "news_used": true,
   "chunks_read": 1,
-  "written_at": "2026-10-26T14:19:11+00:00"
+  "written_at": "2026-11-04T22:18:36+00:00"
  },
  "Brightstar (IGT)": {
   "document_type": "Quarterly results",
