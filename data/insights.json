@@ -1141,67 +1141,51 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Agentic tax preparation capability launched in CCH Axcess Tax",
-    "source_id": 8,
-    "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wolters-kluwer-launches-agentic-tax-tools-wolters-kluwer-stock-gains-1-10-percent/70413543",
+    "detail": "Launched agentic tax preparation and audit capabilities in CCH Axcess",
+    "source_id": 28,
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXlhNV9kZk4wOC1KSkZyQ1FMazdLbGx2S0hZR3IxZk1vS1FqcjVfX3Z0b2FoMzVVd0RMLVhiOGduakl1N3ItSnNuY2dFaE1JNWJXMnlkZWhkaXBHZDhnUDNDQXl4eEVpdE5OSXlxMTdPdWctUFRuVkVObzN3aldwWlVITW5ab2MtTFlyc0dQMW05Nzh0X3NxNDh4d1ZIWTJlRVN1U0V5bXFXX1NIWUx1U3dLY3Rzaks4WUdaVEloMXNPMHc?oc=5",
+    "source": "CPA Practice Advisor",
+    "published": "2026-10-28"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Rolled out Expert AI tools and made Libra AI available in InView Legal and InView Tax",
+    "source_id": 41,
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckx4REtKdWNZUlc4ZjJQSEFKRW5FNDJ6a3QzRkVpVVd6Nktkb1d2dlZjQjh4M0hXNDFJalp4c1o2SS1PY0FGdlU1ZzZ0ZUZDUEVMNXJSRkRoay1HRzdkN0NGR2J1eWdubm9JbFRKcXRSWFF3ejgydzU2OS00VnpGMThIY2VBN29qSVQzWmZLVG9kd0wwTWRWTlBYRjc1elBCM2VUU2kycFN2XzE4OERJeG1mcHgxRlNqMlc0dmNLYmJtaTh2VFFVbTk2S0xGck9taUJnd194UFQ3NV9zLVduTGZiV0NXc0dMSEM4?oc=5",
     "source": "ad-hoc-news.de",
-    "published": "2026-10-26"
-   },
-   {
-    "type": "AI & tech investment",
-    "detail": "AI partnership with Inscope for financial statement preparation",
-    "source_id": 12,
-    "link": "https://www.businesswire.com/news/home/20261022865344/en/Wolters-Kluwer-partners-with-Inscope-to-launch-agentic-financial-statement-preparation-in-CCH-Axcess",
-    "source": "businesswire.com",
-    "published": "2026-10-22"
-   },
-   {
-    "type": "AI & tech investment",
-    "detail": "Libra AI made available in InView Legal and InView Tax in the Netherlands",
-    "source_id": 13,
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXRhQjZydkJ6cFR4d2RDVmxCVm41ZWUyQWlaRmR2VUotSWpLUnIzd0FDcFZSZjR5RGNFZkVEQUcweWZUeGFVYVltUW0xMTBLbW5iNlVvTW9vbWYwOFlod0gzQXljMGVtR2twN0RYcVZIN2NsYS1HcW5jTk9OdkJ5ZUpYZUlLX1Z1Xzh4Y1JNSzROOExGRHJJZTdYTVRDYnBSckExRDVhWUJCVEZEWFNMVHgyUk83SGRRM3loWHl3?oc=5",
-    "source": "Wolters Kluwer",
     "published": "2026-10-21"
    },
    {
-    "type": "Digital / platform rebuild",
-    "detail": "Conversational AI and automated bank reconciliation added to Genya cloud suite for Italian firms",
-    "source_id": 17,
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFo1QkFnNHI5eGtlS0dCcGRHaFBSNU5BSU5halZYVkl6NnV4VFlTSWNSWGVXWWQ5b3dVVEhYdEl6Uk84a3piTjJXN0F1SHVGUl80cGxxWDZjeGdndjMzV1Z6ZFYzbkZyeVZXbDVLYTQtLWtGRGIyck5oTElWQV9IVWVaMDg3cFNtS0lqRmh5eUQ0VVA4X2dxRE5XMjNpMG9odzF5ZVdhUWQ1WDg?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-13"
+    "type": "AI & tech investment",
+    "detail": "Study shows AI now part of everyday school management in Germany",
+    "source_id": 3,
+    "link": "https://www.marketscreener.com/news/wolters-kluwer-study-ai-has-become-part-of-everyday-school-management-in-germany-ce785fded880f72c",
+    "source": "marketscreener.com",
+    "published": "2026-11-03"
    },
    {
-    "type": "Cloud & data",
-    "detail": "Migrated 3,000 desktops to Amazon WorkSpaces at scale",
-    "source_id": 18,
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
-    "source": "Amazon Web Services (AWS)",
-    "published": "2026-10-12"
+    "type": "Cost-cutting / restructuring",
+    "detail": "Divested German consumer tax business for EUR 40 million to refocus on professional markets",
+    "source_id": 10,
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGRFTHlvbk91NS0wUmdDUEtPYTNIZTBielZGQ2ZRMElrbUlUbWd5WG9mSmluUURWMk8tdEJwSDItUXE3RzVsel9xRWE2aU9La09oeHRDcVowaGZFM3E0X0FRMHJGZmxIOW43TlNPU2dXZWh2NnljNnM3ZzR0aUpydi1JVjFPTUh1U1V1aTNlTFlaYVd1LV9wMkhURUloR29zWklodWZUNWROM3dLODRkNnl3ejRpNjAzLW1lNGhWZDhxM1dfNy1zZkhhZTA?oc=5",
+    "source": "TipRanks",
+    "published": "2026-10-31"
    },
    {
-    "type": "Vendor / outsourcing",
-    "detail": "Partnership with Doximity to bring UpToDate to Doximity Ask",
-    "source_id": 14,
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJGTm1ab2RIYXg2YlhXR3NfMHRZSGU0ZlNCa0ZiSWR4WGltck83ZDJha3JkUTYzdkRoUG9kbmczZEFYV1hjWTNaZE11X1h3N3V2ZHdwbWk0aXNlZXpQQmFTNjAzeVVOWS1SdHd0NEhCajFwLXN2LVRRVnNxeElzbWZHV3Vzd1IyY0dV?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-10-20"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "Suki launches “Ask” powered by Wolters Kluwer UpToDate Expert AI",
-    "source_id": 19,
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVTdwb3VWTUpIMEh3ZnlvX0RGcGZ5T0xXbVV3RXMzYTlHSWxGQ1FCRnN2SVRHT3NSQ3cyWVV5WWdzeUdmM0J6b014bFFFMTQ1S0FyM2hoZFBZckVDclh0c2Fia0hpNG1OS0hBbjdjWjB5TG96aTI1NldkTWpWOGhZcHFTUGZqaUt5dG9LMzFyclhvT3lXV2IxUG4zYXA5Q0JxbUJZWU9CcS0ydWhjd0NIaGxkQ2toT0RLV0NPN3F6aXBTdm51X1JWODZfUUVybHBqNUFFa3VWd292RGxWY1llM0lFbFpERl91c3ZWMDZaUTJQZFBCRnNpSHV3?oc=5",
-    "source": "Business Wire",
-    "published": "2026-10-08"
+    "type": "Cost-cutting / restructuring",
+    "detail": "Sale signals shift of tax focus and potential capital reallocation",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl9oNHh6dXF5cy1JcFBOd2MyRS1BWTd5SW84OEtUaXpybTRJaVJlUnVxRXFhZ3ZIdFBDMVRHcjhHLVBDazFfV2l0WFlsay03dnNWN0VmeENvVEV4X08zOFZfbWpPcGlOZWVJM19seHFScFR6X0J1RzlFMUVwblNkTWtHMUc5aEtPQV84cGg5N1IyUDZ1UXZ0cEFyWTBaZVFreFp5RmJ1T1k1cXdLRjJSTTUyallSMW95NjVfZ3pieGRXWFE?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-11-02"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Multiple AI product launches and a large cloud migration indicate increased technology investment",
+  "it_spend_reason": "Increased AI product development and platform enhancements indicate higher IT investment",
   "talking_points": [
-   "How can our AI and automation solutions complement Wolters Kluwer's new agentic tax platform?",
-   "What support do they need for scaling the Genya cloud suite and the AWS desktop migration?",
-   "Can we help mitigate integration risks from the rapid rollout of third‑party AI partnerships?"
+   "How can your organization leverage Wolters Kluwer’s new AI tax and audit tools?",
+   "What impact might the EUR 40 M divestiture have on their long‑term technology roadmap?",
+   "Are there partnership opportunities around the Expert AI and Libra AI capabilities?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1260,76 +1244,41 @@
    "published": "2026-08-05T07:00:00+00:00"
   },
   "release_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-  "signals_at": "2026-10-28T01:32:36+00:00",
+  "signals_at": "2026-11-04T01:37:18+00:00",
   "signal_sources": [
    {
-    "title": "Wolters Kluwer launches agentic tax tools. Wolters Kluwer stock gains 1.10 percent.",
-    "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wolters-kluwer-launches-agentic-tax-tools-wolters-kluwer-stock-gains-1-10-percent/70413543",
+    "title": "Wolters Kluwer study: AI has become part of everyday school management in Germany",
+    "link": "https://www.marketscreener.com/news/wolters-kluwer-study-ai-has-become-part-of-everyday-school-management-in-germany-ce785fded880f72c",
+    "source": "marketscreener.com",
+    "published": "2026-11-03T06:40:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer stock weighs EUR40m German tax sale and refocus",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSl9oNHh6dXF5cy1JcFBOd2MyRS1BWTd5SW84OEtUaXpybTRJaVJlUnVxRXFhZ3ZIdFBDMVRHcjhHLVBDazFfV2l0WFlsay03dnNWN0VmeENvVEV4X08zOFZfbWpPcGlOZWVJM19seHFScFR6X0J1RzlFMUVwblNkTWtHMUc5aEtPQV84cGg5N1IyUDZ1UXZ0cEFyWTBaZVFreFp5RmJ1T1k1cXdLRjJSTTUyallSMW95NjVfZ3pieGRXWFE?oc=5",
     "source": "ad-hoc-news.de",
-    "published": "2026-10-26T03:25:00+00:00",
+    "published": "2026-11-02T10:09:34+00:00",
     "official": false
    },
    {
-    "title": "Wolters Kluwer adds agentic tax preparation capability to CCH Axcess Tax",
-    "link": "https://www.msn.com/en-us/money/other/wolters-kluwer-adds-agentic-tax-preparation-capability-to-cch-axcess-tax/ar-AA2g7ex3",
-    "source": "msn.com",
-    "published": "2026-10-26T02:47:25+00:00",
+    "title": "Wolters Kluwer Sells German Consumer Tax Unit to Refocus on Professional Markets",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGRFTHlvbk91NS0wUmdDUEtPYTNIZTBielZGQ2ZRMElrbUlUbWd5WG9mSmluUURWMk8tdEJwSDItUXE3RzVsel9xRWE2aU9La09oeHRDcVowaGZFM3E0X0FRMHJGZmxIOW43TlNPU2dXZWh2NnljNnM3ZzR0aUpydi1JVjFPTUh1U1V1aTNlTFlaYVd1LV9wMkhURUloR29zWklodWZUNWROM3dLODRkNnl3ejRpNjAzLW1lNGhWZDhxM1dfNy1zZkhhZTA?oc=5",
+    "source": "TipRanks",
+    "published": "2026-10-31T18:07:43+00:00",
     "official": false
    },
    {
-    "title": "Wolters Kluwer launches agentic tax preparation in CCH Axcess, the agentic platform for tax and accounting",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEp6bTB6dnBjYkVjZ2tRcGJvR0d2eldMOVFSN0x4ZGVwU0dNMnlNZ3piLXJCUGlhMjZvWS16b2hPVGdpcTdjRnRUNFVZNG8tQmVqNjhpd0M3dFF0bmNKUHg3VDZaWVNIQVpVWE85eEdpLWc4RldUYmR5VWdGZGRfcDQ5N2dCOGIyU1Q1bUs4WEtscEZDZC1PUzJJRVJtbVF6?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-10-23T23:16:10+00:00",
+    "title": "Wolters Kluwer Expands Agentic Tax and Audit Capabilities in CCH Axcess",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXlhNV9kZk4wOC1KSkZyQ1FMazdLbGx2S0hZR3IxZk1vS1FqcjVfX3Z0b2FoMzVVd0RMLVhiOGduakl1N3ItSnNuY2dFaE1JNWJXMnlkZWhkaXBHZDhnUDNDQXl4eEVpdE5OSXlxMTdPdWctUFRuVkVObzN3aldwWlVITW5ab2MtTFlyc0dQMW05Nzh0X3NxNDh4d1ZIWTJlRVN1U0V5bXFXX1NIWUx1U3dLY3Rzaks4WUdaVEloMXNPMHc?oc=5",
+    "source": "CPA Practice Advisor",
+    "published": "2026-10-28T20:34:49+00:00",
     "official": false
    },
    {
-    "title": "Wolters Kluwer partners with Inscope to launch agentic financial statement preparation in CCH Axcess",
-    "link": "https://www.businesswire.com/news/home/20261022865344/en/Wolters-Kluwer-partners-with-Inscope-to-launch-agentic-financial-statement-preparation-in-CCH-Axcess",
-    "source": "businesswire.com",
-    "published": "2026-10-22T08:46:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Wolters Kluwer makes Libra AI capabilities available in InView Legal and InView Tax in the Netherlands",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXRhQjZydkJ6cFR4d2RDVmxCVm41ZWUyQWlaRmR2VUotSWpLUnIzd0FDcFZSZjR5RGNFZkVEQUcweWZUeGFVYVltUW0xMTBLbW5iNlVvTW9vbWYwOFlod0gzQXljMGVtR2twN0RYcVZIN2NsYS1HcW5jTk9OdkJ5ZUpYZUlLX1Z1Xzh4Y1JNSzROOExGRHJJZTdYTVRDYnBSckExRDVhWUJCVEZEWFNMVHgyUk83SGRRM3loWHl3?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-10-21T12:02:36+00:00",
-    "official": false
-   },
-   {
-    "title": "Doximity and Wolters Kluwer Sign Partnership to Bring UpToDate to Doximity Ask",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJGTm1ab2RIYXg2YlhXR3NfMHRZSGU0ZlNCa0ZiSWR4WGltck83ZDJha3JkUTYzdkRoUG9kbmczZEFYV1hjWTNaZE11X1h3N3V2ZHdwbWk0aXNlZXpQQmFTNjAzeVVOWS1SdHd0NEhCajFwLXN2LVRRVnNxeElzbWZHV3Vzd1IyY0dV?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-10-20T14:27:13+00:00",
-    "official": false
-   },
-   {
-    "title": "Wolters Kluwer introduces conversational AI and automated bank reconciliation into the Genya cloud suite for Italian professional service firms and SMEs",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUFo1QkFnNHI5eGtlS0dCcGRHaFBSNU5BSU5halZYVkl6NnV4VFlTSWNSWGVXWWQ5b3dVVEhYdEl6Uk84a3piTjJXN0F1SHVGUl80cGxxWDZjeGdndjMzV1Z6ZFYzbkZyeVZXbDVLYTQtLWtGRGIyck5oTElWQV9IVWVaMDg3cFNtS0lqRmh5eUQ0VVA4X2dxRE5XMjNpMG9odzF5ZVdhUWQ1WDg?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-13T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Cross-Region Amazon WorkSpaces Migration at Scale – How Wolters Kluwer Migrated 3,000 Desktops Without Disruption",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ1hibHg4QWtZTHJsekpEZ2lzbEJweDhPVnBxQXBfNExxVG44aGoxMUpEY1FYVkQzWDZKdndoTm1rSEgzdW9oY2theXFMc3RUU2VjRTN0UVE2X2ZEVkpKZFY5NEJ5UTUzX3Bib21XbTc0aUItRHEyLWJsbXN6b010OUFoODlXMnZVOWlIalZESVZFaE9IV3FlaTMxVDc5Uzh6bTh3ZzRucGtVdGpobVZfZUNFWkNtR2lpN0ttWmVPaEF5RXJHWkdyQjFXMXlRQXA1MmJfT1FNSW9wU190SlNoQkVlSVg0QzFNWG94Mm5DVUZqZS1LSXg1RjJnRk41R053Y2FxcQ?oc=5",
-    "source": "Amazon Web Services (AWS)",
-    "published": "2026-10-12T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Suki Launches “Ask,” Accelerating Complex Clinical Decision Support Powered by Wolters Kluwer UpToDate Expert AI",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVTdwb3VWTUpIMEh3ZnlvX0RGcGZ5T0xXbVV3RXMzYTlHSWxGQ1FCRnN2SVRHT3NSQ3cyWVV5WWdzeUdmM0J6b014bFFFMTQ1S0FyM2hoZFBZckVDclh0c2Fia0hpNG1OS0hBbjdjWjB5TG96aTI1NldkTWpWOGhZcHFTUGZqaUt5dG9LMzFyclhvT3lXV2IxUG4zYXA5Q0JxbUJZWU9CcS0ydWhjd0NIaGxkQ2toT0RLV0NPN3F6aXBTdm51X1JWODZfUUVybHBqNUFFa3VWd292RGxWY1llM0lFbFpERl91c3ZWMDZaUTJQZFBCRnNpSHV3?oc=5",
-    "source": "Business Wire",
-    "published": "2026-10-08T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Wolters Kluwer brings AI-powered drafting directly into the Libra legal workspace",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXIxQWZOT2dNYk5hRmxMLXJmQWd4bDlndVpyU0JmWWM0dDhxY2JlSFNmUTVWSGdkZHNUal92TjZ5RU9rWmVaMXdtTUdNTmdmZWJBWi11MDdlSE1jcEVJYy1TMWEyVGhzSXBJRjVpeFBjb2tXV0hJWlp2dk5WSTdBTTZqV0hPazdBMG5ydTd2OU4wcng5eTF4QXY4bkk?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-07T07:00:00+00:00",
+    "title": "Wolters Kluwer rolls out Expert AI tools: Wolters Kluwer stock gains 23.39 percent in 30 days",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckx4REtKdWNZUlc4ZjJQSEFKRW5FNDJ6a3QzRkVpVVd6Nktkb1d2dlZjQjh4M0hXNDFJalp4c1o2SS1PY0FGdlU1ZzZ0ZUZDUEVMNXJSRkRoay1HRzdkN0NGR2J1eWdubm9JbFRKcXRSWFF3ejgydzU2OS00VnpGMThIY2VBN29qSVQzWmZLVG9kd0wwTWRWTlBYRjc1elBCM2VUU2kycFN2XzE4OERJeG1mcHgxRlNqMlc0dmNLYmJtaTh2VFFVbTk2S0xGck9taUJnd194UFQ3NV9zLVduTGZiV0NXc0dMSEM4?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-10-21T07:00:00+00:00",
     "official": false
    }
   ]
@@ -1366,22 +1315,13 @@
   ],
   "sentiment": "Negative",
   "sentiment_reason": "Operating loss and revenue decline",
-  "it_signals": [
-   {
-    "type": "M&A / spin-off",
-    "detail": "Scholastic to acquire Cottage Door Press for $71 million",
-    "source_id": 20,
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdWNqVThxSjQyRHNFeXFPelVCd0c5eXlVUnMxMmx3Vi1uWTdQR0xMMmh1UUZrRTRDSXZJTmJ6Vk1Ec0xfUFFXTEoyQThUWURyTFRybnIzV2tQb1dOTVFRWkVLZkZlYWpMRlQ4eU1JQzJwSVM4OGI2czhsTDgwVmtBTEhMRlZLX0pDSV83dFczVWxvNlljVDlNNXhRR09fTzF3ekxrbXMyMWtDWWtTZ0RBdzVha1Rwa3NMUF8xOE9JMmI0Nk9tZWcwWVZQMDJhZlhnNmpHYmd2TnBwUzVidHp5eEpYSFBYRWtrUl9IQkpn?oc=5",
-    "source": "Publishers Weekly",
-    "published": "2026-09-29"
-   }
-  ],
+  "it_signals": [],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "Acquisition suggests potential spend increase, but investigation and market pressure create uncertainty",
+  "it_spend_reason": "No information on technology or IT investment plans in the sources",
   "talking_points": [
-   "How will the Cottage Door Press acquisition impact Scholastic’s digital content platform roadmap?",
-   "What technology integration challenges might arise from merging early‑childhood publishing assets?",
-   "Can Scholastic leverage the acquisition to expand its education‑tech offerings despite the ongoing investigation?"
+   "Discuss how ongoing legal issues might affect Scholastic’s IT budgeting and project timelines",
+   "Explore opportunities to support compliance and data security initiatives",
+   "Assess whether Scholastic may consider outsourcing or vendor partnerships to mitigate internal resource constraints"
   ],
   "unverified_dropped": [
    "metrics.revenue_growth_yoy_pct",
@@ -1418,8 +1358,29 @@
    "published": "2026-09-24"
   },
   "release_key": "0000866729-26-000022",
-  "signals_at": "2026-10-28T01:33:03+00:00",
+  "signals_at": "2026-11-04T01:37:44+00:00",
   "signal_sources": [
+   {
+    "title": "Pomerantz LLP investigates Scholastic for possi...",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOExpYUlYVENQX2Q4OUZPRnNlcnRrd3RSVnNvZXcyXzZWSFNvVGVGUnVLMlNKQklKTWp0RWRqaUtTRl9wbkpMNXZvcU1XenNxTjlGZVZoeU1JWWQxbG5Hd3ZiZTJRb1FPdG5NREFnNlo0NVdvNkRBSjlVUFVDQTloWkZxX19yWWZtNnAwRU9HbHpTaDR2dHU0NVZVM2YybWJn?oc=5",
+    "source": "Pluang",
+    "published": "2026-11-03T22:54:43+00:00",
+    "official": false
+   },
+   {
+    "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Scholastic Corporation - SCHL",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ01HRnZtM25ZTHNHeUQ4LXF6dFpNQlgtbDVxTUxjR1N1M2trU2ZKY2tlaEEtRGhSZlhfUmxfV2JraWN0YmlaZW5jZkllVC01NkppUENYRVJ1LU1RbzFucEsxZGZ3eEVTcnhQREVNYmRQUzYzUjVPdkZ6VWNmWm81T2FEaXhLaU84c216OTFWNEhxcklhU18xQmhnM0Uzc0p1eDI1alpIN1pZck5tcmU3SEhMY3R6YUVMckJKamRwYjl1X3E4S2hWTklESHRRaU1CMkR5R2NGaHltTU0yVDUzdUdCaXBfektIYVotSWRHM1JFZWRxSE96Wg?oc=5",
+    "source": "PR Newswire",
+    "published": "2026-10-29T15:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Scholastic faces securities fraud probe after m...",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTYyekVHVVUxN1NuWHBVR2FnS21YVE45dDcwbGQ4WEZlNDk4ZHNFaFI0SVJPNzhlY3V4VGRzRTFlOHg4U1ZFdy1uNGgtUGNoLTBOMmxTZ0N3M0VtaFdlcTdLTnh4aG8teVcxX0xRS21CVUtPQ2J0UFZtdEVrei1kT3ZXZUQweEMzMER2WUo4OWE0a285SHlrN0VMdlhQd3hmbDlJ?oc=5",
+    "source": "Pluang",
+    "published": "2026-10-29T14:14:42+00:00",
+    "official": false
+   },
    {
     "title": "Pomerantz LLP investigates Scholastic over Q1 l...",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOODFXbzVvSlN2OF95YjVBdl9PTC1PeFk4MU1mMTd3TzJ5bV82ZHVVNXJ2VHdSY0NDQUs5MGZJdEVON0dVYzY1aWVlOTEtQU5zVV9KNExrYVZwZmRDYzlvUGkxM2hDN1pzRkNwVElmZGxGSVhTaFBlX3ZReFViUEJGLXdjNGN1U1RxTEVYWTNUZ0xWd3kwYUI3SzkyeEJZazR3U0s0YjhMYw?oc=5",
@@ -1428,38 +1389,17 @@
     "official": false
    },
    {
+    "title": "Scholastic (SCHL) Edges Up 0.98% to $39.14 as Shares Hold Mid-Range - Gamma Exposure",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2FxTlh1N0llazRWTU9FNUxoWmF2czdpajBUcG5ISDE3bXpfUFpYTU5yckNCTmxYOG1JOUFkVllFX3FvZmJ6eUVTYUp3bzhvSGU5aUI3QjNuenhkUHoyaHV6UXpnRDRiSmJIYWlfN25jX2xmTFNmUjV2R3VGMTJYTzF4UUx2MzdSMjlrNW9MLWxMT2pvVDJ1WjVFX0dlNFcyUm5nSFRMcw?oc=5",
+    "source": "https://www.siam.in/",
+    "published": "2026-10-27T21:47:34+00:00",
+    "official": false
+   },
+   {
     "title": "An ETF’s interest exceeds 5% as BlackRock amends its Scholastic (SCHL) passive stake report.",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXA3ZEo5OVY2MlAzZTBfYWhoclYtSHJLbTlUOV83ajFwNXlyQWtaLU16c25NUUt4cmpyUXJ0RS01c2V1c3ZHYkJVbHpZbWd3S0FvSU1Ca1B1aklFem1LRWM4U19BajU2Z0NEMGxVaS15X2pNU3ZlNUlKYkljeEl2V0VjRE92alVpVTdpdDdrcVBPNW5oRzFBWTNDQ1dqMGlGU3hsQkZHUFBCY054bjR4WkRpRzJiMUdIT3gwV3Z3bEpnM2poZDNNVVdn?oc=5",
     "source": "Stock Titan",
     "published": "2026-10-27T21:29:44+00:00",
-    "official": false
-   },
-   {
-    "title": "Scholastic (NASDAQ:SCHL) Stock Gets Downgrade from Wall Street Zen",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0MtNVhtM2k4U1B0N1ZQQTd1RjZIMTNHN1hpTGI5Yi1GRkN4M0dySzNTZ1FQOFhycFRWTlBDQmpfX05pVmgxZWFLYUcwVk5sXzRIRjJ5MnBLaXVDazZYYWk3UGEyVklhb0ZLUk1aZ2NNaUJUR3Mxb0hBckVvbHA0MWFpN2c1S2x1U2d3ZGFPdE8wMHd0Um9sWHpuUDlTMFNyUU9XTWZ5eWtRbEVsLXl0U0QteGZvUDRGTHZiVzFRYzFIc1pO?oc=5",
-    "source": "MarketBeat",
-    "published": "2026-10-10T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Scholastic to Acquire Cottage Door Press, a Leading, Fast-Growing Innovator in Early Childhood Publishing",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU0dZa0dfdHNmVW9wRkdEUGdhQnZXcU9INWVueFhiZDNuMEp4ellXLVB0QXdZZmNLWk9aWVdOVTdoa0QwSVRjVGhVOWlDR2g5TGJlLThOSU1IYXRCZFlncVlZc19ueDVhaHlySGtSRWN2d2hSWms5UjNfQkVubnN3eWlZd0NWdklScUlPM2FrQm1Bb2RxMkN1LWxQaTFkd1NsdHl6OVJsay1uaDN2eUIxWklHMDBLaUhDSUJLelRxQWtaNFZWVmprZW0xXzVyTjVkTWd3X1dXS2RSdzA4UXJ6cnRScXBmR1dfTTR5YkRqaVE?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-09-29T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Scholastic Agrees to Buy Cottage Door Press for $71 Million",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdWNqVThxSjQyRHNFeXFPelVCd0c5eXlVUnMxMmx3Vi1uWTdQR0xMMmh1UUZrRTRDSXZJTmJ6Vk1Ec0xfUFFXTEoyQThUWURyTFRybnIzV2tQb1dOTVFRWkVLZkZlYWpMRlQ4eU1JQzJwSVM4OGI2czhsTDgwVmtBTEhMRlZLX0pDSV83dFczVWxvNlljVDlNNXhRR09fTzF3ekxrbXMyMWtDWWtTZ0RBdzVha1Rwa3NMUF8xOE9JMmI0Nk9tZWcwWVZQMDJhZlhnNmpHYmd2TnBwUzVidHp5eEpYSFBYRWtrUl9IQkpn?oc=5",
-    "source": "Publishers Weekly",
-    "published": "2026-09-29T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Scholastic to Acquire Cottage Door Press for $71 Million",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGE5OEw3Y1dpT0NWNjNQWXdtNUZKaVhKOHJDYW4zZ3NWWVRiSUFFaThXTmZUbnE2TkpaNVhBcWJWTWtqeUlOdVg3LVMxUURPS3V4VUlYbUl6SXBsaTYwcmx4NFdMeDN1bUhGS2p0THBnOUliOTYyU1dJTm5JWGxPT2t6SFE4UnRWNFRxX3dsNWI1NFFOZVN0SFd3?oc=5",
-    "source": "citybiz",
-    "published": "2026-09-29T07:00:00+00:00",
     "official": false
    }
   ]
@@ -1630,143 +1570,230 @@
   ]
  },
  "NYU": {
-  "headline": "NYU secures major city-backed funding to build a quantum fabrication facility",
+  "headline": "NYU secures multiple $30M‑plus investments to build a quantum fabrication facility and expands AI research initiatives",
   "highlights": [
-   "NYC pledged $29.2M–$30M to establish a quantum fabrication lab at NYU",
-   "The partnership is framed as a revenue‑sharing venture for the city",
-   "NYU also received $6M for Washington Square Park improvements"
+   "NYU receives $29.2‑30 M from NYC for a new quantum lab and fabrication facility",
+   "NYU researchers develop AI tools for archaeology and digital PCR platforms",
+   "Professor creates an AI version of himself for classroom debate"
   ],
   "risks": [
-   "Reliance on municipal funding could be vulnerable to political shifts",
-   "Large capital outlay may pressure university budgeting"
+   "Dependence on municipal funding may affect long‑term project sustainability",
+   "Rapid AI development raises governance and trust concerns"
   ],
   "sentiment": "Positive",
-  "sentiment_reason": "Significant new tech investment and partnership",
+  "sentiment_reason": "Significant new funding and innovative AI projects indicate growth",
   "segments": [
    {
     "name": "Research & Innovation",
     "trend": "Up",
-    "note": "Quantum lab funding boosts capabilities"
+    "note": "Quantum and AI investments are accelerating"
    }
   ],
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "NYC invested $29.2M (reported as $30M) to create a quantum fabrication facility at NYU",
-    "source_id": 16,
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUFGQkpNMHFUb3lZYW1aaDQ2SlFLUE84enN1MjR1R21TNFpHbkpaZ1ZOQjZiRUdFMjZpQ1pSVDBoQ1pMaXdCN0xCYklYTFV3bllNUTJpek55OTBpcVJiTFh2VWFrVUtmUDFydDk2VlFyUGRLWWlDV3VuNFQwd1VTcXphTUhxMnRtWHlFMWJCY2dSNE9vQXdnUEN4RV8ycnlzck5uNk9iZjRjNDBORFppa1FmZDI3UXZ0SUE2NQ?oc=5",
-    "source": "Data Center Dynamics",
-    "published": "2026-10-15"
+    "detail": "NYU researchers are building AI to reconstruct archaeological finds",
+    "source_id": 15,
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEYyZWFoTmtEUFVKR2ZxYmNYVjZOekVUVXlRV29CcF9qbGR4Qm5BdE9KNnJoMEk4SlN6dURwQWRPdXZZbUJWWWozMmJXZG16eVZob2lEZ0hPOXVRd191cFBJcTlNRTJxc2puQUhJNWhvSDhDUWU2cWYwUTduX0dxRER4Um1rQmFIcXBCd0FwR3BDd1dBdUpmeEZyWjNTMEplQ1hoYU9mN1lhX0VHLVRjRDl5TkVHQUNhZFduS3Fpc2tUMzVvMkRNWEh6OA?oc=5",
+    "source": "New York University",
+    "published": "2026-10-14"
    },
    {
     "type": "AI & tech investment",
-    "detail": "NYC pledged $29M for a quantum technology lab at NYU",
-    "source_id": 13,
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczRRblNzMTVJQ2d3XzhGbmhiNUZwNUNMTksyUjh0ZEtnakU1ZjlNSi1Fb2otaV9IN3FlbUd4aUlvZlhEYjM2TUw0TURoWDRRNjFYdGF3aExjV3RGMktZTjIxcVBzRXE0RS1rYnFNQlk3VkpyR0cxLWRIbHEwUFVhRw?oc=5",
+    "detail": "NYU professor created an AI version of himself for student debates",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUo2b2o5ckFDa0JiS2Nhd283dFZjcDNnemJoakFPTXJkZFJvMEd2RTc5YlE5cXhUWHc1Zmh3YWRhRkFGY3QtM3VadTlOZ2FlcmNpanU5YmVPVXRFdVVGZjMybVFzajhmb3MwdWpYclJDdnlpTUE3UTBrVUNEMFM5bC1xWnNzTlVmTGhyRw?oc=5",
     "source": "Washington Square News",
-    "published": "2026-10-15"
+    "published": "2026-10-23"
    },
    {
     "type": "AI & tech investment",
-    "detail": "NYC and NYU announced a $284M quantum fabrication facility partnership",
-    "source_id": 22,
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTZaUlcteXY5bE9RSzJkbGtKTHp4WE03X2I5NEJCMDJBWnVMNTFLdXlDZjFKSmxycUZlbktJb1VPRnRwQ1pFTjNFcW5RVTJNZWRaQUhvdGU0NHQ1M01LOFg5VFhYcno0WTlQOXl4MGViQ3dhZlJRcHN6QThQUEd6akRIUVJaR1QtTDI2LVQ4b3BYNFk5UGkwOWVhTlRPeS1lN1lqcWgyWS1tQjhCNGdSYnZZd2dBcFHSAbwBQVVfeXFMTl9iclFWVXJfYmRKSThWaWJsMk5qTDNoU3pKdUpSZXU3ek5POGQtSGNlLU9IdFV1NnkzYjhqRXRMN0Y2RG0yUncwQ2ZScGI0VS1JQU1mQkpaN1E5YjBzbHQwU1VtQ3FBT01jVEh2c05LZ3NLWXhZeUZaOHdZS2xOUUdOd1AyWHM0Zjc1MXJjZkhoSEZ4OXg4QlBvZmpfYU5WYW14SFNrYUlZbEpfc3ZrY01neVlUbXV0MW9zY3k?oc=5",
-    "source": "Quantum Computing Report",
+    "detail": "NYU’s Gary Marcus discusses building trustworthy AI",
+    "source_id": 17,
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm80UUlRaHFQVi1HeVFxTWk0OHZMYzVhTDFNdndFeUYyWGNjV3ZnYm1KZ0ZlUEQ5UXBad3h0ZG1HZEI2S3Q2VWFDeGphUWw2dDBpTzQ1Qy13UWRYQmlmSUExWnZpRVRqU083bUs2OG9hZ3d5TjBSNkVCM19ZV29nV1NDNjRqS2hJUlRxRmFxTzlCRjY3bkx0Wl9HQ1hjdE5IaFczbg?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-10-14"
+   },
+   {
+    "type": "Other",
+    "detail": "NYC invests $29.2 M in NYU quantum lab for a cutting‑edge quantum fabrication facility",
+    "source_id": 12,
+    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQjVsQm5WLWxmc2Q5SWJLczkzWDZOVXJMcnNJMFc0dTcxMlRfS2V5R1h6dl81eFVINS1kWm1YMHBieHpaUHVITEtwZURqSkJlRmM4cmVQUkhzQmtkRHZoMC1jT0xQWk9KUVk5bFlKV2lISm1PNXNZbUlaUTZrWTE2TlZPTmVkVVhBeF9JY1NJUmJrTXFKd0w3dVpuVXVqeElzRXkwMnQyOS1Ocl9vNlZqRlcwMzJJdzJzU0RjUHg3UVctSy1lN0ZFQU42R041RDBVT3BpbjRfODV2d3g5NG83T2N2THQzZ0xPVWgza1oxMExUUFhuVFIyREpsSllCamZaYXg4SHNLQ0xsZnAtNUktUWJUS2IzblI1c2VsRGt5QjJybTRxVms2aFZzQ1FTRkowTFlNcHNhN0RlNmdaQ2p2ZTFlWXBwdDk4bjd4X1V3VUFiUHNobXlUTkFyUUVvSk1KNmNsUkpR0gHrAkFVX3lxTFBVSU1KZjVVRkhvWjNsb1Z1LU0zTDZOV0J2emJzS25DQ2dVTFI5VjFCbFR1dWxvdjVmR3Y3ZTBLMEV2bkZ3emo3TkROZDl4NXY4dVhNRW85SjcxaWJuT05uemVmMHZWTmFFQzd0U1h2eVUxR2hFOWJEZTRQaEptUU5Wd3hTNTVVbmw2cnhpaUMzS1hvWVc5bGlRaFI5MEtBTXBCT2hTa2c4WHI4R3NhQnh6dTV6cVFLdHgzdEhjdTNDY2RZM3E5ZmpzYklsX2tEYXRIb0s4NmlUUlBYenc2bnhMNzRYTTRSMW1JMVdOYUg3Q1k2N1ljSnBMSTFTVzRiNG9fS3RobFctQkYyNEV6M2tCclRqVGJiVzU0SHlhQnMtbUliN3FYNlRIZnNZTHNyaXltOGU4UUZJejdzTWI1ZEVqd09XbHJOSENKdV83WHpGUDF5MVV6UnB4OTYtZkZSY0doNEdodkRzN21JWQ?oc=5",
+    "source": "The Times of India",
+    "published": "2026-10-15"
+   },
+   {
+    "type": "Other",
+    "detail": "NYC awards $29.2 M to NYU for the same quantum facility",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG8zbTRjSzlvRGRaVEVZWldzd09jOFVzWmtjTlhydmc3YXl0RGM1RU42VWQ5U1Y4dnNTb1Q1Y2ctNGdvWEJIVGctWm1uMDVUeUtURUlTMVlMX1FfdkhHSFZ4WG9KeDdpTC1rakV2MXZvOFpYaWg2Zm9QUUsxX25xNWFkVmZmT2pxSi1ONmRPc0kxNkFuT1VyLUQwdmotWlJVZnplbEMwNHdieFlTNWktWENZLTh2X0c0MGdaQlZuWGVueWVHWGFZMW9UMVI4QlBWMGoyNWU4anFFaURJTWc?oc=5",
+    "source": "The Quantum Insider",
+    "published": "2026-10-14"
+   },
+   {
+    "type": "Other",
+    "detail": "NYC commits $30 M stake in NYU quantum lab to share future tech revenue",
+    "source_id": 14,
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xaGl0RTlHYUpTRmZFTzJYRDlSWVBESjhxN1NZTUU4dVZMZlMyb3AyVlhfVVppa3Q4LVRndVYxWUUyUnFfb0RxUzdSaUdUTzVucXJTTnFXR3J2bm9MNEI1Zi1FbHQwLWxRMXNwNkp4X0RMdFEzNERKTGpR?oc=5",
+    "source": "amNewYork",
+    "published": "2026-10-14"
+   },
+   {
+    "type": "Other",
+    "detail": "NYC, NYU partnership to build quantum facility confirmed",
+    "source_id": 16,
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXJ1RWxraUZIQkNXTXYyZXJ1T2FWRkNkQldHUHZHYjNFVlJ2bWpEZTV3Q3lQOW5hcG44WnkxTk1zN01HM18tb2hmd2Q3cldBZmJFWGlVSHdxRVBKZDBjVC1kTjc3OGdXdDhPc0sxX1VMZ0ZTMnZUVHdPYWNwN0Z0Q1o1emJ6V2JiUzBVY183YmU?oc=5",
+    "source": "GovTech",
+    "published": "2026-10-14"
+   },
+   {
+    "type": "Other",
+    "detail": "NYC invests $30 M in NYU quantum lab in exchange for industry stake",
+    "source_id": 18,
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYThNUGpwTVFEZHJvRVBoSlhEYlNWaFc1M3BqWDhKWFhSLU8wc2VmMUxwQ01oWVN4bWxmcENxTEo3VXdmNElpVE9ZUjNNdFVnSnFXbmdiRnJhUE1kVjJ2YjF5d1NSVndGOElUdndlUFFEMEFzZjlUWWxYSWo3SDRjZ1dLdDdHQ3c2akYzMGdoQk4tOWRQLVE?oc=5",
+    "source": "6sqft",
     "published": "2026-10-14"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Multiple multi‑million city commitments signal growing IT‑related capital spending",
+  "it_spend_reason": "Multiple multi‑million municipal investments in quantum and AI projects signal higher IT spending",
   "talking_points": [
-   "Discuss how NYU’s new quantum facility could create demand for high‑performance computing services",
-   "Explore partnership models for vendors to support the city’s revenue‑share arrangement",
-   "Assess potential follow‑on projects in AI and data analytics linked to the quantum lab"
+   "Discuss how NYU’s new quantum lab could create partnership opportunities for our quantum‑computing services",
+   "Explore collaboration on AI ethics and trustworthy AI tools given NYU’s active research and faculty expertise",
+   "Assess potential for supporting NYU’s digital PCR platform development with cloud and data analytics solutions"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "New York City fronts $29M for quantum tech lab at NYU",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNczRRblNzMTVJQ2d3XzhGbmhiNUZwNUNMTksyUjh0ZEtnakU1ZjlNSi1Fb2otaV9IN3FlbUd4aUlvZlhEYjM2TUw0TURoWDRRNjFYdGF3aExjV3RGMktZTjIxcVBzRXE0RS1rYnFNQlk3VkpyR0cxLWRIbHEwUFVhRw?oc=5",
+    "title": "The NYU journalism professor who created an AI version of himself and had his students debate it.",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUo2b2o5ckFDa0JiS2Nhd283dFZjcDNnemJoakFPTXJkZFJvMEd2RTc5YlE5cXhUWHc1Zmh3YWRhRkFGY3QtM3VadTlOZ2FlcmNpanU5YmVPVXRFdVVGZjMybVFzajhmb3MwdWpYclJDdnlpTUE3UTBrVUNEMFM5bC1xWnNzTlVmTGhyRw?oc=5",
     "source": "Washington Square News",
+    "published": "2026-10-23T16:29:53+00:00",
+    "official": false
+   },
+   {
+    "title": "New York City Mayor Zohran Mamdani invests $29.2 million into New York University's quantum lab; says: We",
+    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQjVsQm5WLWxmc2Q5SWJLczkzWDZOVXJMcnNJMFc0dTcxMlRfS2V5R1h6dl81eFVINS1kWm1YMHBieHpaUHVITEtwZURqSkJlRmM4cmVQUkhzQmtkRHZoMC1jT0xQWk9KUVk5bFlKV2lISm1PNXNZbUlaUTZrWTE2TlZPTmVkVVhBeF9JY1NJUmJrTXFKd0w3dVpuVXVqeElzRXkwMnQyOS1Ocl9vNlZqRlcwMzJJdzJzU0RjUHg3UVctSy1lN0ZFQU42R041RDBVT3BpbjRfODV2d3g5NG83T2N2THQzZ0xPVWgza1oxMExUUFhuVFIyREpsSllCamZaYXg4SHNLQ0xsZnAtNUktUWJUS2IzblI1c2VsRGt5QjJybTRxVms2aFZzQ1FTRkowTFlNcHNhN0RlNmdaQ2p2ZTFlWXBwdDk4bjd4X1V3VUFiUHNobXlUTkFyUUVvSk1KNmNsUkpR0gHrAkFVX3lxTFBVSU1KZjVVRkhvWjNsb1Z1LU0zTDZOV0J2emJzS25DQ2dVTFI5VjFCbFR1dWxvdjVmR3Y3ZTBLMEV2bkZ3emo3TkROZDl4NXY4dVhNRW85SjcxaWJuT05uemVmMHZWTmFFQzd0U1h2eVUxR2hFOWJEZTRQaEptUU5Wd3hTNTVVbmw2cnhpaUMzS1hvWVc5bGlRaFI5MEtBTXBCT2hTa2c4WHI4R3NhQnh6dTV6cVFLdHgzdEhjdTNDY2RZM3E5ZmpzYklsX2tEYXRIb0s4NmlUUlBYenc2bnhMNzRYTTRSMW1JMVdOYUg3Q1k2N1ljSnBMSTFTVzRiNG9fS3RobFctQkYyNEV6M2tCclRqVGJiVzU0SHlhQnMtbUliN3FYNlRIZnNZTHNyaXltOGU4UUZJejdzTWI1ZEVqd09XbHJOSENKdV83WHpGUDF5MVV6UnB4OTYtZkZSY0doNEdodkRzN21JWQ?oc=5",
+    "source": "The Times of India",
     "published": "2026-10-15T07:00:00+00:00",
     "official": false
    },
    {
-    "title": "City of New York awards NYU $29.2m to establish a Quantum Fabrication Facility",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUFGQkpNMHFUb3lZYW1aaDQ2SlFLUE84enN1MjR1R21TNFpHbkpaZ1ZOQjZiRUdFMjZpQ1pSVDBoQ1pMaXdCN0xCYklYTFV3bllNUTJpek55OTBpcVJiTFh2VWFrVUtmUDFydDk2VlFyUGRLWWlDV3VuNFQwd1VTcXphTUhxMnRtWHlFMWJCY2dSNE9vQXdnUEN4RV8ycnlzck5uNk9iZjRjNDBORFppa1FmZDI3UXZ0SUE2NQ?oc=5",
-    "source": "Data Center Dynamics",
-    "published": "2026-10-15T07:00:00+00:00",
+    "title": "NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG8zbTRjSzlvRGRaVEVZWldzd09jOFVzWmtjTlhydmc3YXl0RGM1RU42VWQ5U1Y4dnNTb1Q1Y2ctNGdvWEJIVGctWm1uMDVUeUtURUlTMVlMX1FfdkhHSFZ4WG9KeDdpTC1rakV2MXZvOFpYaWg2Zm9QUUsxX25xNWFkVmZmT2pxSi1ONmRPc0kxNkFuT1VyLUQwdmotWlJVZnplbEMwNHdieFlTNWktWENZLTh2X0c0MGdaQlZuWGVueWVHWGFZMW9UMVI4QlBWMGoyNWU4anFFaURJTWc?oc=5",
+    "source": "The Quantum Insider",
+    "published": "2026-10-14T07:00:00+00:00",
     "official": false
    },
    {
-    "title": "New York City and NYU Partner to Launch $284 Million Quantum Fabrication Facility",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTZaUlcteXY5bE9RSzJkbGtKTHp4WE03X2I5NEJCMDJBWnVMNTFLdXlDZjFKSmxycUZlbktJb1VPRnRwQ1pFTjNFcW5RVTJNZWRaQUhvdGU0NHQ1M01LOFg5VFhYcno0WTlQOXl4MGViQ3dhZlJRcHN6QThQUEd6akRIUVJaR1QtTDI2LVQ4b3BYNFk5UGkwOWVhTlRPeS1lN1lqcWgyWS1tQjhCNGdSYnZZd2dBcFHSAbwBQVVfeXFMTl9iclFWVXJfYmRKSThWaWJsMk5qTDNoU3pKdUpSZXU3ek5POGQtSGNlLU9IdFV1NnkzYjhqRXRMN0Y2RG0yUncwQ2ZScGI0VS1JQU1mQkpaN1E5YjBzbHQwU1VtQ3FBT01jVEh2c05LZ3NLWXhZeUZaOHdZS2xOUUdOd1AyWHM0Zjc1MXJjZkhoSEZ4OXg4QlBvZmpfYU5WYW14SFNrYUlZbEpfc3ZrY01neVlUbXV0MW9zY3k?oc=5",
-    "source": "Quantum Computing Report",
+    "title": "NYC secures stake in potential tech revenue with $30M investment in NYU quantum lab",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xaGl0RTlHYUpTRmZFTzJYRDlSWVBESjhxN1NZTUU4dVZMZlMyb3AyVlhfVVppa3Q4LVRndVYxWUUyUnFfb0RxUzdSaUdUTzVucXJTTnFXR3J2bm9MNEI1Zi1FbHQwLWxRMXNwNkp4X0RMdFEzNERKTGpR?oc=5",
+    "source": "amNewYork",
+    "published": "2026-10-14T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "NYU Researchers Are Building AI to Piece Together Broken Archaeological Finds",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEYyZWFoTmtEUFVKR2ZxYmNYVjZOekVUVXlRV29CcF9qbGR4Qm5BdE9KNnJoMEk4SlN6dURwQWRPdXZZbUJWWWozMmJXZG16eVZob2lEZ0hPOXVRd191cFBJcTlNRTJxc2puQUhJNWhvSDhDUWU2cWYwUTduX0dxRER4Um1rQmFIcXBCd0FwR3BDd1dBdUpmeEZyWjNTMEplQ1hoYU9mN1lhX0VHLVRjRDl5TkVHQUNhZFduS3Fpc2tUMzVvMkRNWEh6OA?oc=5",
+    "source": "New York University",
+    "published": "2026-10-14T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "NYC, NYU Commit to Building Quantum Facility",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXJ1RWxraUZIQkNXTXYyZXJ1T2FWRkNkQldHUHZHYjNFVlJ2bWpEZTV3Q3lQOW5hcG44WnkxTk1zN01HM18tb2hmd2Q3cldBZmJFWGlVSHdxRVBKZDBjVC1kTjc3OGdXdDhPc0sxX1VMZ0ZTMnZUVHdPYWNwN0Z0Q1o1emJ6V2JiUzBVY183YmU?oc=5",
+    "source": "GovTech",
+    "published": "2026-10-14T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "NYU’s Gary Marcus on Building AI We Can Trust",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm80UUlRaHFQVi1HeVFxTWk0OHZMYzVhTDFNdndFeUYyWGNjV3ZnYm1KZ0ZlUEQ5UXBad3h0ZG1HZEI2S3Q2VWFDeGphUWw2dDBpTzQ1Qy13UWRYQmlmSUExWnZpRVRqU083bUs2OG9hZ3d5TjBSNkVCM19ZV29nV1NDNjRqS2hJUlRxRmFxTzlCRjY3bkx0Wl9HQ1hjdE5IaFczbg?oc=5",
+    "source": "Bloomberg.com",
+    "published": "2026-10-14T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "NYC invests $30M in NYU quantum lab in exchange for stake in industry",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYThNUGpwTVFEZHJvRVBoSlhEYlNWaFc1M3BqWDhKWFhSLU8wc2VmMUxwQ01oWVN4bWxmcENxTEo3VXdmNElpVE9ZUjNNdFVnSnFXbmdiRnJhUE1kVjJ2YjF5d1NSVndGOElUdndlUFFEMEFzZjlUWWxYSWo3SDRjZ1dLdDdHQ3c2akYzMGdoQk4tOWRQLVE?oc=5",
+    "source": "6sqft",
     "published": "2026-10-14T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "NYU",
   "mode": "signals",
-  "analysed_at": "2026-10-28T01:33:29+00:00",
+  "analysed_at": "2026-11-04T01:38:11+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-28T01:33:29+00:00"
+  "signals_at": "2026-11-04T01:38:11+00:00"
  },
  "SLU": {
-  "headline": "World Wide Technology expands partnership with Saint Louis University, adding an AI‑focused technology collaboration and jersey sponsorship",
+  "headline": "SLU expands its technology partnership with World Wide Technology, adds AI focus, and outsources custodial services",
   "highlights": [
-   "WWT becomes official jersey partner for SLU athletics",
-   "Partnership expanded to include AI research and technology collaboration",
-   "Collaboration announced by both SLU and WWT on Oct 7, 2026"
+   "World Wide Technology partnership expanded to include AI initiatives and jersey branding (sources 23,24,25)",
+   "SLU announces layoffs of all main‑campus custodial staff, moving to an external provider (source 4)",
+   "University equips employees with digital workplace skills (source 8)"
   ],
   "risks": [
-   "Reliance on a single vendor for AI initiatives may limit flexibility",
-   "No disclosed funding amounts, making budget impact unclear"
+   "Potential disruption from custodial staff transition",
+   "Reliance on a single external vendor for facilities services"
   ],
-  "sentiment": "Positive",
-  "sentiment_reason": "New AI partnership signals innovation and external investment",
+  "sentiment": "Neutral",
+  "sentiment_reason": "Both strategic tech partnership and cost‑cutting moves are balanced with operational risk",
   "segments": [
    {
-    "name": "Technology collaboration",
+    "name": "Technology Partnerships",
     "trend": "Up",
-    "note": "AI focus added to existing partnership"
+    "note": "New AI‑focused collaboration with WWT"
+   },
+   {
+    "name": "Facilities Operations",
+    "trend": "Down",
+    "note": "Outsourcing custodial staff"
    }
   ],
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "World Wide Technology expands partnership with SLU to include AI research and technology collaboration",
-    "source_id": 10,
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
-    "source": "slubillikens.com",
-    "published": "2026-10-07"
+    "detail": "World Wide Technology expands collaboration with SLU, adding AI focus",
+    "source_id": 23,
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUQyWVp0Vk5QQjZxWEN3NnRnUi1JQ1lOclFGRjJnVmFIemJPOThWTzdjbEFROEUwUHBkRTMwMXgtX2dMQTYwcjJwZV9ZNy1oakNUbjc1dUNUcUNuUEE1dENXNHpGVVozS3RJT3MyMGlabmlkSmZUYjFKSkVhZTlFY1BtMUlJUVFSMVNLd001RWk3S0I4ejZRdnI1ekZlZkdLOU9lbmFkXzJlemg2V2hVVFZKc0hlZUlQZ2JJU3BqSTZxM182X0gtZ3VXenZXbTVG?oc=5",
+    "source": "KSDK",
+    "published": "2026-10-08"
    },
    {
     "type": "Vendor / outsourcing",
-    "detail": "WWT becomes official jersey partner and technology collaborator with SLU",
-    "source_id": 11,
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWxaWGotWldzbDZqcWd2SXQ0TFFDQmREcTA2OUNZMVZwOHBqTUIwVjBtUUdPRm44UEtPT3gzbmdUMndzRWF4Nk9MUmk2MWRYNFNCcE5tTHhRbzBXTGtLU3g5REZfWFNtZmRvd2VBUTd4d2hTWG9mWG1VMWJ3ZmlXRTZhRjVvVlk3LWZmRGpZVnZ1aDJFSXExUDRkNnNvVXlzRE9tdGNQZUsxMlhiaWdDajZ30gG3AUFVX3lxTE9DQk5RRm1pa0stMTZhUHJnSVFURFpsLTlVSlctYndlUEpyclhQaGtLZEVTVGFfZUd5QllGSTFpbUFhSEM0RDY4QzJCWFNHVVNCd1FYZllRZ09vdjh1LVpzb3l2WTFEcVJqNG1zSXNmaGRIUGVVeHNRZWtNdDItaXVGcTNYRzZTOURUVE5BNXB3Tkw0T3pNeVFWYmQwMm5JaWFzdHg3R1oyVWNOQ0tuVFJhdGxfV1Vxdw?oc=5",
-    "source": "FOX 2",
-    "published": "2026-10-07"
+    "detail": "SLU lays off entire main campus custodial staff, moving to outside provider",
+    "source_id": 4,
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3lpZVVFNWMzdlZVeWMyS29hd1gzamZVRHdPSTBOcXdyeG1lTERyc0JjSS1TUTVpWm1uLUNFcDdlZ2diNUd6TnVseE5QVmhRUWRvVUdmbjlrRzNHdTFDNHZVSFlHN2dZaXRkaExRdlotV2pBXzVaODdnUnpDcGdyOWNjOEZBbl96cGFES25uaTRtUXVYb2JHZWtEUExuYm9oRnBQVzNKcFI0N3lQOEplNWtUakYtZWFWTkUw?oc=5",
+    "source": "The University News",
+    "published": "2026-11-03"
    },
    {
-    "type": "Other",
-    "detail": "Partnership includes branding on jerseys as part of the agreement",
-    "source_id": 12,
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
-    "source": "STLtoday.com",
-    "published": "2026-10-07"
+    "type": "Digital / platform rebuild",
+    "detail": "SLU equips employees with digital workplace skills",
+    "source_id": 8,
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmQ3c1VJTk0yU3N3b2xLUzlxWEt6Qk9Ud0Z2YnQxSXQ5TmU2OE94OGZtSFBBY21tRzFuNkhuM0YydHZwdldtcmpTX1NvVFd4UXhjZGRValBLQW45QXg4RVhVcXRCNk1xWmVUaWs3Mlh5VENQWkJpbXd4aVZMaHplSEl1Umt4ODJORHpqaVN3?oc=5",
+    "source": "Saint Louis University, Philippines",
+    "published": "2026-10-29"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "The new AI‑focused collaboration suggests increased technology spending at SLU",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "AI partnership suggests increased spend, while custodial outsourcing indicates cost‑cutting",
   "talking_points": [
-   "Discuss how SLU plans to integrate AI research into its curriculum and operations",
-   "Explore opportunities for additional technology services beyond the current WWT partnership",
-   "Assess potential for joint cloud or data initiatives linked to the AI collaboration"
+   "Discuss how the AI‑focused partnership with World Wide Technology could create opportunities for additional tech services",
+   "Explore SLU’s needs for supporting the transition to an external custodial provider",
+   "Assess opportunities to expand digital workplace training across the university"
   ],
   "unverified_dropped": [],
   "sources": [
+   {
+    "title": "World Wide Technology begins partnership with SLU",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUQyWVp0Vk5QQjZxWEN3NnRnUi1JQ1lOclFGRjJnVmFIemJPOThWTzdjbEFROEUwUHBkRTMwMXgtX2dMQTYwcjJwZV9ZNy1oakNUbjc1dUNUcUNuUEE1dENXNHpGVVozS3RJT3MyMGlabmlkSmZUYjFKSkVhZTlFY1BtMUlJUVFSMVNLd001RWk3S0I4ejZRdnI1ekZlZkdLOU9lbmFkXzJlemg2V2hVVFZKc0hlZUlQZ2JJU3BqSTZxM182X0gtZ3VXenZXbTVG?oc=5",
+    "source": "KSDK",
+    "published": "2026-10-08T07:00:00+00:00",
+    "official": false
+   },
    {
     "title": "World Wide Technology to Expand Technology Collaboration with SLU; Becomes Official Jersey Partner",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGNEUnktU1kxZkdaYjFUbDF6TnlDajRCVURFRmdiLVlCRmNnRFRyeFFZVlJwNWJzM2JENTBfZVFlbGtNeTZMZjRfT3R2cW92S2xLNE8xWFZtV1hubUtLQ0QyZFh1VHE4LW8tTVRncHpmZ2xTTm9YS01XYU9CTFBRdGFBcGhRWWxna0R3QUhSaWVpZ1JqaG1tR2FJZ3Z0YmZvTXpJSWh2M3J2ZnhUdzZCMFNYQWduUU56Tms1UkZZYWxjZE5SdDZiWmhpTnVaZ1dYYjNLQUNodmU1TTNLaWhsR3A4TFZSRGZHbEFyNGFLZkF2bms?oc=5",
@@ -1782,18 +1809,25 @@
     "official": false
    },
    {
-    "title": "SLU adding World Wide Technology patch to jerseys in partnership agreement",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbjFKb3A1UEppWHJBOEJ2bnlKZlMyeFcyVWdSdExCNmRpMWtLaWFzbXJsWUIxc1NsNDJIY2w4ZXd0YXRZS094bHliVUVBMURLbTZJbUo2YWlhVGdlNUlscFZzV29WcFRCcGlJTXhUX2gySGtVbFJ4WGJKZXMybV9UdTdGRldlT2FDVWFWVmpnVF9Wa0E1NGw4WQ?oc=5",
-    "source": "STLtoday.com",
-    "published": "2026-10-07T07:00:00+00:00",
+    "title": "SLU announces layoffs of entire main campus custodial staff, moving to outside provider",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3lpZVVFNWMzdlZVeWMyS29hd1gzamZVRHdPSTBOcXdyeG1lTERyc0JjSS1TUTVpWm1uLUNFcDdlZ2diNUd6TnVseE5QVmhRUWRvVUdmbjlrRzNHdTFDNHZVSFlHN2dZaXRkaExRdlotV2pBXzVaODdnUnpDcGdyOWNjOEZBbl96cGFES25uaTRtUXVYb2JHZWtEUExuYm9oRnBQVzNKcFI0N3lQOEplNWtUakYtZWFWTkUw?oc=5",
+    "source": "The University News",
+    "published": "2026-11-03T07:19:30+00:00",
+    "official": false
+   },
+   {
+    "title": "SLU equips employees with digital workplace skills",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmQ3c1VJTk0yU3N3b2xLUzlxWEt6Qk9Ud0Z2YnQxSXQ5TmU2OE94OGZtSFBBY21tRzFuNkhuM0YydHZwdldtcmpTX1NvVFd4UXhjZGRValBLQW45QXg4RVhVcXRCNk1xWmVUaWs3Mlh5VENQWkJpbXd4aVZMaHplSEl1Umt4ODJORHpqaVN3?oc=5",
+    "source": "Saint Louis University, Philippines",
+    "published": "2026-10-29T06:35:34+00:00",
     "official": false
    }
   ],
   "company": "SLU",
   "mode": "signals",
-  "analysed_at": "2026-10-28T01:33:56+00:00",
+  "analysed_at": "2026-11-04T01:38:37+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-28T01:33:56+00:00"
+  "signals_at": "2026-11-04T01:38:37+00:00"
  },
  "ACT": {
   "headline": "ACT test scores show mixed state trends with notable retake improvements",
