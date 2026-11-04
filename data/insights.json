@@ -827,90 +827,66 @@
   ]
  },
  "Light & Wonder": {
-  "results_found": false,
-  "period_label": null,
-  "fiscal_label": null,
-  "period_end": null,
-  "results_date": "2026-08-04",
-  "headline": "Light & Wonder announced Q2 2026 results but specific financial figures were not disclosed in the available sources.",
-  "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
-   "operating_income_m": null,
-   "operating_margin_pct": null,
-   "net_income_m": null,
-   "eps": null
-  },
-  "guidance": null,
-  "guidance_change": "none",
-  "segments": [],
+  "headline": "Light & Wonder launches its RAPIDPLAY cashless payment system globally, signalling a push into digital transaction technology",
   "highlights": [
-   "Company issued a press release for the three and six months ended June 30, 2026 (source 1).",
-   "RapidPlay cashless payment system was launched at multiple Nevada casinos (sources 2‑7).",
-   "New SVP and GM of Global Systems appointed (source 8)."
+   "First global installation of RAPIDPLAY at Crystal Bay Casino in Nevada (source 17)",
+   "RapidPlay also deployed at Lake Tahoe casino and other Nevada venues (sources 14,15,16)",
+   "Company is focusing on debt reduction and leverage improvement ahead of Q3 results (sources 22,24)",
+   "Cancellation of 910,559 options and RSUs indicates cost‑control measures (source 35)"
   ],
-  "management_view": null,
   "risks": [
-   "Potential integration risk of the new RAPIDPLAY platform across venues."
+   "Reliance on rapid rollout of new cashless tech may face integration challenges",
+   "High leverage still a concern despite debt‑reduction plans"
   ],
   "sentiment": "Neutral",
-  "sentiment_reason": "Results data missing; only technology rollout news available.",
-  "it_signals": [
+  "sentiment_reason": "New technology rollout is positive but debt and integration risks temper outlook",
+  "segments": [
    {
-    "type": "Other",
-    "detail": "Launch of RAPIDPLAY cashless payment system at Lake Tahoe casino (source 5).",
-    "source_id": 5,
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFFFUlJSNVZjdkowREdJSWhRVERRdXQ4MmJQNkdibFdwVXVLUDRHOVNTdm5yQkxYUE05cUZMS29lZGRyVzFPRHV3UzZSVnlTVzFoSXlmaGR5WGRmZ2ExX2Zadm5QbWZWU2FrSFc5TW9YT1lHc2NQemkydE9IVmMxX2NTdGFsd1JPRHdRVU5qcTRRWXBHX3RYaWlYYk9tUQ?oc=5",
-    "source": "CDC Gaming",
-    "published": "2026-10-27"
+    "name": "Gaming machines & casino slots",
+    "trend": "Up",
+    "note": "Cashless RAPIDPLAY system being added to slot offerings"
    },
    {
-    "type": "Other",
-    "detail": "First global installation of RAPIDPLAY at Crystal Bay Casino (source 11).",
-    "source_id": 11,
+    "name": "iGaming / social casino",
+    "trend": "Flat",
+    "note": "No new product announcements in this period"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Launch of RAPIDPLAY cashless payment platform across multiple Nevada casinos",
+    "source_id": 17,
     "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
     "source": "asgam.com",
     "published": "2026-10-26"
    },
    {
-    "type": "Other",
-    "detail": "Installation of cashless slot machines in Nevada (source 7).",
-    "source_id": 7,
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9MYURSYU9VWjJwbEJsWkl2dlJvd2E1b2xCcHZHM3lDdlNRN2VWOWItY3BjWHk3VEpkRklBZGJoNmNERU5IRTNOVDFXSDlMWjBHT3NWOEdoR1Rkbl9rYlBPUk5LeEVscVhydTE2ei1MdzJwTnAyTWdLelRvNEQ0Q3BvakFRUkRkY254VHpCZ0c2eU0?oc=5",
-    "source": "Casino.org",
-    "published": "2026-10-27"
+    "type": "Digital / platform rebuild",
+    "detail": "Initial deployment of RAPIDPLAY at Crystal Bay Casino",
+    "source_id": 12,
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbnBza0M5YkQ0MDlVWkQzczZMek5YRzFDTExFVURkMy1WZDBXMVZuODF6clc4NmZXTXZpTXU1S0Rnd2NFejlxVHo2Wk16Tm93QXl2SzVneldNUGlKZDE3enNCdG8tSmU1c3lnTXZWM1N6Z2ZaM3EyOG4tSzhJVGRoNXoxRERPWWViX3VPUU5MU2Zhd0lhaTZ3Qw?oc=5",
+    "source": "InterGame Online",
+    "published": "2026-10-28"
    },
    {
-    "type": "Other",
-    "detail": "Appointment of SVP/GM of Global Systems, indicating focus on system expansion (source 8).",
-    "source_id": 8,
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTERFVjJNRTVlZmFWNEQ1Y0ttQkJfcUZyV2FhVlRNUzlPTWI2Uy1neWFQLVNJUkNyUTlBcmJBSHRfNHdkSTFrZVBmczhSSEROTzU5SzAxNEZmVjNvdXpWV2JuZ1RscDdWR1YxRzNsUkFRUktGN2MyUEQ4UW0ycUZkXzRlQnBtekZBQ0JLY2hQaDVRcGpmdDhRYWZ0bG8zZ21F?oc=5",
-    "source": "GGB Magazine",
-    "published": "2026-10-27"
+    "type": "Cost-cutting / restructuring",
+    "detail": "Cancellation of 910,559 options and RSUs to reduce expense",
+    "source_id": 35,
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWVWSllJY050WEEyZjBjbGpvSG9PdHNEbDhHWExhcVVGeGxLQ1daTE9UeHc1ZE15bTAtb3NncHlQbkptWXF3X25TMnJkcWdmVmJ6MFVkUElIRGJJUDYxeUt0NzZwUjNQckMycTJ1WlhNSTZKR1NjaUFRNnl4Q2U4WXNSb0lvaGs4LXJ4eDg0MWRJQlRYZ21qS3UtUXFFVThlYlBxYmNLYnRucFVrMnlpN1VWeW5Cc2V5cjJGcjEtQmxMbDZwVWxTNmhhMUVTTUo2UGc?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-07"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit statements about future technology spending were found.",
+  "it_spend_outlook": "Tightening",
+  "it_spend_reason": "Company is prioritising debt reduction and cost controls, limiting discretionary tech spend",
   "talking_points": [
-   "Discuss Light & Wonder’s rapid rollout of the RAPIDPLAY cashless platform and potential needs for integration support.",
-   "Explore opportunities to partner on further digital payment innovations across their casino network."
+   "How can Light & Wonder’s RAPIDPLAY platform integrate with existing casino management systems?",
+   "What support or partnership opportunities exist for scaling the cashless solution to other jurisdictions?",
+   "Can we assist with data analytics or cloud services to maximise the value of the new cashless transactions?"
   ],
   "unverified_dropped": [],
   "sources": [
-   {
-    "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
-    "source": "8-K",
-    "published": "2026-08-04",
-    "official": true
-   },
-   {
-    "title": "Light & Wonder marks RapidPlay milestone",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaXZ4UzJTQ01Sa0RSMnVWWDRRRDF6WEZUSVRtUzBESElKc3lmd3VyNGlScDk4QmxCdmg4eGJQelNCUEMyUVBRY24zdDR6b01xSjRKbV9Db3FGYl9QN0d0SGJkVm9oWk5iODQ3NGI2RHRFNEtXQXpPUVRHR2d2cXZCYVBXX0lSRDZwb0VOMXhlbG5pZTlmOXNDa3lybEZNdw?oc=5",
-    "source": "InterGame Online",
-    "published": "2026-10-28T10:06:39+00:00",
-    "official": false
-   },
    {
     "title": "Light & Wonder announces first RapidPlay",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbnBza0M5YkQ0MDlVWkQzczZMek5YRzFDTExFVURkMy1WZDBXMVZuODF6clc4NmZXTXZpTXU1S0Rnd2NFejlxVHo2Wk16Tm93QXl2SzVneldNUGlKZDE3enNCdG8tSmU1c3lnTXZWM1N6Z2ZaM3EyOG4tSzhJVGRoNXoxRERPWWViX3VPUU5MU2Zhd0lhaTZ3Qw?oc=5",
@@ -920,9 +896,9 @@
    },
    {
     "title": "Light & Wonder Deploys Its Innovative RAPIDPLAY Cashless System",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0dveDI5R0ptVHc1TVRGN2RCZzFFMTN3aVRnNEx4dXpYYkVvS2VaSVlBanh4Q1BmYnJyWkx5MXdhZTdSU2F4RDY5SHRWZExkUjV6S2oybjB1d0o2RkZBUU5Ba294cVFycFZJVG8wS1V5YUhidXpUbEIxU08xbmpVOEVOQWQwMjJFc0dmQ29URFlZQmd3OWtWTnJzX04?oc=5",
-    "source": "Gambling News",
-    "published": "2026-10-28T07:53:03+00:00",
+    "link": "https://www.gamblingnews.com/news/light-wonder-deploys-its-innovative-rapidplay-cashless-system/",
+    "source": "gamblingnews.com",
+    "published": "2026-10-28T00:53:00+00:00",
     "official": false
    },
    {
@@ -933,24 +909,10 @@
     "official": false
    },
    {
-    "title": "Light & Wonder Debuts RAPIDPLAY Cashless Tech at Crystal Bay",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2MwY0Ryc1ZDN3lKRzlRYTdXeWluTGRCdXJiSVpvVjF4dVNOUjVqa1R4dUJnUmF2d0J1NXBialk4V3gwSEJFRTZkSzZBTWhxVVlBb1c4cDNEeGhLWkd1WGVHaHFfN1RUc3BMUFNQNGdHNW1IWkU0bHBDQTU4eG1RRVFEeDBzc1dwb1Q3bEhLR25kSDBRcjctQkxfNA?oc=5",
-    "source": "RG.org",
-    "published": "2026-10-27T22:23:35+00:00",
-    "official": false
-   },
-   {
-    "title": "No Cash? No Problem: Light & Wonder Installs First Cashless Slot Machines in Nevada",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU9MYURSYU9VWjJwbEJsWkl2dlJvd2E1b2xCcHZHM3lDdlNRN2VWOWItY3BjWHk3VEpkRklBZGJoNmNERU5IRTNOVDFXSDlMWjBHT3NWOEdoR1Rkbl9rYlBPUk5LeEVscVhydTE2ei1MdzJwTnAyTWdLelRvNEQ0Q3BvakFRUkRkY254VHpCZ0c2eU0?oc=5",
-    "source": "Casino.org",
-    "published": "2026-10-27T19:08:13+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder Names Muthu Palanichamy SVP and GM of Global Systems",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTERFVjJNRTVlZmFWNEQ1Y0ttQkJfcUZyV2FhVlRNUzlPTWI2Uy1neWFQLVNJUkNyUTlBcmJBSHRfNHdkSTFrZVBmczhSSEROTzU5SzAxNEZmVjNvdXpWV2JuZ1RscDdWR1YxRzNsUkFRUktGN2MyUEQ4UW0ycUZkXzRlQnBtekZBQ0JLY2hQaDVRcGpmdDhRYWZ0bG8zZ21F?oc=5",
-    "source": "GGB Magazine",
-    "published": "2026-10-27T16:47:02+00:00",
+    "title": "Light & Wonder debuts RapidPlay cashless payment system",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGxJMjIwdVh4M1YyaGRrTXg3SXZTcC1VSHRQZTZZeHh1VUktc1doakc0M19PdTlQN2p1d3B4alFFMzVuaU9BSnlZdjVka18wRFRka3pWMWlrSUdobVN2VjN1VV9yQ011bW1OOVNZRWIxV0NLQmlTbF9fZGhLcWxkbXJ4bw?oc=5",
+    "source": "GGRAsia",
+    "published": "2026-10-27T01:44:06+00:00",
     "official": false
    },
    {
@@ -959,23 +921,34 @@
     "source": "asgam.com",
     "published": "2026-10-26T23:30:00+00:00",
     "official": false
+   },
+   {
+    "title": "What Did Light & Wonder (ASX:LNW) Report for Q2 2026, and How Is It Reducing Leverage?",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHNtelVZREk4Vm10eExJZUdVLVdEQWI4ODBJNWJSWWlDdW9JQ0VXRVRSMXFGSkZzeWliQmk4OGhka1owVF9TUmhfeVlwRl9rcW1WaDh6VlNqSHFvb0kxOWFYRl9VMHcwcTV0MlNQZG9rakxrSjl3MDBZNm5QMGdNaDFOVWxZYzg3WGtLR2NQWkdIUldKbDhXZlAyeW9iRF9KV2E2RUJ6V3lpSndZRUd5clk3Ql9iUlk?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-21T10:51:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder tipped to change 2027 focus from share repurchases to debt reduction in bid to lower leverage",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSFdZTmdONmhzUWQzQWgxd3RWYU85YkU3dnpJQVRrODVMUkNyN3IyZElvMkgwejE2Vmo1VXN3bFRHSS00N3JHdE9hbEJpX09YS0YtY0lMNE5DRW1UN1VJVmU3YzBVZjItQjJYbUNoMVR5aVotbTZVMTMtbE9zMmt6X241enVNUTRuUVQ5ZHY1dkZQazkxXy1GT0kzX2pHOVgxVXNNRFhSbEJ5emFBbzdLWXpQT1BGbjBCd1RjOEpuTlVQTnVJWXBzNnBJc1dSXzUxMXc?oc=5",
+    "source": "IAG – Inside Asian Gaming",
+    "published": "2026-10-21T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Notifies Cessation of 910,559 Options and Restricted Stock Units on 1 October 2026",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWVWSllJY050WEEyZjBjbGpvSG9PdHNEbDhHWExhcVVGeGxLQ1daTE9UeHc1ZE15bTAtb3NncHlQbkptWXF3X25TMnJkcWdmVmJ6MFVkUElIRGJJUDYxeUt0NzZwUjNQckMycTJ1WlhNSTZKR1NjaUFRNnl4Q2U4WXNSb0lvaGs4LXJ4eDg0MWRJQlRYZ21qS3UtUXFFVThlYlBxYmNLYnRucFVrMnlpN1VWeW5Cc2V5cjJGcjEtQmxMbDZwVWxTNmhhMUVTTUo2UGc?oc=5",
+    "source": "Kalkine",
+    "published": "2026-10-07T07:00:00+00:00",
+    "official": false
    }
   ],
   "company": "Light & Wonder",
-  "mode": "results",
-  "analysed_at": "2026-10-28T12:15:22+00:00",
-  "release": {
-   "form": "8-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-04T21:04:24.000Z",
-   "accession": "0000750004-26-000032",
-   "url": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032/lnw-20260804.htm",
-   "title": "Light & Wonder 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/750004/000075000426000032",
-   "published": "2026-08-04"
-  },
-  "release_key": "0000750004-26-000032",
-  "signals_at": "2026-10-28T12:15:22+00:00"
+  "mode": "signals",
+  "analysed_at": "2026-11-04T12:17:34+00:00",
+  "guidance_change": null,
+  "signals_at": "2026-11-04T12:17:34+00:00"
  },
  "Brightstar (IGT)": {
   "results_found": true,
