@@ -404,113 +404,108 @@
   "signals_at": "2026-11-03T15:15:19+00:00"
  },
  "Cox": {
-  "headline": "Cox Automotive pushes AI‑driven data platforms and pricing tools while Cox Communications faces acquisition uncertainty",
+  "headline": "Cox Automotive expands AI‑driven data integration and training initiatives",
   "highlights": [
-   "Cox Automotive adds pricing insights to its wholesale ecosystem (source 1)",
-   "VinSolutions embeds Fullpath's AI‑powered customer data platform into client CRMs (source 6)",
-   "Cox Media legal team expands AI use beyond basic applications (source 3)",
-   "Cox Automotive raises its full‑year new‑vehicle sales forecast (source 8)",
-   "Cox Communications acquisition announced for $34.5 B (source 7)"
+   "Spyne integrates data with Dealertrack DMS (source 3)",
+   "VinSolutions adds Fullpath AI customer data platform (source 7)",
+   "Xtime technology introduced to technical schools (source 5)",
+   "Cox Media explores advanced AI use cases (source 6)"
   ],
   "risks": [
-   "Potential integration challenges from the $34.5 B acquisition of Cox Communications",
-   "Forecast volatility as sales expectations shift (source 8)"
+   "Reliance on third‑party AI vendors may raise integration complexity",
+   "Training programs may need sustained funding to scale"
   ],
-  "sentiment": "Neutral",
-  "sentiment_reason": "Mixed developments: AI investments and sales outlook upgrades versus acquisition uncertainty",
+  "sentiment": "Positive",
+  "sentiment_reason": "Multiple AI and data partnerships signal growth",
   "segments": [
    {
     "name": "Cox Automotive",
     "trend": "Up",
-    "note": "AI data tools and pricing insights support growth"
+    "note": "AI and data integration projects expanding"
    },
    {
     "name": "Cox Media",
-    "trend": "Mixed",
-    "note": "AI expansion but no clear revenue impact"
-   },
-   {
-    "name": "Cox Communications",
-    "trend": "Down",
-    "note": "Acquisition creates integration risk"
+    "trend": "Flat",
+    "note": "Exploring AI beyond basic use"
    }
   ],
   "it_signals": [
    {
+    "type": "Vendor / outsourcing",
+    "detail": "Spyne data integration with Dealertrack DMS",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzSUpENkkyQ01WN0xpUVNCUTZSVG5GRDB5Q3U0TjkwWGxVWGVEVjJhZU1xUGFVQVRyRmlBMDh4S3dpNzhO?oc=5",
+    "source": "CBT News",
+    "published": "2026-10-23"
+   },
+   {
     "type": "AI & tech investment",
-    "detail": "VinSolutions embeds Fullpath's AI‑powered customer data platform into mutual clients' CRM",
-    "source_id": 6,
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWNDUS1DR0JtZWE3bjJ6RzFrTDd6Y0kwQWdicjlDRFVaN2kzOW1pUzFZcHAwWXU3SzFtcm1aLVpuREdOY05wWlhyLXVFN2JlU3RscFFfZHBFM21qR1VCNnAwYlNMY1EyZTQzYkY5cFZ6YTlqa2plODZDM2tYQkdna056d1RvSzd5NU5scmNzRGhHVF92SUNHb3ZiYkZnWUYxcVIyazhaOG51T0QzOE80QnpfaE5zN0ZpejduMTc5Y0duVE1mLVdaMVJjVjNvWURBLXhIN1FKNXpTclJFTm40YzI2ZkVpUU1GaWdFRXlBRk9lRXhvOWxNSFVxdVI?oc=5",
-    "source": "PR Newswire",
+    "detail": "VinSolutions embeds Fullpath AI‑powered CDP",
+    "source_id": 7,
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WbTI3TTZtTDFIbXFjem9Ka0pVWXFfOHZwazg4YVBsejhwWXc1VU1lRTFtTVlkNTBqVHVPTHFGT1EteV9hemJYRmt6S3FwNkhLNGxVdFJQNEhKcy1EYXd6UlhCTQ?oc=5",
+    "source": "CBT News",
     "published": "2026-10-08"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "Cox Media legal team moves beyond basic AI to off‑label applications",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
-    "source": "Law.com",
+    "type": "Other",
+    "detail": "Xtime tech introduced to schools for technician training",
+    "source_id": 5,
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNmlRdkUyVi1WLTgzVlJBdDQwYXl6WHBDajhnTWFISkVZYTJsX21NNGw1WjN3dFV1SmFubmdWRWdpY3d1SXpHaUMyazdxNTB1Rm5PdWtlazBscXhPMk5wZHhEQjFIdHJIc3dIeFRaTDB5RDVvZFJKTkRvZGRzM0txRU9rbzRRWTRZZnZXbDEzX2I3aThHQXRaRmw3bmlZODdteHM4N0FjTmZJY2NCXzliYVJpSHJxR3F4MFIyZVZFS0Q4VHN3bjB6ZGFqamRqM2lkMVFmX09sV3hST3J2X2pEa2FzcTVPa2dKOU5GVjJYNA?oc=5",
+    "source": "Cox Automotive Inc.",
     "published": "2026-10-19"
    },
    {
-    "type": "Digital / platform rebuild",
-    "detail": "Cox Automotive adds transportation pricing insights across its connected wholesale ecosystem",
-    "source_id": 1,
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcnYtN2M2cE1zLVhURGNLT2hYUHI2UUN0alozZDA2alBVNlBscGZtcHNXQ09ob253aWFMWnZQdTZBZklaNzZNRVVmU2hwcTZWRnQ2X0RsQ01Va1hZcWR5TU05bnB0VmRHUWZCN2ltMmNQNjZjeDFKdlRzb2E0SElESi1vaGtWZGdXTVBIeVQ4YzE5SXg3cTFmMFI4cFl6VkZsQTlPQ2dzSG1MeHNJZlJRNFBweXpOWlFBOW03TW1LWURJNGdwRFhnRjUxSUJHWXo2cm1rMVpJQzByRjBaNmxkcTdWSm0yX2JSVlp0SF9aSnRxR2tV?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-10-20"
+    "type": "AI & tech investment",
+    "detail": "Cox Media moves AI use beyond basic applications",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
+    "source": "Law.com",
+    "published": "2026-10-19"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "AI and data platform initiatives suggest investment, but acquisition and market volatility create uncertainty",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "New AI and data integration projects indicate higher IT investment",
   "talking_points": [
-   "Discuss how Cox Automotive's new AI‑driven data platform could benefit your own data integration projects",
-   "Explore opportunities to support Cox Media's expanding AI use cases",
-   "Assess potential technology integration needs arising from the Cox Communications acquisition"
+   "Discuss how Spyne’s integration can streamline dealer data workflows",
+   "Explore opportunities to extend Fullpath’s AI platform across other Cox units",
+   "Assess the impact of Xtime training on future talent pipelines"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Cox Automotive Gives Dealers More Transportation Pricing Insights Across Its Connected Wholesale Ecosystem",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcnYtN2M2cE1zLVhURGNLT2hYUHI2UUN0alozZDA2alBVNlBscGZtcHNXQ09ob253aWFMWnZQdTZBZklaNzZNRVVmU2hwcTZWRnQ2X0RsQ01Va1hZcWR5TU05bnB0VmRHUWZCN2ltMmNQNjZjeDFKdlRzb2E0SElESi1vaGtWZGdXTVBIeVQ4YzE5SXg3cTFmMFI4cFl6VkZsQTlPQ2dzSG1MeHNJZlJRNFBweXpOWlFBOW03TW1LWURJNGdwRFhnRjUxSUJHWXo2cm1rMVpJQzByRjBaNmxkcTdWSm0yX2JSVlp0SF9aSnRxR2tV?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-10-20T13:05:00+00:00",
+    "title": "Spyne announces data integration with Cox Automotive’s Dealertrack DMS, benefiting dealer customers",
+    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzSUpENkkyQ01WN0xpUVNCUTZSVG5GRDB5Q3U0TjkwWGxVWGVEVjJhZU1xUGFVQVRyRmlBMDh4S3dpNzhO?oc=5",
+    "source": "CBT News",
+    "published": "2026-10-23T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Cox Automotive Brings Xtime Technology into Technical Schools to Help Build the Next Generation of Auto Technicians",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNmlRdkUyVi1WLTgzVlJBdDQwYXl6WHBDajhnTWFISkVZYTJsX21NNGw1WjN3dFV1SmFubmdWRWdpY3d1SXpHaUMyazdxNTB1Rm5PdWtlazBscXhPMk5wZHhEQjFIdHJIc3dIeFRaTDB5RDVvZFJKTkRvZGRzM0txRU9rbzRRWTRZZnZXbDEzX2I3aThHQXRaRmw3bmlZODdteHM4N0FjTmZJY2NCXzliYVJpSHJxR3F4MFIyZVZFS0Q4VHN3bjB6ZGFqamRqM2lkMVFmX09sV3hST3J2X2pEa2FzcTVPa2dKOU5GVjJYNA?oc=5",
+    "source": "Cox Automotive Inc.",
+    "published": "2026-10-19T12:43:19+00:00",
     "official": false
    },
    {
     "title": "AI in Practice: Cox Media Legal Moves Beyond Basic AI. Now It's Going 'Off Label'",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
     "source": "Law.com",
-    "published": "2026-10-19T22:16:49+00:00",
+    "published": "2026-10-19T07:00:00+00:00",
     "official": false
    },
    {
-    "title": "Cox Automotive's VinSolutions Embeds Fullpath's AI-Powered Customer Data Platform Directly into Mutual Clients' CRM",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWNDUS1DR0JtZWE3bjJ6RzFrTDd6Y0kwQWdicjlDRFVaN2kzOW1pUzFZcHAwWXU3SzFtcm1aLVpuREdOY05wWlhyLXVFN2JlU3RscFFfZHBFM21qR1VCNnAwYlNMY1EyZTQzYkY5cFZ6YTlqa2plODZDM2tYQkdna056d1RvSzd5NU5scmNzRGhHVF92SUNHb3ZiYkZnWUYxcVIyazhaOG51T0QzOE80QnpfaE5zN0ZpejduMTc5Y0duVE1mLVdaMVJjVjNvWURBLXhIN1FKNXpTclJFTm40YzI2ZkVpUU1GaWdFRXlBRk9lRXhvOWxNSFVxdVI?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-10-08T12:04:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Cox Communications acquired by nation's largest cable provider in $34.5B deal",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ2pwY3k1M0JZTU5qVU8wX2YtN3FONk5MVjR2aVg0d3Z2SGV6R0lHNy1TSWVIaldBeEQzZFVjcUluTDZvLTI4b3Y0VmYyeUNnMWI0bHlhQkcyNFhHY21DUlFxWEFucDdndzhBNUZ2YW5wOGNrRXU5Mk5QUTlCZ003QzhZTE44Q0VUMHRZX2UzbFo?oc=5",
-    "source": "Omaha World-Herald",
-    "published": "2026-09-28T06:30:24+00:00",
-    "official": false
-   },
-   {
-    "title": "Cox Automotive Raises Full-Year New-Vehicle Sales Forecast; September Sales Expected to Increase 6.5% Year Over Year, as Asian Brands Gain Share",
-    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOY0RVRUZaS243azhfRGN0TVN1a2pkX2dlb0VHM1FyM3dJRXVSZGNfdk1Ici0zeHJUc0p6eXl2Skp5Y0EtWnB6UWVrYUtkclF2dFNNaVppUHEyczJmcDlNVThabmwyREx2aHkyLXhnVi0zN2N2cnFvYlNmRzd4VGdUQlp5RlZIT2RaN3hVU2ZZejVDQ01jSVB6RlU4VUFydjd1TkwyZXhVQ0N0X2wwZXl4d0h5aUhfM2NsYloyQ3MxMVFPOWRzcmtGU2R3OVhUVjdUOXFSOE85SVdhMlBmUmU5VXFUTGR1Z085Q1J6enk0MUZsczdXV25TUmVaQy1jaXBLbk5fZWlsMmVKRTljeDg0WEs4VXdPOUo5Q0hPVG5zODkzbG8?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-09-24T07:00:00+00:00",
+    "title": "Cox Automotive's VinSolutions embeds Fullpath's AI-powered customer data platform directly into mutual clients' CRM",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WbTI3TTZtTDFIbXFjem9Ka0pVWXFfOHZwazg4YVBsejhwWXc1VU1lRTFtTVlkNTBqVHVPTHFGT1EteV9hemJYRmt6S3FwNkhLNGxVdFJQNEhKcy1EYXd6UlhCTQ?oc=5",
+    "source": "CBT News",
+    "published": "2026-10-08T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "Cox",
   "mode": "signals",
-  "analysed_at": "2026-10-20T22:02:07+00:00",
+  "analysed_at": "2026-11-05T12:26:56+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-20T22:02:07+00:00"
+  "signals_at": "2026-11-05T12:26:56+00:00"
  },
  "LA Times": {
   "headline": null,
@@ -1439,43 +1434,43 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Career Studios launch includes AI tutor and success coach",
-    "source_id": 45,
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bVRiQUpjaTBQakRfYmlFTHVKN05nTm5scDAwMy1CS3RaOUVrRl9RbHY5akdad3FrU3h5THctSElyXzZtSngxUXEzUS1kdDNJeWhLX2F5bzg2ME1XVk5UeWljVjY1NFVuV3pyT3k5X3A0UkFFX3Jpd3dURjhOQQ?oc=5",
+    "detail": "Pearson puts teachers at the heart of Thailand's AI‑powered English learning future",
+    "source_id": 7,
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb256WDc3TXBEeW53TkJTYmNubFlEenZzQWtDNm9UR3p0S3JwMUlsY3VHbmJRS3NMdnctYUFxX0hNQXNmcnhhcUJQeldqWGI1d2VDY3lDWHBYUTNqckhoTk4tcU5vR1g5ajhna2JvTkFqZmNKNnJ5UWxNRE1ma0JRYk9OMldWRllHNEh6VnpES2p2RUcyd0p3N0xGWkhXOU5HSkpQa0tNbTk2cFdKY0IyYjFxNlh0YUlOTDJvZEo0OGQ2ZG1VM2huSzVXQzdTY3lUV0VPaUQ3Tjl5dXpTSkVyNEo5UlVsUDF6R2fSAe8BQVVfeXFMTnFVN2lpMldGbklTN01MdnoyLUhXM2c1aDB1VTZ0eEdHOXhZX1lXX1lJdTZqOS1CM0c5aXdjSjJEdWZKNXZqOTI0T3ljb0RMMy1GUjhOYmplNHRacFltLUd4cDFOc2puVE1nTU9CLWtVU1FwQXhfYkIta3ZzdjM0LWhiVDRRMDRDY3h2WjJ5d2lxaUF6QUpfRXV0aWVQeDh3Yld4WERTZWNfQ0hMMkVpUm9yUlNCSnU5TjlmZkxEQTZld282ZGhtWTROZW9YUzNJUFdzb0k2OS1uLUhxaFgzUmRYTUFXZlJMSzlmejdsbjQ?oc=5",
+    "source": "The Manila Times",
+    "published": "2026-11-03"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Career Studio pilot uses an AI tutor and success coach for adult learners",
+    "source_id": 38,
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGtYRERSN2w1VkV2YVRWOVJwOGp6ZVpQRms2QXhGRG4yWmVJSE4zT1lCcWdibXZCcHZuRGYyWGRDTzk4QTQ1UGExOFFvMWhEZUl2dDZHZ015NnhGZnFzS1FxQzljaVU3RGZmRTN1ZG1HT2VnUnFWd1hnbFhrUVVaS0JpbE9KemR0MVdzVTc5YjFob0ZRNFp0c04ySklfX2dOYmtfako0REczR2NKemZvb2tsYmQ5VE5MLVlPaW1Ddw?oc=5",
     "source": "Stock Titan",
     "published": "2026-10-14"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Career Studios announced, targeting adult learners",
-    "source_id": 41,
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnFfOG1KRDgtNHpOYlVKODBBMEdnZ1Q2MUw1Z1N3ZU9XYnVHTHdwckhmTFh1V1l1MkstRG0yNUpFcUNWaTRISENVXzNCLWxBQXBVbmtuUUVTWUR0dndEUXNqV3JnU1lfLXdmVlRQQnNDSDVVV2JZazZIUHUzRXYzU2dlQjRUMm5fSk5yMzUtTTcyYnVXMWxUUDNPSWktTjB0NFRaRnJldTBkdjhuUTNzaEpsM0Y1Vzc4VjNsWWdObnA2ZU9rdEU1ME9Hb2dmM28?oc=5",
-    "source": "ad-hoc-news.de",
-    "published": "2026-10-18"
-   },
-   {
-    "type": "Cost-cutting / restructuring",
-    "detail": "Four‑unit reshape and management changes",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemdZRkpGY2YzdnJvdndhQ08wbVRTV2lPUnBjNk1xMmJpM1RpTGxFeTZRZ0VfR2xVSW1OYnhrS3I3OXlOM2VIWTh4Q2tqZVNfLVpCWF84VnlCYS1TbkdjdjlycjdscEwybzBzQkNNalZINHV5RklLSEVXcUZXYmVVclBKbjRKX3RTSXNkSE5NdVpJMjB5QmkzTTA2UHN3NXJHTG54Nmp3bUtUaHVXNGExc05laEdWQ3c?oc=5",
-    "source": "EdTech Innovation Hub",
-    "published": "2026-10-28"
-   },
-   {
-    "type": "Cost-cutting / restructuring",
-    "detail": "President Higher Education leaves, new US unit created",
+    "detail": "Pearson positions AI at the heart of its learning strategy in recent market commentary",
     "source_id": 34,
-    "link": "https://www.marketscreener.com/news/pearson-plc-announces-management-changes-ce785cd9d089f12c",
-    "source": "marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2VuZWdfU0QySEhnV1BxZ3dwQmVfT0tyMG5uZmtuczJGdGkyYWdoZk9iY0t5MmU0RjU1bV9XcHlCZzljWHZMZzBfUl9tQ2JVVWZPXzN5Y3FKd1NGVC1WRXQyazVMRDlncnAyRm5JTlNGaG5nSHV2ampvS1d4aDNlQmVHcVFzeWZyajRLX0FOVl91X0lhS0FoOGpHOXUtYVBlU3R1UzdZMGZqbnoxMV9zVGVTdXFzQ28?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-19"
+   },
+   {
+    "type": "Other",
+    "detail": "Pearson narrows 2026 profit outlook while noting accelerated growth in Q3",
+    "source_id": 24,
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSDhwMEY4TGh0OXZhRGI3RGFTVmRUTmZuaEhpeEhXZ1htWDdWOV94ek82LXV2YmJNUFRKQlgxUVd5MzRNUmZlV1JPTU5wc3JyNGZzc0doZ2ppLXQ0X2dxeDNjemNEQnJKcFlyeDlGYTFoR2ZENjloTktFT2hDUWNBdFYyUmNTMlNRZkVockNnbGhSNWNqSmt6ci1pLXNOZkd4bHZsWXZBRkVITktSb2NhOWxuTmxfcE9xcTY4T1NISkNET1NOUVRsR2FYNnpWZ1REZVl1S0pn?oc=5",
+    "source": "Investing.com UK",
     "published": "2026-10-22"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Growth in virtual learning and AI‑driven products signals higher tech investment",
+  "it_spend_reason": "Increased AI product development and platform pilots indicate higher technology investment",
   "talking_points": [
-   "Discuss how Pearson’s AI Career Studios could integrate with your AI platforms",
-   "Explore partnership opportunities around the new four‑unit structure and digital transformation",
-   "Address potential support needs for Pearson’s restructuring and cost‑optimization initiatives"
+   "How can your AI and data platforms support Pearson’s Career Studio rollout?",
+   "What opportunities exist for cloud or data‑analytics partners in scaling the Thailand English‑learning AI solution?",
+   "Can we help Pearson accelerate its AI‑driven virtual learning initiatives while managing cost pressures?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1501,48 +1496,34 @@
    "published": "2026-10-22"
   },
   "release_key": "0001654954-26-009084",
-  "signals_at": "2026-10-29T12:14:36+00:00",
+  "signals_at": "2026-11-05T12:27:22+00:00",
   "signal_sources": [
    {
-    "title": "Pearson posts 6% Q3 revenue growth as it prepares major business restructure",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemdZRkpGY2YzdnJvdndhQ08wbVRTV2lPUnBjNk1xMmJpM1RpTGxFeTZRZ0VfR2xVSW1OYnhrS3I3OXlOM2VIWTh4Q2tqZVNfLVpCWF84VnlCYS1TbkdjdjlycjdscEwybzBzQkNNalZINHV5RklLSEVXcUZXYmVVclBKbjRKX3RTSXNkSE5NdVpJMjB5QmkzTTA2UHN3NXJHTG54Nmp3bUtUaHVXNGExc05laEdWQ3c?oc=5",
-    "source": "EdTech Innovation Hub",
-    "published": "2026-10-28T01:15:54+00:00",
+    "title": "Pearson puts teachers at the heart of Thailand's AI-powered English learning future",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb256WDc3TXBEeW53TkJTYmNubFlEenZzQWtDNm9UR3p0S3JwMUlsY3VHbmJRS3NMdnctYUFxX0hNQXNmcnhhcUJQeldqWGI1d2VDY3lDWHBYUTNqckhoTk4tcU5vR1g5ajhna2JvTkFqZmNKNnJ5UWxNRE1ma0JRYk9OMldWRllHNEh6VnpES2p2RUcyd0p3N0xGWkhXOU5HSkpQa0tNbTk2cFdKY0IyYjFxNlh0YUlOTDJvZEo0OGQ2ZG1VM2huSzVXQzdTY3lUV0VPaUQ3Tjl5dXpTSkVyNEo5UlVsUDF6R2fSAe8BQVVfeXFMTnFVN2lpMldGbklTN01MdnoyLUhXM2c1aDB1VTZ0eEdHOXhZX1lXX1lJdTZqOS1CM0c5aXdjSjJEdWZKNXZqOTI0T3ljb0RMMy1GUjhOYmplNHRacFltLUd4cDFOc2puVE1nTU9CLWtVU1FwQXhfYkIta3ZzdjM0LWhiVDRRMDRDY3h2WjJ5d2lxaUF6QUpfRXV0aWVQeDh3Yld4WERTZWNfQ0hMMkVpUm9yUlNCSnU5TjlmZkxEQTZld282ZGhtWTROZW9YUzNJUFdzb0k2OS1uLUhxaFgzUmRYTUFXZlJMSzlmejdsbjQ?oc=5",
+    "source": "The Manila Times",
+    "published": "2026-11-03T14:40:00+00:00",
     "official": false
    },
    {
-    "title": "Pearson reports accelerating growth, confirms full-year guidance",
-    "link": "https://www.reuters.com/world/uk/pearson-reports-accelerating-growth-confirms-full-year-guidance-2026-10-22/",
-    "source": "reuters.com",
-    "published": "2026-10-22T15:08:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Virtual Learning revenue rises 17% over nine months. Pearson (PSO) posts faster Q3 Group growth.",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXZNdFlfSUFkMTBMT1JXaTJTT0l1eGdHMm42SlRXdng3bkpWRm5fX1U2cm5YaHAzUEdIWWVSU0xKNU56SDlael9qMXZFRTNhZGhFbXBkT0Vua3d5bWlNbGt6UV8wSDEzZE1XLUgtQWVSSkYyS3oyLWpEM0paM2E5Y2xia1BYa3FqZXNzTlF0cGtfN3hLYzZzSWF5R0tzbFdZRWdIS3BxSmo3Zw?oc=5",
-    "source": "Stock Titan",
-    "published": "2026-10-22T10:43:46+00:00",
-    "official": false
-   },
-   {
-    "title": "Pearson plc Announces Management Changes",
-    "link": "https://www.marketscreener.com/news/pearson-plc-announces-management-changes-ce785cd9d089f12c",
-    "source": "marketscreener.com",
-    "published": "2026-10-22T01:35:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Pearson launches Career Studios: UBS keeps Pearson stock target at GBp 1,300",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnFfOG1KRDgtNHpOYlVKODBBMEdnZ1Q2MUw1Z1N3ZU9XYnVHTHdwckhmTFh1V1l1MkstRG0yNUpFcUNWaTRISENVXzNCLWxBQXBVbmtuUUVTWUR0dndEUXNqV3JnU1lfLXdmVlRQQnNDSDVVV2JZazZIUHUzRXYzU2dlQjRUMm5fSk5yMzUtTTcyYnVXMWxUUDNPSWktTjB0NFRaRnJldTBkdjhuUTNzaEpsM0Y1Vzc4VjNsWWdObnA2ZU9rdEU1ME9Hb2dmM28?oc=5",
-    "source": "ad-hoc-news.de",
-    "published": "2026-10-18T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Pearson's career programs will give adult learners an AI tutor and a success coach.",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bVRiQUpjaTBQakRfYmlFTHVKN05nTm5scDAwMy1CS3RaOUVrRl9RbHY5akdad3FrU3h5THctSElyXzZtSngxUXEzUS1kdDNJeWhLX2F5bzg2ME1XVk5UeWljVjY1NFVuV3pyT3k5X3A0UkFFX3Jpd3dURjhOQQ?oc=5",
+    "title": "An AI tutor and success coach will support adult learners in Pearson's pilot Career Studio for Work",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGtYRERSN2w1VkV2YVRWOVJwOGp6ZVpQRms2QXhGRG4yWmVJSE4zT1lCcWdibXZCcHZuRGYyWGRDTzk4QTQ1UGExOFFvMWhEZUl2dDZHZ015NnhGZnFzS1FxQzljaVU3RGZmRTN1ZG1HT2VnUnFWd1hnbFhrUVVaS0JpbE9KemR0MVdzVTc5YjFob0ZRNFp0c04ySklfX2dOYmtfako0REczR2NKemZvb2tsYmQ5VE5MLVlPaW1Ddw?oc=5",
     "source": "Stock Titan",
     "published": "2026-10-14T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "FTSE 100 Pearson (LSE:PSON) Puts AI at the Heart of Learning",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2VuZWdfU0QySEhnV1BxZ3dwQmVfT0tyMG5uZmtuczJGdGkyYWdoZk9iY0t5MmU0RjU1bV9XcHlCZzljWHZMZzBfUl9tQ2JVVWZPXzN5Y3FKd1NGVC1WRXQyazVMRDlncnAyRm5JTlNGaG5nSHV2ampvS1d4aDNlQmVHcVFzeWZyajRLX0FOVl91X0lhS0FoOGpHOXUtYVBlU3R1UzdZMGZqbnoxMV9zVGVTdXFzQ28?oc=5",
+    "source": "Kalkine Media",
+    "published": "2026-10-19T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Earnings call transcript: Pearson narrows 2026 outlook as growth quickens in Q3",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSDhwMEY4TGh0OXZhRGI3RGFTVmRUTmZuaEhpeEhXZ1htWDdWOV94ek82LXV2YmJNUFRKQlgxUVd5MzRNUmZlV1JPTU5wc3JyNGZzc0doZ2ppLXQ0X2dxeDNjemNEQnJKcFlyeDlGYTFoR2ZENjloTktFT2hDUWNBdFYyUmNTMlNRZkVockNnbGhSNWNqSmt6ci1pLXNOZkd4bHZsWXZBRkVITktSb2NhOWxuTmxfcE9xcTY4T1NISkNET1NOUVRsR2FYNnpWZ1REZVl1S0pn?oc=5",
+    "source": "Investing.com UK",
+    "published": "2026-10-22T07:00:00+00:00",
     "official": false
    }
   ]
