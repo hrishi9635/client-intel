@@ -254,7 +254,7 @@ date,company,close
 2025-11-06,WBD / Skydance,14.5305
 2025-11-07,WBD / Skydance,14.825
 2025-11-10,WBD / Skydance,14.9723
-2025-11-11,WBD / Skydance,16.4351
+2025-11-11,WBD / Skydance,16.4352
 2025-11-12,WBD / Skydance,15.2865
 2025-11-13,WBD / Skydance,15.0901
 2025-11-14,WBD / Skydance,15.3945
@@ -1233,8 +1233,6 @@ date,company,close
 2026-11-04,Bally's,13.48
 2026-11-05,Bally's,12.62
 2026-11-06,Bally's,12.38
-2025-11-06,Light & Wonder,124.85
-2025-11-07,Light & Wonder,124.85
 2025-11-10,Light & Wonder,125.07
 2025-11-11,Light & Wonder,138.82
 2025-11-12,Light & Wonder,140.2
@@ -1488,6 +1486,7 @@ date,company,close
 2026-11-04,Light & Wonder,125.0
 2026-11-05,Light & Wonder,121.04
 2026-11-06,Light & Wonder,116.46
+2026-11-09,Light & Wonder,115.41
 2025-11-06,Brightstar (IGT),15.5102
 2025-11-07,Brightstar (IGT),15.3986
 2025-11-10,Brightstar (IGT),15.7335
@@ -2320,7 +2319,7 @@ date,company,close
 2026-02-16,Pearson,9.0378
 2026-02-17,Pearson,9.2957
 2026-02-18,Pearson,9.2757
-2026-02-19,Pearson,9.2318
+2026-02-19,Pearson,9.2317
 2026-02-20,Pearson,9.2777
 2026-02-23,Pearson,9.2817
 2026-02-24,Pearson,9.3337
