@@ -139,169 +139,111 @@
  },
  "WBD / Skydance": {
   "results_found": true,
-  "period_label": "Q2 2026",
-  "fiscal_label": "Q2 2026",
-  "period_end": "2026-06-30",
-  "results_date": "2026-08-04",
-  "headline": "Skydance raised its full‑year 2026 adjusted EBITDA outlook to $3.8‑$3.9 bn.",
+  "period_label": "Q3 2026",
+  "fiscal_label": "Paramount Skydance Q3",
+  "period_end": "2026-09-30",
+  "results_date": "2026-11-09",
+  "headline": "Paramount Skydance posted $73 m net earnings and $1 bn adjusted EBITDA (14% margin) on $7 bn revenue, which grew 5% YoY.",
   "metrics": {
-   "revenue_m": null,
-   "revenue_growth_yoy_pct": null,
-   "operating_income_m": null,
-   "operating_margin_pct": null,
-   "net_income_m": null,
+   "revenue_m": 7000,
+   "revenue_growth_yoy_pct": 5,
+   "operating_income_m": 1000,
+   "operating_margin_pct": 14,
+   "net_income_m": 73,
    "eps": null
   },
-  "guidance": "Full‑year 2026 adjusted EBITDA now expected at $3.8‑$3.9 bn (12.8% margin) and free‑cash‑flow conversion of at least 10%.",
-  "guidance_change": "raised",
+  "guidance": "Paramount remains on track for the high end of its 2026 profitability outlook at $3.9 bn.",
+  "guidance_change": "none",
   "segments": [
+   {
+    "name": "Studios",
+    "trend": "Up",
+    "note": "Revenue grew 23%."
+   },
    {
     "name": "Streaming (Paramount+)",
     "trend": "Up",
-    "note": "Added ~2 m subscribers to reach 81.6 m, best retention quarter."
+    "note": "Revenue grew 21% with ARPU up ~14%."
    },
    {
     "name": "TV Media",
     "trend": "Up",
-    "note": "Revenue down 7% YoY but profitability improved."
-   },
-   {
-    "name": "Studios",
-    "trend": "Mixed",
-    "note": "Theatrical slate nearly doubled to 15 films in 2026."
+    "note": "Achieved a 34% adjusted EBITDA margin."
    }
   ],
   "highlights": [
-   "Paramount+ subscriber base grew to 81.6 m, +2 m in Q2.",
-   "Full‑year adjusted EBITDA outlook raised to $3.8‑$3.9 bn.",
-   "Platform unification of Paramount+ and Pluto TV onto a single tech stack.",
-   "CBS delivered 7 of the top‑10 broadcast series, boosting TV Media profitability."
+   "Net earnings $73 m; adjusted EBITDA $1 bn (14% margin).",
+   "Revenue $7 bn, up 5% YoY.",
+   "Paramount+ revenue up 21% and ARPU up ~14%.",
+   "Studios revenue up 23%; TV Media EBITDA margin 34%.",
+   "Targeting at least $6 bn of annualized run‑rate synergies within three years."
   ],
-  "management_view": "Management says the company is delivering stronger streaming growth while driving efficiency across TV Media and studios.",
+  "management_view": "Management says the company is on track to hit the high end of its 2026 profitability outlook.",
   "risks": [
-   "Integration risk of the Warner Bros. Discovery combination.",
-   "Potential cost pressures if technology investments do not yield expected efficiencies."
+   "Warner Bros. film slate expected to underperform in Q4.",
+   "Integration of Warner Bros. Discovery may delay synergies.",
+   "High net leverage target requires disciplined cost reductions."
   ],
   "sentiment": "Positive",
-  "sentiment_reason": "Guidance raised and subscriber growth beat expectations.",
+  "sentiment_reason": "Strong earnings beat, revenue growth and clear synergy plan.",
   "it_signals": [
    {
-    "type": "Layoffs",
-    "detail": "Six Warner Bros executives exit Skydance communications team",
-    "source_id": 8,
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlVka05QckwwT3N1M095d25UUTZMQ2l2SGI3Wi1wRkwwQVpNd0FKZVp5S09qMUtaN3BBOXlkcWtMb2UxTjlxYkF2clJRYTJRclhTWU5hdUVYMmlDTDlHZ0tSS2UxMTE3NkNaam5aYXNsWTgtdlRkVXFqMmdOYXlaR0dkaHNUQVRMUUZ4dnJDYVNZOGxISEFYNWdadl9pU0N4VHVUOVVxUjZJTUZMSVBJVkIwTUwxWV83WE1hc3cyMVFiRmV1Y2pja3NOQThnWEJOeGfSAdcBQVVfeXFMT0dBUE9tcWFsR1ZSYk1pd1VWbmxYb0F1dDFXS2xCRmw2NmRIU0s3MXZNOGxkMWVKdEMzQjI3VlZESllqZkpvVkczVDNiUHpWVnFLaVV3amdldEdBa2VfMFZnNzZCZGU2eDgyOXNic2oxRm9VcHdLYnZMNDJPb21TdFUyYjUtckpGVHYwZmltM0Q4RWJ3eUREa1FSSHA4Yl9iZXE0Q3BydUtzQkRMX1ZXVmxsd1RNcE9hb0k4bDc0SzBpb2Jkazd0YjRDcGx5bnlneXdVREowMmc?oc=5",
-    "source": "Storyboard18",
-    "published": "2026-11-03"
-   },
-   {
-    "type": "Layoffs",
-    "detail": "Eight communications executives depart in post‑merger rejig",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVpIUmplRzdqdUoyRUlQWHZKYnZFb3c3d3oyNWZmVTJXTWRoT3hGUHpqUDlySUxRczVqVHRvMU1peXZreUxQRGlTUmNQVzVkRWtwbG82YndNekkxVm8wMWx0eEx2ZC1WQ0xRNEpPSDdJNUx1T2hWSG8yTDRVT0J2cy0wSUliNEFHa3FDY3hlU1JEaEliZ3NMdEJ0QTFrSERvbTdSLQ?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-03"
-   },
-   {
     "type": "Cost-cutting / restructuring",
-    "detail": "Five‑day office mandate with voluntary buyout program",
-    "source_id": 42,
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTROODRCR09NOFpOUkVEczFUdXVmVk92MU5nTW5JaTJsc3ZWc1UwUFlZTFBuS0xBbmRJWFhRN1kwenN4LUtBX1VVRzhaRmZIcjh5SUE5X3lhLVU4Wk12SkxrUXdnaGxJT3ZvZ2I1dzlOaXBsNmdSN2VZYTZ4MFRZTWZyQ25XZVpYQl9SWU1UX2NvVTFXbWI3dVpfSXJUTjlpdmJlMklmOFJyZUN6OFFyUmJFbDNWbHU1dklZR2l1NVpvRUlkVklKREdhM24?oc=5",
-    "source": "GamesIndustry.biz",
-    "published": "2026-10-29"
+    "detail": "Targeting at least $6 bn of annualized run‑rate synergies across more than 20 workstreams.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
+    "source": "8-K",
+    "published": "2026-11-09"
    },
    {
-    "type": "M&A / spin-off",
-    "detail": "Merger aims for $6 bn synergy target",
-    "source_id": 12,
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGVYYURpa1JldWYyaDJ2eEYxemlOZXdVZHBlZHF2NmZQSnhJanRFbDZHVUI4UVpUZ0ljbktDTEZlMjFGNXVTVjRJZnNsZVFyY1FkUkd0NzBQUjNia21OUTlJWDlMQUszT09oUHFtODdGMU5rYUVFNUo0b1FXRUNJV0tENWQzRVRaYlAtSEZ4Q3VCMTROcUs1cVp2Yk5Tc3Z0SU1DdXFPdnRkTmlzWWY3S25pVC1JOVdUSC1XYlRMZU0zak92c21JZ0NaQQ?oc=5",
-    "source": "ad-hoc-news.de",
-    "published": "2026-11-02"
+    "type": "Digital / platform rebuild",
+    "detail": "Planning to launch a bundled offering of HBO Max and Paramount+ in early 2027.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
+    "source": "8-K",
+    "published": "2026-11-09"
    },
    {
     "type": "Other",
-    "detail": "New TV and streaming leadership structures announced",
-    "source_id": 33,
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3llczFHemV2dXl4ck5yRHJTZFNqclV2T3ljQUszcFdDSXV0MXp0dFBDbG0yLS10UzZVNkxPNnU2ZDNweVF3bXZEekU3UkdmNER3NGNNOEpvUWlnUlV1Mnh1NEVFREttYldsVXNNbmJsRzhxRmYyUUNOck40WktZMU9GNnV5bnZIcXR1YWpqTHFMQmxZNlJla1dPTGZwR2drbjJZOE9uM0s1TXc?oc=5",
-    "source": "The Hollywood Reporter",
-    "published": "2026-10-29"
+    "detail": "Executing plan to reduce net leverage to 3.0x by end‑2029 and achieve investment‑grade credit metrics.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
+    "source": "8-K",
+    "published": "2026-11-09"
    }
   ],
   "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Cost‑cutting measures and integration pressures suggest reduced IT investment",
+  "it_spend_reason": "Large $6 bn cost‑cut and synergy program signals reduced discretionary tech spend.",
   "talking_points": [
-   "How will Skydance’s five‑day office policy affect vendor engagement and remote‑work tools?",
-   "What opportunities exist to support the $6 bn synergy drive with technology platforms?",
-   "Can we help mitigate talent loss by offering managed services for critical IT functions?"
+   "How will the $6 bn synergy program affect technology vendor contracts?",
+   "Opportunities around the upcoming HBO Max‑Paramount+ bundle launch.",
+   "Implications of DTC revenue growth (15% pro‑forma) for cloud and data infrastructure."
   ],
   "unverified_dropped": [],
   "sources": [
    {
     "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
     "source": "8-K",
-    "published": "2026-08-04",
+    "published": "2026-11-09",
     "official": true
    }
   ],
   "company": "WBD / Skydance",
   "mode": "results",
-  "analysed_at": "2026-10-13T19:18:19+00:00",
+  "analysed_at": "2026-11-09T22:16:22+00:00",
   "release": {
    "form": "8-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-05T00:03:41.000Z",
-   "accession": "0002041610-26-000052",
-   "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+   "filed": "2026-11-09",
+   "accepted": "2026-11-09T21:04:26.000Z",
+   "accession": "0002041610-26-000062",
+   "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
    "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052",
-   "published": "2026-08-04"
+   "index": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062",
+   "published": "2026-11-09"
   },
-  "release_key": "0002041610-26-000052",
-  "signals_at": "2026-11-03T22:16:41+00:00",
-  "signal_sources": [
-   {
-    "title": "EXCLUSIVE: Skydance shuffles distribution ranks as eight executives depart",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVpIUmplRzdqdUoyRUlQWHZKYnZFb3c3d3oyNWZmVTJXTWRoT3hGUHpqUDlySUxRczVqVHRvMU1peXZreUxQRGlTUmNQVzVkRWtwbG82YndNekkxVm8wMWx0eEx2ZC1WQ0xRNEpPSDdJNUx1T2hWSG8yTDRVT0J2cy0wSUliNEFHa3FDY3hlU1JEaEliZ3NMdEJ0QTFrSERvbTdSLQ?oc=5",
-    "source": "Reuters",
-    "published": "2026-11-03T19:48:29+00:00",
-    "official": false
-   },
-   {
-    "title": "Six Warner Bros executives exit Skydance communications team in leadership rejig",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlVka05QckwwT3N1M095d25UUTZMQ2l2SGI3Wi1wRkwwQVpNd0FKZVp5S09qMUtaN3BBOXlkcWtMb2UxTjlxYkF2clJRYTJRclhTWU5hdUVYMmlDTDlHZ0tSS2UxMTE3NkNaam5aYXNsWTgtdlRkVXFqMmdOYXlaR0dkaHNUQVRMUUZ4dnJDYVNZOGxISEFYNWdadl9pU0N4VHVUOVVxUjZJTUZMSVBJVkIwTUwxWV83WE1hc3cyMVFiRmV1Y2pja3NOQThnWEJOeGfSAdcBQVVfeXFMT0dBUE9tcWFsR1ZSYk1pd1VWbmxYb0F1dDFXS2xCRmw2NmRIU0s3MXZNOGxkMWVKdEMzQjI3VlZESllqZkpvVkczVDNiUHpWVnFLaVV3amdldEdBa2VfMFZnNzZCZGU2eDgyOXNic2oxRm9VcHdLYnZMNDJPb21TdFUyYjUtckpGVHYwZmltM0Q4RWJ3eUREa1FSSHA4Yl9iZXE0Q3BydUtzQkRMX1ZXVmxsd1RNcE9hb0k4bDc0SzBpb2Jkazd0YjRDcGx5bnlneXdVREowMmc?oc=5",
-    "source": "Storyboard18",
-    "published": "2026-11-03T06:16:34+00:00",
-    "official": false
-   },
-   {
-    "title": "Skydance stock enters merger phase with USD 6 billion synergy target",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGVYYURpa1JldWYyaDJ2eEYxemlOZXdVZHBlZHF2NmZQSnhJanRFbDZHVUI4UVpUZ0ljbktDTEZlMjFGNXVTVjRJZnNsZVFyY1FkUkd0NzBQUjNia21OUTlJWDlMQUszT09oUHFtODdGMU5rYUVFNUo0b1FXRUNJV0tENWQzRVRaYlAtSEZ4Q3VCMTROcUs1cVp2Yk5Tc3Z0SU1DdXFPdnRkTmlzWWY3S25pVC1JOVdUSC1XYlRMZU0zak92c21JZ0NaQQ?oc=5",
-    "source": "ad-hoc-news.de",
-    "published": "2026-11-02T15:45:44+00:00",
-    "official": false
-   },
-   {
-    "title": "Skydance Reveals Key TV and Streaming Leadership Roles",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3llczFHemV2dXl4ck5yRHJTZFNqclV2T3ljQUszcFdDSXV0MXp0dFBDbG0yLS10UzZVNkxPNnU2ZDNweVF3bXZEekU3UkdmNER3NGNNOEpvUWlnUlV1Mnh1NEVFREttYldsVXNNbmJsRzhxRmYyUUNOck40WktZMU9GNnV5bnZIcXR1YWpqTHFMQmxZNlJla1dPTGZwR2drbjJZOE9uM0s1TXc?oc=5",
-    "source": "The Hollywood Reporter",
-    "published": "2026-10-29T23:14:37+00:00",
-    "official": false
-   },
-   {
-    "title": "Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWTROODRCR09NOFpOUkVEczFUdXVmVk92MU5nTW5JaTJsc3ZWc1UwUFlZTFBuS0xBbmRJWFhRN1kwenN4LUtBX1VVRzhaRmZIcjh5SUE5X3lhLVU4Wk12SkxrUXdnaGxJT3ZvZ2I1dzlOaXBsNmdSN2VZYTZ4MFRZTWZyQ25XZVpYQl9SWU1UX2NvVTFXbWI3dVpfSXJUTjlpdmJlMklmOFJyZUN6OFFyUmJFbDNWbHU1dklZR2l1NVpvRUlkVklKREdhM24?oc=5",
-    "source": "GamesIndustry.biz",
-    "published": "2026-10-29T14:29:45+00:00",
-    "official": false
-   },
-   {
-    "title": "Skydance left with $800M+ 2026 losses by ex-Warner Bros. film chiefs, with more box office bombs on horizon",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ0JMMHdTSU9HSHJ4U2VUc1cyR0xQTF9YY09GOFpYdUtwVE5zeW5aR3FvWGluRzRTNEV0NDY5eU81UkZOMEVhdXJzY1JNWWRBWVdoQlNjTGhhT0xGQlBWWHFqR2NtYVlTOHBBeVhPSUwxTUluUGRJbVlVQnRMdmpQWDN0ZFFKWHRRckFrTjdLbUMzVEhFemxrc2lvYUtQeFhJQnRONDZfRzY1ZjRnSFRGeWVmMGFmVDNXWFlQbW1SUi1VQnJOaDRwNFRfVE1pWFFJUXcwUmpxNkZLX3lDUkE?oc=5",
-    "source": "Page Six",
-    "published": "2026-10-29T14:57:00+00:00",
-    "official": false
-   }
-  ]
+  "release_key": "0002041610-26-000062",
+  "signals_at": "2026-11-09T22:16:22+00:00"
  },
  "Versant": {
   "results_found": true,
@@ -678,148 +620,98 @@
  },
  "Bally's": {
   "results_found": true,
-  "period_label": "Q2 2026",
-  "fiscal_label": null,
-  "period_end": "2026-06-30",
-  "results_date": "2026-08-14",
-  "headline": "Bally’s reports 20% consolidated revenue growth in Q2 2026, driven by strong Intralot B2C and North America Interactive performance",
+  "period_label": "Q3 2026",
+  "fiscal_label": "Q3 2026",
+  "period_end": "2026-09-30",
+  "results_date": "2026-11-09",
+  "headline": "Bally's reported preliminary Q3 2026 revenue of $807.6 million, up 21.7% YoY.",
   "metrics": {
-   "revenue_m": 792.2,
-   "revenue_growth_yoy_pct": 20.5,
+   "revenue_m": 807.6,
+   "revenue_growth_yoy_pct": 21.7,
    "operating_income_m": null,
    "operating_margin_pct": null,
    "net_income_m": null,
    "eps": null
   },
   "guidance": null,
-  "guidance_change": "unknown",
+  "guidance_change": "none",
   "segments": [
    {
     "name": "Casinos & Resorts",
     "trend": "Up",
-    "note": "2.0% YoY"
+    "note": "Revenue $408.6 m, +3.2% YoY"
    },
    {
-    "name": "Intralot B2C",
+    "name": "Bally’s Intralot B2C",
     "trend": "Up",
-    "note": "22.3% YoY"
+    "note": "Revenue $257.5 m, +22.8% YoY"
    },
    {
     "name": "North America Interactive",
     "trend": "Up",
-    "note": "16.9% YoY"
+    "note": "Revenue $62.7 m, +25.6% YoY"
    }
   ],
   "highlights": [
-   "Consolidated revenue $792.2m, up 20.5% YoY",
-   "Intralot B2C revenue $243.5m, up 22.3% YoY",
-   "North America Interactive revenue $66.1m, up 16.9% YoY",
-   "Bally’s acquiring evoke plc to expand sports betting",
-   "New lottery technology contracts in Australia, Chile, Greece, Ontario"
+   "Consolidated revenue rose 21.7% to $807.6 million.",
+   "Strong growth in Intralot B2C (+22.8%) and North America Interactive (+25.6%).",
+   "Casinos & Resorts revenue increased modestly (+3.2%).",
+   "Closed $400 million Bronx financing with an additional $160 million available."
   ],
-  "management_view": "Management highlighted solid Q2 results and progress on construction projects, emphasizing omni‑channel growth and technology investments",
-  "risks": [
-   "Market consolidation in UK slower than expected",
-   "Competitive pressure in lottery contracts",
-   "Construction delays for new casino projects"
-  ],
+  "management_view": "Management said the quarter was solid with revenue up 21.7% and execution improving across all segments.",
+  "risks": [],
   "sentiment": "Positive",
-  "sentiment_reason": "Strong revenue growth and strategic acquisitions",
+  "sentiment_reason": "Revenue and segment growth exceeded prior year.",
   "it_signals": [
    {
-    "type": "Digital / platform rebuild",
-    "detail": "ForceIQ Punch data integration for Bally’s Fightnight by BKB partnership",
-    "source_id": 28,
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbnpDVTdNb2xMczYyX0xKZHN0UEdGMGM3bVhsQTVIdnphQjVKT1FaZTRZdnU2eWJveXhvZmJiQ0FqZ0x5NktyWnpSQnFMQWZpNXRTdWVxUTBPYTVjMDd0NkhwUGlLWjRMM2pqa0dGOS1RUWEtLUZxY09nNzFuTEhBQW0zNkpORV9hVHpnc3FKdnJfcnNxeUhWbzFlMzRveHpiaFlNenlIcUZxMnF4Z2Z3NjRFa0tNOGhid3JOTA?oc=5",
-    "source": "Sports Video Group",
-    "published": "2026-10-23"
+    "type": "Other",
+    "detail": "Closed $400 million financing for the Bronx project with $160 million additional draw capacity.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
+    "source": "8-K",
+    "published": "2026-11-09"
    },
    {
     "type": "M&A / spin-off",
-    "detail": "Regulatory hurdle for Evoke acquisition in Pennsylvania",
-    "source_id": 24,
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3BZd19oTEU0NzRCRVdZYTZFNHhoYkp6UTNjY3dNWURuRlZmdHlWNVUtVU5yX3paVUVnYUxpb3dqTm1MUklMdzcyeXBsanNuSEtjbWw2YURiOFNRckwzeXVIU0MzY1VQN21kb3hSaFBzeHhrdkJ3ckdnVlVFX2EzajNqRDZ6LV9LR3dFMXBoUTc?oc=5",
-    "source": "Gambling News",
-    "published": "2026-10-28"
-   },
-   {
-    "type": "Other",
-    "detail": "$560 M and $400 M financing indicate upcoming technology infrastructure builds for new casino sites",
-    "source_id": 34,
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFJELTY0QURQMkVtZmtfQnNRdVl5eEFSUkhkZHpRLU1scW9HS245ZHhiYy1Qd0FsY3R3OHpUUm8zcmtvdkN4aVVGSnc0MHJSV1U5dllnMmptdGpWOWY4ZTNmWmFKZ0UxaDJrOVdvMUxNR2RvdENXT1dXVUpNbEFCWFpzTENoWjBZZWpicWRuQdIBlAFBVV95cUxNYnpfQU1POW12OG9neUd4UjQ5SGxERXZPWnBoV3JuQ3BERzZxalR1Tm1xZDdYNzluUlYwcEV6eTVyWGthTzdZekpDbUJMMDlhSkhudklXWURObExnWlcwLWtHSUFJYUQ5d29uQ19LekcySlZKaXZVenE1dUhORU12STlPdWVDbUJCdUZxVGdjbFBZbTly?oc=5",
-    "source": "Pulse 2.0",
-    "published": "2026-10-10"
+    "detail": "Inclusion of Sam’s Town Shreveport acquired during the quarter.",
+    "source_id": 1,
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
+    "source": "8-K",
+    "published": "2026-11-09"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Multi‑billion dollar casino projects and new data partnership drive higher technology investment",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "No explicit technology‑spending guidance was provided.",
   "talking_points": [
-   "Discuss how Bally's new financing will translate into technology infrastructure needs for the Bronx and Chicago resorts",
-   "Explore opportunities to support the ForceIQ data platform within the Fightnight partnership",
-   "Assess how the Pennsylvania regulatory review could affect integration planning for the Evoke acquisition"
+   "Revenue growth driven by digital B2C and interactive wagering – potential for further tech investment.",
+   "Bronx financing indicates capital availability for future projects or platform upgrades.",
+   "Recent acquisition of Sam’s Town Shreveport could create integration and technology integration opportunities."
   ],
   "unverified_dropped": [],
   "sources": [
    {
     "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
     "source": "8-K",
-    "published": "2026-08-14",
+    "published": "2026-11-09",
     "official": true
    }
   ],
   "company": "Bally's",
   "mode": "results",
-  "analysed_at": "2026-10-13T19:20:56+00:00",
+  "analysed_at": "2026-11-09T22:16:50+00:00",
   "release": {
    "form": "8-K",
-   "filed": "2026-08-14",
-   "accepted": "2026-08-14T20:23:09.000Z",
-   "accession": "0001747079-26-000082",
-   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+   "filed": "2026-11-09",
+   "accepted": "2026-11-09T21:48:18.000Z",
+   "accession": "0001747079-26-000096",
+   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
    "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082",
-   "published": "2026-08-14"
+   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096",
+   "published": "2026-11-09"
   },
-  "release_key": "0001747079-26-000082",
-  "signals_at": "2026-11-03T22:17:34+00:00",
-  "signal_sources": [
-   {
-    "title": "WhiteHawk Leads $560 Million Financing For Bally’s Bronx Development",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFJELTY0QURQMkVtZmtfQnNRdVl5eEFSUkhkZHpRLU1scW9HS245ZHhiYy1Qd0FsY3R3OHpUUm8zcmtvdkN4aVVGSnc0MHJSV1U5dllnMmptdGpWOWY4ZTNmWmFKZ0UxaDJrOVdvMUxNR2RvdENXT1dXVUpNbEFCWFpzTENoWjBZZWpicWRuQdIBlAFBVV95cUxNYnpfQU1POW12OG9neUd4UjQ5SGxERXZPWnBoV3JuQ3BERzZxalR1Tm1xZDdYNzluUlYwcEV6eTVyWGthTzdZekpDbUJMMDlhSkhudklXWURObExnWlcwLWtHSUFJYUQ5d29uQ19LekcySlZKaXZVenE1dUhORU12STlPdWVDbUJCdUZxVGdjbFBZbTly?oc=5",
-    "source": "Pulse 2.0",
-    "published": "2026-10-10T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Bally’s Closes $560M Financing for Bronx Casino Resort",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEhUSWlDUlE1NGREcEctZ1VTaUV4S1JqaW5LcUg4QzRpRXpwTUhUR0lSSENSbEpDQ283RHY2bFM0VVBvMmZGY3RpR0VNUDhNMXFPc2M5MUhNRzU3cFloVjlkazBUU3o3a29tOWFHRC1uQXk0d1MyOW4ycnNGSU9yYXJUSm9jLXowTW1ZWFd6OEtTY0s0TkM3WDc0WjhXa20x?oc=5",
-    "source": "World Casino News",
-    "published": "2026-10-06T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Bally's $1.8 billion Chicago casino resort tops off in River West",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWs5blI2RDRPdnFzY1d2TmNRRENpR1o2MzhtM2R1eE1GOWN0X1ozVDl1bmR6d25FQmRXcFI4SFJMSW5JVzBsZzFhY0ptWWoxUl9lQjlLZ1RINnBub3JzbUkwUnRLd0Z5aDdINEF2am5sRGhnYnhxY3loejdPNHNBRTEwdVZVSjNlMUlkbG82aTM0Q2MtdHJEVVRfdHNQNnJ3MDZiWklPaF9mTzdQQWl6V0lPRE40U09pTVlndk4yS1laSE9UX2dFbUp3?oc=5",
-    "source": "Markets of Tomorrow",
-    "published": "2026-10-06T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Evoke’s Acquisition by Bally’s Faces Regulatory Hurdle",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ3BZd19oTEU0NzRCRVdZYTZFNHhoYkp6UTNjY3dNWURuRlZmdHlWNVUtVU5yX3paVUVnYUxpb3dqTm1MUklMdzcyeXBsanNuSEtjbWw2YURiOFNRckwzeXVIU0MzY1VQN21kb3hSaFBzeHhrdkJ3ckdnVlVFX2EzajNqRDZ6LV9LR3dFMXBoUTc?oc=5",
-    "source": "Gambling News",
-    "published": "2026-10-28T20:32:15+00:00",
-    "official": false
-   },
-   {
-    "title": "Bally’s and BKB Launch ‘Bally’s Fightnight by BKB’ Franchise With ForceIQ Punch Data",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbnpDVTdNb2xMczYyX0xKZHN0UEdGMGM3bVhsQTVIdnphQjVKT1FaZTRZdnU2eWJveXhvZmJiQ0FqZ0x5NktyWnpSQnFMQWZpNXRTdWVxUTBPYTVjMDd0NkhwUGlLWjRMM2pqa0dGOS1RUWEtLUZxY09nNzFuTEhBQW0zNkpORV9hVHpnc3FKdnJfcnNxeUhWbzFlMzRveHpiaFlNenlIcUZxMnF4Z2Z3NjRFa0tNOGhid3JOTA?oc=5",
-    "source": "Sports Video Group",
-    "published": "2026-10-23T14:30:57+00:00",
-    "official": false
-   }
-  ]
+  "release_key": "0001747079-26-000096",
+  "signals_at": "2026-11-09T22:16:50+00:00"
  },
  "Light & Wonder": {
   "results_found": true,

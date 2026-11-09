@@ -243,138 +243,112 @@
  },
  "WBD / Skydance": {
   "document_type": "Quarterly results",
-  "period": "Q2’26",
-  "headline": "Full‑year 2026 adj. EBITDA guidance raised to $3.8‑$3.9 billion; $800 million transformation spend and $1.5 billion new content budget announced.",
+  "period": "Q3 2026",
+  "headline": "Completed Warner Bros. Discovery acquisition on 6 Oct 2026 and reorganised into three segments; targeting $6 billion run‑rate synergies.",
   "key_numbers": [
    {
     "label": "Total revenue",
-    "value": "$6.9 billion",
-    "context": "Q2 2026",
+    "value": "$7.0 billion",
+    "context": "Q3 2026",
     "src": "official"
    },
    {
-    "label": "Operating income",
-    "value": "$475 million",
-    "context": "Q2 2026",
+    "label": "Adj EBITDA",
+    "value": "$1.0 billion",
+    "context": "14% margin",
     "src": "official"
    },
    {
-    "label": "Adjusted EBITDA",
-    "value": "$1.1 billion",
-    "context": "Q2 2026",
+    "label": "Paramount+ revenue",
+    "value": "$2.5 billion",
+    "context": "+21% YoY",
     "src": "official"
    },
    {
-    "label": "Cash and equivalents",
-    "value": "$1.6 billion",
-    "context": "2026",
+    "label": "Net leverage goal",
+    "value": "3.0x",
+    "context": "by end‑2029",
     "src": "official"
    }
   ],
-  "outlook_line": "2026 total revenue guidance $6,950 million – $7,150 million; adj. EBITDA $875 million – $975 million.",
-  "segments_basis": "Revenue, Q2’26",
+  "outlook_line": null,
+  "segments_basis": "Revenue, Q3 2026",
   "segments": [
    {
-    "name": "Direct-to-Consumer",
-    "revenue": "$2,398 million",
-    "growth": null,
-    "comment": "Core DTC segment",
-    "src": "official"
-   },
-   {
     "name": "Studios",
-    "revenue": "$1,314 million",
-    "growth": null,
-    "comment": "Film and TV production",
-    "src": "official"
-   },
-   {
-    "name": "TV Media",
-    "revenue": "$3,666 million",
-    "growth": null,
-    "comment": "Cable and broadcast",
+    "revenue": "$1.5 billion",
+    "growth": "+23%",
+    "comment": "motion‑picture production",
     "src": "official"
    },
    {
     "name": "Paramount+",
-    "revenue": "$2,061 million",
-    "growth": null,
-    "comment": "Streaming platform",
+    "revenue": "$2.5 billion",
+    "growth": "+21%",
+    "comment": "direct‑to‑consumer streaming",
+    "src": "official"
+   },
+   {
+    "name": "TV Media",
+    "revenue": "$3.0 billion",
+    "growth": "–7%",
+    "comment": "broadcast and cable assets",
     "src": "official"
    }
   ],
   "focus": [
    {
-    "area": "Platform unification",
-    "plan": "Bring Paramount+ and Pluto TV onto a single technology stack",
-    "amount": null,
-    "timing": null,
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "AI investment",
-    "plan": "Deploy AI across engineering, ad‑tech and enterprise apps",
-    "amount": null,
-    "timing": null,
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "ERP unification",
-    "plan": "Unify company on Oracle Fusion ERP",
-    "amount": null,
-    "timing": "early next year",
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Transformation costs",
-    "plan": "Business transformation, content and technology",
-    "amount": "$800 million",
+    "area": "Technology spend",
+    "plan": "unify enterprise tech stack, streaming ecosystem, broadcast architecture, AI tools",
+    "amount": "$4 billion (2026)",
     "timing": "2026",
     "tech": true,
     "src": "official"
    },
    {
-    "area": "Q3 transformation",
-    "plan": "Transformation initiatives",
-    "amount": "$200 million",
-    "timing": "Q3 2026",
+    "area": "Synergies program",
+    "plan": "invest in cost‑reduction and integration initiatives",
+    "amount": "$6 billion‑plus over three years",
+    "timing": "2027‑2029",
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Bundled offering",
+    "plan": "launch combined HBO Max / Paramount+ subscription",
+    "amount": null,
+    "timing": "early 2027",
     "tech": true,
     "src": "official"
    }
   ],
   "tech_spend": [
-   "Platform unification of Paramount+ and Pluto TV",
-   "AI across engineering, ad‑tech and enterprise applications",
-   "Oracle Fusion ERP rollout (July) and company‑wide ERP early next year",
-   "$800 million transformation spend in 2026",
-   "$200 million transformation spend in Q3"
+   "$4 billion technology spend in 2026 to reduce annual spend by $1.4 billion via unified platforms, AI coding tools and cloud migration",
+   "integration of Pluto TV onto unified Paramount+ platform (phase one completed)"
   ],
   "organisation": {
-   "summary": "Reporting structure shifted to Studios, Direct‑to‑Consumer and TV Media in 2026.",
-   "before": "Filmed Entertainment, Direct‑to‑Consumer, Media",
-   "effective": "2026",
+   "summary": "Reorganisation into three segments effective immediately; no cost or savings disclosed.",
+   "before": "separate motion‑picture studios, distinct DTC and TV units",
+   "effective": "immediate",
    "units": [
     {
-     "name": "Studios",
+     "name": "Skydance Studios",
      "revenue": null,
-     "includes": "CBS Studios, Paramount Television Studios, Nickelodeon Animation, Paramount Pictures, Paramount Animation, Miramax, Skydance Animation, Film and Television, Paramount Sports Entertainment, Paramount Games Studios",
+     "includes": "Warner Bros. Pictures, Paramount Pictures, New Line, DC Studios, Skydance Animation, Warner Bros. Television, CBS Studios, Paramount Television Studios, Skydance Sports",
      "leader": null,
      "src": "official"
     },
     {
-     "name": "Direct‑to‑Consumer",
+     "name": "Skydance Direct‑to‑Consumer",
      "revenue": null,
-     "includes": "Paramount+, Showtime, streaming assets",
+     "includes": "HBO Max, Paramount+ streaming platforms",
      "leader": null,
      "src": "official"
     },
     {
-     "name": "TV Media",
+     "name": "Skydance TV",
      "revenue": null,
-     "includes": "Cable and broadcast assets",
+     "includes": "broadcast and cable assets",
      "leader": null,
      "src": "official"
     }
@@ -385,64 +359,84 @@
   },
   "key_changes": [
    {
-    "type": "Product",
-    "change": "Platform unification",
-    "detail": "Paramount+ and Pluto TV moved to single stack",
-    "when": null,
-    "src": "official"
-   },
-   {
-    "type": "Product",
-    "change": "AI rollout",
-    "detail": "AI tools added to engineering, ad‑tech and enterprise apps",
-    "when": null,
+    "type": "Acquisition",
+    "change": "Warner Bros. Discovery",
+    "detail": "Acquisition completed on 6 Oct 2026, funded with $47 bn equity and $57 bn debt",
+    "when": "6 Oct 2026",
     "src": "official"
    },
    {
     "type": "Organisation",
-    "change": "ERP unification",
-    "detail": "Oracle Fusion live July; full rollout early next year",
-    "when": null,
+    "change": "Three‑segment reorg",
+    "detail": "Created Skydance Studios, Direct‑to‑Consumer and TV units; integration across >20 workstreams",
+    "when": "effective immediately",
     "src": "official"
    },
    {
     "type": "Cost programme",
-    "change": "Transformation spend",
-    "detail": "$800 million in 2026, $200 million in Q3",
+    "change": "Technology reduction",
+    "detail": "$1.4 billion reduction to annual spend by unifying tech stack and using AI tools",
+    "when": "2026",
+    "src": "official"
+   },
+   {
+    "type": "Product",
+    "change": "Bundled streaming",
+    "detail": "Plan to launch combined HBO Max / Paramount+ subscription",
+    "when": "early 2027",
+    "src": "official"
+   }
+  ],
+  "leadership": [
+   {
+    "person": "David Ellison",
+    "role": "Chairman & CEO",
+    "change": "New role",
+    "when": null,
+    "src": "official"
+   },
+   {
+    "person": "Ynon Kreiz",
+    "role": "Co‑CEO",
+    "change": "New role",
     "when": null,
     "src": "official"
    }
   ],
-  "leadership": [],
   "dates": [
    {
-    "date": "July 2026",
-    "event": "Divisions went live on Oracle Fusion",
+    "date": "6 Oct 2026",
+    "event": "Warner Bros. Discovery acquisition closed",
     "src": "official"
    },
    {
-    "date": "early next year",
-    "event": "Company‑wide unified ERP rollout",
+    "date": "early 2027",
+    "event": "Bundled HBO Max/Paramount+ launch",
     "src": "official"
    },
    {
-    "date": "Q3 2026",
-    "event": "Transformation costs $200 million",
+    "date": "end‑2029",
+    "event": "Net leverage target 3.0x",
+    "src": "official"
+   },
+   {
+    "date": "2030",
+    "event": "Free cash flow >$10 billion target",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "$800 million transformation spend in 2026",
-    "AI across engineering and ad‑tech",
-    "Oracle Fusion ERP rollout",
-    "Platform unification of Paramount+ and Pluto TV"
+    "$4 bn tech spend to unify platforms and cut costs",
+    "$6 bn+ synergies program over three years",
+    "Bundled HBO Max/Paramount+ launch early 2027",
+    "Integration across >20 workstreams"
    ],
    "changes": [
-    "Reporting structure changed to Studios, Direct‑to‑Consumer, TV Media",
-    "Integration of Paramount+ with Pluto TV platform",
-    "AI and enterprise app investments",
-    "ERP unification on Oracle Fusion"
+    "Acquisition of Warner Bros. Discovery completed",
+    "Reorganisation into three segments",
+    "Technology cost‑reduction initiative",
+    "Leadership appointments of David Ellison and Ynon Kreiz"
    ]
   },
   "unverified_dropped": [],
@@ -451,12 +445,12 @@
   "name": "Skydance Corp. (Warner Bros. Discovery + Paramount)",
   "industry": "Media & Entertainment",
   "currency": "USD",
-  "release_key": "0002041610-26-000052",
-  "release_date": "2026-08-04",
+  "release_key": "0002041610-26-000062",
+  "release_date": "2026-11-09",
   "documents": [
    {
     "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
-    "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -465,7 +459,7 @@
   ],
   "news_used": true,
   "chunks_read": 6,
-  "written_at": "2026-10-26T14:17:34+00:00"
+  "written_at": "2026-11-09T22:20:00+00:00"
  },
  "Versant": {
   "document_type": "Quarterly results",
@@ -808,172 +802,120 @@
  },
  "Bally's": {
   "document_type": "Quarterly results",
-  "period": "second quarter ended June 30, 2026",
-  "headline": "Bally’s secured financing for the Bronx integrated casino and is on track for the Chicago casino opening in early 2027.",
+  "period": "three months ended September 30, 2026",
+  "headline": "Consolidated revenue rose 21.7% YoY to $807.6 million. Financing closed for the Bronx project with $400 million received and $160 million available for future draws.",
   "key_numbers": [
    {
     "label": "Consolidated revenue",
-    "value": "$792.2 million",
-    "context": "Q2 2026",
+    "value": "$807.6 million",
+    "context": "three months ended Sep 30 2026",
     "src": "official"
    },
    {
-    "label": "Casinos & Resorts revenue",
-    "value": "$401.0 million",
-    "context": "Q2 2026",
+    "label": "Revenue growth",
+    "value": "+21.7%",
+    "context": "YoY",
     "src": "official"
    },
    {
-    "label": "Intralot B2C revenue",
-    "value": "$243.5 million",
-    "context": "Q2 2026",
+    "label": "Bronx financing received",
+    "value": "$400 million",
+    "context": "closed Oct 1 2026",
     "src": "official"
    },
    {
-    "label": "North America Interactive revenue",
-    "value": "$66.1 million",
-    "context": "Q2 2026",
+    "label": "Additional Bronx financing",
+    "value": "$160 million",
+    "context": "available for future draws",
     "src": "official"
    }
   ],
-  "outlook_line": null,
-  "segments_basis": "Revenue, second quarter ended June 30, 2026",
+  "outlook_line": "Market conditions remain stable as we head into the fourth quarter and 2027",
+  "segments_basis": "Revenue, three months ended September 30, 2026",
   "segments": [
    {
     "name": "Casinos & Resorts",
-    "revenue": "$401.0 million",
-    "growth": "+2.0%",
-    "comment": "steady growth",
+    "revenue": "$408,563",
+    "growth": "+3.2% YoY",
+    "comment": "steady performance",
     "src": "official"
    },
    {
     "name": "Bally’s Intralot B2C",
-    "revenue": "$243.5 million",
-    "growth": "+22.3%",
-    "comment": "strong sports‑betting expansion",
+    "revenue": "$257,451",
+    "growth": "+22.8% YoY",
+    "comment": "strong growth",
     "src": "official"
    },
    {
     "name": "North America Interactive",
-    "revenue": "$66.1 million",
-    "growth": "+16.9%",
-    "comment": "automation initiatives underway",
+    "revenue": "$62,658",
+    "growth": "+25.6% YoY",
+    "comment": "rapid expansion",
+    "src": "official"
+   },
+   {
+    "name": "Bally’s Intralot B2B",
+    "revenue": "$76,581",
+    "growth": null,
+    "comment": "stable",
+    "src": "official"
+   },
+   {
+    "name": "Corporate & Other",
+    "revenue": "$2,305",
+    "growth": null,
+    "comment": "minimal",
     "src": "official"
    }
   ],
   "focus": [
    {
-    "area": "Lottery technology",
-    "plan": "Provide technology solutions for contracts in Australia, Chile, Greece and Ontario",
-    "amount": null,
-    "timing": null,
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Automation",
-    "plan": "Implement automation initiatives in North America Interactive",
-    "amount": null,
-    "timing": null,
-    "tech": true,
-    "src": "official"
-   },
-   {
-    "area": "Bronx casino",
-    "plan": "Develop integrated casino project",
-    "amount": "$4.0 billion",
-    "timing": "expected opening 2030",
-    "tech": false,
-    "src": "official"
-   },
-   {
-    "area": "Interest rate swaps",
-    "plan": "Fix rates on $1.0 billion notional until 2028",
-    "amount": "$1.0 billion",
-    "timing": "until 2028",
+    "area": "Bronx project financing",
+    "plan": "use received funds for construction and future draws",
+    "amount": "$400 million",
+    "timing": "Oct 1 2026",
     "tech": false,
     "src": "official"
    }
   ],
-  "tech_spend": [
-   "Technology investments for lottery contracts in Australia, Chile, Greece and Ontario (no amount disclosed)",
-   "Automation initiatives in North America Interactive (no amount disclosed)",
-   "Interest rate swap program: $1.0 billion notional to fix rates until 2028"
-  ],
+  "tech_spend": [],
   "organisation": null,
   "key_changes": [
    {
-    "type": "Acquisition",
-    "change": "Binding offer to acquire evoke plc",
-    "detail": "Announced June 2026, pending regulatory approvals",
-    "when": "June 2026",
-    "src": "official"
-   },
-   {
-    "type": "Partnership",
-    "change": "Letter of intent equity investor for Bronx",
-    "detail": "Signed August 2026 to support Bronx project financing",
-    "when": "August 2026",
-    "src": "official"
-   },
-   {
-    "type": "Contract win",
-    "change": "15‑year EM monitoring license",
-    "detail": "Awarded in Victoria, Australia in April 2026",
-    "when": "April 2026",
-    "src": "official"
-   },
-   {
-    "type": "Contract win",
-    "change": "New lottery contracts",
-    "detail": "Contracts with Chile, Greece and Ontario signed Apr‑Jun 2026",
-    "when": null,
+    "type": "Other",
+    "change": "Bronx financing closure",
+    "detail": "Closed financing for Bronx project with $400 million received and $160 million available",
+    "when": "Oct 1 2026",
     "src": "official"
    }
   ],
   "leadership": [
    {
-    "person": "Joseph Jaffoni",
-    "role": "Chief Financial Officer",
-    "change": "Appointed",
+    "person": "Robeson Reeves",
+    "role": "Chief Executive Officer",
+    "change": "New role",
     "when": null,
     "src": "official"
    }
   ],
   "dates": [
    {
-    "date": "August 14, 2026",
-    "event": "Earnings release",
-    "src": "official"
-   },
-   {
-    "date": "Early 2027",
-    "event": "Planned opening of permanent Bally’s Chicago casino",
-    "src": "official"
-   },
-   {
-    "date": "2030",
-    "event": "Expected opening of Bally’s Bronx integrated casino",
-    "src": "official"
-   },
-   {
-    "date": "Before 2028 season",
-    "event": "Completion of Las Vegas Athletics stadium",
+    "date": "October 1, 2026",
+    "event": "Financing closure for Bronx project",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Finalize financing and construction of the $4.0 billion Bronx integrated casino.",
-    "Deploy lottery technology platforms in Australia, Chile, Greece and Ontario.",
-    "Advance automation across North America Interactive operations.",
-    "Lock in interest rate exposure through $1.0 billion swap program."
+    "Revenue up 21.7% YoY to $807.6 million",
+    "Bronx project financing secured $400 million",
+    "Additional $160 million available for future draws",
+    "Market outlook remains stable"
    ],
    "changes": [
-    "Binding offer to acquire evoke plc pending approval.",
-    "Equity investor letter of intent for Bronx project.",
-    "Awarded long‑term electronic gaming machine monitoring license in Australia.",
-    "New multi‑country lottery contracts signed."
+    "Robeson Reeves appointed CEO",
+    "Financing closure for Bronx project"
    ]
   },
   "unverified_dropped": [],
@@ -982,12 +924,12 @@
   "name": "Bally's Corporation",
   "industry": "Gaming & Lottery",
   "currency": "USD",
-  "release_key": "0001747079-26-000082",
-  "release_date": "2026-08-14",
+  "release_key": "0001747079-26-000096",
+  "release_date": "2026-11-09",
   "documents": [
    {
     "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -995,8 +937,8 @@
    }
   ],
   "news_used": true,
-  "chunks_read": 4,
-  "written_at": "2026-10-26T14:07:30+00:00"
+  "chunks_read": 2,
+  "written_at": "2026-11-09T22:21:20+00:00"
  },
  "Light & Wonder": {
   "document_type": "Quarterly results",

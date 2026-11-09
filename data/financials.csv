@@ -95,6 +95,7 @@ Bally's,BALY,2026-03-31,Q1 2026,3,revenue,755.72,USD,SEC XBRL 10-Q
 Bally's,BALY,2026-06-30,Q2 2026,3,net_income,-146.07,USD,SEC XBRL 10-Q
 Bally's,BALY,2026-06-30,Q2 2026,3,operating_income,-34.02,USD,SEC XBRL 10-Q
 Bally's,BALY,2026-06-30,Q2 2026,3,revenue,792.23,USD,SEC XBRL 10-Q
+Bally's,,2026-09-30,Q3 2026,3,revenue,807.6,USD,"Official release (8-K, read by the agent)"
 Brightstar (IGT),BRSL,2025-03-31,Q1 2025,3,operating_income,138.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2025-06-30,Q2 2025,3,net_income,-58.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2025-06-30,Q2 2025,3,operating_income,163.0,USD,Yahoo Finance
@@ -852,3 +853,6 @@ WBD / Skydance,SKYD,2026-03-31,Q1 2026,3,revenue,7347.0,USD,SEC XBRL 10-Q
 WBD / Skydance,SKYD,2026-06-30,Q2 2026,3,net_income,41.0,USD,SEC XBRL 10-Q
 WBD / Skydance,SKYD,2026-06-30,Q2 2026,3,operating_income,475.0,USD,SEC XBRL 10-Q
 WBD / Skydance,SKYD,2026-06-30,Q2 2026,3,revenue,6913.0,USD,SEC XBRL 10-Q
+WBD / Skydance,,2026-09-30,Q3 2026,3,net_income,73,USD,"Official release (8-K, read by the agent)"
+WBD / Skydance,,2026-09-30,Q3 2026,3,operating_income,1000,USD,"Official release (8-K, read by the agent)"
+WBD / Skydance,,2026-09-30,Q3 2026,3,revenue,7000,USD,"Official release (8-K, read by the agent)"

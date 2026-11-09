@@ -16,13 +16,13 @@
  "WBD / Skydance": {
   "release": {
    "form": "8-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-04T20:03:41.000Z",
-   "accession": "0002041610-26-000052",
-   "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052/ex99_q226.htm",
+   "filed": "2026-11-09",
+   "accepted": "2026-11-09T21:04:26.000Z",
+   "accession": "0002041610-26-000062",
+   "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
    "title": "Skydance Corp. (Warner Bros. Discovery + Paramount) 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000052",
-   "published": "2026-08-04"
+   "index": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062",
+   "published": "2026-11-09"
   },
   "xbrl_accession": "0002041610-26-000054",
   "next_results": "2026-11-09"
@@ -60,13 +60,13 @@
  "Bally's": {
   "release": {
    "form": "8-K",
-   "filed": "2026-08-14",
-   "accepted": "2026-08-14T20:23:09.000Z",
-   "accession": "0001747079-26-000082",
-   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082/ex991q22026earningsrelease.htm",
+   "filed": "2026-11-09",
+   "accepted": "2026-11-09T21:48:18.000Z",
+   "accession": "0001747079-26-000096",
+   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
    "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000082",
-   "published": "2026-08-14"
+   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096",
+   "published": "2026-11-09"
   },
   "xbrl_accession": "0001747079-26-000084",
   "next_results": "2026-11-09"
