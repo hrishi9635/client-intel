@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T06:30:48+00:00",
+ "updated": "2026-11-09T06:44:57+00:00",
  "titles": [
   {
    "key": "tv-456",
@@ -21,9 +21,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1238.7,
+   "popularity": 1357.8,
    "tmdb_vote": 8.027,
-   "tmdb_votes": 11150,
+   "tmdb_votes": 11156,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -58,7 +58,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "5dfde8fbc548",
+   "input_hash": "856b3c06ecf0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -104,7 +104,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
    "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-   "popularity": 818.9,
+   "popularity": 538.0,
    "tmdb_vote": 6.623,
    "tmdb_votes": 134,
    "imdb_id": "tt1601141",
@@ -117,77 +117,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "cc366b595d8c"
-  },
-  {
-   "key": "tv-247718",
-   "kind": "tv",
-   "tmdb_id": 247718,
-   "title": "MobLand",
-   "studio": "Paramount+ originals",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Paramount+",
-    "Paramount+",
-    "MTV Entertainment Studios",
-    "101 Studios",
-    "Toff Guy Films"
-   ],
-   "release_date": "2026-11-06",
-   "first_air_date": "2025-03-30",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 394.6,
-   "tmdb_vote": 8.618,
-   "tmdb_votes": 1173,
-   "imdb_id": "tt31510819",
-   "tmdb_url": "https://www.themoviedb.org/tv/247718",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 7.0,
-     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
-     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
-    },
-    {
-     "author": "mukundala",
-     "rating": 7.0,
-     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
-     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
-    }
-   ],
-   "imdb_rating": 8.3,
-   "imdb_votes": 131558.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "d13942af987e",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 30,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "entertaining gangster story",
-     "Tom Hardy brilliant",
-     "Pierce Brosnan standout"
-    ],
-    "complaints": [
-     "predictable stereotypes",
-     "implausible plot twists",
-     "loud tones"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers find MobLand watchable and strong on performances, yet criticize its clichés and plot credibility.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-08T06:29:29+00:00"
-   }
   },
   {
    "key": "movie-969681",
@@ -208,9 +137,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 367.3,
-   "tmdb_vote": 8.5,
-   "tmdb_votes": 6592,
+   "popularity": 389.1,
+   "tmdb_vote": 8.477,
+   "tmdb_votes": 6630,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -245,7 +174,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "335a5395b040",
+   "input_hash": "cd48b09b8a07",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -272,6 +201,132 @@
    }
   },
   {
+   "key": "tv-247718",
+   "kind": "tv",
+   "tmdb_id": 247718,
+   "title": "MobLand",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "Paramount+",
+    "MTV Entertainment Studios",
+    "101 Studios",
+    "Toff Guy Films"
+   ],
+   "release_date": "2026-11-06",
+   "first_air_date": "2025-03-30",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "popularity": 385.7,
+   "tmdb_vote": 8.632,
+   "tmdb_votes": 1186,
+   "imdb_id": "tt31510819",
+   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 7.0,
+     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
+     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
+    },
+    {
+     "author": "mukundala",
+     "rating": 7.0,
+     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
+     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
+    }
+   ],
+   "imdb_rating": 8.3,
+   "imdb_votes": 131558.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "18b0e1ef40b1",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 30,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "entertaining gangster story",
+     "Tom Hardy brilliant",
+     "Pierce Brosnan standout"
+    ],
+    "complaints": [
+     "predictable stereotypes",
+     "implausible plot twists",
+     "loud tones"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Viewers find MobLand watchable and strong on performances, yet criticize its clichés and plot credibility.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-08T06:29:29+00:00"
+   }
+  },
+  {
+   "key": "movie-1813355",
+   "kind": "movie",
+   "tmdb_id": 1813355,
+   "title": "A Story of Derry",
+   "studio": "Warner Bros. Pictures",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Rideback",
+    "Vertigo Entertainment",
+    "Warner Bros. Television",
+    "FiveTen Productions",
+    "K Plus Ultra"
+   ],
+   "release_date": "2026-10-31",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+   "popularity": 342.7,
+   "tmdb_vote": 6.853,
+   "tmdb_votes": 92,
+   "imdb_id": "tt50389959",
+   "tmdb_url": "https://www.themoviedb.org/movie/1813355",
+   "tmdb_reviews": [
+    {
+     "author": "Sejian",
+     "rating": 4.0,
+     "text": "\"Guys! Guys! Have you heard the good word about the turtle children?!\" They took arguably the best part of It: Chapter 2 - the backstory - and gave us *this*. Yep! That's my review.",
+     "url": "https://www.themoviedb.org/review/6ae8492df9357a3c1ba6efe5"
+    }
+   ],
+   "trade": [],
+   "input_hash": "44e7dfcd7995",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -40,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "poor adaptation",
+     "misguided premise"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Fails to deliver a coherent narrative despite its premise.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-08T06:29:55+00:00"
+   }
+  },
+  {
    "key": "tv-1416",
    "kind": "tv",
    "tmdb_id": 1416,
@@ -291,9 +346,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 341.1,
-   "tmdb_vote": 8.202,
-   "tmdb_votes": 11122,
+   "popularity": 306.0,
+   "tmdb_vote": 8.201,
+   "tmdb_votes": 11125,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -322,26 +377,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "22c58b330479",
+   "input_hash": "834d9bc6ac15",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
     "audience_score": -80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
+    "critics_vs_audience": "Critics higher",
+    "gap_note": "low audience scores",
     "praises": [],
     "complaints": [
+     "worst show ever",
      "sexual tension only source of drama",
-     "predictable plot",
-     "decline after early seasons"
+     "decline after first seasons"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Viewers criticize the new season for lacking original drama and relying on tired sexual tension.",
+    "summary": "Audience reviews are strongly negative despite decent ratings",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-06T06:41:27+00:00"
+    "analysed_at": "2026-11-09T06:44:31+00:00"
    }
   },
   {
@@ -365,8 +420,8 @@
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
    "popularity": 301.4,
-   "tmdb_vote": 7.312,
-   "tmdb_votes": 468,
+   "tmdb_vote": 7.294,
+   "tmdb_votes": 506,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -401,7 +456,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "5ec65290b0ad",
+   "input_hash": "bc801656d6d9",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -445,9 +500,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 269.9,
-   "tmdb_vote": 7.6,
-   "tmdb_votes": 2607,
+   "popularity": 270.0,
+   "tmdb_vote": 7.608,
+   "tmdb_votes": 2608,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -464,26 +519,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9161f812a0ab",
+   "input_hash": "679b70766040",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
     "audience_score": -70,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
+    "critics_vs_audience": "Critics higher",
+    "gap_note": "low audience scores",
     "praises": [],
     "complaints": [
-     "depressing and predictable story",
-     "contrived female deaths",
-     "overly dark themes"
+     "depressing and predictable",
+     "contrived killings of women",
+     "dark thematic focus"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Audience finds the show bleak and repetitive, with overly grim storylines.",
+    "summary": "Audience finds the show depressing and formulaic despite average ratings",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-06T06:41:27+00:00"
+    "analysed_at": "2026-11-09T06:44:31+00:00"
    }
   },
   {
@@ -506,7 +561,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 265.8,
+   "popularity": 260.2,
    "tmdb_vote": 6.424,
    "tmdb_votes": 676,
    "imdb_id": "tt0115147",
@@ -519,61 +574,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "470b79e9f823"
-  },
-  {
-   "key": "movie-1813355",
-   "kind": "movie",
-   "tmdb_id": 1813355,
-   "title": "A Story of Derry",
-   "studio": "Warner Bros. Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Rideback",
-    "Vertigo Entertainment",
-    "Warner Bros. Television",
-    "FiveTen Productions",
-    "K Plus Ultra"
-   ],
-   "release_date": "2026-10-31",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-   "popularity": 256.3,
-   "tmdb_vote": 6.982,
-   "tmdb_votes": 82,
-   "imdb_id": "tt50389959",
-   "tmdb_url": "https://www.themoviedb.org/movie/1813355",
-   "tmdb_reviews": [
-    {
-     "author": "Sejian",
-     "rating": 4.0,
-     "text": "\"Guys! Guys! Have you heard the good word about the turtle children?!\" They took arguably the best part of It: Chapter 2 - the backstory - and gave us *this*. Yep! That's my review.",
-     "url": "https://www.themoviedb.org/review/6ae8492df9357a3c1ba6efe5"
-    }
-   ],
-   "trade": [],
-   "input_hash": "f85c9e66c706",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -40,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "poor adaptation",
-     "misguided premise"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Fails to deliver a coherent narrative despite its premise.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-08T06:29:55+00:00"
-   }
   },
   {
    "key": "tv-153312",
@@ -595,9 +595,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 239.3,
-   "tmdb_vote": 8.3,
-   "tmdb_votes": 2917,
+   "popularity": 234.6,
+   "tmdb_vote": 8.316,
+   "tmdb_votes": 2922,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -626,30 +626,28 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "dd5eacbc3444",
+   "input_hash": "ae68c8fffb1d",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 40,
-    "critics_vs_audience": "Unclear",
+    "audience_sentiment": "Positive",
+    "audience_score": 70,
+    "critics_vs_audience": "Aligned",
     "gap_note": null,
     "praises": [
      "fun after work",
-     "charismatic pacing",
-     "different setting from usual cities"
+     "charisma and rhythm",
+     "different setting from NYC/LA"
     ],
     "complaints": [
-     "not very original",
-     "lacks depth",
-     "not Shakespeare-level"
+     "not very original"
     ],
-    "buzz": "Medium",
+    "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "Viewers enjoy its charisma and setting despite noting a lack of originality.",
+    "summary": "Viewers enjoy its charm and setting, noting limited originality",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-06T06:41:27+00:00"
+    "analysed_at": "2026-11-09T06:44:31+00:00"
    }
   },
   {
@@ -670,9 +668,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 223.4,
-   "tmdb_vote": 8.636,
-   "tmdb_votes": 269,
+   "popularity": 221.3,
+   "tmdb_vote": 8.657,
+   "tmdb_votes": 281,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -689,7 +687,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "324b4990bc20",
+   "input_hash": "778de47d6f21",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -732,9 +730,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
    "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-   "popularity": 211.0,
-   "tmdb_vote": 8.129,
-   "tmdb_votes": 3582,
+   "popularity": 213.5,
+   "tmdb_vote": 8.128,
+   "tmdb_votes": 3584,
    "imdb_id": "tt9288030",
    "tmdb_url": "https://www.themoviedb.org/tv/108978",
    "tmdb_reviews": [
@@ -769,7 +767,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "8f7731df6987",
+   "input_hash": "196e4f23636e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -811,9 +809,9 @@
    "release_date": "2026-12-16",
    "first_air_date": null,
    "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/zHTxblqPcqRpA93ex2Hj0RdpVBs.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/9jlZ59UALLLOE279HMT19rP9XQs.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 88.9,
+   "popularity": 86.9,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -860,7 +858,7 @@
    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
    "popularity": 2808.1,
-   "tmdb_vote": 7.896,
+   "tmdb_vote": 7.897,
    "tmdb_votes": 1084,
    "imdb_id": "tt0852863",
    "tmdb_url": "https://www.themoviedb.org/tv/1877",
@@ -871,65 +869,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "0dbd9f5d609a"
-  },
-  {
-   "key": "tv-82873",
-   "kind": "tv",
-   "tmdb_id": 82873,
-   "title": "The Kelly Clarkson Show",
-   "studio": "Syndication",
-   "parent": "Syndication",
-   "group": "Rest of industry",
-   "companies": [
-    "Syndication",
-    "NBCUniversal Syndication Studios"
-   ],
-   "release_date": "2026-08-31",
-   "first_air_date": "2019-09-09",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
-   "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-   "popularity": 1760.3,
-   "tmdb_vote": 6.227,
-   "tmdb_votes": 75,
-   "imdb_id": "tt9022950",
-   "tmdb_url": "https://www.themoviedb.org/tv/82873",
-   "tmdb_reviews": [
-    {
-     "author": "doggy30",
-     "rating": 9.0,
-     "text": "I am a guy who can't work due to disability so most of my days are spent watching daytime TV I kept seeing ads for this and thought oh my God how stupid but boy was I ever wrong this is one of the best new talk shows this fall Kelly herself is a blast funny beautiful and exciting so much fun to watch a show I don't miss",
-     "url": "https://www.themoviedb.org/review/5d836ac8162bc30227de9dd8"
-    }
-   ],
-   "imdb_rating": 5.9,
-   "imdb_votes": 1433.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "5d8baeb6c653",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "funny host",
-     "exciting talk show",
-     "high entertainment value"
-    ],
-    "complaints": [],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers find The Kelly Clarkson Show highly entertaining and praise Kelly’s charisma.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-03T06:37:52+00:00"
-   }
+   "input_hash": "ab89cf99e48d"
   },
   {
    "key": "tv-2734",
@@ -951,7 +891,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 1448.0,
+   "popularity": 1649.2,
    "tmdb_vote": 8.0,
    "tmdb_votes": 4403,
    "imdb_id": "tt0203259",
@@ -1001,6 +941,64 @@
    }
   },
   {
+   "key": "tv-82873",
+   "kind": "tv",
+   "tmdb_id": 82873,
+   "title": "The Kelly Clarkson Show",
+   "studio": "Syndication",
+   "parent": "Syndication",
+   "group": "Rest of industry",
+   "companies": [
+    "Syndication",
+    "NBCUniversal Syndication Studios"
+   ],
+   "release_date": "2026-08-31",
+   "first_air_date": "2019-09-09",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+   "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+   "popularity": 1536.3,
+   "tmdb_vote": 6.227,
+   "tmdb_votes": 75,
+   "imdb_id": "tt9022950",
+   "tmdb_url": "https://www.themoviedb.org/tv/82873",
+   "tmdb_reviews": [
+    {
+     "author": "doggy30",
+     "rating": 9.0,
+     "text": "I am a guy who can't work due to disability so most of my days are spent watching daytime TV I kept seeing ads for this and thought oh my God how stupid but boy was I ever wrong this is one of the best new talk shows this fall Kelly herself is a blast funny beautiful and exciting so much fun to watch a show I don't miss",
+     "url": "https://www.themoviedb.org/review/5d836ac8162bc30227de9dd8"
+    }
+   ],
+   "imdb_rating": 5.9,
+   "imdb_votes": 1433.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "5d8baeb6c653",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 80,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "funny host",
+     "exciting talk show",
+     "high entertainment value"
+    ],
+    "complaints": [],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Viewers find The Kelly Clarkson Show highly entertaining and praise Kelly’s charisma.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-03T06:37:52+00:00"
+   }
+  },
+  {
    "key": "movie-1423191",
    "kind": "movie",
    "tmdb_id": 1423191,
@@ -1020,9 +1018,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 584.2,
-   "tmdb_vote": 7.441,
-   "tmdb_votes": 1720,
+   "popularity": 695.1,
+   "tmdb_vote": 7.493,
+   "tmdb_votes": 1859,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -1057,30 +1055,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "e0cd5f690e4f",
+   "input_hash": "8017b4904bc7",
    "ai": {
     "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 80,
-    "critics_vs_audience": "Aligned",
+    "audience_sentiment": "Mixed",
+    "audience_score": 75,
+    "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
+     "good cast",
      "captures game feeling",
-     "strong atmosphere",
-     "original story"
+     "strong atmosphere"
     ],
     "complaints": [
-     "weak finale",
-     "second part issues",
+     "second part problems",
+     "finale scene bad",
      "generic comedy horror"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Generally praised for its faithful game vibe and mood, though some note plot and tonal weaknesses.",
+    "summary": "Resident Evil delivers solid horror vibes with a good cast but suffers from a weak second half and finale.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-06T06:41:54+00:00"
+    "analysed_at": "2026-11-09T06:44:57+00:00"
    }
   },
   {
@@ -1101,7 +1099,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 476.7,
+   "popularity": 456.5,
    "tmdb_vote": 4.9,
    "tmdb_votes": 100,
    "imdb_id": "tt2057880",
@@ -1114,6 +1112,86 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "bca9858c7611"
+  },
+  {
+   "key": "movie-1368337",
+   "kind": "movie",
+   "tmdb_id": 1368337,
+   "title": "The Odyssey",
+   "studio": "Universal Pictures",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "Universal Pictures",
+    "Syncopy"
+   ],
+   "release_date": "2026-07-15",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+   "popularity": 418.4,
+   "tmdb_vote": 8.014,
+   "tmdb_votes": 4462,
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
+     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 10.0,
+     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
+     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
+    },
+    {
+     "author": "AlphaLucifer",
+     "rating": 1.0,
+     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
+     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
+    },
+    {
+     "author": "jwtx",
+     "rating": null,
+     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
+     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 544815.0,
+   "rt": null,
+   "metascore": 88.0,
+   "box_office_usd": 625595435.0,
+   "trade": [],
+   "input_hash": "c1d875d6ab96",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 40,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "faithful to Homer",
+     "maximalist epic scope",
+     "impressive visuals"
+    ],
+    "complaints": [
+     "bloated runtime",
+     "perceived woke messaging",
+     "boring end credits"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "hit",
+    "summary": "Epic adaptation draws strong buzz and box‑office success despite divided opinions on length and tone.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-08T06:30:22+00:00"
+   }
   },
   {
    "key": "movie-1507696",
@@ -1131,9 +1209,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
    "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Robert",
-   "popularity": 392.1,
-   "tmdb_vote": 6.028,
-   "tmdb_votes": 144,
+   "popularity": 407.3,
+   "tmdb_vote": 6.087,
+   "tmdb_votes": 161,
    "imdb_id": "tt37522541",
    "tmdb_url": "https://www.themoviedb.org/movie/1507696",
    "tmdb_reviews": [],
@@ -1143,7 +1221,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "621dd989aa03"
+   "input_hash": "9767a151346d"
   },
   {
    "key": "movie-1058424",
@@ -1163,9 +1241,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 371.1,
-   "tmdb_vote": 6.746,
-   "tmdb_votes": 516,
+   "popularity": 396.1,
+   "tmdb_vote": 6.722,
+   "tmdb_votes": 534,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1200,7 +1278,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "e5bb121b7dad",
+   "input_hash": "bb7969eb0160",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1245,7 +1323,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 332.1,
+   "popularity": 324.4,
    "tmdb_vote": 5.822,
    "tmdb_votes": 401,
    "imdb_id": "tt3444938",
@@ -1287,173 +1365,6 @@
    }
   },
   {
-   "key": "movie-1368337",
-   "kind": "movie",
-   "tmdb_id": 1368337,
-   "title": "The Odyssey",
-   "studio": "Universal Pictures",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "Universal Pictures",
-    "Syncopy"
-   ],
-   "release_date": "2026-07-15",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 328.2,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4399,
-   "imdb_id": "tt33764258",
-   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
-     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
-    },
-    {
-     "author": "Manuel São Bento",
-     "rating": 10.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
-     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
-    },
-    {
-     "author": "AlphaLucifer",
-     "rating": 1.0,
-     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
-     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
-    },
-    {
-     "author": "jwtx",
-     "rating": null,
-     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
-     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
-    }
-   ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 544815.0,
-   "rt": null,
-   "metascore": 88.0,
-   "box_office_usd": 625595435.0,
-   "trade": [
-    {
-     "title": "Christopher Nolan On DGA “Holding The Studios To Account” In Protecting Copyright From AI, Including Anti-AI Boilerplate In ‘The Odyssey’",
-     "link": "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/",
-     "source": "Deadline",
-     "published": "2026-11-07",
-     "snippet": "Halfway into his first time as DGA president, Christopher Nolan is holding the studios’ feet to the fire in protecting copyrighted materials from AI. In a new interview, the 2x Oscar winner explained that it’s “down to the studios” to go after AI recreations of their work, noting that he was “very pleased” his current […]"
-    }
-   ],
-   "input_hash": "b03e66863eec",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 40,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "faithful to Homer",
-     "maximalist epic scope",
-     "impressive visuals"
-    ],
-    "complaints": [
-     "bloated runtime",
-     "perceived woke messaging",
-     "boring end credits"
-    ],
-    "buzz": "High",
-    "box_office_verdict": "hit",
-    "summary": "Epic adaptation draws strong buzz and box‑office success despite divided opinions on length and tone.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-08T06:30:22+00:00"
-   }
-  },
-  {
-   "key": "movie-791523",
-   "kind": "movie",
-   "tmdb_id": 791523,
-   "title": "Wildwood",
-   "studio": "LAIKA",
-   "parent": "LAIKA",
-   "group": "Rest of industry",
-   "companies": [
-    "LAIKA"
-   ],
-   "release_date": "2026-10-19",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-   "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
-   "popularity": 303.7,
-   "tmdb_vote": 8.5,
-   "tmdb_votes": 222,
-   "imdb_id": "tt2056785",
-   "tmdb_url": "https://www.themoviedb.org/movie/791523",
-   "tmdb_reviews": [
-    {
-     "author": "Manuel São Bento",
-     "rating": 10.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/wildwood-2026-laika-delivers-a-stop-motion-generational-masterpiece/ Rating: A+ WILDWOOD is a true masterpiece, and I don't use that word lightly. Travis Knight and everyone at Laika spent years building, by hand, the most impressive stop-motion movie I've ever seen, one that deserves the \"generational classic\" stamp. Caleb Deschanel's cinematography and Dario Marianelli's score belong in every major awards conversation, as the final battle",
-     "url": "https://www.themoviedb.org/review/6adb78ce5c0b39dee051a6c9"
-    },
-    {
-     "author": "nkuk",
-     "rating": 5.0,
-     "text": "Technically its a marvel, but storywise it really falls flat. The stop-motion animation is so well done and fluid it looks like it could be computer generated. It must have taken an absolutely mammoth effort to create the film. The film has a painterly palette which looks gorgeous. Which is all the more shame as the characters and story let it down. The characters are less than one dimensional. The parents make some of the most bizarre and illogical actions ever set to screen. Prue doesn't belie",
-     "url": "https://www.themoviedb.org/review/6adbc174fdec4c9f8ea3e92c"
-    },
-    {
-     "author": "andrewtislercinephile",
-     "rating": 8.0,
-     "text": "Laika has always been one of my least favorite animation studios, and it's because they are tied to a medium of animation (stop-motion) that is becoming more and more dated as CGI is trying to replicate it with new software, and *Wildwood* is no exception. This movie is based on a 2011 novel about a teenager named Prue McKeel, who ventures into a forbidden forest to retrieve her baby brother Mac from the dowager governess, Alexandra. While the movie itself has a great story that perfectly blends",
-     "url": "https://www.themoviedb.org/review/6ae217d11392108dae048603"
-    },
-    {
-     "author": "aleo4",
-     "rating": null,
-     "text": "### *A Defiant Handcrafted Miracle in an Age of Plastic Cinema* There is a moment early in *Wildwood* when the Pacific Northwest sun filters through a canopy of moss draped Douglas firs, catching the frayed thread of Prue McKeel’s knit sweater and the subtle, microscopic wobble of miniature resin leaves. You can practically smell the rain-soaked soil. In an era where cinema is increasingly assembled inside sterile server racks, seeing actual physical matter sculpted, painted, dressed, and nudged",
-     "url": "https://www.themoviedb.org/review/6aea4caeca9aed1f7dc35326"
-    }
-   ],
-   "imdb_rating": 8.7,
-   "imdb_votes": 15186.0,
-   "rt": null,
-   "metascore": 88.0,
-   "box_office_usd": 25896210.0,
-   "trade": [],
-   "input_hash": "f2dbba4d6dd5",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 77,
-    "critics_vs_audience": "Critics higher",
-    "gap_note": "critics rate higher than audience",
-    "praises": [
-     "handcrafted stop‑motion",
-     "painterly visual palette",
-     "technical marvel"
-    ],
-    "complaints": [
-     "story falls flat",
-     "dated medium",
-     "weak characters"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Visually stunning stop‑motion praised, but story and characters divide viewers.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-08T06:30:48+00:00"
-   }
-  },
-  {
    "key": "tv-61818",
    "kind": "tv",
    "tmdb_id": 61818,
@@ -1472,7 +1383,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 267.4,
+   "popularity": 246.0,
    "tmdb_vote": 5.129,
    "tmdb_votes": 139,
    "imdb_id": "tt3513388",
@@ -1528,13 +1439,13 @@
     "Universal Media Studios",
     "Studios USA"
    ],
-   "release_date": "2026-10-22",
+   "release_date": "2026-11-05",
    "first_air_date": "1990-09-13",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 230.0,
-   "tmdb_vote": 7.276,
+   "popularity": 236.9,
+   "tmdb_vote": 7.3,
    "tmdb_votes": 739,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
@@ -1545,7 +1456,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "b8361c298ae7",
+   "input_hash": "a40daae2e469",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1563,6 +1474,74 @@
      "key"
     ],
     "analysed_at": "2026-11-06T06:41:54+00:00"
+   }
+  },
+  {
+   "key": "movie-1294189",
+   "kind": "movie",
+   "tmdb_id": 1294189,
+   "title": "The Mongoose",
+   "studio": "Code Entertainment",
+   "parent": "Code Entertainment",
+   "group": "Rest of industry",
+   "companies": [
+    "Code Entertainment",
+    "The Solution"
+   ],
+   "release_date": "2026-10-29",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+   "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fascinated public rooting for his safe getaway.",
+   "popularity": 203.5,
+   "tmdb_vote": 5.622,
+   "tmdb_votes": 94,
+   "imdb_id": "tt13611778",
+   "tmdb_url": "https://www.themoviedb.org/movie/1294189",
+   "tmdb_reviews": [
+    {
+     "author": "Sierbahnn",
+     "rating": null,
+     "text": "This is what Rambo First Blood would have been if he could have left and if he did have friends. It's a movie about police overreach, the strange fascination that Americans have for their veterans and for the parallel justice systems that exist in the brothers of arms. It's certainly not a bad movie and I enjoyed watching it even though it does make me feel very uneasy about the judicial and justice system of America when the action of this movie seems so relevant and so natural. Obviously Liam ",
+     "url": "https://www.themoviedb.org/review/6a9959cb2c779e254b62895d"
+    },
+    {
+     "author": "Chandler Danier",
+     "rating": 7.0,
+     "text": "Ving Rhames! Car makes an excellent vehicle for the geezer teaser. Seal Team vibes. Big black car is interesting. Would a big black truck have been a better choice? Better to use the old guy. Neeson's great. Moved to tears. What a dude. Drives well. Cool car. I cannot remember how it ends.",
+     "url": "https://www.themoviedb.org/review/6aed1da00d2c5b821ea69bd8"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "4ce9dd9845b6",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "interesting big black car",
+     "Ving Rhames presence",
+     "Neeson praised"
+    ],
+    "complaints": [
+     "uneasy about themes",
+     "unfinished ending",
+     "mixed tone"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "The Mongoose offers gritty action and notable performances yet leaves viewers uneasy and uncertain about its conclusion.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-09T06:44:57+00:00"
    }
   }
  ]
