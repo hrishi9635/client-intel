@@ -1058,46 +1058,26 @@
  },
  "Brightstar (IGT)": {
   "document_type": "Quarterly results",
-  "period": "Second Quarter 2026",
-  "headline": "Brightstar Lottery expands contracts in Canada, Spain and New York, launching Cash Pop game in Ontario.",
-  "key_numbers": [
-   {
-    "label": "Dividend",
-    "value": "$500M program",
-    "context": "buyback",
-    "src": "official"
-   },
-   {
-    "label": "Share buyback",
-    "value": "357,600 shares",
-    "context": "taps program",
-    "src": "official"
-   }
-  ],
+  "period": "quarter ended September 30, 2026",
+  "headline": "Brightstar Lottery reported its third‑quarter 2026 results and secured several new lottery‑technology contracts.",
+  "key_numbers": [],
   "outlook_line": null,
-  "segments_basis": "Revenue, second quarter 2026",
-  "segments": [
-   {
-    "name": "Lottery",
-    "revenue": null,
-    "growth": null,
-    "comment": "Contract extensions and new launches",
-    "src": "official"
-   },
-   {
-    "name": "Gaming",
-    "revenue": null,
-    "growth": null,
-    "comment": "Private under Apollo, no figures",
-    "src": "official"
-   }
-  ],
+  "segments_basis": null,
+  "segments": [],
   "focus": [
    {
-    "area": "Technology",
-    "plan": "Extend lottery technology contracts",
+    "area": "Lottery technology",
+    "plan": "enhancements in Spain under multi‑year extension",
     "amount": null,
-    "timing": "2026",
+    "timing": "multi‑year",
+    "tech": true,
+    "src": "news"
+   },
+   {
+    "area": "Lottery technology",
+    "plan": "extensions with New York Lottery",
+    "amount": null,
+    "timing": "two‑year",
     "tech": true,
     "src": "news"
    }
@@ -1107,22 +1087,29 @@
   "key_changes": [
    {
     "type": "Contract win",
-    "change": "Cash Pop launch",
-    "detail": "Brightstar Lottery launches Cash Pop game in Ontario, Canada",
-    "when": "2026-10-26",
-    "src": "news"
-   },
-   {
-    "type": "Contract win",
-    "change": "Spain contract extension",
-    "detail": "Brightstar extends lottery technology contract with ONCE in Spain",
+    "change": "Spain ONCE extension",
+    "detail": "Multi‑year contract for lottery technology enhancements in Spain.",
     "when": "2026-10-22",
     "src": "news"
    },
    {
     "type": "Contract win",
-    "change": "New contracts",
-    "detail": "Brightstar Lottery seals new contracts in Spain and New York",
+    "change": "New York extension",
+    "detail": "Two‑year contract extension with the New York Lottery.",
+    "when": "2026-10-20",
+    "src": "news"
+   },
+   {
+    "type": "Contract win",
+    "change": "Spain ONCE extension",
+    "detail": "Extended contract with Spain's ONCE lottery for technology services.",
+    "when": "2026-10-22",
+    "src": "news"
+   },
+   {
+    "type": "Contract win",
+    "change": "Spain and New York contracts",
+    "detail": "New contracts sealed in Spain and New York.",
     "when": "2026-10-23",
     "src": "news"
    }
@@ -1131,45 +1118,46 @@
    {
     "person": "Pierfrancesco Boccia",
     "role": "Corporate Secretary",
-    "change": "Signed",
-    "when": "2026-08-04",
+    "change": "New role",
+    "when": "2026-11-10",
     "src": "official"
    }
   ],
   "dates": [
    {
-    "date": "2026-09-01",
-    "event": "Dividend payable",
-    "src": "official"
-   },
-   {
-    "date": "2026-08-18",
+    "date": "2026-11-24",
     "event": "Record date",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Extend lottery tech contracts",
-    "Launch Cash Pop in Ontario",
-    "Secure Spain and NY contracts"
+    "Secure multi‑year lottery‑technology contracts in Spain",
+    "Two‑year extension with New York Lottery",
+    "Accreditation for iCAP Ready platform",
+    "Launch of Cash Pop game in Ontario"
    ],
    "changes": [
-    "Signed new corporate secretary"
+    "Multi‑year technology contract with ONCE Spain",
+    "Two‑year extension with New York Lottery",
+    "Corporate Secretary signing by Pierfrancesco Boccia",
+    "New contracts in Spain and New York"
    ]
   },
-  "unverified_dropped": [],
+  "unverified_dropped": [
+   "date: 2026-12-08"
+  ],
   "format": 3,
   "company": "Brightstar (IGT)",
   "name": "IGT / Brightstar Lottery",
   "industry": "Gaming & Lottery",
   "currency": "USD",
-  "release_key": "0001628280-26-052120",
-  "release_date": "2026-08-04",
+  "release_key": "0001628280-26-072492",
+  "release_date": "2026-11-10",
   "documents": [
    {
-    "title": "a6-kx2q26earningsrelease.htm",
-    "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120/a6-kx2q26earningsrelease.htm",
+    "title": "a6-kx3q26earningsrelease.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026072492/a6-kx3q26earningsrelease.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -1178,7 +1166,7 @@
   ],
   "news_used": true,
   "chunks_read": 1,
-  "written_at": "2026-10-26T14:20:02+00:00"
+  "written_at": "2026-11-10T12:22:03+00:00"
  },
  "Scholastic": {
   "document_type": "Quarterly results",

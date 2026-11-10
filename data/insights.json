@@ -844,11 +844,11 @@
  },
  "Brightstar (IGT)": {
   "results_found": true,
-  "period_label": "Q2 2026",
+  "period_label": "Q3 2026",
   "fiscal_label": null,
-  "period_end": "2026-06-30",
-  "results_date": "2026-08-04",
-  "headline": "Brightstar Lottery reports Q2 2026 results and declares quarterly dividend",
+  "period_end": "2026-09-30",
+  "results_date": "2026-11-10",
+  "headline": "Brightstar Lottery posted Q3 2026 results and declared a $0.23 per share dividend.",
   "metrics": {
    "revenue_m": null,
    "revenue_growth_yoy_pct": null,
@@ -858,123 +858,105 @@
    "eps": null
   },
   "guidance": null,
-  "guidance_change": "unknown",
-  "segments": [],
-  "highlights": [],
+  "guidance_change": "none",
+  "segments": [
+   {
+    "name": "Lottery",
+    "trend": "Mixed",
+    "note": "Revenue pressure noted in news, but contract extensions ongoing."
+   }
+  ],
+  "highlights": [
+   "Quarterly cash dividend of $0.23 per share declared.",
+   "Multiple contract extensions signed with ONCE in Spain and New York Lottery.",
+   "Share repurchase activity continued under $500M program."
+  ],
   "management_view": null,
-  "risks": [],
+  "risks": [
+   "Revenue decline noted in analyst commentary.",
+   "Potential impact of higher amortization on profitability."
+  ],
   "sentiment": "Neutral",
-  "sentiment_reason": "No financial data provided",
+  "sentiment_reason": "Results were mixed with dividend news positive but revenue pressure negative.",
   "it_signals": [
    {
-    "type": "Digital / platform rebuild",
-    "detail": "Multi‑year contract renewal with ONCE includes lottery technology enhancements",
-    "source_id": 21,
-    "link": "https://www.kucoin.com/news/flash/brightstar-lottery-renews-multi-year-contract-with-spain-s-once-advances-lottery-technology-upgrades",
-    "source": "kucoin.com",
-    "published": "2026-10-21"
+    "type": "Vendor / outsourcing",
+    "detail": "Extended lottery technology contract with ONCE in Spain for system enhancements.",
+    "source_id": 34,
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk0yc0ptTjdialoxYjQ2WWwwcmJTdlZyV0NlQm5LTnZfTV9hNE1BRUtOc2kxMEY0MHhWMl9hSGg2LWxES0tpR1BWdEJaVFY0T2JSQThkcVJQckt0a0YyZ0Frc0Q2aFRUakEtQy00TzdrMVExa0dic0lNU2sydldvV2tQWWtsZXJWczF0NXpDYVV2UkpLSFd6ZTByRWc1MlJnY3RSaHh5MjdTLWtHeFRuRUZhUWtqeXNWTkJZcUxkaw?oc=5",
+    "source": "Investing.com",
+    "published": "2026-10-22"
    },
    {
-    "type": "Digital / platform rebuild",
-    "detail": "Two‑year extension with New York Lottery continues existing platform support",
-    "source_id": 24,
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0N2aUxVWEszWEQ0c01uVmpxOTB0eUhRN1QwMDJ2M0NRbEE3REYwbUotVEdPeG9EYlFWbi1MeE9tTVA0NEtKbVpuV056eGZ4Y0NfazhtTXpiQUFnSlAxOWZPaUtZLTlxOFlOcENvczB1dXdQZmVCWWpYTVhqMVkyZENqZlk3UFYxRjNmdTNjNGFtbDV1c3JYX292UHBYYVhiTlg4Rl9PbzM5SU5BN1FDcnRJbzViRTBU?oc=5",
-    "source": "StreetInsider",
+    "type": "Vendor / outsourcing",
+    "detail": "Extended New York Lottery contract for two years.",
+    "source_id": 45,
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXVuNllLQnVwU3QzUlNZSTNDVndrOWpVNDBsTVZmM3kzd1M5VV9PUUZYQUF0cDgzc196NUxlTFZiSW5WU0l6R2xFUlFGdTRsdEIwSUM3YUt2X0dPNFJkUVprMzNYUUwyUjNaNVFhODljUUlDaVpmRjEzWkI1VXlVT3A1V3hjeWlQNGdqaDAzY0E5aF9lVUhtM2JoM1gwMS1JdF9iLUs5bW5vYTUzQVhqQWxDcTN1SXRxZFc4?oc=5",
+    "source": "Investing.com UK",
     "published": "2026-10-20"
    },
    {
     "type": "Other",
-    "detail": "Cash Pop game debut demonstrates new product development and integration with state lottery systems",
-    "source_id": 11,
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnRRMzBiZGx1X0tpN2JnNEx1dTR0TWFGMENGVTR1a0s0UHZqdWxKU3FTODhWZWhjTkxBS2tPdnRNSWxMNWp4STJzaHc3ZVlyRFV6QlR4TGg2TC04aFllQnRLWFJ1aTBIdHh5XzlnY2M0VlI4WXVLNG9yaTJ4bS1hZHhLZnlpT3ZyV3ZCNU9VXzlpRzRURXM3WFFrYlhYdnBXNXhvM1YydDJoX1p1RXZkUENrQi0zSmh1bVVfQ3JHQVU4UXN1Y1FhNnFlYw?oc=5",
-    "source": "PR Newswire",
+    "detail": "Launched new Cash Pop game with Illinois Lottery, indicating product innovation.",
+    "source_id": 24,
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVExCU1VlRVB6NU40WENzX3NPdWhNWlZveVZQOXNqWmh0TXJGRTJFdnQ0aFdRMjB3Ty1iTWQycW0ycGFLRndIQ1VOU3lsYUVFNUdaWmlhaEdZbENkc01lLWpaR2JTT3d4bGtYWWtqVkh4el9SQU0yME43QV9GVTJSRkh4eXJQMy1sZE5HQ1AxbUZ2NnVCV0FXbzBxTkdUaHRjYU9DRnh2d3pRV0VpM1VGVmMxOFRzQ2FLa280N0d3WWFlNTVNdTd1alVfZU41ZWc?oc=5",
+    "source": "marketscreener.com",
     "published": "2026-10-27"
-   },
-   {
-    "type": "Other",
-    "detail": "World Lottery Summit showcase highlights next‑generation lottery solutions portfolio",
-    "source_id": 5,
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbGdpaWtqT010ZVNFZ2tISUhPOUdyZjhKc3l6NTFmVHMwd0FDd1F3Ym5RVG9tU1dwVWh1Qnl0SG9ZN0c4WWZUdEVsazRmelFuMk1Bb1Y3V2o3RFhRXzYzWDU2a3RWODNPN2JLUWFhUWFDTjUyWHU1R0dzNTBGLTROVlZUd2Y5NmEtc29aTmJyMnpjcy1mUllHdUdKT1lZS2xLLVhTaUtBVXBRaURpRmQ5QnN2NzJRUk5XbFpNUFdhbkM4eE1vMGM0bWNjd3RTZ0JUZGhiSHQxM29wSnpmMlBxVWRaVUpzQQ?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-11-02"
    }
   ],
   "it_spend_outlook": "Stable",
-  "it_spend_reason": "Ongoing contract extensions sustain current technology spend, while share buybacks limit additional upside",
+  "it_spend_reason": "Ongoing contract extensions suggest continued technology spend at current levels.",
   "talking_points": [
-   "How can we help Brightstar accelerate its multi‑year technology upgrades for ONCE and New York?",
-   "What support is needed for scaling the Cash Pop platform across additional state lotteries?",
-   "Can we propose cost‑effective cloud or data solutions to offset cash‑flow pressure from the buyback program?"
+   "Discuss how the new Cash Pop game platform could drive future tech upgrades.",
+   "Explore opportunities to support the extended contracts with ONCE and New York Lottery.",
+   "Assess the impact of higher amortization on budgeting for technology investments."
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "a6-kx2q26earningsrelease.htm",
-    "link": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120/a6-kx2q26earningsrelease.htm",
+    "title": "a6-kx3q26earningsrelease.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026072492/a6-kx3q26earningsrelease.htm",
     "source": "6-K",
-    "published": "2026-08-04",
+    "published": "2026-11-10",
     "official": true
+   },
+   {
+    "title": "Brightstar extends lottery technology contract with ONCE in Spain",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk0yc0ptTjdialoxYjQ2WWwwcmJTdlZyV0NlQm5LTnZfTV9hNE1BRUtOc2kxMEY0MHhWMl9hSGg2LWxES0tpR1BWdEJaVFY0T2JSQThkcVJQckt0a0YyZ0Frc0Q2aFRUakEtQy00TzdrMVExa0dic0lNU2sydldvV2tQWWtsZXJWczF0NXpDYVV2UkpLSFd6ZTByRWc1MlJnY3RSaHh5MjdTLWtHeFRuRUZhUWtqeXNWTkJZcUxkaw?oc=5",
+    "source": "Investing.com",
+    "published": "2026-10-22T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar extends New York lottery contract for two years By Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXVuNllLQnVwU3QzUlNZSTNDVndrOWpVNDBsTVZmM3kzd1M5VV9PUUZYQUF0cDgzc196NUxlTFZiSW5WU0l6R2xFUlFGdTRsdEIwSUM3YUt2X0dPNFJkUVprMzNYUUwyUjNaNVFhODljUUlDaVpmRjEzWkI1VXlVT3A1V3hjeWlQNGdqaDAzY0E5aF9lVUhtM2JoM1gwMS1JdF9iLUs5bW5vYTUzQVhqQWxDcTN1SXRxZFc4?oc=5",
+    "source": "Investing.com UK",
+    "published": "2026-10-20T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Brightstar Lottery plc Announces Illinois Lottery Launches Patented Cash Pop Game",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVExCU1VlRVB6NU40WENzX3NPdWhNWlZveVZQOXNqWmh0TXJGRTJFdnQ0aFdRMjB3Ty1iTWQycW0ycGFLRndIQ1VOU3lsYUVFNUdaWmlhaEdZbENkc01lLWpaR2JTT3d4bGtYWWtqVkh4el9SQU0yME43QV9GVTJSRkh4eXJQMy1sZE5HQ1AxbUZ2NnVCV0FXbzBxTkdUaHRjYU9DRnh2d3pRV0VpM1VGVmMxOFRzQ2FLa280N0d3WWFlNTVNdTd1alVfZU41ZWc?oc=5",
+    "source": "marketscreener.com",
+    "published": "2026-10-27T14:11:12+00:00",
+    "official": false
    }
   ],
   "company": "Brightstar (IGT)",
   "mode": "results",
-  "analysed_at": "2026-10-13T19:21:50+00:00",
+  "analysed_at": "2026-11-10T12:21:14+00:00",
   "release": {
    "form": "6-K",
-   "filed": "2026-08-04",
-   "accepted": "2026-08-04T10:41:41.000Z",
-   "accession": "0001628280-26-052120",
-   "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120/a6-kx2q26earningsrelease.htm",
-   "title": "a6-kx2q26earningsrelease.htm",
-   "index": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026052120",
-   "published": "2026-08-04"
+   "filed": "2026-11-10",
+   "accepted": "2026-11-10T11:43:10.000Z",
+   "accession": "0001628280-26-072492",
+   "url": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026072492/a6-kx3q26earningsrelease.htm",
+   "title": "a6-kx3q26earningsrelease.htm",
+   "index": "https://www.sec.gov/Archives/edgar/data/1619762/000162828026072492",
+   "published": "2026-11-10"
   },
-  "release_key": "0001628280-26-052120",
-  "signals_at": "2026-11-03T22:18:00+00:00",
-  "signal_sources": [
-   {
-    "title": "Brightstar Lottery renews its multi-year contract with Spain's ONCE and advances lottery technology upgrades.",
-    "link": "https://www.kucoin.com/news/flash/brightstar-lottery-renews-multi-year-contract-with-spain-s-once-advances-lottery-technology-upgrades",
-    "source": "kucoin.com",
-    "published": "2026-10-21T21:59:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Brightstar Lottery extends New York contract for two years",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0N2aUxVWEszWEQ0c01uVmpxOTB0eUhRN1QwMDJ2M0NRbEE3REYwbUotVEdPeG9EYlFWbi1MeE9tTVA0NEtKbVpuV056eGZ4Y0NfazhtTXpiQUFnSlAxOWZPaUtZLTlxOFlOcENvczB1dXdQZmVCWWpYTVhqMVkyZENqZlk3UFYxRjNmdTNjNGFtbDV1c3JYX292UHBYYVhiTlg4Rl9PbzM5SU5BN1FDcnRJbzViRTBU?oc=5",
-    "source": "StreetInsider",
-    "published": "2026-10-20T10:47:32+00:00",
-    "official": false
-   },
-   {
-    "title": "Brightstar Lottery's Patented Cash Pop Game Debuts with the Illinois Lottery",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnRRMzBiZGx1X0tpN2JnNEx1dTR0TWFGMENGVTR1a0s0UHZqdWxKU3FTODhWZWhjTkxBS2tPdnRNSWxMNWp4STJzaHc3ZVlyRFV6QlR4TGg2TC04aFllQnRLWFJ1aTBIdHh5XzlnY2M0VlI4WXVLNG9yaTJ4bS1hZHhLZnlpT3ZyV3ZCNU9VXzlpRzRURXM3WFFrYlhYdnBXNXhvM1YydDJoX1p1RXZkUENrQi0zSmh1bVVfQ3JHQVU4UXN1Y1FhNnFlYw?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-10-27T11:45:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Brightstar Lottery Spotlights Next Generation of Lottery Solutions at World Lottery Summit 2026",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbGdpaWtqT010ZVNFZ2tISUhPOUdyZjhKc3l6NTFmVHMwd0FDd1F3Ym5RVG9tU1dwVWh1Qnl0SG9ZN0c4WWZUdEVsazRmelFuMk1Bb1Y3V2o3RFhRXzYzWDU2a3RWODNPN2JLUWFhUWFDTjUyWHU1R0dzNTBGLTROVlZUd2Y5NmEtc29aTmJyMnpjcy1mUllHdUdKT1lZS2xLLVhTaUtBVXBRaURpRmQ5QnN2NzJRUk5XbFpNUFdhbkM4eE1vMGM0bWNjd3RTZ0JUZGhiSHQxM29wSnpmMlBxVWRaVUpzQQ?oc=5",
-    "source": "PR Newswire",
-    "published": "2026-11-02T11:45:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Brightstar Lottery PLC repurchases 1,004,500 ordinary shares for $9,792,915.42",
-    "link": "https://www.msn.com/en-us/money/top-stocks/brightstar-lottery-plc-repurchases-1-004-500-ordinary-shares-for-9-792-915-42/ar-AA2gcKlK",
-    "source": "msn.com",
-    "published": "2026-10-27T19:38:44+00:00",
-    "official": false
-   },
-   {
-    "title": "Brightstar Lottery (NYSE:BRSL) Reaches New 1-Year Low - Should You Sell?",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGtRTXg4cURKUEc5bnR5T1FnUmJObDZFSWpyQ0VoWHlRX3p5YThRS25jQ29OVW51V2lqSjRBSDh1VE9sZ2RGcFR6enVaU05yOUZ4T2VTOUF4enotQTFqcTBkc21TbEMzczFEWGpBV29ZVTNaZGZJZUhHcjhES1E4ZnRtR3JPN0tSRjNCQmItLTlCQmk3cTd5SEdhMV9xbWxxdWpGSWpYT2VsWlp2YWNBMWZZc0JmOXc0YWc1NnBzYmhWS1hLNkE?oc=5",
-    "source": "MarketBeat",
-    "published": "2026-10-20T07:00:00+00:00",
-    "official": false
-   }
-  ]
+  "release_key": "0001628280-26-072492",
+  "signals_at": "2026-11-10T12:21:14+00:00"
  },
  "Wolters Kluwer": {
   "results_found": true,
