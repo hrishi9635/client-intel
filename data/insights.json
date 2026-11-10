@@ -296,28 +296,44 @@
   "sentiment_reason": "Revenue beat estimates and guidance reaffirmed despite profit decline.",
   "it_signals": [
    {
+    "type": "M&A / spin-off",
+    "detail": "Versant paid $530 million to acquire Full Swing, a golf‑simulator tech company",
+    "source_id": 2,
+    "link": "https://www.msn.com/en-in/sports/golf/woods-stake-tied-to-simulator-boom-versant-pays-530-million-for-full-swing-us-venues-see-70-profit-lift/ar-AA2gWkss",
+    "source": "msn.com",
+    "published": "2026-11-06"
+   },
+   {
     "type": "Digital / platform rebuild",
-    "detail": "Launched MS NOW direct‑to‑consumer membership platform and advanced CNBC digital offering.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
-    "source": "8-K",
+    "detail": "Expanding MS NOW and Fandango digital offerings, platform revenue up 10% to $245 million",
+    "source_id": 24,
+    "link": "https://seekingalpha.com/news/4663990-versant-affirms-2026-outlook-of-6_2b-6_45b-revenue-and-expects-free-cash-flow-above-1b-1_2b",
+    "source": "seekingalpha.com",
     "published": "2026-11-03"
    },
    {
-    "type": "Other",
-    "detail": "Integrated Full Swing into the golf ecosystem, expanding digital golf services.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2067876/000206787626000050/versantmediagroupincex991q.htm",
-    "source": "8-K",
-    "published": "2026-11-03"
+    "type": "Digital / platform rebuild",
+    "detail": "Added 4 FAST channels and increased streaming memberships on Roku, Apple TV and Fire TV",
+    "source_id": 34,
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlozVWxrTUZQSXRJb1N0eEViMEc3S0JsNlo1UVRya0RETjNYaHF1U0lIMFppOU9kanZxalBCa0N4Y2M5dGdUSXF2WUE1ZFprVFllVDJ2Ri1NYVZnNHFyWHdlNFE5TVIxVHdwZEVfRlNvTXJvNnJOaVNmU0JjakQ3TnR3SHUwbFE5YU50a2V3S25XUE1fa2h0SXNERFpSbmZFNjVNSlRMRnZfdXRPdnhkTk5R?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-02"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Licensing agreement to stream E! ‘The Golden Life’ on Hulu",
+    "source_id": 42,
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEtRT3ZnY2h6NGgtOTdsRGotVnpTYlgzZEJFSXg2dEozVkFhTUJvTENqM005TkVWbXl1aUFVNzhMSWtwbzE0bmdoWWFkT0prS2M1QUpVdk9ka3RJanVKVkFySllMR1Z6U0ZZWFhkVTZRYkhrWXcydVJ1MGFCU2VhZ3ZyNlpXQWNfaVNhVDBQeVJmTHEyMXdRRU5CUUNRdnRVZk00SFhPZlA4Qmcxek1zYWl2V3kyWEwwNWN0cmpGSVFTTnBTZm1ac0R3Zw?oc=5",
+    "source": "Business Wire",
+    "published": "2026-10-21"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Management highlighted platform revenue growth and new digital product launches.",
+  "it_spend_reason": "Guidance reaffirmed with higher digital platform investment and a $530 M tech acquisition",
   "talking_points": [
-   "Discuss Versant’s double‑digit platforms revenue growth and its implications for technology spend.",
-   "Explore opportunities to support the new MS NOW membership platform and upcoming CNBC digital launch.",
-   "Assess how Full Swing integration may drive further digital investments in the golf ecosystem."
+   "How can we help integrate Full Swing’s simulation tech into your broader digital strategy?",
+   "What support do you need for scaling MS NOW and Fandango’s streaming infrastructure?",
+   "Are there opportunities to optimize your FAST channel rollout with cloud‑native solutions?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -343,7 +359,65 @@
    "published": "2026-11-03"
   },
   "release_key": "0002067876-26-000050",
-  "signals_at": "2026-11-03T15:15:19+00:00"
+  "signals_at": "2026-11-10T15:15:45+00:00",
+  "signal_sources": [
+   {
+    "title": "Woods stake tied to simulator boom: Versant pays $530 million for Full Swing; US venues see 70% profit lift",
+    "link": "https://www.msn.com/en-in/sports/golf/woods-stake-tied-to-simulator-boom-versant-pays-530-million-for-full-swing-us-venues-see-70-profit-lift/ar-AA2gWkss",
+    "source": "msn.com",
+    "published": "2026-11-06T21:30:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Versant Media Group Sees Decline In Q3 Revenue 11/04/2026",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdW1rMFRvS0czQ3V5c3JQSkR3TjU5T0lFR05DWnZhWWNKUTJsb0FDQ2pBbHMwc3RGelNtcnI0eGJSVlA3MjlPN29EVUNDZGJzMkluMXRJZ2Q0RWZMelgzYjRvdE1Ba1VIR0w4UE9jVm5oczFZek1LbTZWd1d5bmRRYmh2bzQ2aFZheEZnOVhYbVNjUDdld1dITG4wcjlfTmR0UDI2X2xFb2k?oc=5",
+    "source": "MediaPost",
+    "published": "2026-11-04T06:54:41+00:00",
+    "official": false
+   },
+   {
+    "title": "Versant Media Group 3Q 2026: Revenue $1.59B, Net income $47M, EPS $0.34— 10-Q Summary",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjBRMGtGS2Ezd2E3Q09HcXl5R29lQndNY2cxOEhQMzYxY050TG8tNVFjS0hybGxIMU1GMFBlY0NqSkc0czF4SFBidG95cDRYZnoyZ2ItN1hNc3V5aWVPZTc0U3QwUGk4VWs0MHhIbmpDcE5DaEZDWGdLRjVVazJtc05aeWNZbnBsaGNjQnh0RGRZUmNqd1BrU1FPYzQwYUNtTFpwSm03TVB5ekhqTmNLT3ViYThZcjMxU0JKajRPM2NaYTd2RGZYSXpOMjVvbnhtQkhHY1V1NA?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-03T21:11:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Platforms revenue rose 9.6% at Versant Media (VSNT), but Q3 net income fell.",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDdDUEZQSXRGYXppRmF2N2cxaVJXQm02XzZPblhmc3dFRGREV0Q0WENPeS1aWHVMVjVOc1JGT0ZKVXJhUmItR1RreE04Q2hCNGZxU2lpVkxPRnAxVjk4ZF9Ga0lZQmhRbExUWG1NZGM1TTM5eEJKM1BhekZzNVQwa3h3anFrTncwS3dvVTRYVGd0bFp3VW5ONTJGV3hqQlgxNmM5SkpUYXRsYXRjOU1MZ2hoS1dtNEU?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-03T21:03:55+00:00",
+    "official": false
+   },
+   {
+    "title": "Versant affirms 2026 outlook of $6.2B-$6.45B revenue and expects free cash flow above $1B-$1.2B, while expanding MS NOW and Fandango",
+    "link": "https://seekingalpha.com/news/4663990-versant-affirms-2026-outlook-of-6_2b-6_45b-revenue-and-expects-free-cash-flow-above-1b-1_2b",
+    "source": "seekingalpha.com",
+    "published": "2026-11-03T12:17:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Versant: Fandango Helps Up Quarterly Platform Revenue 10%",
+    "link": "https://www.mediaplaynews.com/versant-fandango-helps-up-quarterly-platform-revenue-10/",
+    "source": "mediaplaynews.com",
+    "published": "2026-11-03T06:48:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Versant's MS NOW brings streaming membership to Roku, Apple TV and Fire TV",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlozVWxrTUZQSXRJb1N0eEViMEc3S0JsNlo1UVRya0RETjNYaHF1U0lIMFppOU9kanZxalBCa0N4Y2M5dGdUSXF2WUE1ZFprVFllVDJ2Ri1NYVZnNHFyWHdlNFE5TVIxVHdwZEVfRlNvTXJvNnJOaVNmU0JjakQ3TnR3SHUwbFE5YU50a2V3S25XUE1fa2h0SXNERFpSbmZFNjVNSlRMRnZfdXRPdnhkTk5R?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-02T16:47:52+00:00",
+    "official": false
+   },
+   {
+    "title": "Versant Announces Licensing Agreement to Stream E!’S The Golden Life on Hulu",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTEtRT3ZnY2h6NGgtOTdsRGotVnpTYlgzZEJFSXg2dEozVkFhTUJvTENqM005TkVWbXl1aUFVNzhMSWtwbzE0bmdoWWFkT0prS2M1QUpVdk9ka3RJanVKVkFySllMR1Z6U0ZZWFhkVTZRYkhrWXcydVJ1MGFCU2VhZ3ZyNlpXQWNfaVNhVDBQeVJmTHEyMXdRRU5CUUNRdnRVZk00SFhPZlA4Qmcxek1zYWl2V3kyWEwwNWN0cmpGSVFTTnBTZm1ac0R3Zw?oc=5",
+    "source": "Business Wire",
+    "published": "2026-10-21T07:00:00+00:00",
+    "official": false
+   }
+  ]
  },
  "Cox": {
   "headline": "Cox Automotive expands AI‑driven data integration and training initiatives",

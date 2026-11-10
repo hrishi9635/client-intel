@@ -1,35 +1,35 @@
 {
- "headline": "Technology spending varies across sectors while revenue growth remains mixed.",
- "summary": "Media & Entertainment shows strong top‑line growth but cost‑cutting pressures. Gaming & Lottery sees digital platform upgrades alongside mixed earnings. Publishing & Information is split between AI‑driven products and revenue declines. Education continues to invest in AI and quantum research with generally positive sentiment.",
+ "headline": "Technology spending varies across sectors while AI investments rise and cost pressures tighten in media.",
+ "summary": "Media firms show strong revenue growth but are cutting costs and tightening IT budgets. Gaming operators are expanding digital platforms despite mixed earnings. Publishing and education companies are investing in AI, with mixed financial results. IT outlooks range from tightening in media to expanding in publishing and education.",
  "industries": [
   {
    "industry": "Media & Entertainment",
    "mood": "Positive",
-   "summary": "Revenue is up, led by Disney's $25,248 m Q2 result. Companies are investing in AI and cutting costs. Private players like Cox are expanding tech spend.",
+   "summary": "Revenue is solid, led by Disney's $25,248 m. Companies are investing in AI and cutting costs. IT spend is mixed, with some tightening and some expansion.",
    "leaders": [
     {
      "company": "Disney",
-     "why": "Largest revenue at $25,248 m and operating margin 22%."
+     "why": "Highest revenue and strong operating margin"
     }
    ],
    "laggards": [
     {
-     "company": "LA Times",
-     "why": "Neutral sentiment and no disclosed financials."
+     "company": "Versant",
+     "why": "Lowest disclosed revenue among listed firms"
     }
    ],
    "themes": [
     {
-     "title": "AI investment",
-     "detail": "Disney filed a real‑time AI patent and Wolters Kluwer launched multiple AI tools.",
+     "title": "AI & tech investment",
+     "detail": "Disney filed a real‑time AI patent and Versant expanded digital platforms.",
      "companies": [
       "Disney",
-      "Wolters Kluwer"
+      "Versant"
      ]
     },
     {
      "title": "Cost cutting",
-     "detail": "Disney targets 20% staff reductions; WBD/Skydance seeks $6 bn synergies.",
+     "detail": "Disney targets 20% staff cuts; WBD seeks $6 bn synergies.",
      "companies": [
       "Disney",
       "WBD / Skydance"
@@ -37,22 +37,22 @@
     }
    ],
    "it_outlook": "Mixed",
-   "it_note": "Tech spend is tightening at large studios but expanding at niche players; account teams should balance cost‑efficiency with AI enablement."
+   "it_note": "Account team should balance support for AI projects with guidance on cost‑efficiency."
   },
   {
    "industry": "Gaming & Lottery",
    "mood": "Mixed",
-   "summary": "Revenue growth is modest with Caesars reporting a loss despite $2,940 m revenue. Digital casino platforms are being rolled out. Margin pressure varies widely.",
+   "summary": "Caesars posted $2,940 m revenue but a net loss; Bally's grew revenue sharply. Digital platform rebuilds are a focus. IT spend is expanding at Caesars but unclear elsewhere.",
    "leaders": [
     {
      "company": "Caesars",
-     "why": "Highest revenue at $2,940 m."
+     "why": "Largest revenue and aggressive digital rollout"
     }
    ],
    "laggards": [
     {
-     "company": "Light & Wonder",
-     "why": "Lowest revenue at $824 m and negative YoY growth."
+     "company": "Brightstar (IGT)",
+     "why": "Lowest disclosed revenue"
     }
    ],
    "themes": [
@@ -66,28 +66,28 @@
     }
    ],
    "it_outlook": "Mixed",
-   "it_note": "While some firms expand digital spend, others remain cautious; focus on scalable platform solutions."
+   "it_note": "Focus on supporting new digital casino platforms while monitoring cost impacts."
   },
   {
    "industry": "Publishing & Information",
    "mood": "Mixed",
-   "summary": "Pearson shows strong growth with $1,779 m revenue, while Scholastic missed targets at $216.8 m. AI tools are a common focus. Overall sentiment is split.",
+   "summary": "Pearson drives growth with AI tools; Scholastic missed revenue targets; Wolters Kluwer expands AI capabilities. Overall IT outlook is expanding.",
    "leaders": [
     {
      "company": "Pearson",
-     "why": "Largest revenue at $1,779 m and positive margin."
+     "why": "Highest revenue and strong AI agenda"
     }
    ],
    "laggards": [
     {
      "company": "Scholastic",
-     "why": "Revenue miss and -42.5% margin."
+     "why": "Lowest revenue and negative margin"
     }
    ],
    "themes": [
     {
      "title": "AI & tech investment",
-     "detail": "Pearson and Wolters Kluwer rolled out AI‑driven learning and tax tools.",
+     "detail": "Pearson, Wolters Kluwer and others launch AI‑enhanced products and services.",
      "companies": [
       "Pearson",
       "Wolters Kluwer"
@@ -95,45 +95,46 @@
     }
    ],
    "it_outlook": "Expanding",
-   "it_note": "AI initiatives are accelerating; account teams should highlight integration and data‑analytics capabilities."
+   "it_note": "Account team should highlight AI integration opportunities across content and workflow."
   },
   {
    "industry": "Education",
-   "mood": "Positive",
-   "summary": "Pearson and NYU report strong AI and quantum research investments. Revenue data is limited but sentiment is upbeat. Outsourcing and partnership trends appear.",
+   "mood": "Mixed",
+   "summary": "Pearson shows revenue growth; NYU secures large AI and quantum investments; SLU and ACT provide limited data. IT spending is broadly expanding.",
    "leaders": [
     {
      "company": "Pearson",
-     "why": "Revenue $1,779 m and expanding AI portfolio."
+     "why": "Only disclosed revenue figure"
     }
    ],
    "laggards": [
     {
-     "company": "ACT",
-     "why": "No financial data and neutral sentiment."
+     "company": "Pearson",
+     "why": "Lowest disclosed revenue among listed firms"
     }
    ],
    "themes": [
     {
-     "title": "AI research and deployment",
-     "detail": "NYU builds AI for archaeology and student interaction; Pearson embeds AI across learning products.",
+     "title": "AI & tech investment",
+     "detail": "Pearson, NYU and SLU all announce AI‑focused initiatives and partnerships.",
      "companies": [
+      "Pearson",
       "NYU",
-      "Pearson"
+      "SLU"
      ]
     }
    ],
    "it_outlook": "Expanding",
-   "it_note": "Institutions are scaling AI labs and partnerships; teams should position advanced analytics and cloud services."
+   "it_note": "Emphasize support for AI research labs and digital learning platforms."
   }
  ],
  "watch_next": [
-  "Disney's cost‑cutting impact on future earnings",
-  "WBD/Skydance's bundled HBO Max‑Paramount+ launch in 2027",
-  "Caesars' digital casino platform performance",
-  "Pearson's AI rollout across global markets",
-  "NYU's quantum fabrication facility progress"
+  "Disney's cost‑cutting progress and impact on IT budgets",
+  "Performance of Caesars' Empire Builder platform",
+  "Pearson's AI rollout and its effect on enrollment",
+  "NYU's quantum fabrication facility funding",
+  "WBD / Skydance's bundled HBO Max/Paramount+ launch in 2027"
  ],
  "unverified_dropped": [],
- "written_at": "2026-11-10T12:22:32+00:00"
+ "written_at": "2026-11-10T15:16:14+00:00"
 }
