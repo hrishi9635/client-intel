@@ -1,11 +1,11 @@
 company,name,ticker,price,price_currency,price_date,market_cap_m,currency,market_cap_usd_m,return_1m,return_3m,return_1y,high_52w,low_52w,pe_ttm,next_results
-Disney,The Walt Disney Company,DIS,119.22,USD,2026-11-11,205856.0,USD,205856.0,9.89,15.5,3.68,119.22,91.72,23.9,2026-11-17
-WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.89,USD,2026-11-11,39758.0,USD,39758.0,-13.92,-16.62,-48.42,16.44,6.8,117.3,
-Versant,Versant Media Group,VSNT,35.58,USD,2026-11-11,4864.0,USD,4864.0,16.27,-4.92,,45.93,26.54,6.7,
-Caesars,Caesars Entertainment,CZR,29.34,USD,2026-11-11,5981.0,USD,5981.0,-0.79,-0.96,48.51,30.41,18.14,,
-Bally's,Bally's Corporation,BALY,12.14,USD,2026-11-11,612.0,USD,612.0,-13.26,-11.42,-29.57,18.58,8.84,,
+Disney,The Walt Disney Company,DIS,119.65,USD,2026-11-11,206598.0,USD,206598.0,10.29,15.92,4.06,119.65,91.72,24.0,2026-11-17
+WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.9,USD,2026-11-11,39833.0,USD,39833.0,-13.76,-16.46,-48.32,16.44,6.8,117.5,
+Versant,Versant Media Group,VSNT,36.14,USD,2026-11-11,4940.0,USD,4940.0,18.1,-3.43,,45.93,26.54,6.8,
+Caesars,Caesars Entertainment,CZR,29.28,USD,2026-11-11,5967.0,USD,5967.0,-1.01,-1.18,48.18,30.41,18.14,,
+Bally's,Bally's Corporation,BALY,12.44,USD,2026-11-11,628.0,USD,628.0,-11.08,-9.2,-27.8,18.58,8.84,,
 Light & Wonder,Light & Wonder,LNW.AX,122.0,AUD,2026-11-11,6469.0,USD,6469.0,7.26,-6.08,-12.98,182.5,102.66,22.3,
-Brightstar (IGT),IGT / Brightstar Lottery,BRSL,10.07,USD,2026-11-11,1822.0,USD,1822.0,1.56,-9.11,-34.93,15.63,9.23,11.9,
+Brightstar (IGT),IGT / Brightstar Lottery,BRSL,10.28,USD,2026-11-11,1859.0,USD,1859.0,3.63,-7.26,-33.6,15.63,9.23,12.1,
 Wolters Kluwer,Wolters Kluwer,WKL.AS,88.42,EUR,2026-11-11,19668.0,EUR,21998.0,14.59,29.7,-1.62,92.42,54.85,,
-Scholastic,Scholastic,SCHL,37.62,USD,2026-11-11,692.0,USD,692.0,-3.92,-9.28,34.78,46.74,26.37,12.2,2026-12-17
-Pearson,Pearson,PSON.L,12.94,GBP,2026-11-11,7778.0,GBP,10427.0,-0.77,8.52,28.02,13.74,8.91,,
+Scholastic,Scholastic,SCHL,38.02,USD,2026-11-11,700.0,USD,700.0,-2.88,-8.31,36.24,46.74,26.37,12.4,2026-12-17
+Pearson,Pearson,PSON.L,12.94,GBP,2026-11-11,7778.0,GBP,10426.0,-0.77,8.52,28.02,13.74,8.91,,
