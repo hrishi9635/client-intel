@@ -51,35 +51,51 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Patent filed for real‑time AI technology enabling interactive character meet‑and‑greets",
-    "source_id": 22,
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVY3ekNHY0U5NGg5T0lXT2laLUZKVDR6NjU3UXVMTzhwc3owVEtpbEF0T2JTZXQwZmVQdnY1Q3pxTkNyNXNYcjNacVJtcUwtLURMRTJOU2hFNHctRFRDbGVVQXpiRUtkVUdsbGVhckx2b2VfSzZUd0Jja0tEUkxxbC1nUmJuZHBGeUFwQVE5MXd1SDBsN0ttUFdITTNKRjZ6ZGdfdXB0R3NCd2RxdUQ3emI4RF9YRER1TkE?oc=5",
-    "source": "WDW News Today",
-    "published": "2026-11-03"
+    "detail": "Multi‑year partnership with Adobe to build custom generative AI models for parks and ESPN",
+    "source_id": 37,
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzJadTF2SzRJWG1WMzEzQmZlT3BibWdDRnFEXzdkVzcweDJoSXV6dHNUOXU2V2UxX1NCV3lYalo4UU9IcUlEOVRsN3RfV0hiMnh3bGh4LUdCU2ZWSkNRRjlvUzkycHRsYjc0S3BxUzRna0h0YXE4LTJNbjdQekxwOGNZcy1McUtHWDJxcVUwaU9HV092eU5oNA?oc=5",
+    "source": "AllEars.Net",
+    "published": "2026-11-10"
    },
    {
-    "type": "Cost-cutting / restructuring",
-    "detail": "Targeting 20% cost savings through several thousand layoffs",
-    "source_id": 34,
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWZnFQbWRWdDhkZnZBazBTNDZWOUtQTmk3Q1Z3U3ZkQVhDNEgwVHc0S3NwUXhYQWxFNGl0cXhraWUyYkZfUlIwZGpfLUg2VlFNWm9wUFBSSnB5UlRmaDVYMjY4WlFTN1lEQjk0Z1RR0gFzQVVfeXFMTVdxRXgxeUNxTXJyTThRbEVWUzBOdnZ1YVNIbi1QWXhDMnJpeXZhMFRZQXI0Y0llNFhBMTRESEx2VFBFa1lpR2o0RUdVemRMSC0tZnVhWENJQjNYU0p1TlI0a2pJWGM4VUI4VDQzTVNxamJDaw?oc=5",
-    "source": "CNBC",
-    "published": "2026-11-03"
+    "type": "AI & tech investment",
+    "detail": "Disney and Adobe are building custom generative AI models for parks and ESPN",
+    "source_id": 40,
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qdkZtRjFBQWg2LURIa29McGRsM1gzSVVNLTJOajlaMDNKa0MwQ2pURk1tWEpKb2tXWWgzd3lrVm5jWlBTQ3NHazZrMFIyMnhYUFUyMFhKaUM5bnFjSmctTjYtb0ZBTHh6N19Ka0stQQ?oc=5",
+    "source": "Quartz",
+    "published": "2026-11-10"
    },
    {
-    "type": "Layoffs",
-    "detail": "Managers instructed to cut up to 20% of staff, with layoffs expected before earnings",
-    "source_id": 41,
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUllYQWZIdkprNXJmWm5TN1BWM2FOeXAwbjlZZUxQLUFyaERha3BKOG1XRTJ1VkFjLXZfcnA4Vmh5anh3aTZsMEhYQko3QS16OGswN1RfMUZXcWhBSDNrTE54cUpBdHlPQzYxc25Zc0ZTcVVvaksxNGZzS3pIRXFLWWtwc3A2Y0F6TS1tOGMzQUVGaVlhejZhUWRsV1ZocW9UN1FVb29ySWNxbEdBN0VWdUJicjBOR084?oc=5",
-    "source": "24/7 Wall St.",
-    "published": "2026-11-03"
+    "type": "AI & tech investment",
+    "detail": "Disney+ brings 3D and viewing environments to Meta Quest and Meta VR glasses",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeVR6aFFCMVItNDNHU19LT3dmZ2s3a29DZDlUck1mcU93MEg4UldYVlVJTlFuLU1oT0h3VmRIbUs2RWFFNUtLU0o4azN6RWRRbFotWkpUY29PQ0xrWVRUaUY4ekFBMGxPZHp1UGYtRllWNnprbTBja2NSS1pFVFZYa3lWSi10NTQwc1BV?oc=5",
+    "source": "The Walt Disney Company",
+    "published": "2026-11-10"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Imagineering Labs app launched to test AI park assistant and reduce guest phone use",
+    "source_id": 21,
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uVjNfVGd1bC1qZEM4alN4NGNsZC0zMjN1WmVqdG9wUVlEYVpLZXctUTcyVW9VOTRUd1hxUlFmVS1wYTBhOXRaa0c4aGIxNDdUQlhSQVBLRzRVM0hLSWtLTlVTeDV3a1c1TFdyUTFCdHhMYk9tQW9qSTh1bkJvQ3c?oc=5",
+    "source": "Mickey Visit",
+    "published": "2026-11-10"
+   },
+   {
+    "type": "Other",
+    "detail": "AI experiment to guide guests via iPhone, Ray‑Ban Meta, or AirPods",
+    "source_id": 17,
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblRTT1NHMjlUVFhCTFNUWmp2UDR2NXZ0VWxVNkoxZ0hjR2l3LTRHQmlnaUE3QU9yUlNsYVhhcDJBYzB4M1Y3UkNxNXVmLURXbzR4cTJsRVRnWXF4VTBhOU0wNEtRbG9jVVdGTWhjSlA2Q2d2QWpySWZ5akFxVkdhUEVTUi00VnRPb0tObjhaYUwwZmh4ZmRxQU1nVVdWSV9TaVdQLVo1bVRBa0RTUkVDVDgxRXNlXy1CcDM2bXNIYzdMSUVTaUh4TzZFRk1VQWpNTExhQk5laGs1MHdLTjJyNjM2cUd4QjZJT19Cc3JqclFhWmoyd0p0OGhBZnZPems1LUpScE5rejRxSS1zUk9JcnBmTnU1ZDRrbWE5ekEzMXRHalc1MV9STEpnV3hvblBKdndTWWc2Rnd3emJRVFdPTWhZa2swdw?oc=5",
+    "source": "TechRadar",
+    "published": "2026-11-10"
    }
   ],
-  "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Cost‑saving mandate and large layoffs suggest reduced discretionary IT spending despite AI projects",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Multiple AI initiatives and new platform integrations indicate increased technology investment",
   "talking_points": [
-   "How can your AI solutions help Disney accelerate the rollout of interactive character experiences while minimizing integration risk?",
-   "What support can we provide to ensure critical IT systems remain stable during the upcoming workforce reductions?",
-   "Can we explore joint initiatives to modernize Disney’s data and cloud platforms to sustain cost‑efficiency goals?"
+   "How can your AI solutions complement Disney's Adobe partnership for park and ESPN experiences?",
+   "What support might Disney need for scaling VR/3D content on Disney+ across Meta devices?",
+   "Can we help Disney manage guest data privacy as AI assistants become more pervasive in parks?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -112,27 +128,41 @@
    "published": "2026-08-05"
   },
   "release_key": "0001744489-26-000056",
-  "signals_at": "2026-11-03T22:16:14+00:00",
+  "signals_at": "2026-11-11T01:36:18+00:00",
   "signal_sources": [
    {
-    "title": "Disney Patents Real-Time AI Technology That Allows Meet and Greet Characters Talk to Guests",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYVY3ekNHY0U5NGg5T0lXT2laLUZKVDR6NjU3UXVMTzhwc3owVEtpbEF0T2JTZXQwZmVQdnY1Q3pxTkNyNXNYcjNacVJtcUwtLURMRTJOU2hFNHctRFRDbGVVQXpiRUtkVUdsbGVhckx2b2VfSzZUd0Jja0tEUkxxbC1nUmJuZHBGeUFwQVE5MXd1SDBsN0ttUFdITTNKRjZ6ZGdfdXB0R3NCd2RxdUQ3emI4RF9YRER1TkE?oc=5",
-    "source": "WDW News Today",
-    "published": "2026-11-03T16:40:00+00:00",
+    "title": "Disney+ Brings 3D and Viewing Environments to Meta Quest and Meta VR Glasses",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeVR6aFFCMVItNDNHU19LT3dmZ2s3a29DZDlUck1mcU93MEg4UldYVlVJTlFuLU1oT0h3VmRIbUs2RWFFNUtLU0o4azN6RWRRbFotWkpUY29PQ0xrWVRUaUY4ekFBMGxPZHp1UGYtRllWNnprbTBja2NSS1pFVFZYa3lWSi10NTQwc1BV?oc=5",
+    "source": "The Walt Disney Company",
+    "published": "2026-11-10T22:00:21+00:00",
     "official": false
    },
    {
-    "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWZnFQbWRWdDhkZnZBazBTNDZWOUtQTmk3Q1Z3U3ZkQVhDNEgwVHc0S3NwUXhYQWxFNGl0cXhraWUyYkZfUlIwZGpfLUg2VlFNWm9wUFBSSnB5UlRmaDVYMjY4WlFTN1lEQjk0Z1RR0gFzQVVfeXFMTVdxRXgxeUNxTXJyTThRbEVWUzBOdnZ1YVNIbi1QWXhDMnJpeXZhMFRZQXI0Y0llNFhBMTRESEx2VFBFa1lpR2o0RUdVemRMSC0tZnVhWENJQjNYU0p1TlI0a2pJWGM4VUI4VDQzTVNxamJDaw?oc=5",
-    "source": "CNBC",
-    "published": "2026-11-03T15:38:58+00:00",
+    "title": "‘Get you out of your device and back to your vacation’ — Disney’s new AI experiment could change how you explore Disneyland, whether you’re using an iPhone, Ray-Ban Metas, or AirPods",
+    "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNblRTT1NHMjlUVFhCTFNUWmp2UDR2NXZ0VWxVNkoxZ0hjR2l3LTRHQmlnaUE3QU9yUlNsYVhhcDJBYzB4M1Y3UkNxNXVmLURXbzR4cTJsRVRnWXF4VTBhOU0wNEtRbG9jVVdGTWhjSlA2Q2d2QWpySWZ5akFxVkdhUEVTUi00VnRPb0tObjhaYUwwZmh4ZmRxQU1nVVdWSV9TaVdQLVo1bVRBa0RTUkVDVDgxRXNlXy1CcDM2bXNIYzdMSUVTaUh4TzZFRk1VQWpNTExhQk5laGs1MHdLTjJyNjM2cUd4QjZJT19Cc3JqclFhWmoyd0p0OGhBZnZPems1LUpScE5rejRxSS1zUk9JcnBmTnU1ZDRrbWE5ekEzMXRHalc1MV9STEpnV3hvblBKdndTWWc2Rnd3emJRVFdPTWhZa2swdw?oc=5",
+    "source": "TechRadar",
+    "published": "2026-11-10T17:26:46+00:00",
     "official": false
    },
    {
-    "title": "Disney’s New CEO Is Eyeing Thousands of Job Cuts, Two Weeks Before Earnings",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUllYQWZIdkprNXJmWm5TN1BWM2FOeXAwbjlZZUxQLUFyaERha3BKOG1XRTJ1VkFjLXZfcnA4Vmh5anh3aTZsMEhYQko3QS16OGswN1RfMUZXcWhBSDNrTE54cUpBdHlPQzYxc25Zc0ZTcVVvaksxNGZzS3pIRXFLWWtwc3A2Y0F6TS1tOGMzQUVGaVlhejZhUWRsV1ZocW9UN1FVb29ySWNxbEdBN0VWdUJicjBOR084?oc=5",
-    "source": "24/7 Wall St.",
-    "published": "2026-11-03T14:39:00+00:00",
+    "title": "Disney Aims to Reduce Guest Phone Use in Theme Parks With New Tech Testing Soon",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uVjNfVGd1bC1qZEM4alN4NGNsZC0zMjN1WmVqdG9wUVlEYVpLZXctUTcyVW9VOTRUd1hxUlFmVS1wYTBhOXRaa0c4aGIxNDdUQlhSQVBLRzRVM0hLSWtLTlVTeDV3a1c1TFdyUTFCdHhMYk9tQW9qSTh1bkJvQ3c?oc=5",
+    "source": "Mickey Visit",
+    "published": "2026-11-10T17:00:45+00:00",
+    "official": false
+   },
+   {
+    "title": "NEWS: Disney Partners With Adobe For Multi-Year AI Partnership",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzJadTF2SzRJWG1WMzEzQmZlT3BibWdDRnFEXzdkVzcweDJoSXV6dHNUOXU2V2UxX1NCV3lYalo4UU9IcUlEOVRsN3RfV0hiMnh3bGh4LUdCU2ZWSkNRRjlvUzkycHRsYjc0S3BxUzRna0h0YXE4LTJNbjdQekxwOGNZcy1McUtHWDJxcVUwaU9HV092eU5oNA?oc=5",
+    "source": "AllEars.Net",
+    "published": "2026-11-10T14:46:53+00:00",
+    "official": false
+   },
+   {
+    "title": "Disney and Adobe are building custom generative AI models for parks and ESPN",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qdkZtRjFBQWg2LURIa29McGRsM1gzSVVNLTJOajlaMDNKa0MwQ2pURk1tWEpKb2tXWWgzd3lrVm5jWlBTQ3NHazZrMFIyMnhYUFUyMFhKaUM5bnFjSmctTjYtb0ZBTHh6N19Ka0stQQ?oc=5",
+    "source": "Quartz",
+    "published": "2026-11-10T14:22:15+00:00",
     "official": false
    }
   ]
@@ -592,35 +622,35 @@
   "it_signals": [
    {
     "type": "Digital / platform rebuild",
-    "detail": "Launch of Empire Builder digital casino platform for online casino and sportsbook players",
-    "source_id": 1,
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDU4ZXZ5dWtIN09ocnBKQUZzRzRXNWx3ZVVaSlJhazJaZ0x2WHF4aU9LYnJZOXNNeFhycjdoeUpYcTk2T2QtMFlfdzhhMDN3YkNzYkJSd1JhYmF5eFB2YnBkZW9aYlVkNDFURm1OOFhDMFhMTXdxU1JZME5scnZ1dFA5YWNrTXV2WTNrZ0puMDdsUjg?oc=5",
-    "source": "Play USA",
-    "published": "2026-11-03"
-   },
-   {
-    "type": "Digital / platform rebuild",
-    "detail": "Empire Builder added to iGaming offering",
-    "source_id": 2,
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTZraDJpT1VteGZyVC1MeEZkQm5LVjBxYmRBNk5yWXZ6ZnY4YVZrYkxONV9JWmhFd0RoZ1dtNzQxQXU2RE5OMVdxOHZORmNid0YwRXhlbGtFZmtlak5JNU1JUEs5aG5WOUJaSFFnM3NCM3AtbzRHVnFFempGR3ZWQ3Vuekg4MEpFTU4yZmpTNWszbm5uTFh4cFBwV0tPUm9FOGJRd0lsZ0lkQQ?oc=5",
-    "source": "GamingToday",
-    "published": "2026-11-03"
-   },
-   {
-    "type": "Other",
-    "detail": "Digital revenue grew 5% in Q3, indicating successful tech rollout",
-    "source_id": 23,
+    "detail": "Digital revenue grew 5% in Q3, indicating continued investment in iGaming and sports betting platforms",
+    "source_id": 30,
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG1SeEpyV0Z3aG5ROURJSWRaVjhRWFRESVdiTU5QYXA4YXoxTFJQZHdqUkVORlpXNVBZOGRrenhOMU9uZjh1czJqdks1M3NmeGNUMVkyZ2FXUU1HTl9mcm11RGNEQWtsWXR5T0U1RVZNbzRVOGhjeG1iQXJfNlVXdno2Z2hpRmZwV2c?oc=5",
     "source": "NEXT.io",
     "published": "2026-10-28"
+   },
+   {
+    "type": "AI & tech investment",
+    "detail": "Executive Michael Massari said AI will augment but not replace face‑to‑face meetings, hinting at selective AI adoption",
+    "source_id": 9,
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXVJSXplTG4zZXROcUJ4ckFzTHdKTWVsS21OVWNPVTE2d1d5a1hoSXJCREdyd1h5V0VtUGdjcnhKN2U5Rmh5TlQ5eTJxb1F1VDBMY280ODl2V3VzbzJTUHlXR2JYc3d5bEV2UUl6T3hBRGJUMFJkN3QxNkFKd2JWc3ZRZGtyZE5OeWZuQ0ZnVzQ0RWJTbklFYXNxaXF0VjZDalMtYVlR?oc=5",
+    "source": "Trade Show News Network",
+    "published": "2026-11-09"
+   },
+   {
+    "type": "M&A / spin-off",
+    "detail": "Tilman Fertitta's acquisition of Caesars is pending, affecting strategic direction",
+    "source_id": 33,
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWlJajRHNGREVzc1LV9mRWJxY1JnVVRNVUVYNUVGY0Vwd2JSaW5aWWpTZW1vaVBNTnpSVjVNRXhGbWZpN0pZMGpWZEZudFVFaFhBTnl4QWgzMThXdW9XNlY5X2ZoUnFaZFRsMG45V3FFVXQyU2FXOFF4YkltSEl3cVl1cw?oc=5",
+    "source": "Hotel Dive",
+    "published": "2026-10-28"
    }
   ],
-  "it_spend_outlook": "Expanding",
-  "it_spend_reason": "New platform launch and rising digital revenue suggest increased technology investment",
+  "it_spend_outlook": "Stable",
+  "it_spend_reason": "Digital growth and AI discussions suggest ongoing but not expanding spend",
   "talking_points": [
-   "Discuss how Empire Builder could integrate with the client’s existing gaming tech stack",
-   "Explore opportunities to support Caesars’ digital scaling and data analytics needs",
-   "Address cost‑pressure concerns while highlighting ROI from recent digital growth"
+   "How can we help accelerate Caesars' digital platform enhancements to capture the 5% growth momentum?",
+   "What AI use cases are most relevant for improving guest experiences without replacing personal interactions?",
+   "How might the Fertitta acquisition impact future technology budgeting and vendor decisions?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -646,22 +676,8 @@
    "published": "2026-10-27"
   },
   "release_key": "0001590895-26-000032",
-  "signals_at": "2026-11-03T22:17:07+00:00",
+  "signals_at": "2026-11-11T01:36:45+00:00",
   "signal_sources": [
-   {
-    "title": "Caesars Launches Empire Builder for Digital Casino Players",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDU4ZXZ5dWtIN09ocnBKQUZzRzRXNWx3ZVVaSlJhazJaZ0x2WHF4aU9LYnJZOXNNeFhycjdoeUpYcTk2T2QtMFlfdzhhMDN3YkNzYkJSd1JhYmF5eFB2YnBkZW9aYlVkNDFURm1OOFhDMFhMTXdxU1JZME5scnZ1dFA5YWNrTXV2WTNrZ0puMDdsUjg?oc=5",
-    "source": "Play USA",
-    "published": "2026-11-03T19:30:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Caesars Launches Empire Builder for Online Casino and Sportsbook Players",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTZraDJpT1VteGZyVC1MeEZkQm5LVjBxYmRBNk5yWXZ6ZnY4YVZrYkxONV9JWmhFd0RoZ1dtNzQxQXU2RE5OMVdxOHZORmNid0YwRXhlbGtFZmtlak5JNU1JUEs5aG5WOUJaSFFnM3NCM3AtbzRHVnFFempGR3ZWQ3Vuekg4MEpFTU4yZmpTNWszbm5uTFh4cFBwV0tPUm9FOGJRd0lsZ0lkQQ?oc=5",
-    "source": "GamingToday",
-    "published": "2026-11-03T15:10:28+00:00",
-    "official": false
-   },
    {
     "title": "Q3 2026: Caesars boosted by 5% Digital revenue growth",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG1SeEpyV0Z3aG5ROURJSWRaVjhRWFRESVdiTU5QYXA4YXoxTFJQZHdqUkVORlpXNVBZOGRrenhOMU9uZjh1czJqdks1M3NmeGNUMVkyZ2FXUU1HTl9mcm11RGNEQWtsWXR5T0U1RVZNbzRVOGhjeG1iQXJfNlVXdno2Z2hpRmZwV2c?oc=5",
@@ -670,24 +686,31 @@
     "official": false
    },
    {
-    "title": "Caesars Q3 2026: $123M Net Loss, Las Vegas Down, Regional Up",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEI3Y0NCR1FLVExsaGJxekNwQnVnQ0RVbTVFTHI3MHhXRmx4Q2M3Y2JMdUZvT0F4c05YNkF4NTFFQkZESTdrNFIwOXFsUHNfZEJyaWxUYXB0VDF3cV9DWmZjSkJWSjI5eFB0bzBYdlFIRHNEbVIwYVNXQzQtMjU4Nmg3UllBVm1oVHQ2SlU5aGlDTEZiUGhXcUZaa2VjQQ?oc=5",
-    "source": "Gaming America",
-    "published": "2026-10-28T08:31:56+00:00",
+    "title": "AI Won’t Replace Face-to-Face Meetings: Caesars’ Michael Massari",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXVJSXplTG4zZXROcUJ4ckFzTHdKTWVsS21OVWNPVTE2d1d5a1hoSXJCREdyd1h5V0VtUGdjcnhKN2U5Rmh5TlQ5eTJxb1F1VDBMY280ODl2V3VzbzJTUHlXR2JYc3d5bEV2UUl6T3hBRGJUMFJkN3QxNkFKd2JWc3ZRZGtyZE5OeWZuQ0ZnVzQ0RWJTbklFYXNxaXF0VjZDalMtYVlR?oc=5",
+    "source": "Trade Show News Network",
+    "published": "2026-11-09T13:55:04+00:00",
     "official": false
    },
    {
-    "title": "Caesars waives parking fees at eight Las Vegas resorts",
-    "link": "https://www.msn.com/en-us/travel/bars-and-restaurants/caesars-waives-parking-fees-at-eight-las-vegas-resorts/ar-AA2guRkC",
+    "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWlJajRHNGREVzc1LV9mRWJxY1JnVVRNVUVYNUVGY0Vwd2JSaW5aWWpTZW1vaVBNTnpSVjVNRXhGbWZpN0pZMGpWZEZudFVFaFhBTnl4QWgzMThXdW9XNlY5X2ZoUnFaZFRsMG45V3FFVXQyU2FXOFF4YkltSEl3cVl1cw?oc=5",
+    "source": "Hotel Dive",
+    "published": "2026-10-28T07:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Caesars Entertainment (NASDAQ:CZR) reports sales below analyst estimates in Q3 2026 earnings",
+    "link": "https://www.msn.com/en-us/money/economy/caesars-entertainment-nasdaq-czr-reports-sales-below-analyst-estimates-in-q3-2026-earnings/ar-AA2gceUp",
     "source": "msn.com",
-    "published": "2026-10-31T14:03:00+00:00",
+    "published": "2026-10-27T13:13:59+00:00",
     "official": false
    },
    {
-    "title": "Vici Q3 FFO Falls 55% as Caesars Lease Uncertainty Weighs",
-    "link": "https://finance.yahoo.com/real-estate/articles/vici-q3-ffo-falls-55-164947245.html",
-    "source": "finance.yahoo.com",
-    "published": "2026-10-30T09:49:00+00:00",
+    "title": "Caesars Entertainment records stronger regional casino growth than with Vegas properties (CZR:NASDAQ)",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWR0dldQNUhHSEtvNlJsV1B4d2ZqZnoySHgyeFBiZElDOGpZZlM5aFN5SXlTV0NqZ0ZLa1dSTGs5dEVteTlVMzhOazFfa0k0ZmduZDhKLVowRk5uQjllYXRfdHBDNUs2QjQzQURyWm5DYUR5MkxTdVFnSWlkdU5tVXJiZEpPQ1gyeWxERWZzRXRfNGZiQzJQenk0Z3JSa3FfeFlIM29qTndsOWtrSHBlQms1SmJ3R2gtRUliRjF2RnpMRUxm?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-10-27T07:00:00+00:00",
     "official": false
    }
   ]

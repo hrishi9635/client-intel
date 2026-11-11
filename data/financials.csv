@@ -97,9 +97,7 @@ Bally's,BALY,2026-06-30,Q2 2026,3,operating_income,-34.02,USD,SEC XBRL 10-Q
 Bally's,BALY,2026-06-30,Q2 2026,3,revenue,792.23,USD,SEC XBRL 10-Q
 Bally's,,2026-09-30,Q3 2026,3,revenue,807.6,USD,"Official release (8-K, read by the agent)"
 Brightstar (IGT),BRSL,2025-03-31,Q1 2025,3,operating_income,138.0,USD,Yahoo Finance
-Brightstar (IGT),BRSL,2025-06-30,Q2 2025,3,net_income,-58.0,USD,Yahoo Finance
-Brightstar (IGT),BRSL,2025-06-30,Q2 2025,3,operating_income,163.0,USD,Yahoo Finance
-Brightstar (IGT),BRSL,2025-06-30,Q2 2025,3,revenue,630.0,USD,Yahoo Finance
+Brightstar (IGT),BRSL,2025-06-30,Q2 2025,3,operating_income,139.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2025-09-30,Q3 2025,3,net_income,117.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2025-09-30,Q3 2025,3,operating_income,183.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2025-09-30,Q3 2025,3,revenue,629.0,USD,Yahoo Finance
@@ -112,6 +110,9 @@ Brightstar (IGT),BRSL,2026-03-31,Q1 2026,3,revenue,587.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2026-06-30,Q2 2026,3,net_income,33.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2026-06-30,Q2 2026,3,operating_income,121.0,USD,Yahoo Finance
 Brightstar (IGT),BRSL,2026-06-30,Q2 2026,3,revenue,584.0,USD,Yahoo Finance
+Brightstar (IGT),BRSL,2026-09-30,Q3 2026,3,net_income,22.0,USD,Yahoo Finance
+Brightstar (IGT),BRSL,2026-09-30,Q3 2026,3,operating_income,123.0,USD,Yahoo Finance
+Brightstar (IGT),BRSL,2026-09-30,Q3 2026,3,revenue,607.0,USD,Yahoo Finance
 Caesars,,2013-03-31,Q1 2013,3,net_income,2.09,USD,SEC XBRL 10-K
 Caesars,,2013-03-31,Q1 2013,3,operating_income,6.03,USD,SEC XBRL 10-K
 Caesars,,2013-03-31,Q1 2013,3,revenue,72.61,USD,SEC XBRL 10-K
