@@ -843,36 +843,28 @@
   "sentiment_reason": "Results in line with expectations, modest revenue decline.",
   "it_signals": [
    {
-    "type": "Other",
-    "detail": "Debut of RAPIDPLAY cashless slot system at Crystal Bay Casino.",
-    "source_id": 15,
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxWZ29vZEx5YklBekhSVzZqWDJwMlFqMFkyZE5taHZHVFBoa2JIZ3FUTk5SRUFjZWtBc3UyVzk3Tk1sMl96eTNka3BpTzBNNlI4ODlLa1REcHkxRjJEelV6cE9ORk1YdHRWaFdQaExpa2REeUhxVE9pOVdYZXpmWmlNYVNhWml4dmlBOEVoMXVwcGdiRFJOTjk0aDM?oc=5",
-    "source": "Gaming America",
-    "published": "2026-10-28"
+    "type": "Cost-cutting / restructuring",
+    "detail": "Executives said debt reduction is a top priority",
+    "source_id": 34,
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHlEWUNMc0daaWN0ZWRqZmxrdW5wOFU2NjBkT2FHZ2hoWmxxZS1LZ2lRNURCbHA5cFJSZ1JwY3ZQS3NnOW9fbE1Kd2FHR0ZQRkNIcmZSMGI2SVZmUFNQRlUwaDM4T1NPV19neldzMTFEaFFzRXF2TmFmOHJZVmdIcFZfTTFjLWRFU2lWa3MtT19mUVgxZXhnZkE2QUlYcURMWC05d3FB?oc=5",
+    "source": "CDC Gaming",
+    "published": "2026-11-05"
    },
    {
     "type": "Other",
-    "detail": "First global installation of RAPIDPLAY completed at Nevada casino.",
-    "source_id": 21,
-    "link": "https://asgam.com/2026/10/27/light-wonder-completes-first-global-installation-of-cashless-solution-rapidplay/",
-    "source": "asgam.com",
-    "published": "2026-10-26"
-   },
-   {
-    "type": "Other",
-    "detail": "RapidPlay cashless solution announced and deployed across multiple venues.",
-    "source_id": 13,
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iWDZSTGl3NXppUUwwVU94VkE2ZjkzTWZQN3Y5VVdpV2tQcmEzV2kyUXpTTW9CVUFxbkxvYXk0QWRhejJ2X29Xc3NRMkJURVpjenNESjlRbnBWR0xPMU5sYW1oemVZTXRKQVhENmwtZE5rLWZIcnNVQg?oc=5",
-    "source": "GGRAsia",
-    "published": "2026-10-29"
+    "detail": "Guidance retained for AEBITDA growth in low‑mid single digits",
+    "source_id": 33,
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHpkUVZ1UDRaODB0TGptUFJmY2ZCZ2lhdzZ1RXUzWVFJbmVlQ1gtdDF1REdKR2l2c0RBZVRaOG1xZTRFbDZKeUZsVkZWZWl3UG1ENkwyWVgtQlhLbHA5eWx0dk1JODg1QXJaNlY2R1pIS3Y2ZWR4dEJiMjZIQkNJM3dwbmFMNEZNM1VfTEJuNHNydFl1bzV0ZTNZLUhJMkxWcEhDQXpMekc0a05wTHRhUEVkTy1Ud1VBUE02WUdjYnNDVTlvX3dmR2stMmROX1k0TTZaalNQc2Vkd3lHOGJkVEFVTEU0UXBfbHRubkw3bjZmUjhNTjJ5OEdvT09oN3NybEk5VXN6eGotZw?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-05"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit guidance on future technology spending.",
+  "it_spend_outlook": "Tightening",
+  "it_spend_reason": "Focus on deleveraging suggests tighter IT budgets",
   "talking_points": [
-   "Discuss Light & Wonder’s rollout of the RAPIDPLAY cashless platform and potential scaling needs.",
-   "Explore opportunities to support digital payment integration for their gaming machines.",
-   "Assess how the cashless initiative may affect operational efficiency and data analytics."
+   "Discuss how debt‑reduction initiatives might affect their technology spend and vendor contracts",
+   "Explore opportunities to support iGaming platform scalability as that segment accelerates",
+   "Assess potential needs for cost‑efficient digital tools to offset revenue softness in SciPlay"
   ],
   "unverified_dropped": [
    "metrics.operating_margin_pct",
@@ -937,7 +929,37 @@
    "published": "2026-11-04"
   },
   "release_key": "0000750004-26-000045",
-  "signals_at": "2026-11-04T22:17:23+00:00"
+  "signals_at": "2026-11-12T02:25:37+00:00",
+  "signal_sources": [
+   {
+    "title": "Light & Wonder Q3 Net Profit Climbs 16.7% to US$133 Million Despite Revenue Decline",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWd2VmxHQ3BLMHVaaVl5TFIxcUV1U2F3LWpUNHBCQXN1LUVzcnhrVXAxaDJmVlVZSzhUeWI2QlFBU3JrNkxzdGROclZYV2diTE9UUU5OMFByZ3h3NnJXbWtUN2xDeTVwc0Z2VFpGQTlSd3BDMy1zYzJJUmhlclhlQWtuelFJWUJ3YVdyVWdWVEdaTU4xU3Y0ZmlBQ0UxOTdPd2lyY2NLSFJtRWlUblE?oc=5",
+    "source": "iGamingToday.com",
+    "published": "2026-11-06T05:22:36+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Q3 2026: iGaming Up 13%, SciPlay Down 12%",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnBYbXhremlyS3FJU1NFOVlSZmVXTy1XZThuRU5ZQWtBa1VNOC1BcDc4RE9FNmFUQjkxM2lkZldPSzJQbnFnZ3Z5bjNuZmo0Y0djVE1xMnY0ZDQwRkREWTR6RkNFdUtJOEFMMW1HbVZDaXZGSU03cnNHT0VQSHJxWXhSTXdXUVdyZXpkR2pfQTJScDJJUGc?oc=5",
+    "source": "RG.org",
+    "published": "2026-11-05T05:51:44+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder Expects FY26 Consolidated AEBITDA Growth Toward Lower End Of Range Of Mid-To High Single Digits",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHpkUVZ1UDRaODB0TGptUFJmY2ZCZ2lhdzZ1RXUzWVFJbmVlQ1gtdDF1REdKR2l2c0RBZVRaOG1xZTRFbDZKeUZsVkZWZWl3UG1ENkwyWVgtQlhLbHA5eWx0dk1JODg1QXJaNlY2R1pIS3Y2ZWR4dEJiMjZIQkNJM3dwbmFMNEZNM1VfTEJuNHNydFl1bzV0ZTNZLUhJMkxWcEhDQXpMekc0a05wTHRhUEVkTy1Ud1VBUE02WUdjYnNDVTlvX3dmR2stMmROX1k0TTZaalNQc2Vkd3lHOGJkVEFVTEU0UXBfbHRubkw3bjZmUjhNTjJ5OEdvT09oN3NybEk5VXN6eGotZw?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-05T01:28:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Light & Wonder executives prioritize debt reduction in third-quarter earnings call",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHlEWUNMc0daaWN0ZWRqZmxrdW5wOFU2NjBkT2FHZ2hoWmxxZS1LZ2lRNURCbHA5cFJSZ1JwY3ZQS3NnOW9fbE1Kd2FHR0ZQRkNIcmZSMGI2SVZmUFNQRlUwaDM4T1NPV19neldzMTFEaFFzRXF2TmFmOHJZVmdIcFZfTTFjLWRFU2lWa3MtT19mUVgxZXhnZkE2QUlYcURMWC05d3FB?oc=5",
+    "source": "CDC Gaming",
+    "published": "2026-11-05T00:30:13+00:00",
+    "official": false
+   }
+  ]
  },
  "Brightstar (IGT)": {
   "results_found": true,
@@ -1501,114 +1523,54 @@
   ]
  },
  "NYU": {
-  "headline": "NYU secures multiple $30M‑plus investments to build a quantum fabrication facility and expands AI research initiatives",
+  "headline": null,
   "highlights": [
-   "NYU receives $29.2‑30 M from NYC for a new quantum lab and fabrication facility",
-   "NYU researchers develop AI tools for archaeology and digital PCR platforms",
-   "Professor creates an AI version of himself for classroom debate"
+   "NYC awarded $29.2 million to NYU for a cutting‑edge quantum fabrication lab",
+   "NYC invested an additional $30 million for a stake in the lab’s future tech revenue",
+   "NYU will host the first‑of‑its‑kind quantum facility in partnership with the city"
   ],
   "risks": [
-   "Dependence on municipal funding may affect long‑term project sustainability",
-   "Rapid AI development raises governance and trust concerns"
+   "Reliance on municipal funding may expose the project to political shifts",
+   "High‑cost quantum research carries long‑term ROI uncertainty"
   ],
   "sentiment": "Positive",
-  "sentiment_reason": "Significant new funding and innovative AI projects indicate growth",
+  "sentiment_reason": "Significant new tech investment and partnership with the city",
   "segments": [
    {
     "name": "Research & Innovation",
     "trend": "Up",
-    "note": "Quantum and AI investments are accelerating"
+    "note": "Quantum lab funding boosts capabilities"
    }
   ],
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "NYU researchers are building AI to reconstruct archaeological finds",
-    "source_id": 15,
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEYyZWFoTmtEUFVKR2ZxYmNYVjZOekVUVXlRV29CcF9qbGR4Qm5BdE9KNnJoMEk4SlN6dURwQWRPdXZZbUJWWWozMmJXZG16eVZob2lEZ0hPOXVRd191cFBJcTlNRTJxc2puQUhJNWhvSDhDUWU2cWYwUTduX0dxRER4Um1rQmFIcXBCd0FwR3BDd1dBdUpmeEZyWjNTMEplQ1hoYU9mN1lhX0VHLVRjRDl5TkVHQUNhZFduS3Fpc2tUMzVvMkRNWEh6OA?oc=5",
-    "source": "New York University",
-    "published": "2026-10-14"
-   },
-   {
-    "type": "AI & tech investment",
-    "detail": "NYU professor created an AI version of himself for student debates",
-    "source_id": 6,
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUo2b2o5ckFDa0JiS2Nhd283dFZjcDNnemJoakFPTXJkZFJvMEd2RTc5YlE5cXhUWHc1Zmh3YWRhRkFGY3QtM3VadTlOZ2FlcmNpanU5YmVPVXRFdVVGZjMybVFzajhmb3MwdWpYclJDdnlpTUE3UTBrVUNEMFM5bC1xWnNzTlVmTGhyRw?oc=5",
-    "source": "Washington Square News",
-    "published": "2026-10-23"
-   },
-   {
-    "type": "AI & tech investment",
-    "detail": "NYU’s Gary Marcus discusses building trustworthy AI",
-    "source_id": 17,
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm80UUlRaHFQVi1HeVFxTWk0OHZMYzVhTDFNdndFeUYyWGNjV3ZnYm1KZ0ZlUEQ5UXBad3h0ZG1HZEI2S3Q2VWFDeGphUWw2dDBpTzQ1Qy13UWRYQmlmSUExWnZpRVRqU083bUs2OG9hZ3d5TjBSNkVCM19ZV29nV1NDNjRqS2hJUlRxRmFxTzlCRjY3bkx0Wl9HQ1hjdE5IaFczbg?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-10-14"
-   },
-   {
-    "type": "Other",
-    "detail": "NYC invests $29.2 M in NYU quantum lab for a cutting‑edge quantum fabrication facility",
-    "source_id": 12,
-    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQjVsQm5WLWxmc2Q5SWJLczkzWDZOVXJMcnNJMFc0dTcxMlRfS2V5R1h6dl81eFVINS1kWm1YMHBieHpaUHVITEtwZURqSkJlRmM4cmVQUkhzQmtkRHZoMC1jT0xQWk9KUVk5bFlKV2lISm1PNXNZbUlaUTZrWTE2TlZPTmVkVVhBeF9JY1NJUmJrTXFKd0w3dVpuVXVqeElzRXkwMnQyOS1Ocl9vNlZqRlcwMzJJdzJzU0RjUHg3UVctSy1lN0ZFQU42R041RDBVT3BpbjRfODV2d3g5NG83T2N2THQzZ0xPVWgza1oxMExUUFhuVFIyREpsSllCamZaYXg4SHNLQ0xsZnAtNUktUWJUS2IzblI1c2VsRGt5QjJybTRxVms2aFZzQ1FTRkowTFlNcHNhN0RlNmdaQ2p2ZTFlWXBwdDk4bjd4X1V3VUFiUHNobXlUTkFyUUVvSk1KNmNsUkpR0gHrAkFVX3lxTFBVSU1KZjVVRkhvWjNsb1Z1LU0zTDZOV0J2emJzS25DQ2dVTFI5VjFCbFR1dWxvdjVmR3Y3ZTBLMEV2bkZ3emo3TkROZDl4NXY4dVhNRW85SjcxaWJuT05uemVmMHZWTmFFQzd0U1h2eVUxR2hFOWJEZTRQaEptUU5Wd3hTNTVVbmw2cnhpaUMzS1hvWVc5bGlRaFI5MEtBTXBCT2hTa2c4WHI4R3NhQnh6dTV6cVFLdHgzdEhjdTNDY2RZM3E5ZmpzYklsX2tEYXRIb0s4NmlUUlBYenc2bnhMNzRYTTRSMW1JMVdOYUg3Q1k2N1ljSnBMSTFTVzRiNG9fS3RobFctQkYyNEV6M2tCclRqVGJiVzU0SHlhQnMtbUliN3FYNlRIZnNZTHNyaXltOGU4UUZJejdzTWI1ZEVqd09XbHJOSENKdV83WHpGUDF5MVV6UnB4OTYtZkZSY0doNEdodkRzN21JWQ?oc=5",
-    "source": "The Times of India",
-    "published": "2026-10-15"
-   },
-   {
-    "type": "Other",
-    "detail": "NYC awards $29.2 M to NYU for the same quantum facility",
-    "source_id": 13,
+    "detail": "$29.2 million awarded by NYC for a quantum fabrication facility",
+    "source_id": 9,
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG8zbTRjSzlvRGRaVEVZWldzd09jOFVzWmtjTlhydmc3YXl0RGM1RU42VWQ5U1Y4dnNTb1Q1Y2ctNGdvWEJIVGctWm1uMDVUeUtURUlTMVlMX1FfdkhHSFZ4WG9KeDdpTC1rakV2MXZvOFpYaWg2Zm9QUUsxX25xNWFkVmZmT2pxSi1ONmRPc0kxNkFuT1VyLUQwdmotWlJVZnplbEMwNHdieFlTNWktWENZLTh2X0c0MGdaQlZuWGVueWVHWGFZMW9UMVI4QlBWMGoyNWU4anFFaURJTWc?oc=5",
     "source": "The Quantum Insider",
     "published": "2026-10-14"
    },
    {
-    "type": "Other",
-    "detail": "NYC commits $30 M stake in NYU quantum lab to share future tech revenue",
-    "source_id": 14,
+    "type": "AI & tech investment",
+    "detail": "$30 million city investment for a stake in the quantum lab’s future revenue",
+    "source_id": 10,
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xaGl0RTlHYUpTRmZFTzJYRDlSWVBESjhxN1NZTUU4dVZMZlMyb3AyVlhfVVppa3Q4LVRndVYxWUUyUnFfb0RxUzdSaUdUTzVucXJTTnFXR3J2bm9MNEI1Zi1FbHQwLWxRMXNwNkp4X0RMdFEzNERKTGpR?oc=5",
     "source": "amNewYork",
-    "published": "2026-10-14"
-   },
-   {
-    "type": "Other",
-    "detail": "NYC, NYU partnership to build quantum facility confirmed",
-    "source_id": 16,
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXJ1RWxraUZIQkNXTXYyZXJ1T2FWRkNkQldHUHZHYjNFVlJ2bWpEZTV3Q3lQOW5hcG44WnkxTk1zN01HM18tb2hmd2Q3cldBZmJFWGlVSHdxRVBKZDBjVC1kTjc3OGdXdDhPc0sxX1VMZ0ZTMnZUVHdPYWNwN0Z0Q1o1emJ6V2JiUzBVY183YmU?oc=5",
-    "source": "GovTech",
-    "published": "2026-10-14"
-   },
-   {
-    "type": "Other",
-    "detail": "NYC invests $30 M in NYU quantum lab in exchange for industry stake",
-    "source_id": 18,
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYThNUGpwTVFEZHJvRVBoSlhEYlNWaFc1M3BqWDhKWFhSLU8wc2VmMUxwQ01oWVN4bWxmcENxTEo3VXdmNElpVE9ZUjNNdFVnSnFXbmdiRnJhUE1kVjJ2YjF5d1NSVndGOElUdndlUFFEMEFzZjlUWWxYSWo3SDRjZ1dLdDdHQ3c2akYzMGdoQk4tOWRQLVE?oc=5",
-    "source": "6sqft",
     "published": "2026-10-14"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Multiple multi‑million municipal investments in quantum and AI projects signal higher IT spending",
+  "it_spend_reason": "Multiple multi‑million city investments earmarked for advanced quantum research infrastructure",
   "talking_points": [
-   "Discuss how NYU’s new quantum lab could create partnership opportunities for our quantum‑computing services",
-   "Explore collaboration on AI ethics and trustworthy AI tools given NYU’s active research and faculty expertise",
-   "Assess potential for supporting NYU’s digital PCR platform development with cloud and data analytics solutions"
+   "Discuss how NYU’s new quantum facility could create demand for high‑performance computing and data services",
+   "Explore partnership opportunities to support the lab’s cloud and analytics needs",
+   "Assess potential for collaborative research projects that leverage our AI and quantum expertise"
   ],
-  "unverified_dropped": [],
+  "unverified_dropped": [
+   "headline"
+  ],
   "sources": [
-   {
-    "title": "The NYU journalism professor who created an AI version of himself and had his students debate it.",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUo2b2o5ckFDa0JiS2Nhd283dFZjcDNnemJoakFPTXJkZFJvMEd2RTc5YlE5cXhUWHc1Zmh3YWRhRkFGY3QtM3VadTlOZ2FlcmNpanU5YmVPVXRFdVVGZjMybVFzajhmb3MwdWpYclJDdnlpTUE3UTBrVUNEMFM5bC1xWnNzTlVmTGhyRw?oc=5",
-    "source": "Washington Square News",
-    "published": "2026-10-23T16:29:53+00:00",
-    "official": false
-   },
-   {
-    "title": "New York City Mayor Zohran Mamdani invests $29.2 million into New York University's quantum lab; says: We",
-    "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPQjVsQm5WLWxmc2Q5SWJLczkzWDZOVXJMcnNJMFc0dTcxMlRfS2V5R1h6dl81eFVINS1kWm1YMHBieHpaUHVITEtwZURqSkJlRmM4cmVQUkhzQmtkRHZoMC1jT0xQWk9KUVk5bFlKV2lISm1PNXNZbUlaUTZrWTE2TlZPTmVkVVhBeF9JY1NJUmJrTXFKd0w3dVpuVXVqeElzRXkwMnQyOS1Ocl9vNlZqRlcwMzJJdzJzU0RjUHg3UVctSy1lN0ZFQU42R041RDBVT3BpbjRfODV2d3g5NG83T2N2THQzZ0xPVWgza1oxMExUUFhuVFIyREpsSllCamZaYXg4SHNLQ0xsZnAtNUktUWJUS2IzblI1c2VsRGt5QjJybTRxVms2aFZzQ1FTRkowTFlNcHNhN0RlNmdaQ2p2ZTFlWXBwdDk4bjd4X1V3VUFiUHNobXlUTkFyUUVvSk1KNmNsUkpR0gHrAkFVX3lxTFBVSU1KZjVVRkhvWjNsb1Z1LU0zTDZOV0J2emJzS25DQ2dVTFI5VjFCbFR1dWxvdjVmR3Y3ZTBLMEV2bkZ3emo3TkROZDl4NXY4dVhNRW85SjcxaWJuT05uemVmMHZWTmFFQzd0U1h2eVUxR2hFOWJEZTRQaEptUU5Wd3hTNTVVbmw2cnhpaUMzS1hvWVc5bGlRaFI5MEtBTXBCT2hTa2c4WHI4R3NhQnh6dTV6cVFLdHgzdEhjdTNDY2RZM3E5ZmpzYklsX2tEYXRIb0s4NmlUUlBYenc2bnhMNzRYTTRSMW1JMVdOYUg3Q1k2N1ljSnBMSTFTVzRiNG9fS3RobFctQkYyNEV6M2tCclRqVGJiVzU0SHlhQnMtbUliN3FYNlRIZnNZTHNyaXltOGU4UUZJejdzTWI1ZEVqd09XbHJOSENKdV83WHpGUDF5MVV6UnB4OTYtZkZSY0doNEdodkRzN21JWQ?oc=5",
-    "source": "The Times of India",
-    "published": "2026-10-15T07:00:00+00:00",
-    "official": false
-   },
    {
     "title": "NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVG8zbTRjSzlvRGRaVEVZWldzd09jOFVzWmtjTlhydmc3YXl0RGM1RU42VWQ5U1Y4dnNTb1Q1Y2ctNGdvWEJIVGctWm1uMDVUeUtURUlTMVlMX1FfdkhHSFZ4WG9KeDdpTC1rakV2MXZvOFpYaWg2Zm9QUUsxX25xNWFkVmZmT2pxSi1ONmRPc0kxNkFuT1VyLUQwdmotWlJVZnplbEMwNHdieFlTNWktWENZLTh2X0c0MGdaQlZuWGVueWVHWGFZMW9UMVI4QlBWMGoyNWU4anFFaURJTWc?oc=5",
@@ -1622,41 +1584,13 @@
     "source": "amNewYork",
     "published": "2026-10-14T07:00:00+00:00",
     "official": false
-   },
-   {
-    "title": "NYU Researchers Are Building AI to Piece Together Broken Archaeological Finds",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEYyZWFoTmtEUFVKR2ZxYmNYVjZOekVUVXlRV29CcF9qbGR4Qm5BdE9KNnJoMEk4SlN6dURwQWRPdXZZbUJWWWozMmJXZG16eVZob2lEZ0hPOXVRd191cFBJcTlNRTJxc2puQUhJNWhvSDhDUWU2cWYwUTduX0dxRER4Um1rQmFIcXBCd0FwR3BDd1dBdUpmeEZyWjNTMEplQ1hoYU9mN1lhX0VHLVRjRDl5TkVHQUNhZFduS3Fpc2tUMzVvMkRNWEh6OA?oc=5",
-    "source": "New York University",
-    "published": "2026-10-14T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "NYC, NYU Commit to Building Quantum Facility",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXJ1RWxraUZIQkNXTXYyZXJ1T2FWRkNkQldHUHZHYjNFVlJ2bWpEZTV3Q3lQOW5hcG44WnkxTk1zN01HM18tb2hmd2Q3cldBZmJFWGlVSHdxRVBKZDBjVC1kTjc3OGdXdDhPc0sxX1VMZ0ZTMnZUVHdPYWNwN0Z0Q1o1emJ6V2JiUzBVY183YmU?oc=5",
-    "source": "GovTech",
-    "published": "2026-10-14T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "NYU’s Gary Marcus on Building AI We Can Trust",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm80UUlRaHFQVi1HeVFxTWk0OHZMYzVhTDFNdndFeUYyWGNjV3ZnYm1KZ0ZlUEQ5UXBad3h0ZG1HZEI2S3Q2VWFDeGphUWw2dDBpTzQ1Qy13UWRYQmlmSUExWnZpRVRqU083bUs2OG9hZ3d5TjBSNkVCM19ZV29nV1NDNjRqS2hJUlRxRmFxTzlCRjY3bkx0Wl9HQ1hjdE5IaFczbg?oc=5",
-    "source": "Bloomberg.com",
-    "published": "2026-10-14T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "NYC invests $30M in NYU quantum lab in exchange for stake in industry",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYThNUGpwTVFEZHJvRVBoSlhEYlNWaFc1M3BqWDhKWFhSLU8wc2VmMUxwQ01oWVN4bWxmcENxTEo3VXdmNElpVE9ZUjNNdFVnSnFXbmdiRnJhUE1kVjJ2YjF5d1NSVndGOElUdndlUFFEMEFzZjlUWWxYSWo3SDRjZ1dLdDdHQ3c2akYzMGdoQk4tOWRQLVE?oc=5",
-    "source": "6sqft",
-    "published": "2026-10-14T07:00:00+00:00",
-    "official": false
    }
   ],
   "company": "NYU",
   "mode": "signals",
-  "analysed_at": "2026-11-04T01:38:11+00:00",
+  "analysed_at": "2026-11-12T02:26:03+00:00",
   "guidance_change": null,
-  "signals_at": "2026-11-04T01:38:11+00:00"
+  "signals_at": "2026-11-12T02:26:03+00:00"
  },
  "SLU": {
   "headline": "Saint Louis University announces layoffs of its main campus custodial staff and shifts to an external provider",
