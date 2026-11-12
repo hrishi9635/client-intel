@@ -1,5 +1,23 @@
 [
  {
+  "started": "2026-11-12T21:32:05+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: none",
+   "Wolters Kluwer: 0 documents from the company's results page",
+   "account updates written: none"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-11-12T21:34:06+00:00",
+  "ai_calls": 0,
+  "ai_tokens": 0
+ },
+ {
   "started": "2026-11-12T19:02:47+00:00",
   "part": "results",
   "steps": [
@@ -660,24 +678,5 @@
   "finished": "2026-11-04T22:19:05+00:00",
   "ai_calls": 4,
   "ai_tokens": 12366
- },
- {
-  "started": "2026-11-04T15:15:52+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: Light & Wonder",
-   "Wolters Kluwer: 0 documents from the company's results page",
-   "account updates written: none"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Versant: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-11-04T15:18:29+00:00",
-  "ai_calls": 2,
-  "ai_tokens": 7510
  }
 ]
