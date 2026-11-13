@@ -418,7 +418,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-11-09"
+   "_at": "2026-11-13"
   },
   "tt39120306": {
    "imdb_rating": null,
@@ -491,6 +491,14 @@
    "metascore": null,
    "box_office_usd": null,
    "_at": "2026-11-12"
+  },
+  "tt1839337": {
+   "imdb_rating": 6.5,
+   "imdb_votes": 14186.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "_at": "2026-11-13"
   }
  }
 }
