@@ -450,108 +450,122 @@
   ]
  },
  "Cox": {
-  "headline": "Cox Automotive expands AI‑driven data integration and training initiatives",
+  "headline": "Cox Enterprises appoints new cleantech leaders and rolls out a mobile‑first Xtime scheduler for automotive services",
   "highlights": [
-   "Spyne integrates data with Dealertrack DMS (source 3)",
-   "VinSolutions adds Fullpath AI customer data platform (source 7)",
-   "Xtime technology introduced to technical schools (source 5)",
-   "Cox Media explores advanced AI use cases (source 6)"
+   "Bill Nussey and Matt Perkins hired to lead cleantech growth and investment (2)",
+   "Trenton Spindler named MD of Cox Cleantech Accelerator (4)",
+   "Cox Automotive launches enhanced, mobile‑first Xtime consumer scheduler (3)",
+   "Xtime technology introduced in technical schools to train future technicians (7)",
+   "Data‑driven dealership study shows 17‑point higher profitability (6)"
   ],
   "risks": [
-   "Reliance on third‑party AI vendors may raise integration complexity",
-   "Training programs may need sustained funding to scale"
+   "Potential legal and reputational risk from extradition proceedings involving a Cox heir (1)"
   ],
-  "sentiment": "Positive",
-  "sentiment_reason": "Multiple AI and data partnerships signal growth",
+  "sentiment": "Neutral",
+  "sentiment_reason": "mix of growth initiatives and a legal issue",
   "segments": [
    {
     "name": "Cox Automotive",
     "trend": "Up",
-    "note": "AI and data integration projects expanding"
+    "note": "new digital scheduling platform and training program"
    },
    {
-    "name": "Cox Media",
-    "trend": "Flat",
-    "note": "Exploring AI beyond basic use"
+    "name": "Cox Enterprises Cleantech",
+    "trend": "Up",
+    "note": "new leadership to accelerate investment"
    }
   ],
   "it_signals": [
    {
-    "type": "Vendor / outsourcing",
-    "detail": "Spyne data integration with Dealertrack DMS",
-    "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzSUpENkkyQ01WN0xpUVNCUTZSVG5GRDB5Q3U0TjkwWGxVWGVEVjJhZU1xUGFVQVRyRmlBMDh4S3dpNzhO?oc=5",
-    "source": "CBT News",
-    "published": "2026-10-23"
+    "type": "AI & tech investment",
+    "detail": "Bill Nussey and Matt Perkins hired to lead cleantech growth and investment",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0pKQjV5d1dEOV9teGdKRjRlMFB3WEJ2V29wWUFidVVCVlhXN0YwSld1ejB6UXEtZlp6VWc2Y1JkZ21YclRYZnIyUUVaY3pZTmRNN3c3d3pVSnQyem1oNzdxcVZLZUNXb1l6Mm5kbFByNEUtYldLOHNxNWpXTnlvU2FvV1NuRlNiVG8xWTB1TWwtNkxPX3R1RGRrWHEtekZOR3gyWXZqYnpCV2lsc3BZanBDZDhSVGlMMGhFN3lBMlZ4eUNrV2lYNTJJZUpYZDF4T1E?oc=5",
+    "source": "Cox Enterprises",
+    "published": "2026-11-10"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "VinSolutions embeds Fullpath AI‑powered CDP",
-    "source_id": 7,
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WbTI3TTZtTDFIbXFjem9Ka0pVWXFfOHZwazg4YVBsejhwWXc1VU1lRTFtTVlkNTBqVHVPTHFGT1EteV9hemJYRmt6S3FwNkhLNGxVdFJQNEhKcy1EYXd6UlhCTQ?oc=5",
-    "source": "CBT News",
-    "published": "2026-10-08"
+    "type": "Digital / platform rebuild",
+    "detail": "Enhanced Xtime consumer scheduler launched with mobile‑first design",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQWw0cWpaSnNXMzVVbG5JZzlHY3U1bmFDUUp2QjRSaUtfLWU2SndYVVdrOGd6WXNDLWZxdy1aZDFZM3lmQVE1QUZpckJvS25HSjBrOFpOUlEzV0pUYUdVS19URkRQSkZTTUk0RUNoM3F4bVphMXoxcGhlN1VEdGFlMFMtcTJiNG9pTW9lcl9heTB6UWxkNW1xREd5RTNqb2VBLTUxdGpoVUM4MFU3ZDVsZFZyX0RrZUxhTkVNcm1NVmpKRGh2Nl9QSUtFM2R2UXByaUVidFZ3SlU3ZkRXU2NqQnlfOE52X3VUZ1NUd3ZKd3lLaEx6RldXVXlQMDlpTXVWNDhJUTFvVlQ1Sk5w?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-09"
    },
    {
     "type": "Other",
-    "detail": "Xtime tech introduced to schools for technician training",
-    "source_id": 5,
+    "detail": "Xtime technology brought into technical schools to develop next‑gen auto technicians",
+    "source_id": 7,
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNmlRdkUyVi1WLTgzVlJBdDQwYXl6WHBDajhnTWFISkVZYTJsX21NNGw1WjN3dFV1SmFubmdWRWdpY3d1SXpHaUMyazdxNTB1Rm5PdWtlazBscXhPMk5wZHhEQjFIdHJIc3dIeFRaTDB5RDVvZFJKTkRvZGRzM0txRU9rbzRRWTRZZnZXbDEzX2I3aThHQXRaRmw3bmlZODdteHM4N0FjTmZJY2NCXzliYVJpSHJxR3F4MFIyZVZFS0Q4VHN3bjB6ZGFqamRqM2lkMVFmX09sV3hST3J2X2pEa2FzcTVPa2dKOU5GVjJYNA?oc=5",
     "source": "Cox Automotive Inc.",
     "published": "2026-10-19"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "Cox Media moves AI use beyond basic applications",
+    "type": "Other",
+    "detail": "Data‑driven dealership study highlights profitability gains",
     "source_id": 6,
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
-    "source": "Law.com",
-    "published": "2026-10-19"
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVi16Tk1MUkNJWnRKM2tBclBSQjdoaFZEbFczUGFvRk1XTzVTWk5USXBIQ2dSalV1RFVGdjhzQUZNSTNHNzRMV2h6QnpzVWZQa0k4YWVTX2tJeXBpYk4yWHllRTMyNElZcUdRUzR2T1E3cHRvZWIwdTdWZzJReXV5ZVlYai02VFVDeWJ3WjBGWDJEdjFOOFNzeUlCb1FrUU1uamdyTGxvNkJVT1VLNGgybzRVMU4zYVpPSllPMEVVTE01dlA1UTdUVkRmUk0xUVpqdDI2UHdISzV3NmxwMDdOcWd2WFpoaENlTTJzMHI4NWp4emdKNmhUaw?oc=5",
+    "source": "Cox Automotive Inc.",
+    "published": "2026-10-20"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "New AI and data integration projects indicate higher IT investment",
+  "it_spend_reason": "new leadership and product launches indicate increased tech investment",
   "talking_points": [
-   "Discuss how Spyne’s integration can streamline dealer data workflows",
-   "Explore opportunities to extend Fullpath’s AI platform across other Cox units",
-   "Assess the impact of Xtime training on future talent pipelines"
+   "How can your organization support Cox’s cleantech acceleration initiatives?",
+   "What opportunities exist to partner on the mobile‑first Xtime platform or related data services?",
+   "Are there risks or compliance considerations from the ongoing legal case that could affect tech projects?"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Spyne announces data integration with Cox Automotive’s Dealertrack DMS, benefiting dealer customers",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAzSUpENkkyQ01WN0xpUVNCUTZSVG5GRDB5Q3U0TjkwWGxVWGVEVjJhZU1xUGFVQVRyRmlBMDh4S3dpNzhO?oc=5",
-    "source": "CBT News",
-    "published": "2026-10-23T07:00:00+00:00",
+    "title": "Spanish prosecutor favours extraditing pro-Palestinian US Cox Enterprises heir",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMTkyLXJpYkMzaktEOW9HcjZhbjFvUC1HWkppTTNGY2cweC1XRkxoRlVaVjhJbEpEUFktUGFGVk1QSXRneGtiVGVOWnh0TUEyWGNwOHdHSWQ1X2dGbG5FbW5tSTlUQ3JqWnZ4b3FEdXp4d2hrTE15cTZYZW4xVlN3d0t1M1RieDhlb2Y5c2lsTEJyNWZicWdOOHRTRW8wckMwWTZtT29PVFFlbTYySWtiM0JKVmpTOXRKQ1ZHRXRLT3FSOFFpWVZ4OWUxNA?oc=5",
+    "source": "Reuters",
+    "published": "2026-11-13T17:47:45+00:00",
+    "official": false
+   },
+   {
+    "title": "Cox Enterprises names Bill Nussey and Matt Perkins to lead cleantech growth and investment",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0pKQjV5d1dEOV9teGdKRjRlMFB3WEJ2V29wWUFidVVCVlhXN0YwSld1ejB6UXEtZlp6VWc2Y1JkZ21YclRYZnIyUUVaY3pZTmRNN3c3d3pVSnQyem1oNzdxcVZLZUNXb1l6Mm5kbFByNEUtYldLOHNxNWpXTnlvU2FvV1NuRlNiVG8xWTB1TWwtNkxPX3R1RGRrWHEtekZOR3gyWXZqYnpCV2lsc3BZanBDZDhSVGlMMGhFN3lBMlZ4eUNrV2lYNTJJZUpYZDF4T1E?oc=5",
+    "source": "Cox Enterprises",
+    "published": "2026-11-10T19:46:17+00:00",
+    "official": false
+   },
+   {
+    "title": "Cox Automotive Launches an Enhanced Xtime Consumer Scheduler with a Streamlined, Mobile-First Service Booking Experience",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQWw0cWpaSnNXMzVVbG5JZzlHY3U1bmFDUUp2QjRSaUtfLWU2SndYVVdrOGd6WXNDLWZxdy1aZDFZM3lmQVE1QUZpckJvS25HSjBrOFpOUlEzV0pUYUdVS19URkRQSkZTTUk0RUNoM3F4bVphMXoxcGhlN1VEdGFlMFMtcTJiNG9pTW9lcl9heTB6UWxkNW1xREd5RTNqb2VBLTUxdGpoVUM4MFU3ZDVsZFZyX0RrZUxhTkVNcm1NVmpKRGh2Nl9QSUtFM2R2UXByaUVidFZ3SlU3ZkRXU2NqQnlfOE52X3VUZ1NUd3ZKd3lLaEx6RldXVXlQMDlpTXVWNDhJUTFvVlQ1Sk5w?oc=5",
+    "source": "Morningstar",
+    "published": "2026-11-09T18:05:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Cox Enterprises Names Trenton Spindler Managing Director of Cox Cleantech Accelerator and Residency",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1U1UFFTakw4YkNfakE3WFlYbUZVWnBlTWRkWGtmeXVYeVVLSkdnYTN2anNQY3R1TDNSOTRPa0dINXBhVUc5Z1loZ05TZWozYWFBZGRBT2pvYm14NlBYMlQ1WGM0N0FQWklTT0lDcUVKWDV6OWg1QWtRNkhtWUVrVDk1TzNvWWE5Q1VJRFktMzhLWTQ2LXhJNkktWTR3VW1URXNGY3NSMUlkRzRndUNYZTY5UlYxU2JGNk43NGFNVUhWV1FWeXNsRjlzUm83OC1kYmc?oc=5",
+    "source": "Cox Enterprises",
+    "published": "2026-11-02T19:56:39+00:00",
+    "official": false
+   },
+   {
+    "title": "Data-Driven Dealerships Meet Profitability Goals at a 17-Point Higher Rate, Cox Automotive’s 2026 Dealer Success Study Finds",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVi16Tk1MUkNJWnRKM2tBclBSQjdoaFZEbFczUGFvRk1XTzVTWk5USXBIQ2dSalV1RFVGdjhzQUZNSTNHNzRMV2h6QnpzVWZQa0k4YWVTX2tJeXBpYk4yWHllRTMyNElZcUdRUzR2T1E3cHRvZWIwdTdWZzJReXV5ZVlYai02VFVDeWJ3WjBGWDJEdjFOOFNzeUlCb1FrUU1uamdyTGxvNkJVT1VLNGgybzRVMU4zYVpPSllPMEVVTE01dlA1UTdUVkRmUk0xUVpqdDI2UHdISzV3NmxwMDdOcWd2WFpoaENlTTJzMHI4NWp4emdKNmhUaw?oc=5",
+    "source": "Cox Automotive Inc.",
+    "published": "2026-10-20T07:00:00+00:00",
     "official": false
    },
    {
     "title": "Cox Automotive Brings Xtime Technology into Technical Schools to Help Build the Next Generation of Auto Technicians",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNmlRdkUyVi1WLTgzVlJBdDQwYXl6WHBDajhnTWFISkVZYTJsX21NNGw1WjN3dFV1SmFubmdWRWdpY3d1SXpHaUMyazdxNTB1Rm5PdWtlazBscXhPMk5wZHhEQjFIdHJIc3dIeFRaTDB5RDVvZFJKTkRvZGRzM0txRU9rbzRRWTRZZnZXbDEzX2I3aThHQXRaRmw3bmlZODdteHM4N0FjTmZJY2NCXzliYVJpSHJxR3F4MFIyZVZFS0Q4VHN3bjB6ZGFqamRqM2lkMVFmX09sV3hST3J2X2pEa2FzcTVPa2dKOU5GVjJYNA?oc=5",
     "source": "Cox Automotive Inc.",
-    "published": "2026-10-19T12:43:19+00:00",
-    "official": false
-   },
-   {
-    "title": "AI in Practice: Cox Media Legal Moves Beyond Basic AI. Now It's Going 'Off Label'",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25ya2czTm9Oa2J4T0FnUEtETWlSUllhS01aZkEtRmR6ekhVU3lIWEdhWEc4cWlFLW02dXljcGJNa2k3V1R0UlZnRmhxaGN3M180MFBLUFFkN3Z1cFc4NmlJU0l3YTh2d1Nqa0kzdUR0eU9qMngwR3NIcUgycEljN3RoZlByeXpHWkVOWm5Ta1dWOWx1THEwMEJsWEh4MW9ZcEJPc2F4eDY2TDhzY2dTYkNWZ3k0dHNfT1ZRQQ?oc=5",
-    "source": "Law.com",
     "published": "2026-10-19T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Cox Automotive's VinSolutions embeds Fullpath's AI-powered customer data platform directly into mutual clients' CRM",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WbTI3TTZtTDFIbXFjem9Ka0pVWXFfOHZwazg4YVBsejhwWXc1VU1lRTFtTVlkNTBqVHVPTHFGT1EteV9hemJYRmt6S3FwNkhLNGxVdFJQNEhKcy1EYXd6UlhCTQ?oc=5",
-    "source": "CBT News",
-    "published": "2026-10-08T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "Cox",
   "mode": "signals",
-  "analysed_at": "2026-11-05T12:26:56+00:00",
+  "analysed_at": "2026-11-13T18:43:38+00:00",
   "guidance_change": null,
-  "signals_at": "2026-11-05T12:26:56+00:00"
+  "signals_at": "2026-11-13T18:43:38+00:00"
  },
  "LA Times": {
   "headline": null,
