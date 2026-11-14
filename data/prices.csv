@@ -9,7 +9,7 @@ date,company,close
 2025-11-24,Disney,100.485
 2025-11-25,Disney,101.8354
 2025-11-26,Disney,101.9537
-2025-11-28,Disney,102.9788
+2025-11-28,Disney,102.9789
 2025-12-01,Disney,105.246
 2025-12-02,Disney,103.3337
 2025-12-03,Disney,104.2307
@@ -377,9 +377,9 @@ date,company,close
 2026-05-13,WBD / Skydance,10.3721
 2026-05-14,WBD / Skydance,10.0154
 2026-05-15,WBD / Skydance,9.7975
-2026-05-18,WBD / Skydance,9.7282
+2026-05-18,WBD / Skydance,9.7281
 2026-05-19,WBD / Skydance,9.8074
-2026-05-20,WBD / Skydance,10.0352
+2026-05-20,WBD / Skydance,10.0353
 2026-05-21,WBD / Skydance,10.1838
 2026-05-22,WBD / Skydance,10.3622
 2026-05-26,WBD / Skydance,10.273
@@ -1745,7 +1745,6 @@ date,company,close
 2026-11-11,Brightstar (IGT),10.28
 2026-11-12,Brightstar (IGT),9.69
 2026-11-13,Brightstar (IGT),9.81
-2025-11-12,Wolters Kluwer,89.8798
 2025-11-13,Wolters Kluwer,90.168
 2025-11-14,Wolters Kluwer,90.7252
 2025-11-17,Wolters Kluwer,88.2467
@@ -2001,6 +2000,7 @@ date,company,close
 2026-11-10,Wolters Kluwer,87.42
 2026-11-11,Wolters Kluwer,88.42
 2026-11-12,Wolters Kluwer,89.5
+2026-11-13,Wolters Kluwer,90.84
 2025-11-13,Scholastic,27.6146
 2025-11-14,Scholastic,27.7318
 2025-11-17,Scholastic,27.3118
@@ -2095,14 +2095,14 @@ date,company,close
 2026-03-27,Scholastic,38.056
 2026-03-30,Scholastic,38.1444
 2026-03-31,Scholastic,38.3703
-2026-04-01,Scholastic,38.0854
+2026-04-01,Scholastic,38.0855
 2026-04-02,Scholastic,38.5079
 2026-04-06,Scholastic,38.223
 2026-04-07,Scholastic,38.3703
 2026-04-08,Scholastic,38.6945
 2026-04-09,Scholastic,38.7436
 2026-04-10,Scholastic,38.8713
-2026-04-13,Scholastic,38.8811
+2026-04-13,Scholastic,38.8812
 2026-04-14,Scholastic,39.1955
 2026-04-15,Scholastic,38.8124
 2026-04-16,Scholastic,39.058
@@ -2253,7 +2253,6 @@ date,company,close
 2026-11-11,Scholastic,38.02
 2026-11-12,Scholastic,36.74
 2026-11-13,Scholastic,36.83
-2025-11-12,Pearson,10.1075
 2025-11-13,Pearson,10.1525
 2025-11-14,Pearson,10.0875
 2025-11-17,Pearson,10.1425
@@ -2507,6 +2506,7 @@ date,company,close
 2026-11-10,Pearson,12.89
 2026-11-11,Pearson,12.94
 2026-11-12,Pearson,13.13
+2026-11-13,Pearson,13.23
 2025-11-14,S&P 500,6734.11
 2025-11-17,S&P 500,6672.41
 2025-11-18,S&P 500,6617.32
