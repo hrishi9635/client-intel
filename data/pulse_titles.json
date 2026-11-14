@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:26:28+00:00",
+ "updated": "2026-11-14T12:30:42+00:00",
  "titles": [
   {
    "key": "tv-456",
@@ -21,8 +21,8 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1932.2,
-   "tmdb_vote": 8.028,
+   "popularity": 1698.2,
+   "tmdb_vote": 8.0,
    "tmdb_votes": 11168,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
@@ -58,7 +58,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9bc1f810afc3",
+   "input_hash": "65d1e267ef7b",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -102,9 +102,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 776.7,
-   "tmdb_vote": 7.213,
-   "tmdb_votes": 4056,
+   "popularity": 741.7,
+   "tmdb_vote": 7.2,
+   "tmdb_votes": 4062,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -139,7 +139,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "0c3609117bea",
+   "input_hash": "469200039ff0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -185,9 +185,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 751.7,
-   "tmdb_vote": 8.1,
-   "tmdb_votes": 6299,
+   "popularity": 567.5,
+   "tmdb_vote": 8.079,
+   "tmdb_votes": 6300,
    "imdb_id": "tt1844624",
    "tmdb_url": "https://www.themoviedb.org/tv/1413",
    "tmdb_reviews": [
@@ -210,7 +210,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "651396d90cfd",
+   "input_hash": "9d6a6e908d35",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -253,9 +253,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 558.5,
-   "tmdb_vote": 7.526,
-   "tmdb_votes": 706,
+   "popularity": 540.2,
+   "tmdb_vote": 7.574,
+   "tmdb_votes": 750,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -290,7 +290,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "d309e5c2ad0e",
+   "input_hash": "3631b95f271d",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -329,14 +329,14 @@
     "101 Studios",
     "Toff Guy Films"
    ],
-   "release_date": "2026-11-06",
+   "release_date": "2026-11-13",
    "first_air_date": "2025-03-30",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 359.7,
-   "tmdb_vote": 8.649,
-   "tmdb_votes": 1232,
+   "popularity": 434.6,
+   "tmdb_vote": 8.7,
+   "tmdb_votes": 1237,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -365,7 +365,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "67ecc6923515",
+   "input_hash": "a225afcc8374",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -410,9 +410,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 344.1,
-   "tmdb_vote": 8.469,
-   "tmdb_votes": 6767,
+   "popularity": 337.8,
+   "tmdb_vote": 8.465,
+   "tmdb_votes": 6806,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -447,7 +447,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "d61f57509861",
+   "input_hash": "c57ebbee7973",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -491,9 +491,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 342.8,
+   "popularity": 327.1,
    "tmdb_vote": 8.4,
-   "tmdb_votes": 439,
+   "tmdb_votes": 458,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -516,7 +516,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1a871972ccbf",
+   "input_hash": "b3f30f3a9230",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -541,102 +541,6 @@
    }
   },
   {
-   "key": "tv-31991",
-   "kind": "tv",
-   "tmdb_id": 31991,
-   "title": "WWE NXT",
-   "studio": "USA Network",
-   "parent": "Versant",
-   "group": "Tracked companies",
-   "companies": [
-    "USA Network",
-    "The CW",
-    "Syfy",
-    "Hulu",
-    "WWE Network"
-   ],
-   "release_date": "2026-10-20",
-   "first_air_date": "2010-02-23",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-   "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
-   "popularity": 318.2,
-   "tmdb_vote": 6.623,
-   "tmdb_votes": 134,
-   "imdb_id": "tt1601141",
-   "tmdb_url": "https://www.themoviedb.org/tv/31991",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.5,
-   "imdb_votes": 2646.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "cc366b595d8c"
-  },
-  {
-   "key": "movie-1813355",
-   "kind": "movie",
-   "tmdb_id": 1813355,
-   "title": "A Story of Derry",
-   "studio": "Warner Bros. Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Rideback",
-    "Vertigo Entertainment",
-    "Warner Bros. Television",
-    "FiveTen Productions",
-    "K Plus Ultra"
-   ],
-   "release_date": "2026-10-31",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-   "popularity": 281.8,
-   "tmdb_vote": 6.708,
-   "tmdb_votes": 113,
-   "imdb_id": "tt50389959",
-   "tmdb_url": "https://www.themoviedb.org/movie/1813355",
-   "tmdb_reviews": [
-    {
-     "author": "Sejian",
-     "rating": 4.0,
-     "text": "\"Guys! Guys! Have you heard the good word about the turtle children?!\" They took arguably the best part of It: Chapter 2 - the backstory - and gave us *this*. Yep! That's my review.",
-     "url": "https://www.themoviedb.org/review/6ae8492df9357a3c1ba6efe5"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 8.0,
-     "text": "Expanding on existing lore is always quite difficult because you are constrained by what some offhanded line has portrayed the entire story to be before you even start. To humanize it in a way that lets you engage with the story on screen is difficult, and I think that they did a good job here. There is a reason why the characters act the way they do, and there is genuine tension, even though we know for sure what is bound to happen because it already has.",
-     "url": "https://www.themoviedb.org/review/6af5c6ff212cb13598cc6afa"
-    }
-   ],
-   "trade": [],
-   "input_hash": "24d192da052d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "turtle children gimmick",
-     "misused backstory",
-     "overall disappointment"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "The lone review finds the film a poor imitation of its source material.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-12T14:00:00+00:00"
-   }
-  },
-  {
    "key": "tv-1416",
    "kind": "tv",
    "tmdb_id": 1416,
@@ -651,14 +555,14 @@
     "ABC Studios",
     "Touchstone Television"
    ],
-   "release_date": "2026-11-05",
+   "release_date": "2026-11-12",
    "first_air_date": "2005-03-27",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 271.7,
+   "popularity": 323.7,
    "tmdb_vote": 8.201,
-   "tmdb_votes": 11133,
+   "tmdb_votes": 11135,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -687,7 +591,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "e02ec3e7eb48",
+   "input_hash": "4b0bb8610e9b",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -728,7 +632,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 270.9,
+   "popularity": 268.2,
    "tmdb_vote": 6.426,
    "tmdb_votes": 677,
    "imdb_id": "tt0115147",
@@ -741,6 +645,68 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "6c4b0fac4217"
+  },
+  {
+   "key": "movie-1813355",
+   "kind": "movie",
+   "tmdb_id": 1813355,
+   "title": "A Story of Derry",
+   "studio": "Warner Bros. Pictures",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Rideback",
+    "Vertigo Entertainment",
+    "Warner Bros. Television",
+    "FiveTen Productions",
+    "K Plus Ultra"
+   ],
+   "release_date": "2026-10-31",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
+   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
+   "popularity": 267.7,
+   "tmdb_vote": 6.729,
+   "tmdb_votes": 118,
+   "imdb_id": "tt50389959",
+   "tmdb_url": "https://www.themoviedb.org/movie/1813355",
+   "tmdb_reviews": [
+    {
+     "author": "Sejian",
+     "rating": 4.0,
+     "text": "\"Guys! Guys! Have you heard the good word about the turtle children?!\" They took arguably the best part of It: Chapter 2 - the backstory - and gave us *this*. Yep! That's my review.",
+     "url": "https://www.themoviedb.org/review/6ae8492df9357a3c1ba6efe5"
+    },
+    {
+     "author": "Sierbahnn",
+     "rating": 8.0,
+     "text": "Expanding on existing lore is always quite difficult because you are constrained by what some offhanded line has portrayed the entire story to be before you even start. To humanize it in a way that lets you engage with the story on screen is difficult, and I think that they did a good job here. There is a reason why the characters act the way they do, and there is genuine tension, even though we know for sure what is bound to happen because it already has.",
+     "url": "https://www.themoviedb.org/review/6af5c6ff212cb13598cc6afa"
+    }
+   ],
+   "trade": [],
+   "input_hash": "4cf4b48cf343",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "turtle children gimmick",
+     "misused backstory",
+     "overall disappointment"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "The lone review finds the film a poor imitation of its source material.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-12T14:00:00+00:00"
+   }
   },
   {
    "key": "tv-4614",
@@ -756,14 +722,14 @@
     "Belisarius Productions",
     "CBS Studios"
    ],
-   "release_date": "2026-10-27",
+   "release_date": "2026-11-10",
    "first_air_date": "2003-09-23",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 263.0,
-   "tmdb_vote": 7.607,
-   "tmdb_votes": 2617,
+   "popularity": 252.0,
+   "tmdb_vote": 7.6,
+   "tmdb_votes": 2618,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -780,7 +746,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "b15603c2d817",
+   "input_hash": "a98a2fdb5957",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -802,6 +768,59 @@
    }
   },
   {
+   "key": "tv-153312",
+   "kind": "tv",
+   "tmdb_id": 153312,
+   "title": "Tulsa King",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "101 Studios",
+    "MTV Entertainment Studios",
+    "Bosque Ranch Productions",
+    "Balboa Productions"
+   ],
+   "release_date": "2026-11-06",
+   "first_air_date": "2022-11-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+   "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "popularity": 241.7,
+   "tmdb_vote": 8.319,
+   "tmdb_votes": 2950,
+   "imdb_id": "tt16358384",
+   "tmdb_url": "https://www.themoviedb.org/tv/153312",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 6.0,
+     "text": "I have to confess I stumbled across this, quite by chance. I don't watch a lot of US entertainment these days. I did however, grow up watching my share of Stallone action films, so a dash of nostalgia and curiosity, drew me in. There's nothing terribly original by now about the plot of Tulsa King. Its Mafia style antics are noting new. I think it was a smart move, playing this as a dark comedy. It fits the well worn character, Stallone, inhabits. That said, I guess the key question is, is it ent",
+     "url": "https://www.themoviedb.org/review/6372afbbed2ac2009b9f60e9"
+    },
+    {
+     "author": "Emily",
+     "rating": 9.0,
+     "text": "It's not Shakespeare but it's a fun show to watch after you get home from work or school. Plus it's nice to see a show that is set somewhere other then usual: NYC or LA. I really liked it and I'm looking forward to next season.",
+     "url": "https://www.themoviedb.org/review/68b792df55ff55b5e58cd610"
+    },
+    {
+     "author": "Marco-Hugo Landeta Vacas",
+     "rating": 8.0,
+     "text": "(CASTELLANO) Tulsa King me ha encantado. No será la serie más profunda, más innovadora ni más perfecta del mundo, pero tiene algo que muchas otras no tienen: carisma, ritmo y una forma muy consciente de divertirse con su propio planteamiento. Y eso, en un panorama lleno de series que van de importantísimas sin serlo tanto, se agradece muchísimo. Aquí se nota desde el principio que la serie sabe muy bien lo que quiere ser y no pierde el tiempo fingiendo otra cosa. Gran parte de su encanto está en",
+     "url": "https://www.themoviedb.org/review/69cc6a6d0626634fe4c9d34d"
+    }
+   ],
+   "imdb_rating": 7.9,
+   "imdb_votes": 121614.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "788ce084dab5"
+  },
+  {
    "key": "movie-1003596",
    "kind": "movie",
    "tmdb_id": 1003596,
@@ -819,22 +838,14 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 118.0,
+   "popularity": 141.9,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
    "tmdb_url": "https://www.themoviedb.org/movie/1003596",
    "tmdb_reviews": [],
-   "trade": [
-    {
-     "title": "‘Avengers: Doomsday’ Has 10 Credited Writers, Including Hugh Jackman and Ryan Reynolds",
-     "link": "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/",
-     "source": "IndieWire",
-     "published": "2026-11-12",
-     "snippet": "The film's official WGA credits all but confirm that Deadpool and Wolverine will appear in the blockbuster sequel."
-    }
-   ],
-   "input_hash": "bbc67013daeb",
+   "trade": [],
+   "input_hash": "1d253905c51f",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -877,7 +888,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 3013.1,
+   "popularity": 2272.4,
    "tmdb_vote": 7.962,
    "tmdb_votes": 4416,
    "imdb_id": "tt0203259",
@@ -945,7 +956,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 1092.6,
+   "popularity": 912.8,
    "tmdb_vote": 7.894,
    "tmdb_votes": 1089,
    "imdb_id": "tt0852863",
@@ -958,40 +969,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "ea337282f355"
-  },
-  {
-   "key": "tv-37678",
-   "kind": "tv",
-   "tmdb_id": 37678,
-   "title": "The Voice",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Warner Horizon Television",
-    "Mark Burnett Productions",
-    "One Three Media",
-    "United Artists Media Group"
-   ],
-   "release_date": "2026-11-02",
-   "first_air_date": "2011-04-26",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
-   "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 600.4,
-   "tmdb_vote": 5.872,
-   "tmdb_votes": 231,
-   "imdb_id": "tt1839337",
-   "tmdb_url": "https://www.themoviedb.org/tv/37678",
-   "tmdb_reviews": [],
-   "imdb_rating": 6.5,
-   "imdb_votes": 14186.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "63c8aaa289df"
   },
   {
    "key": "movie-1423191",
@@ -1013,9 +990,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 586.7,
+   "popularity": 550.8,
    "tmdb_vote": 7.524,
-   "tmdb_votes": 2106,
+   "tmdb_votes": 2137,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -1050,7 +1027,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "463346122c0a",
+   "input_hash": "b3db62ea038d",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1077,118 +1054,6 @@
    }
   },
   {
-   "key": "tv-22980",
-   "kind": "tv",
-   "tmdb_id": 22980,
-   "title": "Watch What Happens Live with Andy Cohen",
-   "studio": "Sony Pictures",
-   "parent": "Sony",
-   "group": "Rest of industry",
-   "companies": [
-    "Bravo",
-    "Embassy Row",
-    "Sony Pictures Television"
-   ],
-   "release_date": "2026-11-10",
-   "first_air_date": "2009-07-16",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-   "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 455.1,
-   "tmdb_vote": 4.9,
-   "tmdb_votes": 100,
-   "imdb_id": "tt2057880",
-   "tmdb_url": "https://www.themoviedb.org/tv/22980",
-   "tmdb_reviews": [],
-   "imdb_rating": 5.6,
-   "imdb_votes": 1020.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "bca9858c7611"
-  },
-  {
-   "key": "movie-1368337",
-   "kind": "movie",
-   "tmdb_id": 1368337,
-   "title": "The Odyssey",
-   "studio": "Universal Pictures",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "Universal Pictures",
-    "Syncopy"
-   ],
-   "release_date": "2026-07-15",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 452.7,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4731,
-   "imdb_id": "tt33764258",
-   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
-     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
-    },
-    {
-     "author": "Manuel São Bento",
-     "rating": 10.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
-     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
-    },
-    {
-     "author": "AlphaLucifer",
-     "rating": 1.0,
-     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
-     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
-    },
-    {
-     "author": "jwtx",
-     "rating": null,
-     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
-     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
-    }
-   ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 544815.0,
-   "rt": null,
-   "metascore": 88.0,
-   "box_office_usd": 625595435.0,
-   "trade": [],
-   "input_hash": "b5ca8bc5a5f3",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": -20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "faithful adaptation",
-     "ambitious scope",
-     "visual spectacle"
-    ],
-    "complaints": [
-     "overlong",
-     "self‑important",
-     "woke DEI overload"
-    ],
-    "buzz": "High",
-    "box_office_verdict": "hit",
-    "summary": "The epic draws praise for its fidelity and visuals while many viewers criticize its length and tone.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-12T14:00:53+00:00"
-   }
-  },
-  {
    "key": "tv-82873",
    "kind": "tv",
    "tmdb_id": 82873,
@@ -1205,7 +1070,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-   "popularity": 442.2,
+   "popularity": 510.6,
    "tmdb_vote": 6.227,
    "tmdb_votes": 75,
    "imdb_id": "tt9022950",
@@ -1247,6 +1112,152 @@
    }
   },
   {
+   "key": "movie-1368337",
+   "kind": "movie",
+   "tmdb_id": 1368337,
+   "title": "The Odyssey",
+   "studio": "Universal Pictures",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "Universal Pictures",
+    "Syncopy"
+   ],
+   "release_date": "2026-07-15",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+   "popularity": 465.3,
+   "tmdb_vote": 8.0,
+   "tmdb_votes": 4784,
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
+     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 10.0,
+     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
+     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
+    },
+    {
+     "author": "AlphaLucifer",
+     "rating": 1.0,
+     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
+     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
+    },
+    {
+     "author": "jwtx",
+     "rating": null,
+     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
+     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 544815.0,
+   "rt": null,
+   "metascore": 88.0,
+   "box_office_usd": 625595435.0,
+   "trade": [],
+   "input_hash": "581643a4d525",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": -20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "faithful adaptation",
+     "ambitious scope",
+     "visual spectacle"
+    ],
+    "complaints": [
+     "overlong",
+     "self‑important",
+     "woke DEI overload"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "hit",
+    "summary": "The epic draws praise for its fidelity and visuals while many viewers criticize its length and tone.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-12T14:00:53+00:00"
+   }
+  },
+  {
+   "key": "tv-37678",
+   "kind": "tv",
+   "tmdb_id": 37678,
+   "title": "The Voice",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Warner Horizon Television",
+    "Mark Burnett Productions",
+    "One Three Media",
+    "United Artists Media Group"
+   ],
+   "release_date": "2026-11-02",
+   "first_air_date": "2011-04-26",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+   "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+   "popularity": 464.3,
+   "tmdb_vote": 5.872,
+   "tmdb_votes": 231,
+   "imdb_id": "tt1839337",
+   "tmdb_url": "https://www.themoviedb.org/tv/37678",
+   "tmdb_reviews": [],
+   "imdb_rating": 6.5,
+   "imdb_votes": 14186.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "63c8aaa289df"
+  },
+  {
+   "key": "tv-22980",
+   "kind": "tv",
+   "tmdb_id": 22980,
+   "title": "Watch What Happens Live with Andy Cohen",
+   "studio": "Sony Pictures",
+   "parent": "Sony",
+   "group": "Rest of industry",
+   "companies": [
+    "Bravo",
+    "Embassy Row",
+    "Sony Pictures Television"
+   ],
+   "release_date": "2026-11-10",
+   "first_air_date": "2009-07-16",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+   "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+   "popularity": 463.5,
+   "tmdb_vote": 4.9,
+   "tmdb_votes": 100,
+   "imdb_id": "tt2057880",
+   "tmdb_url": "https://www.themoviedb.org/tv/22980",
+   "tmdb_reviews": [],
+   "imdb_rating": 5.6,
+   "imdb_votes": 1020.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "bca9858c7611"
+  },
+  {
    "key": "tv-59941",
    "kind": "tv",
    "tmdb_id": 59941,
@@ -1265,7 +1276,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 350.3,
+   "popularity": 346.8,
    "tmdb_vote": 5.8,
    "tmdb_votes": 401,
    "imdb_id": "tt3444938",
@@ -1324,9 +1335,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 297.9,
-   "tmdb_vote": 6.768,
-   "tmdb_votes": 628,
+   "popularity": 284.4,
+   "tmdb_vote": 6.8,
+   "tmdb_votes": 640,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1361,7 +1372,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "9c13066e1115",
+   "input_hash": "af12900e6a47",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1388,63 +1399,6 @@
    }
   },
   {
-   "key": "movie-1507696",
-   "kind": "movie",
-   "tmdb_id": 1507696,
-   "title": "Apocalypse Z: New World",
-   "studio": "Nostromo Pictures",
-   "parent": "Nostromo Pictures",
-   "group": "Rest of industry",
-   "companies": [
-    "Nostromo Pictures"
-   ],
-   "release_date": "2026-10-09",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-   "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Robert",
-   "popularity": 275.2,
-   "tmdb_vote": 6.228,
-   "tmdb_votes": 197,
-   "imdb_id": "tt37522541",
-   "tmdb_url": "https://www.themoviedb.org/movie/1507696",
-   "tmdb_reviews": [
-    {
-     "author": "aala_Algerian",
-     "rating": 1.0,
-     "text": "This is not a sequel. This is a betrayal. Carles Torrens should be ashamed of what he did to Apocalypse Z: New World. He took the best Spanish zombie film in years, a film that worked because it was intimate, human, and heartbreaking, and he threw it in the trash for a generic military action movie. Manel was the heart of this franchise. Francisco Ortiz gave a performance full of grief, guilt, fear, and love. We watched a broken man who lost his wife learn to live again because of a cat. We spen",
-     "url": "https://www.themoviedb.org/review/6af10d6ccd64afa2004bbc23"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "ad3c9be4f99c",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -70,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "betrayal of original",
-     "generic military action",
-     "lost intimate tone"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Fans feel the sequel abandons the original's intimate, human zombie story.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-12T14:01:19+00:00"
-   }
-  },
-  {
    "key": "movie-1400837",
    "kind": "movie",
    "tmdb_id": 1400837,
@@ -1459,11 +1413,11 @@
    "release_date": "2026-10-07",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-   "popularity": 253.2,
-   "tmdb_vote": 6.139,
-   "tmdb_votes": 320,
+   "popularity": 282.5,
+   "tmdb_vote": 6.3,
+   "tmdb_votes": 377,
    "imdb_id": "tt36586020",
    "tmdb_url": "https://www.themoviedb.org/movie/1400837",
    "tmdb_reviews": [
@@ -1486,7 +1440,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9ec6f39ccac0",
+   "input_hash": "10b80450dfd1",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1530,7 +1484,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/u0ttHM5ZQCvnfL0lkueEgS4h2nI.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 243.5,
+   "popularity": 250.2,
    "tmdb_vote": 5.129,
    "tmdb_votes": 139,
    "imdb_id": "tt3513388",
@@ -1572,6 +1526,63 @@
    }
   },
   {
+   "key": "movie-1507696",
+   "kind": "movie",
+   "tmdb_id": 1507696,
+   "title": "Apocalypse Z: New World",
+   "studio": "Nostromo Pictures",
+   "parent": "Nostromo Pictures",
+   "group": "Rest of industry",
+   "companies": [
+    "Nostromo Pictures"
+   ],
+   "release_date": "2026-10-09",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+   "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Robert",
+   "popularity": 250.1,
+   "tmdb_vote": 6.209,
+   "tmdb_votes": 206,
+   "imdb_id": "tt37522541",
+   "tmdb_url": "https://www.themoviedb.org/movie/1507696",
+   "tmdb_reviews": [
+    {
+     "author": "aala_Algerian",
+     "rating": 1.0,
+     "text": "This is not a sequel. This is a betrayal. Carles Torrens should be ashamed of what he did to Apocalypse Z: New World. He took the best Spanish zombie film in years, a film that worked because it was intimate, human, and heartbreaking, and he threw it in the trash for a generic military action movie. Manel was the heart of this franchise. Francisco Ortiz gave a performance full of grief, guilt, fear, and love. We watched a broken man who lost his wife learn to live again because of a cat. We spen",
+     "url": "https://www.themoviedb.org/review/6af10d6ccd64afa2004bbc23"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "8349d3c90500",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -70,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [
+     "betrayal of original",
+     "generic military action",
+     "lost intimate tone"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Fans feel the sequel abandons the original's intimate, human zombie story.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-12T14:01:19+00:00"
+   }
+  },
+  {
    "key": "movie-1300968",
    "kind": "movie",
    "tmdb_id": 1300968,
@@ -1590,14 +1601,14 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 52.1,
-   "tmdb_vote": 10.0,
-   "tmdb_votes": 1,
+   "popularity": 60.6,
+   "tmdb_vote": 9.0,
+   "tmdb_votes": 3,
    "imdb_id": "tt32558705",
    "tmdb_url": "https://www.themoviedb.org/movie/1300968",
    "tmdb_reviews": [],
    "trade": [],
-   "input_hash": "f0ceb7cbf5c6",
+   "input_hash": "cda4e304ef64",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",

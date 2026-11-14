@@ -123,6 +123,10 @@
   {
    "date": "2026-11-13",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-11-14",
+   "mood": "Mixed"
   }
  ],
  "Publishing": [
@@ -249,6 +253,10 @@
   {
    "date": "2026-11-13",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-11-14",
+   "mood": "Negative"
   }
  ],
  "Lottery": [
@@ -374,6 +382,10 @@
   },
   {
    "date": "2026-11-13",
+   "mood": "Mixed"
+  },
+  {
+   "date": "2026-11-14",
    "mood": "Mixed"
   }
  ],
@@ -501,6 +513,10 @@
   {
    "date": "2026-11-13",
    "mood": "Mixed"
+  },
+  {
+   "date": "2026-11-14",
+   "mood": "Positive"
   }
  ]
 }
