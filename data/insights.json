@@ -568,23 +568,56 @@
   "signals_at": "2026-11-13T18:43:38+00:00"
  },
  "LA Times": {
-  "headline": null,
-  "highlights": [],
-  "risks": [],
+  "headline": "Hollywood screenwriters see AI as a new opportunity",
+  "highlights": [
+   "AI tools are being adopted by emerging screenwriters",
+   "Industry warnings about AI have shifted to acceptance",
+   "Potential for AI to streamline script development"
+  ],
+  "risks": [
+   "Quality control of AI‑generated content",
+   "Intellectual property concerns"
+  ],
   "sentiment": "Neutral",
-  "sentiment_reason": "No specific developments reported for LA Times",
-  "segments": [],
-  "it_signals": [],
+  "sentiment_reason": "Balanced view of AI opportunities and challenges",
+  "segments": [
+   {
+    "name": "digital subscriptions",
+    "trend": "Flat",
+    "note": "No subscription data mentioned"
+   }
+  ],
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "Screenwriters are exploring AI as a ticket to break into Hollywood",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3RsQ1pSbzZHX1ZLV1NkMVc1LXhPRTVYeDF4UHI4ZnFHamgzSHUyc1RqNGlmUzBtbHUyTzRvem9JaW9Fd1dfeDctU0cxT3YwRmIyNHRpY2p5WXotdXVrSGdQSmFBSUhISjdnclVadHBUOFFXX0laU0xDcktLWDRwUFpEdGRRZUo3Q1lzV0YwRDdJc2piVXk0VThnbUZ1SmtOcVZISGM4TWw3emIwQ3ZtS0hpRGlVX0M5MEF5eVVzZVh6ajhxLUVmQTZ3YVpZdGwtSHc?oc=5",
+    "source": "Loyola Marymount University",
+    "published": "2026-11-13"
+   }
+  ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No information on IT spending provided",
-  "talking_points": [],
+  "it_spend_reason": "No specific IT spending information provided",
+  "talking_points": [
+   "Discuss how AI tools could support content creation workflows",
+   "Explore partnership opportunities for AI‑enhanced editorial platforms"
+  ],
   "unverified_dropped": [],
-  "sources": [],
+  "sources": [
+   {
+    "title": "Los Angeles Times | Hollywood Warned Young Screenwriters About A.I. Now It May Be Their Ticket In",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3RsQ1pSbzZHX1ZLV1NkMVc1LXhPRTVYeDF4UHI4ZnFHamgzSHUyc1RqNGlmUzBtbHUyTzRvem9JaW9Fd1dfeDctU0cxT3YwRmIyNHRpY2p5WXotdXVrSGdQSmFBSUhISjdnclVadHBUOFFXX0laU0xDcktLWDRwUFpEdGRRZUo3Q1lzV0YwRDdJc2piVXk0VThnbUZ1SmtOcVZISGM4TWw3emIwQ3ZtS0hpRGlVX0M5MEF5eVVzZVh6ajhxLUVmQTZ3YVpZdGwtSHc?oc=5",
+    "source": "Loyola Marymount University",
+    "published": "2026-11-13T00:00:29+00:00",
+    "official": false
+   }
+  ],
   "company": "LA Times",
   "mode": "signals",
-  "analysed_at": "2026-10-28T12:14:55+00:00",
+  "analysed_at": "2026-11-14T06:54:19+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-28T12:14:55+00:00"
+  "signals_at": "2026-11-14T06:54:19+00:00"
  },
  "Caesars": {
   "results_found": true,

@@ -1,27 +1,27 @@
 {
- "headline": "Tech investment rises while revenue trends diverge across media, gaming, publishing and education.",
- "summary": "Media & Entertainment shows strong top‑line growth and expanding IT spend, led by Disney's 7% revenue rise. Gaming revenue is mixed; Bally's posts 22% growth while Caesars records a net loss. Publishing blends AI rollout with a revenue miss at Scholastic. Education sees AI funding gains but cost cuts at SLU.",
+ "headline": "Media expands AI spend while gaming sees mixed results and education balances growth with cost cuts.",
+ "summary": "Media & Entertainment companies are investing heavily in generative AI and platform upgrades, with Disney leading revenue growth. Gaming firms show divergent performance; Caesars posts a loss despite digital gains, while Bally's posts strong top‑line growth. Publishing and information firms are mixed, with Pearson driving growth and Scholastic missing targets. Education sees positive AI funding at NYU but cost pressures at SLU.",
  "industries": [
   {
    "industry": "Media & Entertainment",
    "mood": "Positive",
-   "summary": "Disney posted 7% revenue growth and a 21% jump in operating income. WBD/Skydance and Versant also delivered positive results despite modest margins. Private players Cox and LA Times gave no financial data.",
+   "summary": "Disney posted 7% revenue growth and expanding AI partnerships. WBD/Skydance is tightening spend and targeting synergies. Versant is expanding digital platforms and made a $530 m acquisition.",
    "leaders": [
     {
      "company": "Disney",
-     "why": "Revenue up 7% to $25.2 bn and operating income up 21%."
+     "why": "Highest revenue ($25.2 bn) and strong AI partnership with Adobe"
     }
    ],
    "laggards": [
     {
-     "company": "LA Times",
-     "why": "No financial data; neutral sentiment."
+     "company": "WBD / Skydance",
+     "why": "Low operating margin (5.2%) and revenue down 2.3% YoY"
     }
    ],
    "themes": [
     {
      "title": "AI & tech investment",
-     "detail": "Disney partners with Adobe on generative AI for parks and ESPN; Versant expands digital platforms and adds FAST channels.",
+     "detail": "Disney and Versant are building generative AI models and expanding digital offerings.",
      "companies": [
       "Disney",
       "Versant"
@@ -29,104 +29,64 @@
     },
     {
      "title": "Digital platform rebuild",
-     "detail": "Versant grows platform revenue 10% to $245 m and adds new streaming channels.",
+     "detail": "Versant adds FAST channels and grows platform revenue; WBD plans a bundled streaming launch.",
      "companies": [
-      "Versant"
+      "Versant",
+      "WBD / Skydance"
      ]
     }
    ],
-   "it_outlook": "Expanding",
-   "it_note": "IT spend is growing at Disney and Versant, while Cox also expands its digital scheduler."
+   "it_outlook": "Mixed",
+   "it_note": "Disney and Versant are expanding spend, while WBD is tightening to achieve $6 bn synergies."
   },
   {
    "industry": "Gaming & Lottery",
    "mood": "Mixed",
-   "summary": "Bally's revenue jumps 22% YoY, but Caesars posts a widened net loss despite modest revenue growth. Light & Wonder tightens costs, and Brightstar maintains stable margins.",
+   "summary": "Caesars reports a revenue of $2.94 bn but a widened net loss; Bally's shows 21.7% YoY revenue growth. Light & Wonder tightens costs, while Brightstar maintains stable contracts.",
    "leaders": [
     {
      "company": "Bally's",
-     "why": "Revenue $807.6 m, up 22.8% YoY."
+     "why": "Revenue up 21.7% YoY to $807.6 m"
     }
    ],
    "laggards": [
     {
      "company": "Caesars",
-     "why": "GAAP net loss of $123 m despite $2.94 bn revenue."
+     "why": "GAAP net loss of $123 m despite revenue growth"
     }
    ],
    "themes": [
     {
-     "title": "Digital platform rebuild",
-     "detail": "Caesars sees digital revenue grow 5%; Bally's expands iGaming and sports betting platforms.",
+     "title": "Digital / platform rebuild",
+     "detail": "Caesars digital revenue grew 5%; Bally's invests in new financing for expansion.",
      "companies": [
       "Caesars",
       "Bally's"
      ]
     },
     {
-     "title": "AI adoption",
-     "detail": "Caesars hints AI will augment face‑to‑face meetings, indicating selective use.",
+     "title": "AI selective adoption",
+     "detail": "Caesars plans AI to augment meetings but not replace staff.",
      "companies": [
       "Caesars"
-     ]
-    },
-    {
-     "title": "Cost‑cutting",
-     "detail": "Light & Wonder prioritises debt reduction and tightens IT spend.",
-     "companies": [
-      "Light & Wonder"
      ]
     }
    ],
    "it_outlook": "Mixed",
-   "it_note": "IT spend is stable at Caesars and Brightstar, tightening at Light & Wonder, and unclear at Bally's."
-  },
-  {
-   "industry": "Publishing & Information",
-   "mood": "Mixed",
-   "summary": "Pearson shows accelerated revenue growth and expands AI tools, while Scholastic misses revenue and posts a large operating loss. Wolters Kluwer reports neutral performance.",
-   "leaders": [
-    {
-     "company": "Pearson",
-     "why": "Revenue $1,779 m and operating margin 14.2%."
-    }
-   ],
-   "laggards": [
-    {
-     "company": "Scholastic",
-     "why": "Revenue miss of $216.8 m and operating loss margin -42.5%."
-    }
-   ],
-   "themes": [
-    {
-     "title": "AI & tech investment",
-     "detail": "Pearson rolls out AI‑powered English learning in Thailand; Wolters Kluwer expands Libra AI across Europe.",
-     "companies": [
-      "Pearson",
-      "Wolters Kluwer"
-     ]
-    },
-    {
-     "title": "Digital platform rebuild",
-     "detail": "Pearson launches new Studio suite linking learning, career readiness and credentials.",
-     "companies": [
-      "Pearson"
-     ]
-    }
-   ],
-   "it_outlook": "Expanding",
-   "it_note": "Both Pearson and Wolters Kluwer are increasing AI and digital platform investments."
+   "it_note": "Stable spend at Caesars, tightening at Light & Wonder, unclear at Bally's."
   }
  ],
  "watch_next": [
-  "Disney's generative AI rollout for parks and ESPN",
-  "Bally's integration of new iGaming platforms",
-  "Pearson's AI‑driven assessment tools",
-  "NYU's quantum lab commercialization",
+  "Disney's rollout of generative AI in parks and ESPN",
+  "Bally's revenue trajectory after the Bronx financing",
+  "Pearson's AI assessment pilots and their market impact",
+  "NYU's quantum lab commercialization progress",
   "Caesars' pending acquisition by Tilman Fertitta"
  ],
  "unverified_dropped": [
-  "industries.3.themes.0.detail"
+  "industries.2.leaders.0.why",
+  "industries.3.summary",
+  "industries.3.leaders.0.why"
  ],
- "written_at": "2026-11-13T18:44:07+00:00"
+ "written_at": "2026-11-14T06:54:48+00:00"
 }

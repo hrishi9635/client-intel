@@ -1,10 +1,10 @@
 company,name,ticker,price,price_currency,price_date,market_cap_m,currency,market_cap_usd_m,return_1m,return_3m,return_1y,high_52w,low_52w,pe_ttm,next_results
 Disney,The Walt Disney Company,DIS,118.97,USD,2026-11-13,205424.0,USD,205424.0,9.16,11.34,14.08,119.65,91.72,23.9,2026-11-17
 WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,7.52,USD,2026-11-13,37933.0,USD,37933.0,6.52,-25.5,-51.15,15.8,6.8,111.9,
-Versant,Versant Media Group,VSNT,35.54,USD,2026-11-12,4913.0,USD,4913.0,14.42,-7.57,,45.93,26.54,6.8,
-Caesars,Caesars Entertainment,CZR,29.28,USD,2026-11-12,5978.0,USD,5978.0,-0.64,-1.28,48.25,30.41,18.14,,
-Bally's,Bally's Corporation,BALY,11.54,USD,2026-11-12,561.0,USD,561.0,-16.13,-14.46,-29.12,18.13,8.84,,
-Light & Wonder,Light & Wonder,LNW.AX,120.37,AUD,2026-11-13,6362.0,USD,6362.0,4.62,-7.88,-8.58,182.5,102.66,21.9,
+Versant,Versant Media Group,VSNT,35.94,USD,2026-11-13,4913.0,USD,4913.0,16.01,-8.27,,45.93,26.54,6.8,
+Caesars,Caesars Entertainment,CZR,29.33,USD,2026-11-13,5978.0,USD,5978.0,0.1,-1.41,48.28,30.41,18.14,,
+Bally's,Bally's Corporation,BALY,11.12,USD,2026-11-13,561.0,USD,561.0,-18.24,-20.51,-35.24,18.13,8.84,,
+Light & Wonder,Light & Wonder,LNW.AX,120.37,AUD,2026-11-13,6350.0,USD,6350.0,4.62,-7.88,-8.58,182.5,102.66,21.9,
 Brightstar (IGT),IGT / Brightstar Lottery,BRSL,9.81,USD,2026-11-13,1774.0,USD,1774.0,2.62,-15.11,-36.06,15.45,9.23,11.6,
 Wolters Kluwer,Wolters Kluwer,WKL.AS,89.5,EUR,2026-11-12,20206.0,EUR,22571.0,13.52,32.9,-0.74,92.42,54.85,,
 Scholastic,Scholastic,SCHL,36.83,USD,2026-11-13,678.0,USD,678.0,-4.81,-9.96,32.81,46.74,26.37,12.0,2026-12-17

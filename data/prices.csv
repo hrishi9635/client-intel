@@ -733,7 +733,7 @@ date,company,close
 2026-11-10,Versant,34.93
 2026-11-11,Versant,36.14
 2026-11-12,Versant,35.54
-2025-11-12,Caesars,19.76
+2026-11-13,Versant,35.94
 2025-11-13,Caesars,19.75
 2025-11-14,Caesars,19.78
 2025-11-17,Caesars,20.61
@@ -985,7 +985,7 @@ date,company,close
 2026-11-10,Caesars,29.3
 2026-11-11,Caesars,29.28
 2026-11-12,Caesars,29.28
-2025-11-12,Bally's,17.23
+2026-11-13,Caesars,29.33
 2025-11-13,Bally's,16.28
 2025-11-14,Bally's,17.17
 2025-11-17,Bally's,16.64
@@ -1237,6 +1237,7 @@ date,company,close
 2026-11-10,Bally's,12.02
 2026-11-11,Bally's,12.44
 2026-11-12,Bally's,11.54
+2026-11-13,Bally's,11.12
 2025-11-13,Light & Wonder,134.38
 2025-11-14,Light & Wonder,131.66
 2025-11-17,Light & Wonder,136.0
@@ -1819,7 +1820,7 @@ date,company,close
 2026-02-25,Wolters Kluwer,61.2328
 2026-02-26,Wolters Kluwer,63.5
 2026-02-27,Wolters Kluwer,65.4213
-2026-03-02,Wolters Kluwer,65.479
+2026-03-02,Wolters Kluwer,65.4789
 2026-03-03,Wolters Kluwer,65.3829
 2026-03-04,Wolters Kluwer,65.0563
 2026-03-05,Wolters Kluwer,65.7287
@@ -2152,7 +2153,7 @@ date,company,close
 2026-06-22,Scholastic,41.9878
 2026-06-23,Scholastic,41.9286
 2026-06-24,Scholastic,42.3432
-2026-06-25,Scholastic,43.3699
+2026-06-25,Scholastic,43.37
 2026-06-26,Scholastic,45.4234
 2026-06-29,Scholastic,45.5123
 2026-06-30,Scholastic,45.4136
@@ -2320,7 +2321,7 @@ date,company,close
 2026-02-16,Pearson,9.0378
 2026-02-17,Pearson,9.2957
 2026-02-18,Pearson,9.2757
-2026-02-19,Pearson,9.2317
+2026-02-19,Pearson,9.2318
 2026-02-20,Pearson,9.2777
 2026-02-23,Pearson,9.2817
 2026-02-24,Pearson,9.3337
