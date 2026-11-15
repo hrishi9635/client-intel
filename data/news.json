@@ -1,21 +1,93 @@
 {
  "Disney": [
   {
+   "title": "Let’s address the Mickey Mouse in the room: Disney Adults.",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TRU1xQU55MGFsdXJIc3JYUzZ6NjJIUWR4eEJCTzhmOW1fQWppN2ZEZXd6dlFSYTRMelRDNTczRFg2UGt4V0JndFRNTHlidENNTEI4?oc=5",
+   "source": "Mamamia",
+   "domain": "mamamia.com.au",
+   "provider": "Google",
+   "published": "2026-11-15T00:56:39+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Photos: Take a Stroll Through a Winter Wonderland of Christmas Trees at Disney Springs",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2NvU2xyd084UkZ1b01oOUdsR1IxbTlqUmNtODRITEJUemU0NmdKZkUydWpLUlhLTjVqVlUtbVVhdDU2WFNGZHo5NFpocS01cFBlVDM2QjNTRk1KazRHUXVjcGlwWXR5Ukg5VmprNWZMX0VkaFYycFM1Uy1hMXpQTVMyYXR1UQ?oc=5",
+   "source": "LaughingPlace.com",
+   "domain": "laughingplace.com",
+   "provider": "Google",
+   "published": "2026-11-14T23:12:27+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Crowd Check: Did This Major Ride Closure Affect Disney World Wait Times This Week?",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVY4NlhNVEprT0JOU3ZtcXMxanVaVXdkY2xpdC1JNXF6Y3ZhRl84QkFIWWVYWU1QS3ZUX3M2bjhxRkh0YlBhNEFoY2h4MW5rM0p6bWlLSEVsSWNYZm82ekFyS01hRHdVSUxUSXctNmlSSFI5Z3NQZlZCTXZtZWFjNWh1SmRBc3BOYnRabHFfOWpoSmM3Y29uZGRMSlpJdGlqaW9nTklFQzF4dWxjUDBObDMxNHQybTg2bXRiOFZIZkI?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T23:08:54+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "REVIEW: It Just Got Easier To Go to Nomad Lounge at Disney World",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFZtdldKd1FXeVd4cDFRbkFxeTZYS0o4RzJxcVAzYUEwOU5lVS1PNmJoZlpEaFlBQ2FLeFMxWnZfcWM4S2I5aEZfakJxQUc4TEo4VlJDcVNXeDVGSm9NNnJCVm5HUUEzVmFfcXhzUUt4a3ktSm1UdFNaLUUtOExRS1ZqVVRqNXNyT1RLblJlWW8wVkxqaG1LUzBmQ1daeENfVjcyQkxCQXY3Zw?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T22:10:38+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Best Early Black Friday 2026 Deals for Disney Fans!",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU1uQmpKUS0xMk8tb21hMmkyd2hBZV9HYkh2S3M5M2FrYXg3dU9qYjJ5VlkyaUNnZ0MtREdKZFFHR2VCdVA0NDMzWGpWVFd5OHZvY2hHTk1IdkxkVVY4S3NVeGc4c2xzSVZfRzJHcktWZTY1V1lmX3pZb0h3aEl2UkZObW53WWkzUW1zdGF3?oc=5",
+   "source": "Disney Tourist Blog",
+   "domain": "disneytouristblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T21:52:50+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "How Jodie Foster Took Her First Disney Voice Role In ‘Hexed’ And Lent Her Smile To Her Character – Contenders L.A.",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XNGNNbTFSN3llYXJhWHFhcFFTS25KeGFISWZuUVhuTEhxblFLcUhEVlgxVF8tTlozblljb1hRMnpneFItem1QLWxsVTJNcV9TZDdkMHV3T0FudTd0MG53Z1JMbUpJa3M?oc=5",
+   "source": "IMDb",
+   "domain": "imdb.com",
+   "provider": "Google",
+   "published": "2026-11-14T21:42:31+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "New R-Series Droid Factory Action Figures Launching November 17th at Downtown Disney",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSUJCMzYxbTdqaFZObWxHTU56elVOZkUwZTZ2ejlibG5NN01PZDdUelRYZldNMEtkZlZmaGFfYk1FMjNwQVY4TmxsUVJBZ3FMM2YzT04wYzREQlZtOGlnajlyVmpaVVlzT3FaS09HRXF6SXFsYkRTRl9CWUNoaW1DcTNuR21ISWstME9wS2oyeDdxMTFGaDIybEpvZVd2VU1KZkhrWEQ0Qkt1eEVUM18wQ3drM0MxODlEc0lLWXU4T0ZOZ3pW?oc=5",
+   "source": "Jedi News",
+   "domain": "jedinews.com",
+   "provider": "Google",
+   "published": "2026-11-14T20:38:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "The Most Popular Disney Movie The Year You Were Born",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWFMWGhhM253RTBNVGU4SFRQci1rSks0d3VCeVFSVzN2bW41TTR0dEFUdzhSazhXSC1ENHA2WFJ1cjVYQnBNU0R1a1RtQ2tRd3FUczFMWEdHaENCZks3eFBVa1k1RHMzeVUwX211YlhvdTFRekFfQ3FNVk10LUFMUlpTSjlKWFJJLU8xTHdpZlNRSWZZX2RETw?oc=5",
+   "source": "Mental Floss",
+   "domain": "mentalfloss.com",
+   "provider": "Google",
+   "published": "2026-11-14T20:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Disney Board Games are Up to 43% Off on Amazon Now",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTldnTFJ2V00xS3UzM2dJUkVJUkZnM1BPckZVM0RGVzdITmJlYUZuVi14TjhxaXdhcHZ1TUt5TzE0b1dTNTh5NzRBcEdhYmtreVNvNGFTRHktWEkyMzY2a2J4bG03emN3aHZUUXpoaEpZUGlQVnp0V2dORzNyR2Fsd21QSVpKZVZLX1hWejRqZ0U0Q3R6U1hF?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T19:38:13+00:00",
+   "snippet": ""
+  },
+  {
    "title": "16 Best Gifts for Disney Adults All on Amazon",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejFIN25Xb2xSTGwyV2NtQXI2dDVkNlB4c1Z1TTJLQkVzWHZ2QW8yUG5IeU4wYkxiRTFfaDBmSjV3MGhhZmUyWWxRQXBFZ1p0ZEROc3p6dUJLNmhkMlU2UUtHdG9YR3lWX3k2UmJMXzBPNmh5MzF5ZmFJcTlpME1FLWFJMzdKbkVWVG5lamk4SEQ5dw?oc=5",
    "source": "Disney Food Blog",
    "domain": "disneyfoodblog.com",
    "provider": "Google",
    "published": "2026-11-14T19:01:32+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Jared Bush, Walt Disney Animation Studios CCO, hearing about #UnitedForBusiness and their offerings to the entertainment industry",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcjJUMWNYbnBkVEhrNGZSYjJSUU9WUkdSMV8tOHloVHV4aGZmLUNQR2FZdFBXZXdXczB5ZHJldFFrUmxWLXkzLVdGUVRwM1pRbHlOZ0YxMUFLeTZQS2p0WTQzV1VXVUpxUVZyZ0ZHMC15VXVYT2o4b1IweF9CVWduSlVMa0o4MWhNeDhxSEZuWEVPRnhTZEtpVDg3YXVhZndVS1loVEdndEdnSzBtRlJoaUd0Y0tnN0dlckZkcTlwdWRXOGUxVGdtVWQtUXREOTloRWtRaUFB?oc=5",
-   "source": "Facebook",
-   "domain": "facebook.com",
-   "provider": "Google",
-   "published": "2026-11-14T18:50:24+00:00",
    "snippet": ""
   },
   {
@@ -28,21 +100,21 @@
    "snippet": ""
   },
   {
+   "title": "What if We Told You a Zebra Was Somewhat Responsible for LONG Lines at Disney World?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3RqVmhudVU3SmRzdll4SG1hRHRRNXlpNTMxMHRGeG1UNEdzd2ZMcmNsdGthNFhiUDhTRWxWNlVLZmVoZHFqeC1nWW5OSlhLN2taR2paZ3pZaUJPWDEwVUpKa3Z2dFVGVFVqcmxsUTlOUnB4ZVM4dGV4YVcxWE8tMDNIUkFMTDhuaFhvczJwdEZraHdJQkdEZWpzcXpTbVZPbTFxSURyM1Y1Q2MyWkh3U2hWd1MzZw?oc=5",
+   "source": "AllEars.Net",
+   "domain": "allears.net",
+   "provider": "Google",
+   "published": "2026-11-14T18:26:04+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Hailee Steinfeld stuns surprised fans at Disney’s ‘Hexed’-TikTok Party",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82dkRCRVVZa1FvZnFKQ0NlUFRFOHk0SEZMcTVMNUVDN3hsd3VFZTZFeFNKTjN1WWpXdkRWZzRNNVVQX1hKTWhXWWJ2dl9lb0hOUFcyS1lIWjRiWW84YVlVby1OaFJmb1MyNnRhUVhzYkZNVW5tYjlSRkFn?oc=5",
    "source": "The Big Lead",
    "domain": "thebiglead.com",
    "provider": "Google",
    "published": "2026-11-14T17:36:33+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Universal Brings Back Cheap Year-Plus Freedom Pass for 2027, More Military Disney Deals Coming Soon",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXU5WXhyWFBiTjlVb0hvOHdZOVhEZWxuUHV4RDRCR3d3SGEyc1pvdkhOWXJ1LXhCeDdQSkh0azZ6RFRvb3czeVZsUXA5dHFLcVJZNUFqcHd4RVBhbzBkdGN0TkNzRk1aWC1xMUF4Sk5SNjlWcHl1aTZyTXZpLVYydWxSWGxOUjNneHpZaXY4UzN1bUQzclVmUmh1UHNYMWVic1E2MU9wNFRDaXk3QjZXc3JXYk85eG5ReEFGMUZVS1IzVkV5NW80LVBPc2hBdw?oc=5",
-   "source": "Disney Tourist Blog",
-   "domain": "disneytouristblog.com",
-   "provider": "Google",
-   "published": "2026-11-14T17:32:30+00:00",
    "snippet": ""
   },
   {
@@ -73,12 +145,57 @@
    "snippet": ""
   },
   {
+   "title": "NEW Deal Just Dropped For Your Next Disney World Vacation",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdrMDlKODRUbGR2eXdYcG5FeHlmbGlULUJMdi1KdXpPUVhEVlh1OGZFWkpJMk9oV2FES2taMHh2aVdrekZLWnNwN2pTMm9GdHQ0WXVHNWgxZmRXT0ZmOGRpc3pZakpzblRRSHMwQktoNDRGSkNseWN6VFNuYzZQb0NxaXVablpyMjVqY3Nyanh0Mzh3dGhyRlloR1FseVRzVkE?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T16:29:14+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "We Were Robbed! A David Copperfield Magic Restaurant Almost Opened in Disney World",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUJ5Q05WTUFZQzZjcVBSRG5pdW84UHhGcWtyY3E2SnF3c3gwTW1JOHdGU081N21oRkpKTmFfUE5mSGRxSlNsVnV3aU9lUjRBbHY5dVU0WWV2V3lOLVZLV0RFTUVYV21NcXJvLWlGUzZteWE0VlJvcW1Mclk4SGRkNGlwVURoYTBCeFFmZVlOWFFQSlhnX2tHQ284ME55UXVUd2NWZTFaeDh3WWJfd08zTnNSVktRMXNoWTdZY3dkU1I1Zw?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T16:19:11+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Here’s How You Can Save BIG On Your Next Disney World Hotel",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUNKLTRyRmJDN2xrRkk1WF9OT2VURUVIa1pVOXBhbUkzcGd6RE9mVGl2WDNxaWlHOWRCaXhDc2JNRnRneTMwLUNXcXpfeHltd1FDcWhjbnhJRnhCT1BxSnpBOUs1Um5IRGVhemlGNWV0b29HWEhWYUxjYS1vNXZqR0VfQm9RRk5VRF83TXFRZEhHRzlB?oc=5",
+   "source": "AllEars.Net",
+   "domain": "allears.net",
+   "provider": "Google",
+   "published": "2026-11-14T16:12:48+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Adam Driver Says Disney’s Cancellation of The Hunt for Ben Solo ‘Felt Criminal’",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3BhRU51RFNWeWhkY1RKMTlXNkVKQWJaLVZzNWVZaTFiYkgwNzAtZVlJV2VwR2lfNjNPeDhDVm1RU0pMSnd2R3pVUldkdjZ2MjBBOXd6N2VUWGlWZ2gzNGZUSWpWQzUtTmJuNmxmYkxobXA0T3NmWjhtN0FjdllBeA?oc=5",
+   "source": "Mezha.net",
+   "domain": "mezha.net",
+   "provider": "Google",
+   "published": "2026-11-14T16:07:55+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Adam Driver Says Disney Killing ‘The Hunt for Ben Solo’ Felt ‘Criminal’: ‘Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?’",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObDRmY2FQWTA1NlRVVjB1T1JvbUhrSkFaTXJtNENZRmhKd3FpTjZtMVZMMjBJTDhQaGRpMEtwaWk4NjlSa0JxNDdGbzVOZUZkYjhjdUtNOWJ5Y1hFU2J5U1Vnb3Z2b3A1Vlh1SERISWk0MGIwMFl6SnR1RmtzVi12c3NjenZVRWo3YkhMUTZYTU4tRHZYZkFJ?oc=5",
    "source": "Variety",
    "domain": "variety.com",
    "provider": "Google",
    "published": "2026-11-14T16:02:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Disney Dropped 8 Discounts That Will Make Your Next Trip CHEAPER",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2t2enFlR1piREFjemtRUUphb2V2aWs5LWFnZHk3dFkzRW92NGNvMlZyeHFPTGhfeFNIQVhuMEVQQVUxTmlOZVhvU3BBMEd4TkhqWE14UExRUUxQVWNNWnQwWDEwUWpnN1pUenEteTlSNXNUNlJDWFlYR0JDQkdPWEdQLUR0ekc1TG0ySnFqUlZrcFlUUWZ0SkVkTjc?oc=5",
+   "source": "AllEars.Net",
+   "domain": "allears.net",
+   "provider": "Google",
+   "published": "2026-11-14T16:00:03+00:00",
    "snippet": ""
   },
   {
@@ -93,10 +210,19 @@
   {
    "title": "Hollygroove Swingin' and The Record Setters Return to Disney's Hollywood Studios for the Holidays",
    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORlFaVGgxYVk0TzRCNTlXcklXXzZBa1VpYnd4M3U5eEVBV2J0OHJXSnBiTVp3bGxOVVBSMG5wYW94ckZkQ2tndTJ2dkJLRkZsWTRCdlNUQ2xacnZnNjlnb0IzSVR2alZMYjFPUEJCa0dFNk82cU9RQTZ1QlFCTjRMSExaY0Y2MV9lc0sxejRHZ3VIVTJUMjFCTkpiQWpYS2FQX19uUUloNHhmdWRDOUlseWxVaWVhQlZLWFh6Vmt2aVZJUk9EUG8zY0lTSENhdkhuejRTZThzLWpseERxYlhCc3JWaWgzY2R4ZVZNSUNnbFlFOWsxWXV3aUtybi1YMnNqV1FF?oc=5",
-   "source": "WDWMagic",
+   "source": "wdwmagic",
    "domain": "wdwmagic.com",
    "provider": "Google",
    "published": "2026-11-14T15:41:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Walt Disney Imagineering Files Permit for Glob Theater in Monstropolis at Disney's Hollywood Studios",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHkyTnNyMC1RRXJrT3U3RHFCS2N3ekk3eGF0OEVHWkJaN2EtdnNJNXFfOFdEa0VkaEpORHJaTnUyczdnWUpkSV8yTkFsbWpCdzN5X1Vqd0FoZ1ZQQzFxelZCVkNrVzlJSTlCTkJMaGsxNlVya3NmMUpUYkpVX3Jpam5VRnJtZEJfMmxrWnIyWnBsQUxxRVRRWWxNR3VEOGQtMGJ6akFxTkxIdGRFeERON1UyNTdFaVpLMnpFWVZmaVZNUGtV?oc=5",
+   "source": "WDW News Today",
+   "domain": "wdwnt.com",
+   "provider": "Google",
+   "published": "2026-11-14T15:38:57+00:00",
    "snippet": ""
   },
   {
@@ -118,6 +244,42 @@
    "snippet": ""
   },
   {
+   "title": "Tag: FAA ground stop disney world travel",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95MFVUOWdsckdBVGFBRnVVcm9ZZzlXanVmT1VQQ2YxR1lEaXNfeXZud2piU2MwNUJIeWN4Q3ZrazhXTnlqV2pITXpyMEY3OUVfWEljTkxhbmdVLW5xUVN4cGUxd3h4MVIyc0lDa1YzamprNE9PMENkRVprVQ?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T15:20:20+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "3 Big Changes Are About to Hit Disney World Hotels in December",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3ludmU0cldRdGZlbF9ZV2VxNDNQZzRtWnFLdG5nMGR3a0dOb09iOGR2dDZ0aDBiZUEzdzZ2dlJGZ0VINVZWRzVaWXRfQTd5a1gyYTZ3Z1h3b1FReXdCZE5yTklYaVZSSlpKaWlRZFdTQktfYXJzclpWcFM2ZGxtTkZKSzdXX0tIczF2bnpwaFlpRXpwa2xlQ1VCN3I5UDdFS01wR09aNjY?oc=5",
+   "source": "Disney Food Blog",
+   "domain": "disneyfoodblog.com",
+   "provider": "Google",
+   "published": "2026-11-14T15:14:47+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "FAA Ground Stop Affected Thousands of Disney World Vacations. Here's What To Do If Yours Is One Of Them.",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ1NDd1pscnBPeGlCeUtRU3hHTTVSdV9hbllZMGI0UE5zU0NYZjRNbTU4RU1uMS1TU013TnBmM0FXLXEtVEVjaksxb1BpcnJNWW14eG8yaDR3Z3FnRTZ5eTJmTU5mZUVsSGdCS190cFFDa252Szg4d1NlSGNVel9XMTdtal9zYkI0QkF1Z3pRZ3RyeGF4ek5pYzd0WEhqMkFlNFJzdU8tZGYzZGJlRXVZU0N0aEZ4eHgyTE5sUzUybzh6OWx4TUN6NkFQc0xuQQ?oc=5",
+   "source": "AllEars.Net",
+   "domain": "allears.net",
+   "provider": "Google",
+   "published": "2026-11-14T15:13:29+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Hollywood Studios Deemed Disney World’s Least Family-Friendly Park",
+   "link": "https://insidethemagic.net/2026/11/hollywood-studios-deemed-disney-worlds-least-family-friendly-park-sb1/",
+   "source": "insidethemagic.net",
+   "domain": "insidethemagic.net",
+   "provider": "Bing",
+   "published": "2026-11-14T15:00:00+00:00",
+   "snippet": "Hollywood Studios certainly has experiences younger children can enjoy, but it arguably remains Disney World’s least family-friendly park, especially for families with toddlers. Despite these ..."
+  },
+  {
    "title": "God-Like Photos Await with New \"Percy Jackson\" Backdrop at Disney California Adventure",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14bnM2RnRqWm1HS25ad0lIcndwa2FUMkVtMzMtYUQ5Z0p2eVpIcWFrWkFPWEN0YUxnX2tidzdDZHdOVFZ5a0NlMUVmSzA5OXkwSHJGaTl1eVFfSk5MUWtHaFFyaGF4MEl3UXlXR0d2YjNUczJLR0VPMTRlRQ?oc=5",
    "source": "LaughingPlace.com",
@@ -136,21 +298,21 @@
    "snippet": ""
   },
   {
-   "title": "Watch #3 Alabama vs. Vanderbilt | Disney+",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3pDWmN4Ql9iSEk4Mk9IY3JZczBwWkpES2xpdVQ2a3NkTEY2MGRVSkdkS2NMdDU4WTVZYmU4ZlZHY1hOUEJQMzI0M0ZIZUJOSmt6Vi00SGt0RDRxWk1JVmJNVkk0YWJ5M2R3VUdEeGtsUkRjTHJYMXZMUnBmN1dZU3RXVnQ2UzYwaHVZ?oc=5",
-   "source": "Disney Plus",
-   "domain": "disneyplus.com",
-   "provider": "Google",
-   "published": "2026-11-14T13:41:33+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Learn how Disney characters come to life at a new exhibition in Fort Worth",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRzJnNVU2Z0hjR3oxS2VMNzdMbmUtQ0doNjRSa0JhbGlFWU1XM3l0RFp4cnc4eUE0RW01NXFuR0wtNm1DMHFzY3RCRmZlbE1nQU4wNHNDeUVjX1BkNHBCOTZUMGxTLTFOR09ib3hSUUZTeXFqWHlMT2Q2VGdiRFVuWFFEZzFWZ0g3c05CTkJYaDIwc2szZWRyM0pxemJCSUhjaVNNOEZGUE9hSERhLXlIOVM4aFhZVDBrTjZZ?oc=5",
    "source": "Dallas News",
    "domain": "dallasnews.com",
    "provider": "Google",
    "published": "2026-11-14T13:31:25+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Disney Guests Getting Into Fights Over This Behavior at the Parks as New Incident Raises Questions",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmJ1RndaYk9Nc2htaGk5NzVjR09BSUd4S3hlNVVOM3RPWU4zMFIyaUVzTkhVTWljczFOSGpoQWNNNnYxXzV5S1VWUjktWVZLN1NQNmlvbGVYRlN6MkUwQmg1OHNnMzBRdFotekFYVm82cjQybmg4dHBnTU5PMTJMQzVWTUFuUGM?oc=5",
+   "source": "Mickey Visit",
+   "domain": "mickeyvisit.com",
+   "provider": "Google",
+   "published": "2026-11-14T13:30:28+00:00",
    "snippet": ""
   },
   {
@@ -172,22 +334,13 @@
    "snippet": ""
   },
   {
-   "title": "Disney Rolling Out New Experiences and Way to Collect Guest Feedback",
-   "link": "https://travel.yahoo.com/news/articles/disney-rolling-experiences-way-collect-174022160.html",
-   "source": "travel.yahoo.com",
-   "domain": "travel.yahoo.com",
+   "title": "PHOTOS, VIDEO: Tree of Life Awakenings Holiday Returns to Disney’s Animal Kingdom for 2026 Holiday Season",
+   "link": "https://wdwnt.com/2026/11/photos-video-tree-of-life-awakenings-holiday-returns-to-disneys-animal-kingdom-for-2026-holiday-season/",
+   "source": "wdwnt.com",
+   "domain": "wdwnt.com",
    "provider": "Bing",
-   "published": "2026-11-14T09:40:00+00:00",
-   "snippet": "Disney is actively evolving how they listen to fans and roll out new additions in the parks. We've recently shared how Disney is putting fans and guests at the center of everything that they do. Now, ..."
-  },
-  {
-   "title": "Disney World Rakes in the Cash as Guests Sell Out $400+ Pass on Multiple Days",
-   "link": "https://insidethemagic.net/2026/11/disney-world-cash-guests-sell-out-400-pass-multiple-days-th1/?preview_id=854538",
-   "source": "insidethemagic.net",
-   "domain": "insidethemagic.net",
-   "provider": "Bing",
-   "published": "2026-11-14T09:39:00+00:00",
-   "snippet": "Guests visiting the Walt Disney World Resort this November are not afraid to drop the cash on the pricey Lightning Lane passes."
+   "published": "2026-11-14T11:29:00+00:00",
+   "snippet": "The Tree of Life Awakenings holiday shows have returned to Disney’s Animal Kingdom as part of the 2026 holiday season at Walt Disney World."
   },
   {
    "title": "Where to Meet Santa at Disney World This Holiday Season",
@@ -199,33 +352,6 @@
    "snippet": ""
   },
   {
-   "title": "Disney Wants to Reduce Required Phone Use in Theme Parks With New Offering Coming Soon",
-   "link": "https://travel.yahoo.com/news/articles/disney-wants-reduce-required-phone-170045340.html",
-   "source": "travel.yahoo.com",
-   "domain": "travel.yahoo.com",
-   "provider": "Bing",
-   "published": "2026-11-14T09:00:00+00:00",
-   "snippet": "Disney is rolling out new technology in an effort to reduce guest phone use during their theme park day in a test with park guests. One year ago, Disney leadership began acknowledging what many of us ..."
-  },
-  {
-   "title": "Merry Menagerie at Disney’s Animal Kingdom 2026",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcF9Jc2JzT2UtOE1iSU5XclM1VlFIZXlhY3JLUDNuRk5pUWx4ZGdrUW5SSWhQUmlwLWRZYWtnV0pTWDBUbmdFWFh4R0VXcnRKXzVaWW9kQk9GZXJoLUl2THRuMDNQbVZYeWhrbTZkek82Zkg4c2xPWEFpX3dLTzVUZFlhSjBQeVM1MEVNYk5uQUVjby1ENkRvd2FnbkE3c21uVVZHb012T2s1X2pjOUZKdUkyZ3hJYlpWMldDYnVVWS1IeW02SzRJSTIxNF9OR3lYOXc?oc=5",
-   "source": "WDWMagic",
-   "domain": "wdwmagic.com",
-   "provider": "Google",
-   "published": "2026-11-14T08:35:08+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "The Disney theory: One timeline for Disney animated films",
-   "link": "https://www.msn.com/en-us/entertainment/movies/the-disney-theory-one-timeline-for-disney-animated-films/vi-AA2hqWYP",
-   "source": "msn.com",
-   "domain": "msn.com",
-   "provider": "Bing",
-   "published": "2026-11-14T08:34:50+00:00",
-   "snippet": "The Film Theorists proposes the \"Disney Theory,\" an attempt to fit all Walt Disney Animation Studios films into a single cohesive timeline modeled on the Pixar Theory. The video explains the rules ..."
-  },
-  {
    "title": "Holiday season officially kicks off at Disneyland, with seasonal parades, specialty food and more",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2ZMNzVUdHlNNk1nSmhRVC1ydHRqaUNxc2U2eXlaOVkwWVJXVHhNQ0hzLWVJMFBBbmFlM3RuUjd1N19ZXzdTNDR4MGNOZFdEalFoMjY4UVZ5X2R2eXdoZ3VnR2lwVkRpd2cxczNEVkl2Wnk2N1JWR1kxTTJPZTBYV2FlNURDVkVsUEs2NmctUUdZeFRQVkN1V2o4RzZKcE1YNmJIeWxxNEdLbkpOQW9oLWVNLUpLYl9aNmJNdHo5Q3Y?oc=5",
    "source": "ABC7 Los Angeles",
@@ -235,13 +361,13 @@
    "snippet": ""
   },
   {
-   "title": "Thousands of Disney World Vacations Canceled as Nationwide Travel Crisis Continues",
-   "link": "https://insidethemagic.net/2026/11/faa-ground-stop-disney-world-flight-cancellations-november-2026-emd1/?preview_id=854518",
+   "title": "Visiting Walt Disney World With an Invisible Illness Just Got Harder",
+   "link": "https://insidethemagic.net/2026/11/visiting-walt-disney-world-with-an-invisible-illness-just-got-harder-el1/",
    "source": "insidethemagic.net",
    "domain": "insidethemagic.net",
    "provider": "Bing",
-   "published": "2026-11-14T07:42:00+00:00",
-   "snippet": "FAA shutdown fallout has canceled thousands of flights, disrupting Disney World travel. Here's what Orlando-bound families need to know about delays and refunds."
+   "published": "2026-11-14T07:37:00+00:00",
+   "snippet": "Visiting Disney World with an invisible illness and no DAS? Here’s how to plan breaks, pace your park days for a magical trip."
   },
   {
    "title": "Disney layoffs: 100-200 jobs cut at Imagineering; will India employees be affected?",
@@ -251,15 +377,6 @@
    "provider": "Google",
    "published": "2026-11-14T07:11:07+00:00",
    "snippet": ""
-  },
-  {
-   "title": "Disney Parks Mini Kingdom Playsets Spotted at Walt Disney World",
-   "link": "https://wdwnt.com/2026/11/disney-parks-mini-kingdom-playsets-spotted-at-walt-disney-world/",
-   "source": "wdwnt.com",
-   "domain": "wdwnt.com",
-   "provider": "Bing",
-   "published": "2026-11-14T06:35:00+00:00",
-   "snippet": "The Adventureland Mini Kingdom playset includes a Jungle Cruise boat carry case, three mini figures, a camel inspired by the one outside The Magic Carpets of Aladdin, and a key to “unlock” the kingdom ..."
   },
   {
    "title": "Disney, Adobe to co-develop custom AI models tailored for media giant",
@@ -287,126 +404,18 @@
    "provider": "Google",
    "published": "2026-11-14T00:03:00+00:00",
    "snippet": ""
-  },
-  {
-   "title": "The 2026 holiday season kicks off at Disney",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQbHJ0eEZJbE9fV0NwMHR5SHotNGE0YjRyYzJqb2pfS0VOWmJUdTUwdWdsc0VieHh3VUIybE5Fei1TdjNIOGViUENxTHk2eGd4QVBrZlIwSE1WQnktRHRkQWFn?oc=5",
-   "source": "Theme Park Insider",
-   "domain": "themeparkinsider.com",
-   "provider": "Google",
-   "published": "2026-11-13T23:35:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney World Introduces New Rule to Reduce Lines for Popular Experiences During Parties",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1pBYUIzTzdCTjhtajkzT1RMSnFwWmc2eWs3UGNxSHNjZlRwV3QxaEpWR2l0Nl92eWowTzNqR0N4WW54Xy1tanFxZDFmbDVQV3JJLTZUOE5YNnNLZlRQRXVmV3dqc3NRWUN5bjBoTUNfSHJTX0VsYUlIRTdVQ1RZa09jdVRJSzEySHl6bEExNzNyZ00?oc=5",
-   "source": "Yahoo",
-   "domain": "travel.yahoo.com",
-   "provider": "Google",
-   "published": "2026-11-13T22:41:39+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney’s Adobe alliance meets a cash-flow test at next week’s earnings",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT0w1STd5SkphOHJvZENGcURtM1FiR3ViMHRUY3RBRFZtQ05VX1Z3T2poVXhRd05KaHlZaTlCM0NDR01PYXBwRV9sdTdXckE0RldIMWlQcE9pa2p4Q1VNM2RrcEg5MkpxaUxQMU9FSm9DX191UERxNkp1VDBTY3JBZXNtRjRqT3RmaFNwc1hYNVFHOUlWdjBOZ2JyRU81QlhNZ0N1ejM3X3g2eVREODRwSy1aMWtWeWRZTWhWNll5X1BqWXJESU1mOXZRZUJkdFU2V3hGd09mbHQ3cGlraHc?oc=5",
-   "source": "finchannel",
-   "domain": "finchannel.com",
-   "provider": "Google",
-   "published": "2026-11-13T22:29:36+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "This November at Walt Disney Concert Hall Offers a Delightful Mix of Fall Programming",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRG55UWZoM2MxaWRxMTh4NGs2eEdIU042M2ZtOUc2WkhRSDk3LTUtNEVsdWlyQVdGV2owNm9maXl0ekJnYU50OFFtMU5iNGc5SjdsbGtHQnhsQklKX0dwbU91TFJxYmVvLVcycmNRS1h0UlhuaFRFaEF5MkJzdWNCVG5WR245WVZwM1lSM2d5UVJmMzR3TTVMZ1pxT1JGSVQ5aFloWDUzTEJQUkpVeVhCUg?oc=5",
-   "source": "WE LIKE L.A.",
-   "domain": "welikela.com",
-   "provider": "Google",
-   "published": "2026-11-13T22:11:18+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney Springs AMC Location Gets In On the Fun of \"Hexed\" with New Banners and Decor",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BYnJtZUU2aFh1dWtFT2RvZEFuVlJUR1hTYUt3d294X1NaeWhwcHNjTUhsNU90QUNpYl9rR1cyUFMtQXVUZlJtbGZ3c29jejNHelF2MkpBQVl4STk3YTVLeGRWS3ZXa3JxcWZ6WHg3cXR4TV9xNF84?oc=5",
-   "source": "LaughingPlace.com",
-   "domain": "laughingplace.com",
-   "provider": "Google",
-   "published": "2026-11-13T21:53:22+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney Fans Change Pixie Dusting Approach as Others Say It Has Gone Too Far in the Parks",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iRmVKYVdzU0ZRTlFsYmNReTlza2FPOGk3dFpuTGhMdlJacUJON08zU2dtWlQ4V2JPQlFwYkNFS1BNOFRrQzliMHhsdFVrQXB4QzhnNVdkc1lRQjcwcFR4UHVfTFZxUjh5eXpMX1NpMDBEcXg1NFMwcjZHTDJFbDg?oc=5",
-   "source": "Mickey Visit",
-   "domain": "mickeyvisit.com",
-   "provider": "Google",
-   "published": "2026-11-13T21:48:02+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "FAMU's School of Journalism & Graphic Communication Celebrates Landmark Year of Disney Storytellers Fund",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVJ5OGpWakpPVzFCdnZoNUN6WXVqSGtHaTNYcGlnVzVlZDJ5dk9Zb3pwU2Y1TUpKNGJYX0lJdUJFU1ZsNlNhTTZ2c2RjOTFCbFdGUTJYXzNaanRqWF9CcmZaSXZwdTZ0bjczbVBfX1ZZb0JtNFprYTk1alo3Q0ZTS0JCR1VkWU5jT1BPNUpIR1hHNE5YQUI1LVJEbVVxa1Y0NkNmM2JKSzR0cVNiNnBYaDdBTThJNHdEVXRaaVpMVG9ObE93MXh5WWZReDM?oc=5",
-   "source": "Florida A&M University - FAMU",
-   "domain": "news.famu.edu",
-   "provider": "Google",
-   "published": "2026-11-13T20:28:28+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Week Ahead: Nvidia, Walt Disney, and Walmart",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVkVFWjBMM0pZU2RKc3FRQlQzTHpLUE9nVUk4cWpVck1IYS0zemxSVVFCbHR3dklOUHotVXZsV2ttYTdOTzlLdWZYWWtxeDNGdF9mZ3duTzdROFdGZkZkTXRfa3VKUUhHR3RKRldvaGozbUdEZGdvbnZKRUZnV2tZX1NPRnh2LVZQSnJ2cHZqUmZXY3dTNlVkelJHdjZrdw?oc=5",
-   "source": "Bloomberg.com",
-   "domain": "bloomberg.com",
-   "provider": "Google",
-   "published": "2026-11-13T20:11:05+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney Just Dropped 13 NEW Pairs of Ears (And You’re Gonna LOVE Them)",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUhPblVCR1dxME1vZkgtTVhmc1ItOWdwMUpzQllrdVpvZE5FUGRrdnRnX2pQOVhyaHBzeEFpZFBoM2RPX3dfekJpbjRnU3JSWlRlRFo5djdHVVZZQW5rQnMtN2x0ZWU1T2JWWmVkanhaOC0wUTFkTGVEeThzU21odThXWmJ6Q3FCZXJaMjBYb0JOcWhRTHFsVTk1MlJFZnU0Rjk0bzlGa0hFLTJidGc?oc=5",
-   "source": "Disney Food Blog",
-   "domain": "disneyfoodblog.com",
-   "provider": "Google",
-   "published": "2026-11-13T20:04:48+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney Has 8 New Theme Park Lands Currently Under Construction. Here's the Progress On Every One",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMdWtJQWh3bjJkYTBxMG1GbjFHalJhUllXQk5zd0stSldMdDREekE3OGV3bTBlYjJDUG1uUTdDZTZhbC1tQmdDYWxrQjZfYWd4dUVNTWtVM3B5LWhPcGp2R3BDOEpGQkJXLXB1R2pndnpLOG1YeTI2Yg?oc=5",
-   "source": "Mickey Visit",
-   "domain": "mickeyvisit.com",
-   "provider": "Google",
-   "published": "2026-11-13T19:50:43+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disney is Releasing All These Super Cute Popcorn Buckets Right Now",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUE4dTVnbkdCWWdYWXVYSGk5WFdrbXN1bFNrcXQtdDhxei02NVFfSE82eDMxVW9ObXE1dm1ZcGtadkMybEN2bWg1M1BISWtvMHkzbG9NMklWN21IT0htZkI1Q09FcEdmMWRDZHEwVXRFa2xlekNJbEp3VVkzWmNLWnMxczctMFE4TklFWnMxN2cwZGVTYkJ3Z1I1YmhRWHJwT0Q0TG0wUzlkeEJwXzg0cDRNQQ?oc=5",
-   "source": "Yahoo",
-   "domain": "travel.yahoo.com",
-   "provider": "Google",
-   "published": "2026-11-13T19:45:04+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Walt Disney vs. Netflix: Which Is the Better Entertainment Stock to Buy Going Into 2027?",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZV9QS0hFN3paaEhjZkl3d1dIMmRBNWNfN3FOVmh1OEVYWHRfaXg1RlR4bFdWQmNNcFlTRkIyZVVsenpIYTk4c2puSzRzOFA5TlRFN28yZVJZSkNpcS1KRXRwV0tkTm8xR2NaSk85aEMwOEY0el9pUTN1VmRLSkVLdjlkVEhsd3BFY1B5UVJzM3RGbmVEbk0zQXBBbXJnYXFSTUNySjVRaURsMExTY1hKQXZzcThVeFRSVHA3aWx5Qi1FUUN6Q1JnUzR6UU5lMGY3X2NPaw?oc=5",
-   "source": "The Motley Fool",
-   "domain": "fool.com",
-   "provider": "Google",
-   "published": "2026-11-13T19:34:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "REVIEW: Gordon Ramsay Would Be Appalled by This Disney Festival of Holidays Snack",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnJKYUc1d3ZSTTl0TllGa2R1cG1iRmJNV2NtX3lDTWtRbUEwNzZFbFNIVERPR050SG1zNndjRW5hbmQ4ckFfSHlOYUZWR0QwZUcwUW52Vk5vYTAxSzg1ZUFwNFpBNWF6QXJrLXZiV0lBNzBfRU5HdVR0akNOYUNwdHRDZFlna2dLcUYxaXZ2clcwRFVXRDBDX3lqeVBaaENYSWVuZGVXSk9Mem40cVRSaVcxaE4tT3NwUDBkczdOZzk?oc=5",
-   "source": "Disney Food Blog",
-   "domain": "disneyfoodblog.com",
-   "provider": "Google",
-   "published": "2026-11-13T19:32:39+00:00",
-   "snippet": ""
   }
  ],
  "WBD / Skydance": [
+  {
+   "title": "Skydance Is Betting On AI To Help Dig Itself Out Of $87 Billion In Debt",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FxZjBBUW9GM0l6Y2duX0xkSUhQN0VRS1RwbmtIZ1hYSGQwN3pBZkR5OUlzenpFUFJJWG04OGNqNmVwa2RUOVdvblFlMERFUjZYWTFIMWlWa1Q2aFh5SEthVk5HMXR2XzVEa0VqY0t0ZHcyWGR3YVlmQjRUbWhLTjhHNVB3c0pveWNPbkhZZzhvcTA?oc=5",
+   "source": "Cartoon Brew",
+   "domain": "cartoonbrew.com",
+   "provider": "Google",
+   "published": "2026-11-14T21:53:13+00:00",
+   "snippet": ""
+  },
   {
    "title": "James Gunn Addresses Rumors Of Skydance Changes To Superman Sequel Man Of Tomorrow",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUNGYUhIci1EUTZjcVVyMlRBQkdIUVc3SklxOV85VXpBbnUtVWlmN0dJUnR3VmRoeEJJNmhJVktUeWFMYjlXT2lhVE9xZkhDWk9vXzdTX3dPZVBJX0xzSkVSM3BFc0dHOWFFcXcxNFBOMnNYUmphUWgybUR1ejF1SURJMWt5Wi1BLXMyTGtaYXVGOXg3bWdBQ2xR?oc=5",
@@ -417,16 +426,7 @@
    "snippet": ""
   },
   {
-   "title": "Skydance Is Betting On AI To Help Dig Itself Out Of $87 Billion In Debt",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FxZjBBUW9GM0l6Y2duX0xkSUhQN0VRS1RwbmtIZ1hYSGQwN3pBZkR5OUlzenpFUFJJWG04OGNqNmVwa2RUOVdvblFlMERFUjZYWTFIMWlWa1Q2aFh5SEthVk5HMXR2XzVEa0VqY0t0ZHcyWGR3YVlmQjRUbWhLTjhHNVB3c0pveWNPbkhZZzhvcTA?oc=5",
-   "source": "Cartoon Brew",
-   "domain": "cartoonbrew.com",
-   "provider": "Google",
-   "published": "2026-11-14T15:53:13+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit",
+   "title": "James Gunn: Skydance Has Not Seen 'Superman: Man of Tomorrow'",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjd6a3BlTlpLTm5NVnIzUzg0YW9rZGI3ZWRPZDlZQi1FV2dabjRRMWZJYV9OajBUZE1oWWNvczBTMFFvalNWQ1QxLU9NOTZmLTh5dWtyN1hQVlh3b0VhTmlpYzZxQXJJVzB5RTZ4TGVZdE1abnF6VVdBRkwtT19FQS1YMEJvc0dVcjlhcm1TWndld28wZVpDMTBOVTBvM0Z4?oc=5",
    "source": "Variety",
    "domain": "variety.com",
@@ -442,6 +442,15 @@
    "provider": "Google",
    "published": "2026-11-14T10:52:30+00:00",
    "snippet": ""
+  },
+  {
+   "title": "Pluto TV Is Adding A Ton of Warner Bros. Discovery TV Shows & Movies Following Skydance Merger",
+   "link": "https://cordcuttersnews.com/pluto-tv-is-adding-a-ton-of-warner-bros-discovery-tv-shows-movies-following-skydance-merger/",
+   "source": "cordcuttersnews.com",
+   "domain": "cordcuttersnews.com",
+   "provider": "Bing",
+   "published": "2026-11-14T06:18:00+00:00",
+   "snippet": "Pluto TV is receiving a substantial influx of Warner Bros. Discovery programming in the weeks after Paramount Skydance completed its acquisition of the company, shifting the free ad-supported service ..."
   },
   {
    "title": "Skydance looks to cut more than $6B as it integrates Warner Bros. operations",
@@ -588,6 +597,15 @@
    "snippet": ""
   },
   {
+   "title": "Skydance Has Barely Taken Control of Warner Bros., and the Red Flags Are Already Flying",
+   "link": "https://www.tvfanatic.com/skydance-control-of-warner-bros-red-flags-lanterns-peacemaker-canceled-james-gunn/",
+   "source": "tvfanatic.com",
+   "domain": "tvfanatic.com",
+   "provider": "Bing",
+   "published": "2026-11-12T09:00:00+00:00",
+   "snippet": "Skydance has made two huge moves in its first month in since the merger with Warner Bros. Discovery, and it sets a worrying precedent."
+  },
+  {
    "title": "What Warner Bros. Thought of AEW Before Skydance Merger Unveiled — Report",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEUzX0VFTjZoMW1LZnByZ1JCLVVMMjVmRUR3bWl2REUzemlLVF9JUzlnQ1hFTjU3RERQTFFVTlc3aWNWZjFYQlRtNlhTc0JvUjFUZWU2QXhZZzd0XzdZc0tEenU1MW5ua3lKVVQyY1N2MnBMRERiNFJseEhpN3RvcE9CNjRPcmVh?oc=5",
    "source": "Yahoo Sports",
@@ -660,15 +678,6 @@
    "snippet": ""
   },
   {
-   "title": "Mark Simone: CNN should prepare for major layoffs after Skydance earnings call",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFo0em9KY1R5UmJuM2dJTm5EeGxSbW92ZTdxWTJWOUZnTGZmRjhJaHZMSWZIVjFlcXVidnFzQXJvb3NNNERyakFxOHRuVHMzV2llUXNFZ1F3QnhEcFpWNFV2TnhwcUxXMjI1Zk1iTzB5QXZjekcyYUdmMDB3cnZBaF95ZG5CeWk2dk5Ealk0WnRBeFNTSFpuVWYwcHI3Nmxicmd5ZWIxZEQycmE2S0xPTm1tMVY3OWY3U3JJdmVycDdSdjJrOEE?oc=5",
-   "source": "Editor and Publisher",
-   "domain": "editorandpublisher.com",
-   "provider": "Google",
-   "published": "2026-11-11T14:30:00+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Skydance Overhauls Warner Bros. After Takeover: Paramount+ and HBO Max to Join Forces in 2027",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lNzhsSkVPbHhFblYteGcyM0RSNThxMTFlc0JzRXcwTjZ3M0F6R3diMFJ0WXVNMVRoeG5KV2l6V0M4UVEyWGtPR2pWdm5JZzRq?oc=5",
    "source": "玩具人 TOY PEOPLE",
@@ -706,11 +715,11 @@
   },
   {
    "title": "Skydance details cost-cutting plan",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVdLZThLcDVIMGN4UTdLUkhNQ3NkZDA4OUh1cThEWHlBak16LUV2VW1KNmR4SExoRFREejlQY3BBQUh6eENXLVZ5c2Y4c0VkWGZaTng5OUk0VW5LdDEyWlZXSjJ4NzJGbWJpR2VZTklWQkZxWGFQN3JteF8tVGUxcw?oc=5",
-   "source": "Newswav",
-   "domain": "newswav.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2w4UjJmcUZqbG9ySjY0aHVhVnpDaFQ0b3JSZEFMT0hiNTZfaUJoZkZ1aDh4Q3MxaHJBV2RsbEF1VU5vOUg2eUd6WU1CN3V5eGhfWEdDVF9GdUhxRmdTMUpsYmdMcGs3UnViZ2hWOEpBd1BfbFVQTWpoUmlHRlpiZlc2Tm14QktON0FZeFVkRjFadFhKanVBLTZkWHhodTRQN0NabHhKMzhBSG_SAbABQVVfeXFMT3JaaGREVlFPMnZaTUZpMFJfNkFVdDk1a2NyczR4UDNVUHpVUUY0V2RLcm5lbUVLVjBWTDNHOUZ3bkJDcmRJU185bG1rMnJOWlVkR2Zya2o5TktSdXNhNEQ1b0NjajhlaVJhcS1UcnMzZ2tlcm1zUTlsdGdyRG1DN0tPNHNCaE1xLUxaUUN4RGl0TEFXU1BzN0gzN3UtSmpMNDRDY3RWa1VvekptY0lMVE4?oc=5",
+   "source": "The Manila Times",
+   "domain": "manilatimes.net",
    "provider": "Google",
-   "published": "2026-11-10T20:47:11+00:00",
+   "published": "2026-11-10T20:47:07+00:00",
    "snippet": ""
   },
   {
@@ -778,11 +787,11 @@
   },
   {
    "title": "Skydance Plans to Cut $6 Billion in Costs After Swallowing Warner Bros.",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFREdzQwSE80U294S1hqMWlFMW9pMnJpNFJyQXdKWU5NOVdfd1RwQThuY1czUm9DMUJnTzJrZWtYbXR3RDFibmRlemppOXl4NFVYWFVPN0VsNlJTLTZlN05aN2FrQWVWMTRRRWhkOGlfQ3FJTm1LOXhTR1ZBcDJMSHRLeHB6c1d0c0NVSHpoUmQ2V090TDhNb3NWWUVFOUNZZ2xMcEJaejlTZ1RKejhCbTBCNA?oc=5",
-   "source": "24/7 Wall St.",
-   "domain": "247wallst.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV29zMHkxanc0VEZPWlhlaUg0SFI5eDlxdDNFQjVYc2FaODlpUTcxOE5ucWU3WjJaLVdDcmtnUTNKTnFoWmItTXZpeU1CaVJDUFNxZWZ5Q09zWFVSbVRlcVBJc1hSYzFvUGc2MUplTjhiclJaM1VXMjVsdnEwX2tSd1QxQUJYQW1CaXJabDJXT3ItRmNKcVdRdWlRMDQ?oc=5",
+   "source": "Yahoo Finance",
+   "domain": "finance.yahoo.com",
    "provider": "Google",
-   "published": "2026-11-10T16:07:00+00:00",
+   "published": "2026-11-10T16:07:33+00:00",
    "snippet": ""
   },
   {
@@ -802,18 +811,18 @@
    "provider": "Google",
    "published": "2026-11-10T15:47:05+00:00",
    "snippet": ""
-  },
-  {
-   "title": "Skydance's $6 Billion Cost Savings Plan: The Full Breakdown",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3F1SVd5dEk1dnNGOGhPY0NVaWhhSi15dmVma2ZaZ3dMNnB6UlRhSUdjUno1cTVSLTFHNWtZcDJMU20xbmhRTkRiNlZoYzNIS1MzSGtldlo5N19tTnBCLUx3ZUZCNUdpNFpGbWRSNlJjR1FqT3EtNFdtS2ZjZkUxZ24xZ09tVFFwUTJLaURKUmpXNFJOUWQzaF85ZjdaUQ?oc=5",
-   "source": "www.altbollywood.com",
-   "domain": "altbollywood.com",
-   "provider": "Google",
-   "published": "2026-11-10T15:38:01+00:00",
-   "snippet": ""
   }
  ],
  "Versant": [
+  {
+   "title": "Versant: 3 key takeaways for long-term investors",
+   "link": "https://www.msn.com/en-us/news/other/versant-3-key-takeaways-for-long-term-investors/ar-AA2hrHU8",
+   "source": "msn.com",
+   "domain": "msn.com",
+   "provider": "Bing",
+   "published": "2026-11-14T16:45:20+00:00",
+   "snippet": "Versant's $100 million accelerated buyback is funded by cash from pay TV, the same business facing industry-wide subscriber declines."
+  },
   {
    "title": "VERSANT AND JUNIOR ACHIEVEMENT USA ANNOUNCE TWO-YEAR NATIONAL PARTNERSHIP",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmVYd3VjUmUxek9rdndkbHF0Zjl0ZlF2S1dUV0lMdlAtZmhqSnJRUG9PX3ZOeHUtT1hHMEx4WUF3cGlON3I4ZHRuQVg0SU9TUS1DZ3AzaWdKaklPRmNQSzM3YTN1MGZjQWctSm1IY1NLdWMxeWlyanRqY0IzSW9FLVNDTk9vdGdGQ0VnMWhyeGxYTDNyeFRBUE1oNnZpOTB4em1KbzRLRHgxdjNWMUtHUHpCV1Z5bVU4WndV?oc=5",
@@ -968,15 +977,6 @@
    "snippet": ""
   },
   {
-   "title": "Versant Media Group, Inc. declares $0.375 dividend",
-   "link": "https://www.msn.com/en-us/money/top-stocks/versant-media-group-inc-declares-0-375-dividend/ar-AA2gFNBZ",
-   "source": "msn.com",
-   "domain": "msn.com",
-   "provider": "Bing",
-   "published": "2026-11-03T08:56:53+00:00",
-   "snippet": "Versant Media Group, Inc. (VSNT) declares $0.375/share quarterly dividend. Forward yield 4.54% Payable Jan. 25; for shareholders of record Jan. 4; ex-div Jan. 4. See VSNT Dividend Scorecard, Yield ..."
-  },
-  {
    "title": "Versant Media reports third-quarter earnings beat",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUZocjBJLVVoNklURHY3UmY5YjgxTXNzaVlJT1EyMmhkVm1jV3RYR0o3SHJKMTJXSmFOUnk4d0ZoWjBfVVc1eHpCemFLM19RZEVscUFOcGwwNWd1eHY2VUdkbDhpbGJtV0tiOEpkWEFLTHhXeUZvdzFUbHJFb2w4SGpZcGtQSDBQN1BtUlhDT0tTa3BLQV9R?oc=5",
    "source": "CNBC",
@@ -1022,6 +1022,15 @@
    "snippet": ""
   },
   {
+   "title": "Versant Media Group, Inc. Stock 12‑Month Price Target Cut to $43.5, Implies 35% Upside",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHpLc0VxbVRSNWVuUHFPZldoWURWNktBNk84QzNac211eUZBcjI5UlR5N2VQcGV6Z3hDc2NnUEpWUjdxWDEzWlNOU1gyNURKY19sb0IzcjlTM0tYYlVTSEJYUm5KZDBFYTNKLUVpUnZldmNlaG1wazYtcEZoQ0hsa2QyVkp0YmpTbjJsQzIzb1ExVERBQ0o3S3JBdHY5eGNCYkh5TUlkSWpSX3lQRUN2M0VZMHNRWm54bllRWkZFcERhVXNyUHF6Wm9sdjlMa0hZUFRkZUlwdHB3NnM?oc=5",
+   "source": "TradingView",
+   "domain": "tradingview.com",
+   "provider": "Google",
+   "published": "2026-11-03T08:00:00+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Versant CEO eyes ‘opportunity’ to expand sports portfolio as other companies ‘rationalize’ approach",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3A0YnVDbG03cGhER1FCd1I3Vlo4UnF2Z3F6MGJ4TFFNeXZWeXNLX01HbE1HVENKS1lEX0NEclU4M2VOT1l0TTl0eWYzUmhvMHdsZXZHNnlEV3lvUmFmNmRlMnpPa0EwSkJnbGdYMkZFdTZ2Ym05aXZCWDQ3R3A4elNGZ3Y5UEFpVVJkNzVfYjhkdElxWWxMQnAyUUhfQjR2TVVuRUVn?oc=5",
    "source": "Yahoo Finance",
@@ -1031,8 +1040,8 @@
    "snippet": ""
   },
   {
-   "title": "Versant Media Group, Inc. Stock 12‑Month Price Target Cut to $43.5, Implies 35% Upside",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHpLc0VxbVRSNWVuUHFPZldoWURWNktBNk84QzNac211eUZBcjI5UlR5N2VQcGV6Z3hDc2NnUEpWUjdxWDEzWlNOU1gyNURKY19sb0IzcjlTM0tYYlVTSEJYUm5KZDBFYTNKLUVpUnZldmNlaG1wazYtcEZoQ0hsa2QyVkp0YmpTbjJsQzIzb1ExVERBQ0o3S3JBdHY5eGNCYkh5TUlkSWpSX3lQRUN2M0VZMHNRWm54bllRWkZFcERhVXNyUHF6Wm9sdjlMa0hZUFRkZUlwdHB3NnM?oc=5",
+   "title": "Versant Media Group, Inc. declares $0.375 dividend",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON01zbE0zTW9ONndtVlZQQjF6X1lEMnZPRlQyU3ZadDVySUc5dEFCaVcySnl4aE1NQUtwRXRuS1hMN1Y0Nnpuc0VhUHc2a3B6Nk92ZjFlamRvRUt3bzhGU3pHZlVqWmR5YWJzSlhTMndUM01GYi1yem81dG1DbUFtaEo3ZXIwbjhscmd1WU1tVUxSbk1OdC0xQThFN2lRaW9EWU9MekFBaklSRHRSSlVv?oc=5",
    "source": "TradingView",
    "domain": "tradingview.com",
    "provider": "Google",
@@ -1204,15 +1213,6 @@
  ],
  "Cox": [
   {
-   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-   "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-   "source": "theguardian.com",
-   "domain": "theguardian.com",
-   "provider": "Bing",
-   "published": "2026-11-14T07:01:00+00:00",
-   "snippet": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas ..."
-  },
-  {
    "title": "Spanish prosecutor backs US request to extradite Cox Enterprises heir",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54Tk05U3EtblU0c3pEa3J5NmxyLUlHd0tYckFfVmt4SVZGOE5uZi1uX3pySEJyb2x5X1lPTWpxOEc4N3ZIMWEtdFdmMVlCZ0NpN3VSTHBBRTVya3l4SlVzbGY0RjFjUnkzQVE?oc=5",
    "source": "Mezha.net",
@@ -1325,6 +1325,15 @@
    "snippet": ""
   },
   {
+   "title": "Realty Income (O) vs. VICI (VICI): Higher Yield, but Caesars (CZR) Is the Catch",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdE0wWEJGUzcwWC1PMjZwbS1lUGdaaGthUF9iYzZaWEE0TGdpM1BxMmxrSm9WYXdYSUdWT1FNRmRJcURjMDZsbm11Ml96Vnl6TkNhS0h1TW05c1g5YklMajE1cmU0YTMzQjZGU0doMHVCcGc4dEJqMWNvbVRZcjJObl9sbEZLck9kSk14eEpwNFJXMUdRdWNGdmFtZTJ4dw?oc=5",
+   "source": "TIKR.com",
+   "domain": "tikr.com",
+   "provider": "Google",
+   "published": "2026-11-13T12:26:58+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Jensen Huang and the Lives of the Tech Caesars",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY2s5SmpQaUgzM1JhZmNob3BJQ2sxUHZlVVE4UzdfMzBPUkpaOGhHR0NXek1Rd3pvUG4yWXRnWmhjNlh4bkNKZVpEYkRJUm1YQzI2NmRWN2FDTWI5d3BBdjVIRi1YYVdOcnNkTlo4SFhPd05MRXo2bjBmUGt2ekVPUlNIQUR0eXZPU3dwYS13?oc=5",
    "source": "New York Magazine",
@@ -1352,15 +1361,6 @@
    "snippet": ""
   },
   {
-   "title": "Caesars Entertainment, Inc. (CZR) Stock Price, News, Quote & History",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxZFlYc1lkekkzdmpzaFZVN0VJSFJnSjNlRzVza0hoRURCVmo4U0d2anJSN1REQU1pM0E2bDNDTzk5MFctQzI3TmNqQ2JOSTBX?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "domain": "ca.finance.yahoo.com",
-   "provider": "Google",
-   "published": "2026-11-11T22:25:36+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Caesars Palace Casino promo code NJCOMLAUNCH: $10 sign-up bonus, $1,000 deposit match, 2,500 Reward Credits",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DXzRMYzkySTRLRmVCcm94Y09wVWRoVW9OdmJ5UFdkZkhNNVVlTnRudE1zWm5XRk1CRks3cXFVZ0NaRzV3bm80QjU3WDVWdnNQa2NnWHBsU1h2ZFBPYkZZaFBsSklSa0J5?oc=5",
    "source": "NJ.com",
@@ -1377,15 +1377,6 @@
    "provider": "Bing",
    "published": "2026-11-10T06:00:00+00:00",
    "snippet": "Explore the rumors and speculations about Caesars Entertainment potentially selling key properties like Planet Hollywood and Flamingo following Tilman Fertitta's acquisition. Understand the context, ..."
-  },
-  {
-   "title": "The Nobu Villa: Master Bathroom - 2015-04-13 - Caesars Palace Las Vegas Villas",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vbThEc0lGeEpVQnNNQ3N6R0I1MFUzdWdGN01xMzhPUjhxeGJGWV9lSnVQaU1MQ3B0S1FWY21ERlRjMHYxaFNic183aWktanBmRDhqeW5iVmo2LWFrcE0ybWRGYnFYQ0xBRmtDSENLdnBXa0xuX0Rz?oc=5",
-   "source": "Forbes",
-   "domain": "forbes.com",
-   "provider": "Google",
-   "published": "2026-11-09T19:01:26+00:00",
-   "snippet": ""
   },
   {
    "title": "AI Won’t Replace Face-to-Face Meetings: Caesars’ Michael Massari",
@@ -1424,15 +1415,6 @@
    "snippet": ""
   },
   {
-   "title": "Country favorite extends Caesars Palace residency",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDUwTHlOT1pnWERUdWlhcFNETS1yUkZtUDR6RklVdEczdHNxSmpYMG9WMGdzOURSWkh0TWFtT2NWV181S2Jib3p4bzRfdHdoV2xScGFuTTBpaXZFVzVpbDJfRjdaNkZ5MVU4TnVPbTBzc0FjaUNVMjJDZzRJZU9pTlZ4dk5mdzNRMVE5U29VQkU?oc=5",
-   "source": "Las Vegas Review-Journal",
-   "domain": "reviewjournal.com",
-   "provider": "Google",
-   "published": "2026-11-07T19:17:32+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Tim McGraw Announces Five New 2027 Dates at The Colosseum at Caesars Palace Following Sold-Out 2026 Engagement",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWHpmSVZadWpSRHpDcGVLNkVMNHFBMnFCWk9ENmFta0sxMElKNjdaUzZwQ0RwdXBVSU81dDZ6LUZzZE82eXNHLTZ1NlJLQWVVTDlqYXhZcU9iVnkxaHRSdk5sN3RyN1pDcUo2T3RQQ1pMdTRaYjVrQjhHdUl1WHhMaUFNSldBU2lRMlhaYm42ZENHdDJfWkN5UzFTTUg1X2w1UkNVaGlTS2JHYnpSUVVVVm9uN1UtaDhOTm91VWRZMllHVmVUMkpSanNMLXluNjhaOUl1VGh1OFNPT0h1QWVCRG1LWlR2SGV6SnB4akVuUDdvSVpoLUktU3FZMA?oc=5",
    "source": "Business Wire",
@@ -1442,12 +1424,12 @@
    "snippet": ""
   },
   {
-   "title": "Caesars Entertainment (NASDAQ:CZR) Stock Rating Lowered by Zacks Research",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHZfLTRianduaTl4anVYaml6cjJvS19ha29GeGJQaENFNndVT1pyVWFjRVFybDRIVEhlVUZqcS1oTUpJTEdpdnlxSkpwMlR1T0pLblB6Y1FybnBjdGFvb09aVFl3VU9CWHNITDNhb0pwbDhTNl92bjBnUk5zWTZuZEVXZ2tXS3VWYUowWWFvLVo4ME5fUTcwdGlKbEFXYjhSLWZRTUxFc1lZZk1oMF9TcVJMZDZscndBbHl0VHhXcDFJUVZuRFhLQ3MyWUtZUQ?oc=5",
-   "source": "MarketBeat",
-   "domain": "marketbeat.com",
+   "title": "Tim McGraw announces 5 new Las Vegas performances at Caesars Palace",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmc2dlA1RnhhNFB1YmZONS1MVEJ5bTJKd283dXdmT0VWbWcwbmFVZ2lOLUdOZWdRTHpZcV9UYXk3WnV6ZnpObl82S0VBbEFnWk9oWVpFUklPLVc4aDhTeGJqekJSMHB2c3I5M2VzN1VIbEFQLWc2aFJmalVReG5taTZ0Ujl0aFVtNXJEX0xKM1lDWmlQWUFQemJuSUtKSklmRU5Za9IBuAFBVV95cUxOWVZINEo1eDBoRjY1SmtZME8xNnlSUWs3MWZtekdQa3hRekxJbnBRU2JpYXNjSy1MNnVJNzV5RWhKdzV3Unotb0xaS1NYenI1UDY0TndYN0o2bFc5N3M3ZWhWRVhUZDNMQjNzZ2hXcmdSbndObDZzRjA1RTJHa1NaN3dSVWMtQ25UeEpxSjNFMjBuVDE4bE9sN2pPbWJ6S0pzQ3FRaC1MVkgtTkVvYXlrQUd3RWtYaThE?oc=5",
+   "source": "FOX5 Vegas",
+   "domain": "fox5vegas.com",
    "provider": "Google",
-   "published": "2026-11-04T13:42:31+00:00",
+   "published": "2026-11-05T08:00:00+00:00",
    "snippet": ""
   },
   {
@@ -1456,7 +1438,7 @@
    "source": "AL.com",
    "domain": "al.com",
    "provider": "Google",
-   "published": "2026-11-03T19:08:00+00:00",
+   "published": "2026-11-03T08:00:00+00:00",
    "snippet": ""
   },
   {
@@ -1514,6 +1496,15 @@
    "snippet": ""
   },
   {
+   "title": "VICI Q3 Earnings Call Highlights: Buybacks and Caesars Lease Risks",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEVzQXFPaDg1eFZhZkxlMjVGeU1XNnFWNGE5OGhwbFhpb2NMbnJnaEJRdmtKOEJwV25tUmZYa1hMZWJNVlh3aW8yNEZfUm5sNHdEVE5GVUNJR1F4ZHNEekpEMzdxUndHQi1LMHprb0VpUzctX3Y0VnV4U3R2dGZHRi1iTmxucFpyNHVUbFZkNDhEZGp3TW9pUUE5a2xQU0QzRjJ6YmVWMUh5WW1pZXAxNTJtWExENklmOVptM3B3?oc=5",
+   "source": "TradingView",
+   "domain": "tradingview.com",
+   "provider": "Google",
+   "published": "2026-10-30T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Vici Properties’ Q3 Earnings Hampered by Market Headwinds, Caesars Lease Unknowns",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDVVdxS1lranlhY29udWN6NVFhNWtabjJxanF1YmsxTmEtcEJYMnJSbEhzT0RzQlpMa1NBM29CbWtRaHozU0RwVGQ1VW8zeGx0YUdIMERsVDdJQ3FlR2V1WnlTeG5FNW5CTGZlRHluaXJnZVBuamxXcXBjeDY?oc=5",
    "source": "Commercial Observer",
@@ -1568,19 +1559,19 @@
    "snippet": ""
   },
   {
-   "title": "Caesars Q3 2026: $123M Net Loss, Las Vegas Down, Regional Up",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEI3Y0NCR1FLVExsaGJxekNwQnVnQ0RVbTVFTHI3MHhXRmx4Q2M3Y2JMdUZvT0F4c05YNkF4NTFFQkZESTdrNFIwOXFsUHNfZEJyaWxUYXB0VDF3cV9DWmZjSkJWSjI5eFB0bzBYdlFIRHNEbVIwYVNXQzQtMjU4Nmg3UllBVm1oVHQ2SlU5aGlDTEZiUGhXcUZaa2VjQQ?oc=5",
-   "source": "Gaming America",
-   "domain": "gamingamerica.com",
+   "title": "Caesars Entertainment boosted by 5% Digital revenue growth",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG1SeEpyV0Z3aG5ROURJSWRaVjhRWFRESVdiTU5QYXA4YXoxTFJQZHdqUkVORlpXNVBZOGRrenhOMU9uZjh1czJqdks1M3NmeGNUMVkyZ2FXUU1HTl9mcm11RGNEQWtsWXR5T0U1RVZNbzRVOGhjeG1iQXJfNlVXdno2Z2hpRmZwV2c?oc=5",
+   "source": "NEXT.io",
+   "domain": "next.io",
    "provider": "Google",
    "published": "2026-10-28T07:00:00+00:00",
    "snippet": ""
   },
   {
-   "title": "Caesars Entertainment boosted by 5% Digital revenue growth",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG1SeEpyV0Z3aG5ROURJSWRaVjhRWFRESVdiTU5QYXA4YXoxTFJQZHdqUkVORlpXNVBZOGRrenhOMU9uZjh1czJqdks1M3NmeGNUMVkyZ2FXUU1HTl9mcm11RGNEQWtsWXR5T0U1RVZNbzRVOGhjeG1iQXJfNlVXdno2Z2hpRmZwV2c?oc=5",
-   "source": "NEXT.io",
-   "domain": "next.io",
+   "title": "Caesars Q3 2026: $123M Net Loss, Las Vegas Down, Regional Up",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEI3Y0NCR1FLVExsaGJxekNwQnVnQ0RVbTVFTHI3MHhXRmx4Q2M3Y2JMdUZvT0F4c05YNkF4NTFFQkZESTdrNFIwOXFsUHNfZEJyaWxUYXB0VDF3cV9DWmZjSkJWSjI5eFB0bzBYdlFIRHNEbVIwYVNXQzQtMjU4Nmg3UllBVm1oVHQ2SlU5aGlDTEZiUGhXcUZaa2VjQQ?oc=5",
+   "source": "Gaming America",
+   "domain": "gamingamerica.com",
    "provider": "Google",
    "published": "2026-10-28T07:00:00+00:00",
    "snippet": ""
@@ -1631,6 +1622,15 @@
    "snippet": ""
   },
   {
+   "title": "Caesars Entertainment (CZR) Reports Q3 Loss, Lags Revenue Estimates",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcERBUGdYTC04OE0wR0laMi0tcHQ3bVlfa1RIazMyZ2Z3ZHJqUlAydWdSUnZmQVpyWHNLZDhTWVFsTU5RN2d3RXFEV3JPOVY3VUFWc0Vvd3NuVDFoSGs1eTFZM00zXzd6UUlhTkp5Rk1rQUR5cHdJY0VyMFhxcE91LUEtRE11Sk1OS0NCWUx0Nm9xU1R3NlF6MWRLUGVPRTFyUk5v?oc=5",
+   "source": "Yahoo Finance",
+   "domain": "finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-10-27T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Caesars Entertainment to offer free self-parking at properties through Christmas",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDVKR0hBV0JuNDVWbGRMaXJ2V2Fubm8taFNFUENvRGtqZEJfTVFHcW5OZ1hZUXFVNmlTN0QxWUY3dnMxRjBhV0ZuZG5YWXZ6MmRtWjJrUmFfU0d5Y1lWd2w4a21JSDdDY19VM2dHWjJLMHdwQ1lrOVltOURFcnhBUjB1aU9rLWMtN0RqYU9xTGF0Um5STUV0Zm4zUmM0MW5CUFI5OGxhT180YnpzMW1veE1R?oc=5",
    "source": "FOX5 Vegas",
@@ -1658,28 +1658,10 @@
    "snippet": ""
   },
   {
-   "title": "Caesars Entertainment (CZR) Reports Q3 Loss, Lags Revenue Estimates",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcERBUGdYTC04OE0wR0laMi0tcHQ3bVlfa1RIazMyZ2Z3ZHJqUlAydWdSUnZmQVpyWHNLZDhTWVFsTU5RN2d3RXFEV3JPOVY3VUFWc0Vvd3NuVDFoSGs1eTFZM00zXzd6UUlhTkp5Rk1rQUR5cHdJY0VyMFhxcE91LUEtRE11Sk1OS0NCWUx0Nm9xU1R3NlF6MWRLUGVPRTFyUk5v?oc=5",
-   "source": "Yahoo Finance",
-   "domain": "finance.yahoo.com",
-   "provider": "Google",
-   "published": "2026-10-27T07:00:00+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Free parking, discounts as Caesars Entertainment courts Las Vegas locals – KLAS",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHVJUFg5WDRrUmFpZms5UEVBWGRyM0lzV0x6ZV83S3BNd3owc3NNRUNjZmNRTnd6QUVSU00yelFveUxSdU5HM2ZyU0t2bjZxSlplZHRMUGI0MWNoeEUzVFhEaTNxOWlBYlZmUWFXaThNWnJtY05CRWw3ZkR4RTFuNjRVNmNkNWpJTDR1MWRSaXk4UjBVQ19WUEN2X294dUF0Q1BPdE4yTHVsOVFIZjlGLU9n?oc=5",
    "source": "KLAS 8 News Now",
    "domain": "8newsnow.com",
-   "provider": "Google",
-   "published": "2026-10-27T07:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Caesars Entertainment Inc reports results for the quarter ended September 30 - Earnings Summary",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM2IzTDFzeHF5NHBpcENJR1BZMEdpYmpBX2VfUFdtdkMwV1BYSHJKZTU0bEU3X1BFTGlIcFJzTHUycUU5d09WZzBwOGpsOFpZdkZDOUYxYmlQeFM3Umg3dV9RQXY3UU5mbHRHTUJIcUl0bHFtcFNhWWNpd1NvMTdvVUZIaVV2eXJNS2JuUV9JRjc5VUpkME5xWi16MEJYemR2bFpKR0dIenhaaS1uV2JEUGJpNHcxVmUzOHNXeTFKWFU0ay1td1M0aDlpUWppSTlUWFltZVVXeXZUX1IwMzBHOTVUX1otWTRfUEVxZXBEUHFMb0hLVlE?oc=5",
-   "source": "TradingView",
-   "domain": "tradingview.com",
    "provider": "Google",
    "published": "2026-10-27T07:00:00+00:00",
    "snippet": ""
@@ -1703,6 +1685,15 @@
    "snippet": ""
   },
   {
+   "title": "Caesars’ Las Vegas revenue, earnings fall amid weaker visitation",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUmU0QWpISno3amQxYXFsTkdUOEhTUF9tSGhDM2FnNWNVNTNGOXFTN0pnZVV3TFRqVjFvMG5KLXhYNXF1Y2VHSUkxZlRrQndBWVpXTkZsNWtDN0JCUnRlSzVfSTZuSWNSNndoc2J1aGs1VWp6SG9FZ0N4eEJRVTRKR19aWWxYMnUyeVJ0Z1BTc3EtWW4yYl9kc3A1MTBxY1JtamJIanNCLTdDNmI0ZUJIdDFEbGVPVGJxY29kaGcyc3FlN2s?oc=5",
+   "source": "Las Vegas Review-Journal",
+   "domain": "reviewjournal.com",
+   "provider": "Google",
+   "published": "2026-10-27T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
    "title": "Caesars Entertainment Q3 2026: A $570M Interest Bill and a Buyout Exit",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVhDbGJWWHAzSkJBOU1RVndqVzVJUDdHQkdHbGZpemxqSVJQRWFjN01pcVE0NmgtWGp0UzlsNklwT0FoLWlFVFBXeFFlMXMtTzA1YUlYdk1hXzN6T0hZWnZxazFjYW9ZclFKRnpRcVZjMFZyNTZNY1ZLT1J4dVYxalE3Q3ZkOURQWXk1TlhZMlRWaDItVXZVYU8xMHFZZw?oc=5",
    "source": "24/7 Wall St.",
@@ -1716,6 +1707,15 @@
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmREZFV6WmZWNFJZVUZCdzNfUm5ma0YwWkdtMU5QZUNrRTdpSW0yVVNSV1hqOGtyVGxpSGhmemVXRmN4M3h6ZG1zOTlBek01SXZMWG82emVob3pFM3B0V3JXZVRlTi1XYWVNeUdqYkVPejFuWVBSbWtZWEpEUXFaVm1KNnNYdUNmdm5WMjhlbE5MUDd5LVk4QmhJa2x2QmxFY3gwSkhJdVh3QUtGVm9WQkpR?oc=5",
    "source": "Investing.com",
    "domain": "investing.com",
+   "provider": "Google",
+   "published": "2026-10-27T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Earnings Flash (CZR) Caesars Entertainment, Inc. Reports Q3 Revenue $2.94B, vs. FactSet Est of $2.96B",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXFfdi15V3o4a1FtQXdwcFpDUWFIbURkMHU3b0FzTjZfeFAtblowMmR6WWkwY05Jb0dDMXFwX0dhTVhaVENxUjR1eHQwbzdycUNPUnZMRGJxb19NTFBnNmhpT2NzUklKN3dyaWh1amRaNmRVVzZNRUlvMmpVZnV0TVdOMUtnWVBiRDZaYy1ub2NOZ29tQTNhSFhmQ25UOG9jMWsyUW40STQwajNTTnZrZEs2d1JaU1dQR012N0dmSXo3VDdpYzloUmxTc2Zoa0swR0hWSnU5N0Jock5iVkE?oc=5",
+   "source": "marketscreener.com",
+   "domain": "marketscreener.com",
    "provider": "Google",
    "published": "2026-10-27T07:00:00+00:00",
    "snippet": ""
@@ -1777,15 +1777,6 @@
    "snippet": ""
   },
   {
-   "title": "Bally’s Q3 2026 revenue sees 21.7% jump to $807.6M",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MUzFUcWE5ZUwzZXNQSHpoY0ViaXhWZWhnZnJWUVJfajdMV2oxWkFUZ2VxUTdhVzFNTll3Q2tVNmVkYTVTQjVLUHBpcXBSSmVQeGxIQ0NtYVdnSTB1Y2FIQ25IdjRlYUVjR3Uw?oc=5",
-   "source": "AffPapa",
-   "domain": "affpapa.com",
-   "provider": "Google",
-   "published": "2026-11-11T07:42:12+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Bally’s US online revenue up 25.6%, but its 10-Q runs late for a third quarter in a row",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHpGMVZPdGhkUnZ5N2xOaEE5Y2NISmlNV0RBNEFvSGRldktURHBkODNQZGg1UXpCbVVwODdXS3A5b0YzRlMtMlJMNzg5MmlBS2hTNW5nUm9vWGQ0czFvUl9EUkdTNEdvc0Zhd2pCTG9meXFrVV8yOFN5ckxQZVU0WFVGY3IzZjNNU1d5NnhoUEZsbl9SWno5TVFNWEZVODdtMnlBbFRUTndYX2s?oc=5",
    "source": "ReadWrite",
@@ -1810,15 +1801,6 @@
    "domain": "igamingbusiness.com",
    "provider": "Google",
    "published": "2026-11-11T02:07:46+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Bally’s Corporation Reports Delay in Quarterly Filing",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXgyOTlnR2U2TDNrV05LbXB0N0tlRV9FbEt4WmlnVHRzOW5QRngxckRtdy1QWFgwdE90VlQ3XzhQZEVleUtUb1ZyS1VqNGkyNDFURU9YZDlCRVNXTWcwQnhuOUdtRzhvZG1DMnRTNWVSazV3b3YxYm5KcjlXWHBUdjFUZFJKNEQ3VVB2a1J4TlVlQUhXUDU0VGx5TnJWSXlrbXZjN09zRQ?oc=5",
-   "source": "TipRanks",
-   "domain": "tipranks.com",
-   "provider": "Google",
-   "published": "2026-11-10T22:52:46+00:00",
    "snippet": ""
   },
   {
@@ -1864,15 +1846,6 @@
    "domain": "gurufocus.com",
    "provider": "Google",
    "published": "2026-11-10T05:06:43+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Bally's Sees 3Q Casinos & Resorts Rev $408.6M>BALY",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFE2UGdnbmZSMVowSTBLRllfZW1RMFNyOGNXemwtSU43dXFLMkRULW5IOUJwRjNpaUNFWXZJd2Vkd25DbXlCQlpfbGFpSEM3OU15MHNrSm05VjBSU0Zpa1FGNE8yVzJNVGZlbC0zOEVFVlQwSXQ3SF9vRk15M3FvX2JnU1ZmaG9xdmZfdkYtOC1jRTFVN1E?oc=5",
-   "source": "Moomoo",
-   "domain": "moomoo.com",
-   "provider": "Google",
-   "published": "2026-11-10T03:21:23+00:00",
    "snippet": ""
   },
   {
@@ -2126,6 +2099,33 @@
    "provider": "Google",
    "published": "2026-10-28T07:00:00+00:00",
    "snippet": ""
+  },
+  {
+   "title": "Bally’s And Bare Knuckle Boxing Announce “Bally’s Fightnight by BKB” As Part Of Ongoing Partnership",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzd3Z3lHWE1GVVFDa2hZZkl1dml6d3BoS2d6NG9RX2xjNWRBbTN6d3FES0R5cTV6aGNuRnVUcE1MZ041dk1xMkota0pXbDh1dF9VMFJsUTFBa2tFZTlxaUtpRmt2XzRlU2RudC1tVzl0OUg0MWVpdmJQUDk4aDNSRDFvTkNnRHdKd2pkZ2FUbk1IRldLekdsVU5QRUU2RTRpd29VdFNGNmExcEtFUGw3YzAzWXJ4VS0y?oc=5",
+   "source": "BodySlam.net",
+   "domain": "bodyslam.net",
+   "provider": "Google",
+   "published": "2026-10-21T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Bally's Corporation (BALY) Slips to $13.02 as Shares Retreat 2.98% Within Established Range - Force Index",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG9nUzExOWpmT1VQdGo0ZWdRb1R4YTIzbjd5amNxTHZtOV95ZkxvU3EyZEFMR2RkSndCNDJmNVV1RXNXMVFaZmd5cTJZaThoSVdPRDBwSzFsR1psdVFydnNPSDh5bnIySnVQbDR2WmxjZWIwdDBZYnVuQmJCQ2RTdWVuZHE5THNoTWFJdmRKVlZraWtCY2hYY25zb3FXNlBqSjM1RWFNcUFQNjVsdzdudkxmOUR5a0x6TWRoaEpTaDU2Zzg2?oc=5",
+   "source": "www.dars.gov.et",
+   "domain": "dars.gov.et",
+   "provider": "Google",
+   "published": "2026-10-18T07:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Spotting Winners: Bally's (NYSE:BALY) And Consumer Discretionary - Casino Operator Stocks In Q1",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkNLNVdSc29jNlROYW5acG9ZWUozRGVwT2wtZXZGVl9adWIzZlpMT2hUOE93NzRkaG83WE16cXVoaDJfOWRlSlNaZUFTd2NySWJ2TXViczMtc0ZJOTMyeURsMTJqeHp3b0l2bFVfeUYzQ0IwakUybHd3d1djM1FQYWZYMkJjTDBmZGRCX3hMNEZKNXhXNE8zeXU1TzExZ0E?oc=5",
+   "source": "Yahoo Finance",
+   "domain": "finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-10-16T07:00:00+00:00",
+   "snippet": ""
   }
  ],
  "Light & Wonder": [
@@ -2157,21 +2157,21 @@
    "snippet": ""
   },
   {
-   "title": "Light & Wonder, Inc. (LNWO) stock price, news, quote and history",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yZjh0X2pmN2ZVbnBuOUg5LU1kVjg1cVFWV2ZhcnkyeFdrM0FyZDhFOENCa0lmSTVYRm5vcVFNWm5LTldPSVpPWUJhYmxva1hmdXc?oc=5",
-   "source": "Yahoo Finance Australia",
-   "domain": "au.finance.yahoo.com",
-   "provider": "Google",
-   "published": "2026-11-12T13:37:59+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Why Are Market Watchers Still Backing Light & Wonder (ASX:LNW)?",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmhXd3YtSjFiUFRoZ1BTdnUzRmR2b25KODIxam5WU05KaDJ2cnllal9ibmI2SUdNMkJtQktqbVVHSDFrNGVBNFpMemx1R1k5ZlFYeU1BRVV2LVFuQzF1QnhvVDBHYm93WHpvWHdEbzZpQW5MaFg4cDNXdjdha1RUQmg4NWIwcERFcUg0TUZzRlFZa3pjOFg1cXc2Y0FJaW01?oc=5",
    "source": "Kalkine Media",
    "domain": "kalkinemedia.com",
    "provider": "Google",
    "published": "2026-11-12T05:16:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Light & Wonder, Inc. (LNWO) stock price, news, quote and history",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfNER0WXZOcFB4N0MzbXRidTNXbmc4TURmaFQxRGJjdVhGMVNyYkFZUkxldFd0QjY4eVE3TGx1bzI2SFptdnFRcVgyUnJ2TTQwSnc?oc=5",
+   "source": "Yahoo Finance UK",
+   "domain": "uk.finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-11-12T02:02:05+00:00",
    "snippet": ""
   },
   {
@@ -2190,6 +2190,15 @@
    "domain": "moomoo.com",
    "provider": "Google",
    "published": "2026-11-11T00:47:04+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Light & Wonder, Inc. (LNW.AX) stock price, news, quote and history",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BWWZfdEZIaS10QklkUVFpSWhFTDVJNWw4cVJkMUpueFVtRl8tRjBseWU2dEJrODNPUmg5LU44WnA3LVJmdFV5MUtPZ3oydXpWb3RURA?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "domain": "sg.finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-11-10T23:14:33+00:00",
    "snippet": ""
   },
   {
@@ -2256,15 +2265,6 @@
    "snippet": "Light & Wonder, Inc. is rated Buy as improving cash flow, recurring revenue, and deleveraging plans outweigh segment headwinds. Click for more on LNWO stock."
   },
   {
-   "title": "Light & Wonder's Gaming Machine Business Is Undervalued",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZETXcxZENmNnFDNUxuaHcwVG42bTFhOG5xZk1qNG5xSng2RGY5NS1JRTdJY0pwVi1WWmRpZi1KZVZzS2E1V29hLUlCeXJ1SkNMOFBQbFZfaVl1S0JPQl9JVkNQWXloM1U0VDh1c3A5anZUMjVSc0NDX1RrUjNvLUVnUlVac0Z1Yy1ZS29FZFJCS1ZjM3V0c1M2SF8zM2wzWW16d3Zidw?oc=5",
-   "source": "Morningstar",
-   "domain": "morningstar.com",
-   "provider": "Google",
-   "published": "2026-11-06T22:31:39+00:00",
-   "snippet": ""
-  },
-  {
    "title": "How Is Light & Wonder, Inc. (ASX:LNW) Reducing Leverage While Growing Gaming and iGaming Earnings?",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXd1TVR2Y3A2U1hPT21IWFRGUGpLYXlwOTJFcmtONVlodzRIMXVHWENfdF9fN294dDJJdFNKVGJocEhwTFJhVDFiQmxqWGRoNFZGa1pDa3h6ZDh1ejRMMWMweXVBd2s1V3VhQmUxTm1YeC1ROG01dlhYZXV2MGR2VGl1ZVlOMkd5cTAweWRkZE5LbFpyOE9hTGhqRF84NmRKdEpZYnFvVTNIcy1HSFJoWWllVjY1UUJ1LUUzb3hCQVZKdHgwSVVBNDM1dGRJand2NjY4?oc=5",
    "source": "Kalkine",
@@ -2280,6 +2280,15 @@
    "domain": "gamingtoday.com",
    "provider": "Google",
    "published": "2026-11-05T22:13:24+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Light & Wonder Q3 net profit rises 17% despite revenue decline",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFNHanFqZW8ybkZhRWRSQmNISmIwQVlsQTg2TklXZWZYQUFlZUxITkJSMTZITEJsOVVrNUNWeGQyUFI1bjNqdDRHc1BHNFY3R0ZlUFEwN2VMUEZfOTVaQk5XemRNM3MtajJaS19jZU8zbFFta192SkRwaWlDM1JqT0FYZk9OcjNNdGR1cU9BM3J6SWM5SHRZ?oc=5",
+   "source": "Focus Gaming News",
+   "domain": "focusgn.com",
+   "provider": "Google",
+   "published": "2026-11-05T14:05:54+00:00",
    "snippet": ""
   },
   {
@@ -2328,10 +2337,10 @@
    "snippet": ""
   },
   {
-   "title": "Light & Wonder Expects FY26 Consolidated AEBITDA Growth Toward Lower End Of Range Of Mid-To High Single Digits",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVHpkUVZ1UDRaODB0TGptUFJmY2ZCZ2lhdzZ1RXUzWVFJbmVlQ1gtdDF1REdKR2l2c0RBZVRaOG1xZTRFbDZKeUZsVkZWZWl3UG1ENkwyWVgtQlhLbHA5eWx0dk1JODg1QXJaNlY2R1pIS3Y2ZWR4dEJiMjZIQkNJM3dwbmFMNEZNM1VfTEJuNHNydFl1bzV0ZTNZLUhJMkxWcEhDQXpMekc0a05wTHRhUEVkTy1Ud1VBUE02WUdjYnNDVTlvX3dmR2stMmROX1k0TTZaalNQc2Vkd3lHOGJkVEFVTEU0UXBfbHRubkw3bjZmUjhNTjJ5OEdvT09oN3NybEk5VXN6eGotZw?oc=5",
-   "source": "TradingView",
-   "domain": "tradingview.com",
+   "title": "Light & Wonder names Matthieu Labbat as SciPlay CEO",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbDhCTEpYWmt5WjZfWnpjQTJ0RnJfVGNuU2ljdXVtWmxoSUNRdFcycUNfMTNFSDEzMnE5Y3RXdmFSNkxvUmZOOUQ0TzV3SlJ4VE96eW9sQzFWdEI5TGhjOGVFanI2NGdjcnh1ZXlTa0lLTVNlUmwtR2p3dENKV0RDbkVrLVAzWUhlQ2w2UHh6R0htVVd5TzJzTHpxREl0MVlJ?oc=5",
+   "source": "Gaming Intelligence",
+   "domain": "gamingintelligence.com",
    "provider": "Google",
    "published": "2026-11-05T08:00:00+00:00",
    "snippet": ""
@@ -2343,6 +2352,15 @@
    "domain": "kalkine.com.au",
    "provider": "Google",
    "published": "2026-11-05T07:37:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Light & Wonder Inc (LNWO) (Q3 2026) Earnings Call Highlights: Record iGaming and Strong ...",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tTnVUYTVaWDN1LTNuVU1wMnZ6VWt0TnpMZVJxNEZqRDFuWi1oMzhScV9zSTMzbU9xZTlySS15cEhVWXZrWG1YcUxTTTNHZ2hQTUpEcXp6cldhU2RRTFdNTlVYZ3BQTlB4dXlOOG80UFBDODZHR2hrR1lCODRrUQ?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "domain": "ca.finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-11-05T07:12:00+00:00",
    "snippet": ""
   },
   {
@@ -2427,13 +2445,13 @@
    "snippet": "Light & Wonder, Inc., a Nevada-based corporation located at 6601 Bermuda Road, Las Vegas, NV 89119, filed a current report on November 4, 2026, under Item 2.02 (Results of Operations and Financial ..."
   },
   {
-   "title": "Light & Wonder, Inc. Reports Third Quarter 2026 Results",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/light-wonder-inc-reports-third-212300368.html",
-   "source": "finance.yahoo.com",
-   "domain": "finance.yahoo.com",
+   "title": "Light & Wonder Q3 net income lifts 17% to $190m, lowers full year guidance",
+   "link": "https://www.msn.com/en-au/money/general/light-wonder-q3-net-income-lifts-17-to-190m-lowers-full-year-guidance/ar-AA2h5vIS",
+   "source": "msn.com",
+   "domain": "msn.com",
    "provider": "Bing",
-   "published": "2026-11-04T13:23:00+00:00",
-   "snippet": "Light & Wonder, Inc. (ASX: LNW) (\"Light & Wonder,\" \"L&W,\" \"we\" or the \"Company\") today reported results for the third quarter ended September 30, 2026."
+   "published": "2026-11-04T14:10:00+00:00",
+   "snippet": "The news: Gambling company Light & Wonder net income for the third quarter lifted 17% to USD133 million ($190 million) the ongoing rollout of gaming units in North America. The numbers: Net income: ..."
   },
   {
    "title": "Light & Wonder Inc. (ASX:LNW): Gaming Operations and Debt Management Shape the Business",
@@ -2458,6 +2476,15 @@
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG9BS2Jld1NSNkxwaXpsYXR0bDlwaVpsWURlZFFYODVzX2h4bmVfajZsODdrekFxRkhlZDc4bllkTlcyR015T0l6eXR5R0V2RG9RWjZuUVdnbmg4Y1ZTTWU5ZFM5WWp2TEFzcnBTdWRMWkVyeGxxTldGT2tiVmZWQlhzRGNYRGZJOE9wNzV6S3pEMUVDNUh6emdMTQ?oc=5",
    "source": "Yahoo Finance",
    "domain": "finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-11-04T08:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Light & Wonder, Inc. Reports Third Quarter 2026 Results",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlN0UDN2WVk4OXdmU3I4b3FSbXJXZG4tU0VuVHBRQkZmTUhlVjFBUFZHR2V0bmJXLV9pMHhYMWxWSzBfWGYtUTdqdkREbEROQlAwRWZKM2U0LWhHSm9QdUNITkNnaXQtckFuUms0S0hQYTBOeldFSmhSZXlST1UzWTFmUTM5bHVaUGo1UmRqNUQwNnRkWnVfZUdZNmNSY3Z5RW1TZzktaHRFUVF1UkE?oc=5",
+   "source": "Business Wire",
+   "domain": "businesswire.com",
    "provider": "Google",
    "published": "2026-11-04T08:00:00+00:00",
    "snippet": ""
@@ -2505,33 +2532,6 @@
    "domain": "gamingamerica.com",
    "provider": "Google",
    "published": "2026-10-28T07:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Light & Wonder debuts cashless solution RAPIDPLAY at Lake Tahoe casino",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFFFUlJSNVZjdkowREdJSWhRVERRdXQ4MmJQNkdibFdwVXVLUDRHOVNTdm5yQkxYUE05cUZMS29lZGRyVzFPRHV3UzZSVnlTVzFoSXlmaGR5WGRmZ2ExX2Zadm5QbWZWU2FrSFc5TW9YT1lHc2NQemkydE9IVmMxX2NTdGFsd1JPRHdRVU5qcTRRWXBHX3RYaWlYYk9tUQ?oc=5",
-   "source": "CDC Gaming",
-   "domain": "cdcgaming.com",
-   "provider": "Google",
-   "published": "2026-10-27T07:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Light & Wonder completes first global installation of cashless solution RAPIDPLAY",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTG11bGIzY0ZncmpaTXc2bDNRa21vUUpjRUNPNVd1R1ZaX3MwYU4yck9nRmZJcV9pTHVObDdrcDBtQmxGeVdmeTNJMnJwY2ZQaEJwR2dDRFhIWmtZUFV3TllpUE9oUFNzMG50NGdhTFJhTzJ5MGR5eTluc1RwX3U4UFMzc0U5VWh3eERCWGdNQUtieTMwaktxVmszTmtBZ1hzZHBsZUdma3UzMkdLNHc?oc=5",
-   "source": "IAG – Inside Asian Gaming",
-   "domain": "asgam.com",
-   "provider": "Google",
-   "published": "2026-10-27T07:00:00+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Light & Wonder debuts RapidPlay cashless payment system",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVGxJMjIwdVh4M1YyaGRrTXg3SXZTcC1VSHRQZTZZeHh1VUktc1doakc0M19PdTlQN2p1d3B4alFFMzVuaU9BSnlZdjVka18wRFRka3pWMWlrSUdobVN2VjN1VV9yQ011bW1OOVNZRWIxV0NLQmlTbF9fZGhLcWxkbXJ4bw?oc=5",
-   "source": "GGRAsia",
-   "domain": "ggrasia.com",
-   "provider": "Google",
-   "published": "2026-10-27T07:00:00+00:00",
    "snippet": ""
   }
  ],
@@ -2691,7 +2691,7 @@
   },
   {
    "title": "Brightstar Lottery (BRSL) Cut Its Revenue Outlook, Is The Undervaluation Case Still Intact?",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcFFSU3VHT1lsZFRmZ0t6NUwwZmE0cmN0TVdCeHJobmMwVTkyVi1XN29aNDA4SjQ3S0N5YmN4aU8xNHVNU2dDdVR2V3l6THdQcF9WMzdyZ1YxWFNXbktNY3VvRDBsRjN0RHZTTGFPV1dBTlFMZmFITFZhRFBxd1d0LUEyYlpIRGtNY21hVWpJRmRWS2VyVzZIT3U1OGI3ZGYtMjNVZTJfN2FlMDltZ3VHcVBtajc4UndNdUNKc1R2SFY3UnprdzM2WDloZHUtU1J0LVpsVERwYkdNQUdrdjBEUHZn0gHiAUFVX3lxTE5wUVJTdUdPWWxkVGZnS3o1TDBmYTRyY3RNV0J4cmhuYzBVOTJWLVc3b1o0MDhKNDdLQ3liY3hpTzE0dU1TZ0N1VHZXeXpMd1BwX1YzN3JnVjFYU1duS01jdW9EMGxGM3REdlNMYU9XV0FOUUxmYUhMVmFEUHF3V3QtQTJiWkhEa01jbWFVaklGZFZLZXJXNkhPdTU4YjdkZi0yM1VlMl83YWUwOW1ndUdxUG1qNzhSd011Q0pzVHZIVjdSemt3MzZYOWhkdS1TUnQtWmxURHBiR01BR2t2MERQdmc?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXA3c0NSOTBUM0xOUXRtVUVDMS1OSmsxS3lPRDhoLXBKU3VrTTd3ajBhYlpWaTNHdF9lNVVpZ0pIV293cE1odnpnLXVLT2c4TXZMR2Rfb3NWUjRzdXFOVl9VT29ycXE1TlhhZFhXcDJXRXZtSDRzNzRBU3JSeDc1TURRdDBOTEk0d1lLMEFkazVxMEM4dTlJc19pcG5OUGNlTmlvX3d3dVNpc1llZFhWOGxLWko1Nkw5d3dBZEk2S3pRaE9TNjY5cXptb01jTlpxU0ZaNnRrd0FWMWIy0gHiAUFVX3lxTE5wUVJTdUdPWWxkVGZnS3o1TDBmYTRyY3RNV0J4cmhuYzBVOTJWLVc3b1o0MDhKNDdLQ3liY3hpTzE0dU1TZ0N1VHZXeXpMd1BwX1YzN3JnVjFYU1duS01jdW9EMGxGM3REdlNMYU9XV0FOUUxmYUhMVmFEUHF3V3QtQTJiWkhEa01jbWFVaklGZFZLZXJXNkhPdTU4YjdkZi0yM1VlMl83YWUwOW1ndUdxUG1qNzhSd011Q0pzVHZIVjdSemt3MzZYOWhkdS1TUnQtWmxURHBiR01BR2t2MERQdmc?oc=5",
    "source": "Simply Wall St",
    "domain": "simplywall.st",
    "provider": "Google",
@@ -3016,15 +3016,6 @@
    "snippet": ""
   },
   {
-   "title": "Wolters Kluwer stock: Company reports 349-share buyback",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEdvZlJGc2N5OWV0LTFLLUtsWTdVLXJzYXkyVG1KY3hSdzJpWjZUbG9oOU1ubG56TVVTa0s2RGN1a0R0V3U4ck9kaGlRNGtMWHlkaTBJNi01ZkpJSm1PMGQ3d3VVcGJCSjBxY0trV2puaGFIeUJhYTdNQU1URlhWWjViWDFQb1RhS0pxeWRfMFdKTGJZaWh0ekhWaEREaTlyUlNyQjlILVVwQnU3Q2d2MkRDaFdvb2dq?oc=5",
-   "source": "ad-hoc-news.de",
-   "domain": "ad-hoc-news.de",
-   "provider": "Google",
-   "published": "2026-11-13T17:01:10+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Wolters Kluwer plans to pay up to $100 million for AI tools that guide doctors' care decisions.",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVpzc1hCQnhtenlfdVpOamx1VVREeDJKWGVtUzdQZDBnOGl4WjNNMmVhSkFQSy1EZElVSUc4Y2llbFNhT1FIMGszNnlrQnVQTk1zVXByRERObnRnM1lQalNib0tjaEJKanlTVzVYeGdKc1EyWjd3aGdCY2wtVEVFdzRhb1EwcTVHTEFXZ3NDUHNrS1ZIckg4NmJUUVdKSHQ3bkVUN1FJRWYtVkdwN3FLa1JkZ3pIdVphMlE?oc=5",
    "source": "Stock Titan",
@@ -3068,6 +3059,15 @@
    "provider": "Google",
    "published": "2026-11-12T08:00:00+00:00",
    "snippet": ""
+  },
+  {
+   "title": "Wolters Kluwer introduces ComplianceOne Plus, streamlining commercial and consumer lending",
+   "link": "https://finance.yahoo.com/technology/articles/wolters-kluwer-introduces-complianceone-plus-143000675.html",
+   "source": "finance.yahoo.com",
+   "domain": "finance.yahoo.com",
+   "provider": "Bing",
+   "published": "2026-11-12T06:30:00+00:00",
+   "snippet": "Wolters Kluwer Financial & Corporate Compliance today announced the launch of ComplianceOne Plus™, a cloud-based platform designed specifically for commercial and consumer lending at community banks ..."
   },
   {
    "title": "Wolters Kluwer stock keeps 2026 outlook as AI investment rises",
@@ -3186,6 +3186,15 @@
    "domain": "terrytribune.com",
    "provider": "Google",
    "published": "2026-11-12T19:00:00+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "Scholastic Corporation (SCHL) Stock Price, News, Quote & History",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fV0NmVlBSVlgtNXlFZC1HT2VOdlE3YmMwOEJoYS11a2lnRDJtUFFKWTAxSjF1T0NCSTlPaGhUVjdRRG15NWlqeUwzOVhpWXp0X0E?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "domain": "ca.finance.yahoo.com",
+   "provider": "Google",
+   "published": "2026-11-11T22:08:29+00:00",
    "snippet": ""
   },
   {
@@ -3336,7 +3345,7 @@
   },
   {
    "title": "PSO - Pearson PLC | News",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPV29GSk42d0RwZDQzbW5zZ2tpOXVqcTV4ZmUtWm9HZ1FMODlUSklEejYtTXBxRTFsc0RmUmM1LTduU2N6M0xqaXMxNWxiM3paLUYzY0RKZklDZWxUZ3hJVjFXZkRTN3RrRkl1NmxmQnEySktodV9pWUV5LWs4ZS1FVWZyU1MwR2JXWkNiUHY3X0F4U1lpZDZGbXc2VTlnajAyZ2JrM2tUblRqdUlVT2lBdG1VMUs0SHJXZjhKUTNBdnQybElVbGg2czdsdm9kdlVHa2JvNE9Fa2I0dUE3SWRVU0pJUDNvcFZwOG0xZVpudkg1ZVBGRlJDNW1SNk42S1ZOV3gtS2pn?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNFhGSWI4bG5tUGpWT0wweExYNjB0Z29tcEltTUdCMDQwS0dIOWZVWHJ6elhwYmV0TU1uWjhiZ2ZWRERZQ1ZnNHdzbFU2TlFvNERNQko4SDBJNFpGeXV0YXl3V0MwQl9fOTA1LXg2ajZnV2h0QkEzUWFhY0lqcmNULW9pSjlIR2VDaUxLeFA1QTNWZUtRVXAwRDAtQ184azM0dDQzb0pVMEZBY1NWb0xwRkcxU3ZNcmlTWU1rWXY1UGFUV2Rienp0QWVqYXM5ckVzd0dSUjBVQzBFcVdwRV8xYUtB?oc=5",
    "source": "OTC Markets",
    "domain": "otcmarkets.com",
    "provider": "Google",
@@ -3362,21 +3371,12 @@
    "snippet": ""
   },
   {
-   "title": "Education stocks: What is driving the growth story at Pearson (LSE:PSON)",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2M0cWViSE5Dd2F2X1lUczRQbV9JRERMYlU5bHltdEktclVlNXdPZDM2RmNSMHFXQlpiUnBybzJ3YkJ1V24zcFdyLV9fSW9hbWJXTnROQTFzX3drSnBGUVEtMWhJMUhYUGtld2ZmSzVEQXFfTzV2YU9xbjRneDFubi1UaDk1X0pJVVVyMGVESVF0eDFXM1RpMWY3d3pMVkpDVTd5MFBPS3hTT0JIYU5wZU9hcGtmWnZn?oc=5",
-   "source": "Kalkine Media",
-   "domain": "kalkinemedia.com",
-   "provider": "Google",
-   "published": "2026-11-05T08:00:00+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Pearson and Westermann collaborate to help learners in Germany build the English language skills they need to succeed in study and work",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2xWU0xPcmtjSlRwX3VzNTBlMXFtcWQ5ak84RXZfRWZUMzl0cDhZOUkxLWQ3QkFlM3NYUm53VlJuU2NpMUNMdGFNNXJBNkZONk13MzF0UmE3VDRpQnZUV3U3QmlHYkc5TjN2Rzk0Ul91ZlJUbUMzM1VpN0VLLTZ0SHpwZVktRVhDNjdpaWNNblJqSjZLREplX2FfU3d0SVhMbnhBOGNuY2ZGVDZ2WW5KYjJIQU4tSkQyQ0Vjb2pLRGQ?oc=5",
-   "source": "Pearson plc",
-   "domain": "plc.pearson.com",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTHQ3QXIzX3JialJ3eFluc3otY1BwMnNCVHJ1NFgtSDB3ZHR3eURqcHQ0cVJybzdmS0VxLWszSEduaEM5bDA4OUNNT3kzTGFIa2Izc2pJbUNTbEJSd2NhX19jaHFtcHJSSFNYYUlNLXJmbVNVc0F5YXhzbWphVHRES1oySGNUakZFU093MEtlSC1sMlZxNU5JVVBXV3I0MHBxM2J6QXdxV2p1b1p5N3NpTjJxRHdJRWNETHR3UDJvZnphTjI1WFVDXzk0Q0xLMnlVNlYxTzV0Y09TcGRGLU5fYlBoc2ZkbUZCYVRsOFhaTzN2bkdJbXJoakE0UkJTSjdJV1lpYlp3dkpkbEF6MzRmUUJYTUNWdkNoSXZqeHBR?oc=5",
+   "source": "PR Newswire UK",
+   "domain": "prnewswire.co.uk",
    "provider": "Google",
-   "published": "2026-11-04T08:00:00+00:00",
+   "published": "2026-11-04T09:00:00+00:00",
    "snippet": ""
   },
   {
@@ -3431,15 +3431,6 @@
    "domain": "uk.finance.yahoo.com",
    "provider": "Google",
    "published": "2026-10-30T20:39:31+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "FTSE 100 Name Pearson Steadies as AI Debate Lingers",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT3ZtYVRaeDQta2Y5QjRPdm0tNFlMRDRZdWNjOHQyN2hVdFJyOS1YWExtbWoyaDF2X1M3MFFqT1NQLThPSHhPcW9HOWZoaV90b0FMZ2NDbzVQREtRZlVlYlhKNWJpWDFoUEZrMFRFanFCd1pHM0VseGVpLWRFMXllcGgwd1hZQmlOcENHZ2lHTktHbHFod3hZTS1SYzItRzRSYkE?oc=5",
-   "source": "Kalkine Media",
-   "domain": "kalkinemedia.com",
-   "provider": "Google",
-   "published": "2026-10-28T07:00:00+00:00",
    "snippet": ""
   },
   {
@@ -3708,15 +3699,6 @@
    "snippet": ""
   },
   {
-   "title": "SLU triumphs at ASEAN Research Conference on Extension for SDGs 2026: Cacao Innovation wins 1st Prize, CLIMB Hazard Mapping places Third, and ECE Simulators named Finalist",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPMXZFQWJmeUdGV0JWUVRiUFNnMy16WjlxaUZJQkhtLUxBZjdqVlVQMXhHMlZ1WTJoMWpqQnN4OFJKVkFFUU9Dd2xRRVhsY1Y3UmJJQjRVME9HRGg0d2RsSi1BajhrWlg5bG5KT0dfT1ZhUjhIUUJqRTk3WDZaNXZZOEx6QTFhUG9IVW9tVzJGRVNRX0tVQ1NXVXhLS0c4aG81YW5CdlQzNGlESzNZWUNZcXJYQ3lUaDJxWG16elpqck95YS1jWGNlRjhSeC1UVWw4RV96V1BpTXJPdllVX3JZMS1sVm5jS3NXQ25Zcm1tUXF3V0t2akhjRWZnTkhzQU9BaEE2a2VSSk1UVWh5OC1GU1RWdXFEUkhnZ2xfT2pIaWpvXzJRMkQ4YXRERQ?oc=5",
-   "source": "Saint Louis University, Philippines",
-   "domain": "slu.edu.ph",
-   "provider": "Google",
-   "published": "2026-11-13T09:02:00+00:00",
-   "snippet": ""
-  },
-  {
    "title": "Laura Muro Connects Sustainability Research in Finland with Learning at SLU-Madrid : SLU",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc05POERSclk2VlB3akdJeGl1bnZXV2ZEb01jUElDOGNDRDA1eEgydE5mTGtiZ1FUb0ZIN1VFV1QtM2VCRWd6ckt4YTVLc2YwYS1mOXQ5Y3VqTk9HblBqd0FBRGRZdmUtVVhnQVhQRlJLWjZxU0ZuVjFhbU9yZ19ZcFNpWmtjVXhqSnRMWXltbw?oc=5",
    "source": "Saint Louis University",
@@ -3732,6 +3714,15 @@
    "domain": "fox2now.com",
    "provider": "Google",
    "published": "2026-11-12T17:06:36+00:00",
+   "snippet": ""
+  },
+  {
+   "title": "After one-year absence, SLU women's soccer team is back in A-10 final after win over URI",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2czbHlmVHFQbFRGUG9uWkFQa25md01ZODhKaVBBSjc3Q1NjN1A1d0RndVBqZGthRFNVb0F3STF3cTBxb01ub0JiWGdEUElORlMzNUxMMWctajFBT3dhenVPa2U2WDBaOGhqQUNNQW1FcXFuY1Boc19Va24tZ2lvZUtlbWJ6aXpoTmNFV1hRalQwd0RJWEpjMA?oc=5",
+   "source": "STLtoday.com",
+   "domain": "stltoday.com",
+   "provider": "Google",
+   "published": "2026-11-12T04:15:00+00:00",
    "snippet": ""
   },
   {
@@ -3804,15 +3795,6 @@
    "domain": "slu.edu",
    "provider": "Google",
    "published": "2026-10-30T01:59:50+00:00",
-   "snippet": ""
-  },
-  {
-   "title": "Disability Curricula in Undergraduate Medical Education : SLU",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYjdXNkt6V0k4TXUzemR5RFFnby1oYlo0OWlyRGlKRi1KSG9ZNFUxcjFYTUVraEJUSTM4allsaG1pbldLTk82aXo4clVmR2ZMSzEzaTFrSnFUel8zNFhSeV9OUlRDQnFnWFktLU03bDhhS3d6NVdkd3M4Zmw1S1JUckE0M19IQWhyYVVKMi1kSHZieGs?oc=5",
-   "source": "Saint Louis University",
-   "domain": "slu.edu",
-   "provider": "Google",
-   "published": "2026-10-27T20:51:11+00:00",
    "snippet": ""
   },
   {
