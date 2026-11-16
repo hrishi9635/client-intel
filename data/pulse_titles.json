@@ -1,89 +1,6 @@
 {
- "updated": "2026-11-15T12:59:55+00:00",
+ "updated": "2026-11-16T14:00:24+00:00",
  "titles": [
-  {
-   "key": "tv-456",
-   "kind": "tv",
-   "tmdb_id": 456,
-   "title": "The Simpsons",
-   "studio": "20th Century Studios",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "FOX",
-    "Gracie Films",
-    "20th Century Fox Television",
-    "20th Television Animation",
-    "20th Television"
-   ],
-   "release_date": "2026-11-08",
-   "first_air_date": "1989-12-17",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-   "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1660.7,
-   "tmdb_vote": 8.028,
-   "tmdb_votes": 11171,
-   "imdb_id": "tt0096697",
-   "tmdb_url": "https://www.themoviedb.org/tv/456",
-   "tmdb_reviews": [
-    {
-     "author": "Thomaxz",
-     "rating": 10.0,
-     "text": "The awkward of Homer, and his family, and the endless stories. Is fun, and of course Homer legendary expression \"Do'h\" with has been taking into the dictionary. If you one of the few, who has been living under a rock, go see an episode.",
-     "url": "https://www.themoviedb.org/review/58c47927925141638a00243e"
-    },
-    {
-     "author": "dgood826",
-     "rating": null,
-     "text": "I don’t think this is the best episode of the Simpsons, it’s not even in the period most consider the best seasons (4-8), but it’s my favorite episode. It perfectly encapsulates what made the Simpsons amazing in the 90s: right amount of heart, wacky but not balls to the wall, and integrating a celebrity without it seeming like the episode was one long promo for that celebrity – fully understand the irony of that because he’s playing Michael Jackson in the episode. You can read more of my review ",
-     "url": "https://www.themoviedb.org/review/595673e79251411dbd04a938"
-    },
-    {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Every now and again you find something hanging around in the back of the fridge or freezer you forgot to throw away. That's how I feel about The Simpsons. Its humour is, in my opinion, long past its \"use by\" date, feeling stale and tired. Its a shame it hasn't been shelved as what it did do back in the day, premiering on \"The Tracey Ullman Show\" (remember her?) was fantastic, witty and current. For myself I'd rather remember The Simpsons for what it was than what I believe its become. 4/10 from ",
-     "url": "https://www.themoviedb.org/review/5ca28b0c0e0a26059b8d77d8"
-    },
-    {
-     "author": "Adam Rife",
-     "rating": null,
-     "text": "The Simpsons is my all time favorite show! I am 13, and I can relate in so many ways since the Simpsons are an average American family! My favorite character is Lisa because even though she feels lonely because of her smarts, she prevails and overcomes so many ...",
-     "url": "https://www.themoviedb.org/review/5f57b26c84f2490038ff25ea"
-    }
-   ],
-   "imdb_rating": 8.6,
-   "imdb_votes": 473790.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "fabda0ec4188",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "fun and iconic moments",
-     "relatable family dynamics",
-     "favorite character Lisa"
-    ],
-    "complaints": [
-     "humor feels stale",
-     "not the best episode",
-     "overly nostalgic"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Fans are divided, noting both nostalgic charm and dated jokes.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-15T12:58:09+00:00"
-   }
-  },
   {
    "key": "tv-1413",
    "kind": "tv",
@@ -104,9 +21,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 1630.4,
+   "popularity": 1819.1,
    "tmdb_vote": 8.079,
-   "tmdb_votes": 6300,
+   "tmdb_votes": 6304,
    "imdb_id": "tt1844624",
    "tmdb_url": "https://www.themoviedb.org/tv/1413",
    "tmdb_reviews": [
@@ -129,7 +46,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9d6a6e908d35",
+   "input_hash": "0979a91de58f",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -137,19 +54,17 @@
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "thought‑provoking themes",
-     "fresh take on 80s issues"
+     "thought‑provoking",
+     "fresh commentary"
     ],
-    "complaints": [
-     "dense, abstract prose"
-    ],
+    "complaints": [],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Viewers find the show intellectually intriguing but its heavy, abstract style divides opinion.",
+    "summary": "Viewers note the show’s ambitious themes but are split on execution.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-13T13:26:28+00:00"
+    "analysed_at": "2026-11-16T14:00:24+00:00"
    }
   },
   {
@@ -170,9 +85,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 782.4,
-   "tmdb_vote": 7.217,
-   "tmdb_votes": 4074,
+   "popularity": 1747.5,
+   "tmdb_vote": 7.2,
+   "tmdb_votes": 4083,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -207,7 +122,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "13e53b5f9d88",
+   "input_hash": "6445ed2d4307",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -234,6 +149,164 @@
    }
   },
   {
+   "key": "tv-456",
+   "kind": "tv",
+   "tmdb_id": 456,
+   "title": "The Simpsons",
+   "studio": "20th Century Studios",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "FOX",
+    "Gracie Films",
+    "20th Century Fox Television",
+    "20th Television Animation",
+    "20th Television"
+   ],
+   "release_date": "2026-11-08",
+   "first_air_date": "1989-12-17",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+   "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
+   "popularity": 1522.9,
+   "tmdb_vote": 8.028,
+   "tmdb_votes": 11175,
+   "imdb_id": "tt0096697",
+   "tmdb_url": "https://www.themoviedb.org/tv/456",
+   "tmdb_reviews": [
+    {
+     "author": "Thomaxz",
+     "rating": 10.0,
+     "text": "The awkward of Homer, and his family, and the endless stories. Is fun, and of course Homer legendary expression \"Do'h\" with has been taking into the dictionary. If you one of the few, who has been living under a rock, go see an episode.",
+     "url": "https://www.themoviedb.org/review/58c47927925141638a00243e"
+    },
+    {
+     "author": "dgood826",
+     "rating": null,
+     "text": "I don’t think this is the best episode of the Simpsons, it’s not even in the period most consider the best seasons (4-8), but it’s my favorite episode. It perfectly encapsulates what made the Simpsons amazing in the 90s: right amount of heart, wacky but not balls to the wall, and integrating a celebrity without it seeming like the episode was one long promo for that celebrity – fully understand the irony of that because he’s playing Michael Jackson in the episode. You can read more of my review ",
+     "url": "https://www.themoviedb.org/review/595673e79251411dbd04a938"
+    },
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Every now and again you find something hanging around in the back of the fridge or freezer you forgot to throw away. That's how I feel about The Simpsons. Its humour is, in my opinion, long past its \"use by\" date, feeling stale and tired. Its a shame it hasn't been shelved as what it did do back in the day, premiering on \"The Tracey Ullman Show\" (remember her?) was fantastic, witty and current. For myself I'd rather remember The Simpsons for what it was than what I believe its become. 4/10 from ",
+     "url": "https://www.themoviedb.org/review/5ca28b0c0e0a26059b8d77d8"
+    },
+    {
+     "author": "Adam Rife",
+     "rating": null,
+     "text": "The Simpsons is my all time favorite show! I am 13, and I can relate in so many ways since the Simpsons are an average American family! My favorite character is Lisa because even though she feels lonely because of her smarts, she prevails and overcomes so many ...",
+     "url": "https://www.themoviedb.org/review/5f57b26c84f2490038ff25ea"
+    }
+   ],
+   "imdb_rating": 8.6,
+   "imdb_votes": 473790.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "0057a150e010",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "fun and iconic moments",
+     "relatable family dynamics",
+     "favorite character Lisa"
+    ],
+    "complaints": [
+     "humor feels stale",
+     "not the best episode",
+     "overly nostalgic"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Fans are divided, noting both nostalgic charm and dated jokes.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-15T12:58:09+00:00"
+   }
+  },
+  {
+   "key": "tv-1416",
+   "kind": "tv",
+   "tmdb_id": 1416,
+   "title": "Grey's Anatomy",
+   "studio": "ABC",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "ABC",
+    "The Mark Gordon Company",
+    "shondaland",
+    "ABC Studios",
+    "Touchstone Television"
+   ],
+   "release_date": "2026-11-12",
+   "first_air_date": "2005-03-27",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
+   "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+   "popularity": 838.5,
+   "tmdb_vote": 8.2,
+   "tmdb_votes": 11139,
+   "imdb_id": "tt0413573",
+   "tmdb_url": "https://www.themoviedb.org/tv/1416",
+   "tmdb_reviews": [
+    {
+     "author": "Heloisa",
+     "rating": 1.0,
+     "text": "Worst show ever. Shonda needs to stop right NOW.",
+     "url": "https://www.themoviedb.org/review/5e1d27a012b10e0014947f4d"
+    },
+    {
+     "author": "GenerationofSwine",
+     "rating": 1.0,
+     "text": "Yeah, it's like ER meets China Beach, and, as my dad classically said about China Beach \"I don't remember Vietnam being anything like that.\" It's really who is dating who in a hospital setting and we have seen both before in a myriad of different settings. Unfortunately, sexual tension is really all the tension here, it's the only source of actual drama. And after a season, it gets too much.",
+     "url": "https://www.themoviedb.org/review/63bf77e98efe7300a0e9f748"
+    },
+    {
+     "author": "neal1414",
+     "rating": null,
+     "text": "I agree it was good for like the first 10 season but it started going down hill after that",
+     "url": "https://www.themoviedb.org/review/67a008190d19f30ac19581ab"
+    }
+   ],
+   "imdb_rating": 7.6,
+   "imdb_votes": 378600.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "e10a39b6d03b",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Negative",
+    "audience_score": -80,
+    "critics_vs_audience": null,
+    "gap_note": null,
+    "praises": [
+     "good first ten seasons"
+    ],
+    "complaints": [
+     "worst show ever",
+     "sexual tension only drama",
+     "decline after season ten"
+    ],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Grey's Anatomy is viewed as a steep decline from its earlier quality, with viewers frustrated by repetitive drama.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-15T12:58:35+00:00"
+   }
+  },
+  {
    "key": "movie-1263337",
    "kind": "movie",
    "tmdb_id": 1263337,
@@ -253,9 +326,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 556.1,
-   "tmdb_vote": 7.578,
-   "tmdb_votes": 805,
+   "popularity": 598.6,
+   "tmdb_vote": 7.606,
+   "tmdb_votes": 893,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -284,13 +357,13 @@
      "url": "https://www.themoviedb.org/review/6abce17400190935381e7950"
     }
    ],
-   "imdb_rating": 7.5,
-   "imdb_votes": 542.0,
+   "imdb_rating": 7.1,
+   "imdb_votes": 44562.0,
    "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
+   "metascore": 66.0,
+   "box_office_usd": 67176594.0,
    "trade": [],
-   "input_hash": "3e823656cf3c",
+   "input_hash": "62273a2a81e6",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -335,9 +408,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 458.9,
+   "popularity": 430.6,
    "tmdb_vote": 8.661,
-   "tmdb_votes": 1248,
+   "tmdb_votes": 1255,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -366,7 +439,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "7ae3f7d59896",
+   "input_hash": "78e1f2f0531a",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -411,9 +484,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 350.4,
-   "tmdb_vote": 8.5,
-   "tmdb_votes": 6855,
+   "popularity": 350.1,
+   "tmdb_vote": 8.464,
+   "tmdb_votes": 6897,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -447,16 +520,8 @@
    "rt": null,
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
-   "trade": [
-    {
-     "title": "Kids’ Choice Awards: ‘Spider-Man: Brand New Day,’ Zendaya, Tom Holland, BTS Among 2026 Winners",
-     "link": "https://www.hollywoodreporter.com/tv/tv-news/2026-kids-choice-awards-winners-list-1236755415/",
-     "source": "The Hollywood Reporter",
-     "published": "2026-11-15",
-     "snippet": "The show, hosted by Alex Warren, aired simultaneously on CBS and Nickelodeon for the first time."
-    }
-   ],
-   "input_hash": "f52b8cd19753",
+   "trade": [],
+   "input_hash": "32c996d2800a",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -499,9 +564,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 316.5,
-   "tmdb_vote": 8.333,
-   "tmdb_votes": 485,
+   "popularity": 308.7,
+   "tmdb_vote": 8.332,
+   "tmdb_votes": 498,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -524,103 +589,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "29a7ec70821e",
+   "input_hash": "9601fc44b65a",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
     "audience_score": -60,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
-    "praises": [
-     "interesting episode one"
-    ],
+    "praises": [],
     "complaints": [
-     "nonsensical plot",
+     "vague criticisms",
      "dumbest execution",
      "waste of time"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Audience criticism focuses on confusing storytelling and wasted potential.",
+    "summary": "Audience finds the series confusing and poorly paced.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-13T13:26:28+00:00"
-   }
-  },
-  {
-   "key": "tv-1416",
-   "kind": "tv",
-   "tmdb_id": 1416,
-   "title": "Grey's Anatomy",
-   "studio": "ABC",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "ABC",
-    "The Mark Gordon Company",
-    "shondaland",
-    "ABC Studios",
-    "Touchstone Television"
-   ],
-   "release_date": "2026-11-12",
-   "first_air_date": "2005-03-27",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
-   "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 284.2,
-   "tmdb_vote": 8.2,
-   "tmdb_votes": 11136,
-   "imdb_id": "tt0413573",
-   "tmdb_url": "https://www.themoviedb.org/tv/1416",
-   "tmdb_reviews": [
-    {
-     "author": "Heloisa",
-     "rating": 1.0,
-     "text": "Worst show ever. Shonda needs to stop right NOW.",
-     "url": "https://www.themoviedb.org/review/5e1d27a012b10e0014947f4d"
-    },
-    {
-     "author": "GenerationofSwine",
-     "rating": 1.0,
-     "text": "Yeah, it's like ER meets China Beach, and, as my dad classically said about China Beach \"I don't remember Vietnam being anything like that.\" It's really who is dating who in a hospital setting and we have seen both before in a myriad of different settings. Unfortunately, sexual tension is really all the tension here, it's the only source of actual drama. And after a season, it gets too much.",
-     "url": "https://www.themoviedb.org/review/63bf77e98efe7300a0e9f748"
-    },
-    {
-     "author": "neal1414",
-     "rating": null,
-     "text": "I agree it was good for like the first 10 season but it started going down hill after that",
-     "url": "https://www.themoviedb.org/review/67a008190d19f30ac19581ab"
-    }
-   ],
-   "imdb_rating": 7.6,
-   "imdb_votes": 378600.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "29a3847bcaed",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -80,
-    "critics_vs_audience": null,
-    "gap_note": null,
-    "praises": [
-     "good first ten seasons"
-    ],
-    "complaints": [
-     "worst show ever",
-     "sexual tension only drama",
-     "decline after season ten"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Grey's Anatomy is viewed as a steep decline from its earlier quality, with viewers frustrated by repetitive drama.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-15T12:58:35+00:00"
+    "analysed_at": "2026-11-16T14:00:24+00:00"
    }
   },
   {
@@ -643,9 +631,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 277.1,
-   "tmdb_vote": 6.423,
-   "tmdb_votes": 678,
+   "popularity": 274.7,
+   "tmdb_vote": 6.424,
+   "tmdb_votes": 681,
    "imdb_id": "tt0115147",
    "tmdb_url": "https://www.themoviedb.org/tv/2224",
    "tmdb_reviews": [],
@@ -655,7 +643,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2ff23028f765"
+   "input_hash": "045b3530a3d5"
   },
   {
    "key": "tv-153312",
@@ -677,9 +665,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 266.3,
-   "tmdb_vote": 8.32,
-   "tmdb_votes": 2952,
+   "popularity": 263.3,
+   "tmdb_vote": 8.321,
+   "tmdb_votes": 2955,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -708,7 +696,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "03276b1f3db8",
+   "input_hash": "66fdc4a7f219",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -754,9 +742,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
    "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-   "popularity": 246.5,
-   "tmdb_vote": 6.762,
-   "tmdb_votes": 122,
+   "popularity": 259.7,
+   "tmdb_vote": 6.732,
+   "tmdb_votes": 127,
    "imdb_id": "tt50389959",
    "tmdb_url": "https://www.themoviedb.org/movie/1813355",
    "tmdb_reviews": [
@@ -774,7 +762,7 @@
     }
    ],
    "trade": [],
-   "input_hash": "65139dc7dbf2",
+   "input_hash": "13f2e064b147",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -819,9 +807,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 245.6,
-   "tmdb_vote": 7.6,
-   "tmdb_votes": 2618,
+   "popularity": 245.7,
+   "tmdb_vote": 7.603,
+   "tmdb_votes": 2619,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -838,7 +826,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a98a2fdb5957",
+   "input_hash": "11ab836e5593",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -847,16 +835,17 @@
     "gap_note": null,
     "praises": [],
     "complaints": [
-     "predictable depressing storylines",
-     "overuse of dark-haired female victims"
+     "predictable plot",
+     "contrived deaths",
+     "depressing tone"
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "Audience finds the series overly grim and formulaic.",
+    "summary": "Viewers criticize the show for repetitive and bleak storytelling.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-12T14:00:26+00:00"
+    "analysed_at": "2026-11-16T14:00:24+00:00"
    }
   },
   {
@@ -877,7 +866,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 155.9,
+   "popularity": 162.9,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -927,9 +916,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 2288.7,
-   "tmdb_vote": 7.963,
-   "tmdb_votes": 4417,
+   "popularity": 2161.5,
+   "tmdb_vote": 7.964,
+   "tmdb_votes": 4419,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -952,7 +941,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "0f1ecc9b35a0",
+   "input_hash": "087a554075ea",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -979,38 +968,6 @@
    }
   },
   {
-   "key": "tv-1877",
-   "kind": "tv",
-   "tmdb_id": 1877,
-   "title": "Phineas and Ferb",
-   "studio": "Disney XD",
-   "parent": "Disney XD",
-   "group": "Rest of industry",
-   "companies": [
-    "Disney XD",
-    "Disney Channel",
-    "Disney Television Animation"
-   ],
-   "release_date": "2026-10-06",
-   "first_air_date": "2007-08-17",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-   "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 851.5,
-   "tmdb_vote": 7.895,
-   "tmdb_votes": 1090,
-   "imdb_id": "tt0852863",
-   "tmdb_url": "https://www.themoviedb.org/tv/1877",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.1,
-   "imdb_votes": 69718.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "39591ac1444d"
-  },
-  {
    "key": "tv-37678",
    "kind": "tv",
    "tmdb_id": 37678,
@@ -1030,9 +987,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 604.0,
-   "tmdb_vote": 5.869,
-   "tmdb_votes": 232,
+   "popularity": 1213.6,
+   "tmdb_vote": 5.848,
+   "tmdb_votes": 233,
    "imdb_id": "tt1839337",
    "tmdb_url": "https://www.themoviedb.org/tv/37678",
    "tmdb_reviews": [],
@@ -1042,7 +999,39 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "7da93f8b326d"
+   "input_hash": "295ed4e1ad4c"
+  },
+  {
+   "key": "tv-1877",
+   "kind": "tv",
+   "tmdb_id": 1877,
+   "title": "Phineas and Ferb",
+   "studio": "Disney XD",
+   "parent": "Disney XD",
+   "group": "Rest of industry",
+   "companies": [
+    "Disney XD",
+    "Disney Channel",
+    "Disney Television Animation"
+   ],
+   "release_date": "2026-10-06",
+   "first_air_date": "2007-08-17",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+   "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+   "popularity": 979.3,
+   "tmdb_vote": 7.895,
+   "tmdb_votes": 1091,
+   "imdb_id": "tt0852863",
+   "tmdb_url": "https://www.themoviedb.org/tv/1877",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.1,
+   "imdb_votes": 69718.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "dd2797b0fbe0"
   },
   {
    "key": "tv-82873",
@@ -1061,7 +1050,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-   "popularity": 535.6,
+   "popularity": 647.6,
    "tmdb_vote": 6.227,
    "tmdb_votes": 75,
    "imdb_id": "tt9022950",
@@ -1103,6 +1092,37 @@
    }
   },
   {
+   "key": "tv-12323",
+   "kind": "tv",
+   "tmdb_id": 12323,
+   "title": "Beyond Belief: Fact or Fiction",
+   "studio": "FOX",
+   "parent": "FOX",
+   "group": "Rest of industry",
+   "companies": [
+    "FOX",
+    "Dick Clark Productions"
+   ],
+   "release_date": "2002-09-05",
+   "first_air_date": "1997-05-25",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+   "overview": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences are chronicled during each episode. It is up to the viewer to decide which stories actually happened and which were completely fabricated by the show’s writers. The answer is revea",
+   "popularity": 609.5,
+   "tmdb_vote": 7.3,
+   "tmdb_votes": 65,
+   "imdb_id": "tt0138956",
+   "tmdb_url": "https://www.themoviedb.org/tv/12323",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.9,
+   "imdb_votes": 6134.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "a36ff23c6e79"
+  },
+  {
    "key": "movie-1423191",
    "kind": "movie",
    "tmdb_id": 1423191,
@@ -1122,9 +1142,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 509.3,
-   "tmdb_vote": 7.5,
-   "tmdb_votes": 2193,
+   "popularity": 500.6,
+   "tmdb_vote": 7.515,
+   "tmdb_votes": 2257,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -1159,7 +1179,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "7852c2b9a2ee",
+   "input_hash": "1d665eedb4da",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1202,9 +1222,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 481.0,
+   "popularity": 485.6,
    "tmdb_vote": 8.0,
-   "tmdb_votes": 4872,
+   "tmdb_votes": 4942,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1239,7 +1259,7 @@
    "metascore": 88.0,
    "box_office_usd": 625595435.0,
    "trade": [],
-   "input_hash": "01342c38a3a9",
+   "input_hash": "ce1bd571b795",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1282,9 +1302,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 466.6,
-   "tmdb_vote": 4.9,
-   "tmdb_votes": 100,
+   "popularity": 467.0,
+   "tmdb_vote": 4.901,
+   "tmdb_votes": 101,
    "imdb_id": "tt2057880",
    "tmdb_url": "https://www.themoviedb.org/tv/22980",
    "tmdb_reviews": [],
@@ -1294,7 +1314,75 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "bca9858c7611"
+   "input_hash": "7a39c4afebd0"
+  },
+  {
+   "key": "movie-1400837",
+   "kind": "movie",
+   "tmdb_id": 1400837,
+   "title": "Other Mommy",
+   "studio": "Spin a Black Yarn",
+   "parent": "Spin a Black Yarn",
+   "group": "Rest of industry",
+   "companies": [
+    "Spin a Black Yarn",
+    "Blumhouse Atomic"
+   ],
+   "release_date": "2026-10-07",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+   "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+   "popularity": 399.9,
+   "tmdb_vote": 6.318,
+   "tmdb_votes": 436,
+   "imdb_id": "tt36586020",
+   "tmdb_url": "https://www.themoviedb.org/movie/1400837",
+   "tmdb_reviews": [
+    {
+     "author": "CinemaSerf",
+     "rating": 5.0,
+     "text": "We could have had Legosi, or even Bartok, but no - this \"Bela\" (Arabella Olivia Clark) is just an ordinary little girl growing up in, yep you've already guessed - a family with some secrets to keep. Her \"Daddo\" (Jay Duplass) does most of her rearing as successful mommy (Jessica Chastain) is out making a good living for them all. It turns out, though, that it isn't just the parents who have secrets, \"Bela\" has one too - and it inhabits her closet. What becomes clear is that the young lass feels a",
+     "url": "https://www.themoviedb.org/review/6acfa74c72e8c5bdfb59f060"
+    },
+    {
+     "author": "Sierbahnn",
+     "rating": 7.0,
+     "text": "When I was watching this movie, I kept thinking of Poltergeist. The plot is similar enough to Poltergeist to make the comparison. Only in this one they actually believe the kid straight off the bat, which is refreshing and works quite well. It is a very spooky movie and it does play very well. It's well acted and well produced, and some of the violence feels very earned when you get to the twist at the end. I really did enjoy this movie, and I think that you will too.",
+     "url": "https://www.themoviedb.org/review/6ad09a712d9f82a489b8e352"
+    }
+   ],
+   "imdb_rating": null,
+   "imdb_votes": null,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "1c9a040d8bd6",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 10,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "spooky atmosphere",
+     "well‑acted",
+     "some violence feels earned"
+    ],
+    "complaints": [
+     "ordinary protagonist",
+     "plot similar to Poltergeist",
+     "story feels generic"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Other Mommy offers a spooky, well‑acted experience but is seen as generic and uneven.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-15T12:59:28+00:00"
+   }
   },
   {
    "key": "tv-59941",
@@ -1315,7 +1403,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 339.0,
+   "popularity": 340.2,
    "tmdb_vote": 5.8,
    "tmdb_votes": 401,
    "imdb_id": "tt3444938",
@@ -1357,74 +1445,6 @@
    }
   },
   {
-   "key": "movie-1400837",
-   "kind": "movie",
-   "tmdb_id": 1400837,
-   "title": "Other Mommy",
-   "studio": "Spin a Black Yarn",
-   "parent": "Spin a Black Yarn",
-   "group": "Rest of industry",
-   "companies": [
-    "Spin a Black Yarn",
-    "Blumhouse Atomic"
-   ],
-   "release_date": "2026-10-07",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-   "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-   "popularity": 333.5,
-   "tmdb_vote": 6.28,
-   "tmdb_votes": 404,
-   "imdb_id": "tt36586020",
-   "tmdb_url": "https://www.themoviedb.org/movie/1400837",
-   "tmdb_reviews": [
-    {
-     "author": "CinemaSerf",
-     "rating": 5.0,
-     "text": "We could have had Legosi, or even Bartok, but no - this \"Bela\" (Arabella Olivia Clark) is just an ordinary little girl growing up in, yep you've already guessed - a family with some secrets to keep. Her \"Daddo\" (Jay Duplass) does most of her rearing as successful mommy (Jessica Chastain) is out making a good living for them all. It turns out, though, that it isn't just the parents who have secrets, \"Bela\" has one too - and it inhabits her closet. What becomes clear is that the young lass feels a",
-     "url": "https://www.themoviedb.org/review/6acfa74c72e8c5bdfb59f060"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 7.0,
-     "text": "When I was watching this movie, I kept thinking of Poltergeist. The plot is similar enough to Poltergeist to make the comparison. Only in this one they actually believe the kid straight off the bat, which is refreshing and works quite well. It is a very spooky movie and it does play very well. It's well acted and well produced, and some of the violence feels very earned when you get to the twist at the end. I really did enjoy this movie, and I think that you will too.",
-     "url": "https://www.themoviedb.org/review/6ad09a712d9f82a489b8e352"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "e387dfcae955",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 10,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "spooky atmosphere",
-     "well‑acted",
-     "some violence feels earned"
-    ],
-    "complaints": [
-     "ordinary protagonist",
-     "plot similar to Poltergeist",
-     "story feels generic"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Other Mommy offers a spooky, well‑acted experience but is seen as generic and uneven.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-15T12:59:28+00:00"
-   }
-  },
-  {
    "key": "movie-1058424",
    "kind": "movie",
    "tmdb_id": 1058424,
@@ -1442,9 +1462,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 293.7,
-   "tmdb_vote": 6.796,
-   "tmdb_votes": 660,
+   "popularity": 288.8,
+   "tmdb_vote": 6.82,
+   "tmdb_votes": 681,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1479,7 +1499,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "79ff4287ce2c",
+   "input_hash": "e704d4a50ed0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1524,9 +1544,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 246.6,
-   "tmdb_vote": 7.282,
-   "tmdb_votes": 742,
+   "popularity": 256.5,
+   "tmdb_vote": 7.281,
+   "tmdb_votes": 743,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
    "tmdb_reviews": [],
@@ -1536,67 +1556,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a92502cae919"
-  },
-  {
-   "key": "tv-61818",
-   "kind": "tv",
-   "tmdb_id": 61818,
-   "title": "Late Night with Seth Meyers",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Universal Television",
-    "Sethmaker Shoemeyers Productions",
-    "Broadway Video"
-   ],
-   "release_date": "2026-11-12",
-   "first_air_date": "2014-02-25",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
-   "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 245.6,
-   "tmdb_vote": 5.1,
-   "tmdb_votes": 139,
-   "imdb_id": "tt3513388",
-   "tmdb_url": "https://www.themoviedb.org/tv/61818",
-   "tmdb_reviews": [
-    {
-     "author": "AshenArcanist",
-     "rating": 1.0,
-     "text": "From Letterman to Seth, Late Night has lost it's way. Seth is boring, predictable and just not funny or entertaining. Moreover, he's a poor interviewer who seems to do little to no research into his guests. It's all self-aggrandizement where he is the focus.",
-     "url": "https://www.themoviedb.org/review/65b10e78a3144001515a9088"
-    }
-   ],
-   "imdb_rating": 6.4,
-   "imdb_votes": 8773.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "c758fc027505",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": -80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "boring",
-     "predictable",
-     "poor interviewer"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Late Night with Seth Meyers is seen as dull and unfocused.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-15T12:59:55+00:00"
-   }
+   "input_hash": "e6953284514a"
   },
   {
    "key": "movie-1300968",
@@ -1617,14 +1577,14 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 60.9,
-   "tmdb_vote": 9.25,
-   "tmdb_votes": 4,
+   "popularity": 65.1,
+   "tmdb_vote": 9.4,
+   "tmdb_votes": 8,
    "imdb_id": "tt32558705",
    "tmdb_url": "https://www.themoviedb.org/movie/1300968",
    "tmdb_reviews": [],
    "trade": [],
-   "input_hash": "d7be681e604e",
+   "input_hash": "ec3958936ed0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
