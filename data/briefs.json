@@ -802,13 +802,13 @@
  },
  "Bally's": {
   "document_type": "Quarterly results",
-  "period": "three months ended September 30, 2026",
-  "headline": "Consolidated revenue rose 21.7% YoY to $807.6 million. Financing closed for the Bronx project with $400 million received and $160 million available for future draws.",
+  "period": "Third quarter ended September 30, 2026",
+  "headline": "Consolidated revenue rose 21.7% to $807.6 million; major casino projects and technology investments underway.",
   "key_numbers": [
    {
-    "label": "Consolidated revenue",
+    "label": "Revenue",
     "value": "$807.6 million",
-    "context": "three months ended Sep 30 2026",
+    "context": "Consolidated Q3",
     "src": "official"
    },
    {
@@ -818,118 +818,183 @@
     "src": "official"
    },
    {
-    "label": "Bronx financing received",
-    "value": "$400 million",
-    "context": "closed Oct 1 2026",
+    "label": "Capex",
+    "value": "$130,735",
+    "context": "Quarter",
     "src": "official"
    },
    {
-    "label": "Additional Bronx financing",
-    "value": "$160 million",
-    "context": "available for future draws",
+    "label": "Term loan",
+    "value": "$400 million",
+    "context": "Bronx project",
     "src": "official"
    }
   ],
-  "outlook_line": "Market conditions remain stable as we head into the fourth quarter and 2027",
+  "outlook_line": "Chicago permanent casino slated for spring 2027 and Bronx casino projected to open by 2030.",
   "segments_basis": "Revenue, three months ended September 30, 2026",
   "segments": [
    {
     "name": "Casinos & Resorts",
     "revenue": "$408,563",
-    "growth": "+3.2% YoY",
-    "comment": "steady performance",
-    "src": "official"
-   },
-   {
-    "name": "Bally’s Intralot B2C",
-    "revenue": "$257,451",
-    "growth": "+22.8% YoY",
-    "comment": "strong growth",
-    "src": "official"
-   },
-   {
-    "name": "North America Interactive",
-    "revenue": "$62,658",
-    "growth": "+25.6% YoY",
-    "comment": "rapid expansion",
+    "growth": null,
+    "comment": "core casino earnings",
     "src": "official"
    },
    {
     "name": "Bally’s Intralot B2B",
     "revenue": "$76,581",
     "growth": null,
-    "comment": "stable",
+    "comment": "B2B gaming",
+    "src": "official"
+   },
+   {
+    "name": "Bally’s Intralot B2C",
+    "revenue": "$257,451",
+    "growth": null,
+    "comment": "B2C sports betting",
+    "src": "official"
+   },
+   {
+    "name": "North America Interactive",
+    "revenue": "$62,658",
+    "growth": null,
+    "comment": "interactive segment",
     "src": "official"
    },
    {
     "name": "Corporate & Other",
     "revenue": "$2,305",
     "growth": null,
-    "comment": "minimal",
+    "comment": "corporate items",
     "src": "official"
    }
   ],
   "focus": [
    {
-    "area": "Bronx project financing",
-    "plan": "use received funds for construction and future draws",
-    "amount": "$400 million",
-    "timing": "Oct 1 2026",
+    "area": "Software",
+    "plan": "Cash paid for capitalized software",
+    "amount": "$25,489",
+    "timing": null,
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Software",
+    "plan": "Cash paid for capitalized software",
+    "amount": "$26,087",
+    "timing": null,
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Software",
+    "plan": "Cash paid for capitalized software",
+    "amount": "$2,315",
+    "timing": null,
+    "tech": true,
+    "src": "official"
+   },
+   {
+    "area": "Casino construction",
+    "plan": "Bronx integrated casino project",
+    "amount": "$4.0 billion",
+    "timing": "by 2030",
+    "tech": false,
+    "src": "official"
+   },
+   {
+    "area": "Casino construction",
+    "plan": "Chicago permanent casino",
+    "amount": "$1.34 billion minimum capital commitment",
+    "timing": "spring 2027",
     "tech": false,
     "src": "official"
    }
   ],
-  "tech_spend": [],
+  "tech_spend": [
+   "Cash paid for capitalized software $25,489",
+   "Cash paid for capitalized software $26,087",
+   "Cash paid for capitalized software $2,315"
+  ],
   "organisation": null,
   "key_changes": [
    {
-    "type": "Other",
-    "change": "Bronx financing closure",
-    "detail": "Closed financing for Bronx project with $400 million received and $160 million available",
-    "when": "Oct 1 2026",
+    "type": "Acquisition",
+    "change": "Sam’s Town Shreveport",
+    "detail": "Acquired during Q3 2026",
+    "when": "Q3 2026",
+    "src": "official"
+   },
+   {
+    "type": "Acquisition",
+    "change": "evoke plc",
+    "detail": "Proposed acquisition progressing, regulatory approval expected Q1 2027",
+    "when": "Q1 2027",
     "src": "official"
    }
   ],
   "leadership": [
    {
-    "person": "Robeson Reeves",
-    "role": "Chief Executive Officer",
-    "change": "New role",
-    "when": null,
-    "src": "official"
+    "person": "Mira Mircheva",
+    "role": "Chief Financial Officer",
+    "change": "Leaving",
+    "when": "September 2026",
+    "src": "news"
    }
   ],
   "dates": [
    {
     "date": "October 1, 2026",
-    "event": "Financing closure for Bronx project",
+    "event": "Term loan closing for Bronx project",
+    "src": "official"
+   },
+   {
+    "date": "Spring 2027",
+    "event": "Chicago permanent casino opening",
+    "src": "official"
+   },
+   {
+    "date": "2030",
+    "event": "Bronx integrated casino opening",
+    "src": "official"
+   },
+   {
+    "date": "Before 2028 season",
+    "event": "Las Vegas Athletics stadium completion",
+    "src": "official"
+   },
+   {
+    "date": "Q1 2027",
+    "event": "Regulatory approval for evoke acquisition",
     "src": "official"
    }
   ],
   "summary": {
    "focus": [
-    "Revenue up 21.7% YoY to $807.6 million",
-    "Bronx project financing secured $400 million",
-    "Additional $160 million available for future draws",
-    "Market outlook remains stable"
+    "Revenue up 21.7% to $807.6 m",
+    "Major casino projects funded through large loans"
    ],
    "changes": [
-    "Robeson Reeves appointed CEO",
-    "Financing closure for Bronx project"
+    "Acquired Sam’s Town Shreveport",
+    "Pursuing evoke plc acquisition",
+    "CFO Mira Mircheva resigns"
    ]
   },
-  "unverified_dropped": [],
+  "unverified_dropped": [
+   "Capital expenditures $130.7 k",
+   "Software capitalisation $53.9 k"
+  ],
   "format": 3,
   "company": "Bally's",
   "name": "Bally's Corporation",
   "industry": "Gaming & Lottery",
   "currency": "USD",
-  "release_key": "0001747079-26-000096",
-  "release_date": "2026-11-09",
+  "release_key": "0001747079-26-000106",
+  "release_date": "2026-11-16",
   "documents": [
    {
     "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
+    "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm",
     "official": true,
     "kind": "release",
     "site": false,
@@ -937,8 +1002,8 @@
    }
   ],
   "news_used": true,
-  "chunks_read": 2,
-  "written_at": "2026-11-09T22:21:20+00:00"
+  "chunks_read": 4,
+  "written_at": "2026-11-16T23:34:13+00:00"
  },
  "Light & Wonder": {
   "document_type": "Quarterly results",

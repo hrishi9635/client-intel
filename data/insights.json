@@ -219,35 +219,51 @@
   "it_signals": [
    {
     "type": "Cost-cutting / restructuring",
-    "detail": "Targeting at least $6 bn of annualized run‑rate synergies across more than 20 workstreams.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
-    "source": "8-K",
-    "published": "2026-11-09"
+    "detail": "$6 billion annual cuts planned post‑merger",
+    "source_id": 36,
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEZSTWgtZy1XdEdNeDVXY1d0dFBUbjNMQmN2ZWxkd084b2ZoZFBqTnk4Y1h2S2pLbU1uLTZtOHQxenpNZ3U0RW1OeU1iSENEcEwtVEhLM1g4NXBkNlNCcXFUQlRFbk12UmlfeUNLQ1ZWWkdHMHpEa0RrNnE1RlN4cjF1U19Lc0VEMEZBVGg2NnNRX2NDVWNlSXFDWXpTMVlTNHpJZHZNWDhsV185?oc=5",
+    "source": "LAmag",
+    "published": "2026-11-11"
+   },
+   {
+    "type": "Cost-cutting / restructuring",
+    "detail": "$2.2 billion savings from office consolidation",
+    "source_id": 19,
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUgxVW1RcnBkam1JOU9BWDRFRDBucTNGSmM0clZneVhaU2VmTWJpaHRhQzNUNUtsM3JZVjRlX2IxU1ZIVzd4Sm1EelU2eld5TGZ1bzRPRXdqVkpwU2NEQkpEMGZ1WDBidmp2N0RwMzc3VS1MeGNOczFaTUhPUHJCSUIyR3hQOV9OSWFnNVJpMm5IM0dzb2Z0SjY5UkZxS1ZLMHVF?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13"
+   },
+   {
+    "type": "Layoffs",
+    "detail": "Layoffs anticipated as part of $6 billion cost‑saving push",
+    "source_id": 35,
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HOUZBZm12N3JzMGZOTjNXaURXcFh5QXRnTHNtLXR1cGE0dVlqQTZLcnFQRHA3SE42UWJiY01hNG1jVk9WaHAwdEMyMzAwcEh1SUtmSXRUX3ZNelVIZTByeVhn?oc=5",
+    "source": "Cosmic Book News",
+    "published": "2026-11-11"
    },
    {
     "type": "Digital / platform rebuild",
-    "detail": "Planning to launch a bundled offering of HBO Max and Paramount+ in early 2027.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
-    "source": "8-K",
-    "published": "2026-11-09"
+    "detail": "Paramount+ and HBO Max to be bundled, implying platform integration work",
+    "source_id": 6,
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1NwRE02Q3EzSU9pVTM5MFJYUUdMandIRUFOTUNrbk1fOEloSC1mUUJyQzVZZFhLemhIU1h5OWw4VWZJTEpGX1ptdFQ2OVhTY2I5VHEzQldGY1BVQWE1R2pnS2FVNEdfVzA5eXEzLVVfcUtHRHJhM2RqSGpLUEJrVGRoNEFzOFo4dVlXMEtzcE01VDNWeVV1YTBKb3NqNDF1TXoxcll2TlVLeDY2emNZ?oc=5",
+    "source": "Tekedia",
+    "published": "2026-11-16"
    },
    {
-    "type": "Other",
-    "detail": "Executing plan to reduce net leverage to 3.0x by end‑2029 and achieve investment‑grade credit metrics.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
-    "source": "8-K",
-    "published": "2026-11-09"
+    "type": "Vendor / outsourcing",
+    "detail": "Real‑estate consolidation may involve outsourcing of facilities management",
+    "source_id": 33,
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0toNGZmeWRURjVPTzI3V3NMVllrd19IczQ3TjREUDh6SG0tM0c3ZFlBTU1nanN0NmdsbDJYNlhEZ0RRUFlYWFhHWnBKenNGUVk4T1NkN3kyUUpCU052RDlZb3U0cnZRNGF3NkhQM05tSW5kQVRySHhQOHhsQjdTUWJPeUs3VWJoNWJnNHA2V29VZVNRVFZYSmR3a2toSHhhemhBNm81dllubllTSFZsVDNB?oc=5",
+    "source": "CoStar",
+    "published": "2026-11-12"
    }
   ],
   "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Large $6 bn cost‑cut and synergy program signals reduced discretionary tech spend.",
+  "it_spend_reason": "Large $6 billion cost‑cut program and debt pressures limit discretionary tech spend",
   "talking_points": [
-   "How will the $6 bn synergy program affect technology vendor contracts?",
-   "Opportunities around the upcoming HBO Max‑Paramount+ bundle launch.",
-   "Implications of DTC revenue growth (15% pro‑forma) for cloud and data infrastructure."
+   "How can we help Skydance accelerate the Paramount+ / HBO Max platform integration?",
+   "What cost‑effective cloud or data solutions can support their $6 billion restructuring goals?",
+   "Can we assist with workforce transition or outsourcing to mitigate the upcoming layoffs?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -273,7 +289,114 @@
    "published": "2026-11-09"
   },
   "release_key": "0002041610-26-000062",
-  "signals_at": "2026-11-09T22:16:22+00:00"
+  "signals_at": "2026-11-16T23:29:49+00:00",
+  "signal_sources": [
+   {
+    "title": "Consumers refile their antitrust suit seeking to unwind Skydance's Warner Bros. merger",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEtRUHFjN3Y1MTgyUVYxOEhqbW1HcWdOQm02dXo2amhyM3laVVdDMVFNdEFsVnd5YXJhaFBsd1JnVW0zUHRHTjdzcDlFUEtsY3Z2enVoQ3k0Rl9lNGpCMktid19VUEFBWE9PaDlEV05pWHZBNkJJUGY0clp0SERGNnowWEIweTdhbHk0NWhwWm5vOEZQOXh3OEJhYm1ObDlBSjc2R0oyVWU?oc=5",
+    "source": "MLQ.ai",
+    "published": "2026-11-16T19:47:23+00:00",
+    "official": false
+   },
+   {
+    "title": "Consumers Renew Antitrust Challenge to Skydance’s Warner Bros. Deal",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sODRDUDgxUjdXRkNMVGhCZmc5OTNvXzNrMFNtWjBOcmpiSS1FOWN4WGN1a1FZbUJ5bG96WWcyYk9Rc2xaUzJQMlZ0LUhjWUVwSVByMFBWWWNHYk0?oc=5",
+    "source": "www.tokenpost.com",
+    "published": "2026-11-16T19:00:04+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance faces renewed legal challenge over Warner Bros. merger (SKYD:NYSE)",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkdzVXVQRlVFbmd3c21uaEJmN3E2cGNsdWdTcXBRUzAxOXNOMEdhSWV6OXlWNENYOEdLVE81OW1IQmh5cldEY2RJRk1hdF9PS3hfUU1WeXM5NnU1dm5ydWkyWFNvdmllYjZueDFWVGdtSkNVZ0x0RnM0VjZKd1M2WGoxRE9CT2p5QWYzS204MzJzWkZqRzNWWWRNYkFKaHJmbFE?oc=5",
+    "source": "Seeking Alpha",
+    "published": "2026-11-16T18:44:12+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance faces renewed legal challenge over Warner Bros. merger",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3BWMURHem56MUtuT20xc2NxbGFkVmFIVU96U2YyRVB6bGdiVGlDdnhJaENfekdNVldyRFduSmotc1RIMi1rYVdNXzJmZXBHSFNDUmRJR0JUaDZqWHp4N2V3dUFZYnM3WnVwTEFKM2RLSDByXzZpZFJHTzJna1dMeV8yQktQdnJWemhXa0xUd19jRm5rOTRuYjRBa3owVlVrdk16SlZPMWVyTzZIRHVNRzJPTkRlQU5FY2RXWjZOdTNxLWM?oc=5",
+    "source": "TradingView",
+    "published": "2026-11-16T18:44:12+00:00",
+    "official": false
+   },
+   {
+    "title": "Paramount Skydance stock: Consumers challenge Warner deal",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2VYV2dOaFRocHpOOXV1QWIwTC0xZmhqcWcwQ0sybVFMSnF6NG9ibnlWLW03bXdJbGhyTTJRWDc2Rl92bTBLNWIyeldHNXJ2WlBXTTBQajZIelhwb0FXVFZ2aGZaMDhjRGZEV2JxTXhHYzlaa05iaUFiZnJPTEJtUWJ6VE05ZDRQaTlIRi05UGMzOFZ5b2taNWtBRFNydTQ1cFh5czlJcWN5SUFLOXRvS2pDQnVHcGJGTnpz?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "2026-11-16T15:44:49+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance Plans Paramount+ and HBO Max Bundle as CEOs Outline Streaming Merger Strategy",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU1NwRE02Q3EzSU9pVTM5MFJYUUdMandIRUFOTUNrbk1fOEloSC1mUUJyQzVZZFhLemhIU1h5OWw4VWZJTEpGX1ptdFQ2OVhTY2I5VHEzQldGY1BVQWE1R2pnS2FVNEdfVzA5eXEzLVVfcUtHRHJhM2RqSGpLUEJrVGRoNEFzOFo4dVlXMEtzcE01VDNWeVV1YTBKb3NqNDF1TXoxcll2TlVLeDY2emNZ?oc=5",
+    "source": "Tekedia",
+    "published": "2026-11-16T12:13:01+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance faces another antitrust lawsuit over Paramount-Warner Bros. Discovery merger",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPamlhSlpNd2pFd3hWMFF6WUFfNkxiSllPVHRnSU9BMXZHMFdEZk9fbmk3RzUwV3RVQWh0MFNCNlFrVGlVUkRieGRadWswMU1IRkozM0x4MmdGTk1ncnByNHUwOTlWZEo3cjllb2RSdE84eEZyaE5xemV5VDR2R0I4THhjZGVBcmZySUoxYkVzamd2Qm5JZGNLRXVnS1FEU01Sb2RFMEVZc0pBVXdTYmpFRllZQ0ZmWTRhNngzdw?oc=5",
+    "source": "primetimer.com",
+    "published": "2026-11-15T07:04:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance Sued Again: Consumers Target DC Shakeup, Cost Cuts, Streaming Combo In Refiled Antitrust Suit",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGZRUUFJbzRySy1PUmdsV1dDNG8xUjhjbm5wUE9leTVKQm1wODN3ZFJteE92aG56Z1kxRUxWTm5LOVVPbEV6NVhjQnp4Z2dSRjg1dzlFUlM3dExNY044dkpVcmJsV2dORTlXTUdBdFliTlJQR1hjMGpZMmlpNWJQQnphbVJucTNhQXIwQ3pXYUlUZDdzOTBkQTdCV25XbjU3RTZVWXNNOTU4bDlBUFY3aUVoTDNpdWd1Yml5RFB3aTNORDU1VHI1cFAzamV2TWtidDRrYWl3NlA?oc=5",
+    "source": "TV News Check",
+    "published": "2026-11-14T23:45:47+00:00",
+    "official": false
+   },
+   {
+    "title": "HBO Max-Paramount+ Bundle Targeted by Subscribers in Lawsuit Challenging Megamerger",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb09DSVBHUHR5dkVQNVFJM1VEX0czaUNlVUY5VzZ4S0s1bUNyS3ZhVXJON3VhNnduLUgzYXpXT3RqZmZRaTZHRG9QTXZIT3hSYlg2WGlGYk9SekhMbVFDaHZndkZPQ3VFR3lVLThaX2xsemk3ZGZKTzBQUmRYOVJqdXZmMkR6bUV1dkVMZlBOVFFDRVNWbVc4TklISzZnSFBvMnNj?oc=5",
+    "source": "The Hollywood Reporter",
+    "published": "2026-11-13T19:27:32+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance Office Consolidation Targets $2.2B in Savings",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUgxVW1RcnBkam1JOU9BWDRFRDBucTNGSmM0clZneVhaU2VmTWJpaHRhQzNUNUtsM3JZVjRlX2IxU1ZIVzd4Sm1EelU2eld5TGZ1bzRPRXdqVkpwU2NEQkpEMGZ1WDBidmp2N0RwMzc3VS1MeGNOczFaTUhPUHJCSUIyR3hQOV9OSWFnNVJpMm5IM0dzb2Z0SjY5UkZxS1ZLMHVF?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-11-13T16:38:46+00:00",
+    "official": false
+   },
+   {
+    "title": "News | Skydance targets leased offices as it looks to consolidate real estate",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0toNGZmeWRURjVPTzI3V3NMVllrd19IczQ3TjREUDh6SG0tM0c3ZFlBTU1nanN0NmdsbDJYNlhEZ0RRUFlYWFhHWnBKenNGUVk4T1NkN3kyUUpCU052RDlZb3U0cnZRNGF3NkhQM05tSW5kQVRySHhQOHhsQjdTUWJPeUs3VWJoNWJnNHA2V29VZVNRVFZYSmR3a2toSHhhemhBNm81dllubllTSFZsVDNB?oc=5",
+    "source": "CoStar",
+    "published": "2026-11-12T00:39:19+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance Finds ‘Tens of Millions’ In WBD Luxury Spending As Layoffs Near (Report)",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HOUZBZm12N3JzMGZOTjNXaURXcFh5QXRnTHNtLXR1cGE0dVlqQTZLcnFQRHA3SE42UWJiY01hNG1jVk9WaHAwdEMyMzAwcEh1SUtmSXRUX3ZNelVIZTByeVhn?oc=5",
+    "source": "Cosmic Book News",
+    "published": "2026-11-11T18:41:09+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance Plans $6 Billion in Cuts After Warner Bros. Merger",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEZSTWgtZy1XdEdNeDVXY1d0dFBUbjNMQmN2ZWxkd084b2ZoZFBqTnk4Y1h2S2pLbU1uLTZtOHQxenpNZ3U0RW1OeU1iSENEcEwtVEhLM1g4NXBkNlNCcXFUQlRFbk12UmlfeUNLQ1ZWWkdHMHpEa0RrNnE1RlN4cjF1U19Lc0VEMEZBVGg2NnNRX2NDVWNlSXFDWXpTMVlTNHpJZHZNWDhsV185?oc=5",
+    "source": "LAmag",
+    "published": "2026-11-11T18:04:25+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance’s Hollywood Cost-Cutting Push Is Bigger Than Planned, and Layoffs Are Coming",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXNnQVY4RFhzVV93Y0hxaUJhaHI2NU1oeDdZNS13T2k2UlphTlA0eGJoTTMxRnNWanFjQkJSa0gxRjNjT2I4WEh1Vlo2NlI3QzlHMUhZdGVtVzQzMlI1Q21GX2ZCaWhfSVNpUjU4ZEtXLTFfMU5fYXlEakl4VWxLamhlSmhCZG9ITUJxblhpVkNZOFNvTWVJMWZ5dzBnUGFZc2hyV0dwTnZ6bElwNWQzQTFR?oc=5",
+    "source": "Comic Basics",
+    "published": "2026-11-11T17:27:36+00:00",
+    "official": false
+   },
+   {
+    "title": "Skydance Shares Fall 9% as Warner Bros. Films Weigh on Earnings",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORWpZZUYtWlhfcUxRSzdoanloS2dXR1F5Y3VOcS1Jbm95U0VuU2dMMTgySEYxdnVMVDdtMDhwQXpHRjlBRU9FZGZjYjBRNThGZFNaSHI5SGE2X3JtYktDakljVHA4cTNNcW5MSnk1VXNxRTViaXJsS05jZUlLNXAzVVRFSTBMZC1xWml4X2o3TQ?oc=5",
+    "source": "JournalArta",
+    "published": "2026-11-11T01:12:29+00:00",
+    "official": false
+   }
+  ]
  },
  "Versant": {
   "results_found": true,
@@ -765,12 +888,12 @@
  "Bally's": {
   "results_found": true,
   "period_label": "Q3 2026",
-  "fiscal_label": "Q3 2026",
+  "fiscal_label": null,
   "period_end": "2026-09-30",
-  "results_date": "2026-11-09",
-  "headline": "Bally's reported preliminary Q3 2026 revenue of $807.6 million, up 21.7% YoY.",
+  "results_date": "2026-11-16",
+  "headline": "Bally's reports consolidated revenue of $807.6 million, up 21.7% YoY, driven by strong growth in its Intralot B2C and North America Interactive segments.",
   "metrics": {
-   "revenue_m": 807.6,
+   "revenue_m": 807.558,
    "revenue_growth_yoy_pct": 21.7,
    "operating_income_m": null,
    "operating_margin_pct": null,
@@ -783,79 +906,76 @@
    {
     "name": "Casinos & Resorts",
     "trend": "Up",
-    "note": "Revenue $408.6 m, +3.2% YoY"
+    "note": "Revenue $408.6 million, up 3.2% YoY"
    },
    {
-    "name": "Bally’s Intralot B2C",
+    "name": "Intralot B2C",
     "trend": "Up",
-    "note": "Revenue $257.5 m, +22.8% YoY"
+    "note": "Revenue $257.5 million, up 22.8% YoY"
    },
    {
     "name": "North America Interactive",
     "trend": "Up",
-    "note": "Revenue $62.7 m, +25.6% YoY"
+    "note": "Revenue $62.7 million, up 25.6% YoY"
    }
   ],
   "highlights": [
-   "Consolidated revenue rose 21.7% to $807.6 million.",
-   "Strong growth in Intralot B2C (+22.8%) and North America Interactive (+25.6%).",
-   "Casinos & Resorts revenue increased modestly (+3.2%).",
-   "Closed $400 million Bronx financing with an additional $160 million available."
+   "Consolidated revenue rose 21.7% to $807.6 million",
+   "Intralot B2C grew 22.8% YoY",
+   "North America Interactive grew 25.6% YoY",
+   "Closed $400 million term loan plus $160 million delayed‑draw for the Bronx project",
+   "Chicago casino construction on schedule for a 2027 opening"
   ],
-  "management_view": "Management said the quarter was solid with revenue up 21.7% and execution improving across all segments.",
-  "risks": [],
+  "management_view": "Management said the quarter showed solid revenue growth across all segments and that technology investments are beginning to deliver benefits.",
+  "risks": [
+   "Regulatory and licensing hurdles affecting acquisitions",
+   "Potential delays in large development projects",
+   "High debt load from financing large casino builds"
+  ],
   "sentiment": "Positive",
-  "sentiment_reason": "Revenue and segment growth exceeded prior year.",
+  "sentiment_reason": "Revenue growth across all segments and progress on major projects",
   "it_signals": [
    {
-    "type": "Other",
-    "detail": "Closed $400 million financing for the Bronx project with $160 million additional draw capacity.",
+    "type": "AI & tech investment",
+    "detail": "Starting to observe benefits from technology investments and automation initiatives",
     "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm",
     "source": "8-K",
-    "published": "2026-11-09"
-   },
-   {
-    "type": "M&A / spin-off",
-    "detail": "Inclusion of Sam’s Town Shreveport acquired during the quarter.",
-    "source_id": 1,
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
-    "source": "8-K",
-    "published": "2026-11-09"
+    "published": "2026-11-16"
    }
   ],
-  "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit technology‑spending guidance was provided.",
+  "it_spend_outlook": "Expanding",
+  "it_spend_reason": "Management highlighted ongoing technology investments and expected near‑term economies of scale.",
   "talking_points": [
-   "Revenue growth driven by digital B2C and interactive wagering – potential for further tech investment.",
-   "Bronx financing indicates capital availability for future projects or platform upgrades.",
-   "Recent acquisition of Sam’s Town Shreveport could create integration and technology integration opportunities."
+   "Discuss how Bally's technology stack can support scaling of its North America Interactive digital wagering platform.",
+   "Explore opportunities to partner on cloud and data analytics for the upcoming Chicago casino launch.",
+   "Assess vendor options for the technology components of the Bronx integrated casino project."
   ],
   "unverified_dropped": [],
   "sources": [
    {
     "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm",
     "source": "8-K",
-    "published": "2026-11-09",
+    "published": "2026-11-16",
     "official": true
    }
   ],
   "company": "Bally's",
   "mode": "results",
-  "analysed_at": "2026-11-09T22:16:50+00:00",
+  "analysed_at": "2026-11-16T23:30:17+00:00",
   "release": {
    "form": "8-K",
-   "filed": "2026-11-09",
-   "accepted": "2026-11-09T21:48:18.000Z",
-   "accession": "0001747079-26-000096",
-   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096/ex991q32026prelimearningsr.htm",
+   "filed": "2026-11-16",
+   "accepted": "2026-11-16T21:22:53.000Z",
+   "accession": "0001747079-26-000106",
+   "url": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106/ex991q32026earningsrelease.htm",
    "title": "Bally's Corporation 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000096",
-   "published": "2026-11-09"
+   "index": "https://www.sec.gov/Archives/edgar/data/1747079/000174707926000106",
+   "published": "2026-11-16"
   },
-  "release_key": "0001747079-26-000096",
-  "signals_at": "2026-11-09T22:16:50+00:00"
+  "release_key": "0001747079-26-000106",
+  "signals_at": "2026-11-16T23:30:17+00:00"
  },
  "Light & Wonder": {
   "results_found": true,
@@ -1744,23 +1864,23 @@
   "signals_at": "2026-11-11T18:53:53+00:00"
  },
  "ACT": {
-  "headline": "ACT test scores show mixed state trends with notable retake improvements",
+  "headline": "ACT scores show mixed state trends with declines in Georgia and gains in Utah and Wyoming",
   "highlights": [
-   "Georgia ACT scores decreased (source 2)",
-   "Utah high school graduates ACT scores rose (source 3)",
-   "Wyoming students rank second nationally among states with 100% testing (source 4)",
-   "One in three test‑takers retook the exam and raised their scores (source 6)"
+   "Georgia ACT scores decreased",
+   "Utah high school graduates' ACT scores rose",
+   "Wyoming students ranked second nationally with 100% testing rates",
+   "New review lists top six ACT test‑prep courses"
   ],
   "risks": [
-   "Declining scores in some states could affect test demand"
+   "Potential drop in testing volume in states with declining scores"
   ],
   "sentiment": "Neutral",
-  "sentiment_reason": "Mixed performance data without clear growth or decline",
+  "sentiment_reason": "Mixed performance across states",
   "segments": [
    {
     "name": "Testing volumes",
     "trend": "Mixed",
-    "note": "State score changes suggest variable participation"
+    "note": "State score changes may affect participation"
    },
    {
     "name": "Digital testing",
@@ -1772,8 +1892,8 @@
   "it_spend_outlook": "Unclear",
   "it_spend_reason": "No information on technology investments or cost changes",
   "talking_points": [
-   "Discuss how state score trends might influence ACT's digital testing roadmap",
-   "Explore opportunities to support ACT's retake program with analytics or AI‑driven score prediction tools"
+   "Discuss how state score trends could impact ACT's demand for digital testing platforms",
+   "Explore opportunities to support ACT's test‑prep ecosystem with technology solutions"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1781,35 +1901,35 @@
     "title": "Georgia ACT scores decrease",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fQXJScUY1QzFOdjJSTUhmMzlOSDVTLTJ1cEREVWxmUnlYdlpyUGM2c2NtRmxyWFdYMmVoWXNYM3hRdUNDYUYwRHRuLXg5WHlXRzBsRnFmalp4MFVvZlhTTzJPMHdpLVBZcmdWZzlSUlpvaTV2NEQ2ZA?oc=5",
     "source": "The Christian Index",
-    "published": "2026-10-23T13:30:00+00:00",
+    "published": "2026-10-23T07:00:00+00:00",
     "official": false
    },
    {
     "title": "Utah high school graduates ACT scores on the rise",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEFBWjFiYWg3dmQwUzd2YnRmUGQtSTBUOTl4eUd3YkhtR0F4MlExWGhzT3ZKTEo2QWphNWxYeldLdXJaS0t1R2JEa2ZkTmxVZVctRmFPOFZ3czhpMFE3TXR1UFRVWkg2ejRrUjdzVmw2bWJSTE5jV2lfb2FrMkpTM2J3alB3OE1Uc3VMa3p1QThScmgxNjlzVDVoWGE?oc=5",
     "source": "KPCW",
-    "published": "2026-10-22T23:08:00+00:00",
+    "published": "2026-10-22T07:00:00+00:00",
     "official": false
    },
    {
     "title": "Wyoming students' ACT scores in second place nationally, among states with 100% testing rates",
-    "link": "https://www.yahoo.com/news/us/articles/wyoming-students-act-scores-second-035900628.html",
-    "source": "yahoo.com",
-    "published": "2026-10-22T20:59:00+00:00",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONkdDQjRLVWlXUXhPWV9iSzNqOE9rb0NZU01NUVVzZmV2MDhwbzNIOEtOQ1FvNnoyY3BvVU5OVVNES2FEVVBTWnh6NjFVUEc3TnVmSmNMR05kX091ZTdaUHA5SkFlRVVlaVM0NnRCT0dSQVZJdUNXM283bzYtWTdUelNOcXlPTDJtMEhONXRVV1ZIV2J1RG9naF95T0dhZ0thMG8zVzFSV3lkUDdZbWRkRVN0SjdacUhyaWFLcU1NTkxMREpsZ3FpWnd4bGRNR0VmU1ZER09MRzJMN1BtLXVsbmpVZVNTb0lUZ09YRC1wR3RMSm9aZVQyMTN6c1pSeHFnQ0hrS1JWRDlUbUF3Y1NPc1dB?oc=5",
+    "source": "WyomingNews.com",
+    "published": "2026-10-22T07:00:00+00:00",
     "official": false
    },
    {
-    "title": "1 in 3 ACT test-takers retook the exam — and raised their scores",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmRzNFR1c3VmMlFJVTQzY2s1bEk1N1NmMTRocnhPVEFKeWRkNUhzRGlKTkh2NFVjNjVMdzhta0FrcnkydlFlRGZNcGdkbzlSaGZKaEREYXBwdU9NX0lZMVEzX2JHZVYtVWpDckZLamxYSlRUdERtZ1d6TUlFYjA0ZFRvQTRSREplbDdkbFZWX1JvREJ0SUVUQ2hzODdqQWY2?oc=5",
-    "source": "K-12 Dive",
-    "published": "2026-10-14T07:00:00+00:00",
+    "title": "Top 6 Best ACT Test Prep Courses Reviewed",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03bVJQMG9PdjJCbVNyUElSWlJVMnZ0aDR5VWhoOTl4SXJCUHR3U213ZFo3SFlQTFd4U2lDR1hQQTkwUmI1NjY1blpaaExRejY3LXQ0QzdGenRRZUpWd1luS3FVWkJqZG1YWC1vdWhoMGtwazJ2MHBr?oc=5",
+    "source": "Sacramento Bee",
+    "published": "2026-11-11T08:00:00+00:00",
     "official": false
    }
   ],
   "company": "ACT",
   "mode": "signals",
-  "analysed_at": "2026-10-28T01:34:22+00:00",
+  "analysed_at": "2026-11-16T23:30:43+00:00",
   "guidance_change": null,
-  "signals_at": "2026-10-28T01:34:22+00:00"
+  "signals_at": "2026-11-16T23:30:43+00:00"
  }
 }
