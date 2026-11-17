@@ -2,15 +2,15 @@
  "Disney": {
   "release": {
    "form": "8-K",
-   "filed": "2026-08-05",
-   "accepted": "2026-08-05T10:30:54.000Z",
-   "accession": "0001744489-26-000056",
-   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056/fy2026_q3xerxex991.htm",
+   "filed": "2026-11-17",
+   "accepted": "2026-11-17T11:30:22.000Z",
+   "accession": "0001744489-26-000065",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/fy2026_q4xerxex991.htm",
    "title": "The Walt Disney Company 8-K earnings release (Item 2.02)",
-   "index": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000056",
-   "published": "2026-08-05"
+   "index": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065",
+   "published": "2026-11-17"
   },
-  "xbrl_accession": "0001744489-26-000057",
+  "xbrl_accession": "0001744489-26-000066",
   "next_results": "2026-11-17"
  },
  "WBD / Skydance": {

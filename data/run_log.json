@@ -1,5 +1,24 @@
 [
  {
+  "started": "2026-11-17T19:58:49+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: Disney, Versant, Brightstar (IGT)",
+   "Disney: 0 documents from the company's results page",
+   "Wolters Kluwer: 0 documents from the company's results page",
+   "account updates written: Disney"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-11-17T20:05:32+00:00",
+  "ai_calls": 11,
+  "ai_tokens": 37587
+ },
+ {
   "started": "2026-11-17T14:54:36+00:00",
   "part": "daily",
   "steps": [
@@ -652,24 +671,6 @@
    "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
   ],
   "finished": "2026-11-09T15:23:11+00:00",
-  "ai_calls": 0,
-  "ai_tokens": 0
- },
- {
-  "started": "2026-11-09T12:27:31+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: none",
-   "Wolters Kluwer: 0 documents from the company's results page",
-   "account updates written: none"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-11-09T12:29:36+00:00",
   "ai_calls": 0,
   "ai_tokens": 0
  }

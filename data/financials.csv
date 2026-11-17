@@ -397,6 +397,9 @@ Disney,DIS,2026-03-28,Q1 2026,3,revenue,25168.0,USD,SEC XBRL 10-Q
 Disney,DIS,2026-06-27,Q2 2026,3,net_income,2638.0,USD,SEC XBRL 10-Q
 Disney,DIS,2026-06-27,Q2 2026,3,operating_income,5555.0,USD,SEC XBRL 10-Q
 Disney,DIS,2026-06-27,Q2 2026,3,revenue,25248.0,USD,SEC XBRL 10-Q
+Disney,,2026-10-03,Q3 2026,3,net_income,2612.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2026-10-03,Q3 2026,3,operating_income,4970.0,USD,SEC XBRL 10-K (full year minus 9 months)
+Disney,,2026-10-03,Q3 2026,3,revenue,25947.0,USD,SEC XBRL 10-K (full year minus 9 months)
 Light & Wonder,,2009-06-30,Q2 2009,3,net_income,20.35,USD,SEC XBRL 10-Q
 Light & Wonder,,2009-06-30,Q2 2009,3,operating_income,26.53,USD,SEC XBRL 10-Q
 Light & Wonder,,2009-06-30,Q2 2009,3,revenue,225.03,USD,SEC XBRL 10-Q
