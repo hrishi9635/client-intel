@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:56:44+00:00",
+ "updated": "2026-11-18T14:34:41+00:00",
  "titles": [
   {
    "key": "tv-1413",
@@ -21,9 +21,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 2314.8,
-   "tmdb_vote": 8.1,
-   "tmdb_votes": 6305,
+   "popularity": 1907.6,
+   "tmdb_vote": 8.079,
+   "tmdb_votes": 6307,
    "imdb_id": "tt1844624",
    "tmdb_url": "https://www.themoviedb.org/tv/1413",
    "tmdb_reviews": [
@@ -46,11 +46,11 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "57881034d956",
+   "input_hash": "180452bbbf6f",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
+    "audience_sentiment": "Positive",
+    "audience_score": 70,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
@@ -60,11 +60,11 @@
     "complaints": [],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Viewers note the show’s ambitious themes but are split on execution.",
+    "summary": "Viewers appreciate the show's thematic depth and relevance.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-16T14:00:24+00:00"
+    "analysed_at": "2026-11-18T14:34:15+00:00"
    }
   },
   {
@@ -85,9 +85,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 1918.4,
-   "tmdb_vote": 7.2,
-   "tmdb_votes": 4090,
+   "popularity": 1865.5,
+   "tmdb_vote": 7.218,
+   "tmdb_votes": 4102,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -122,7 +122,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a37dbaeff85d",
+   "input_hash": "7f634865769f",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -168,9 +168,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1471.7,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 11178,
+   "popularity": 1389.9,
+   "tmdb_vote": 8.029,
+   "tmdb_votes": 11183,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -205,7 +205,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "cd311c0481b1",
+   "input_hash": "fbacd5afd849",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -251,9 +251,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 694.2,
+   "popularity": 532.5,
    "tmdb_vote": 8.2,
-   "tmdb_votes": 11140,
+   "tmdb_votes": 11142,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -282,7 +282,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1341957022cc",
+   "input_hash": "ffc7aa477103",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
@@ -324,9 +324,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 555.4,
-   "tmdb_vote": 7.7,
-   "tmdb_votes": 938,
+   "popularity": 507.5,
+   "tmdb_vote": 7.717,
+   "tmdb_votes": 988,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -361,7 +361,7 @@
    "metascore": 66.0,
    "box_office_usd": 67176594.0,
    "trade": [],
-   "input_hash": "c2a41694f64b",
+   "input_hash": "28f8738c38ef",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -405,9 +405,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 421.9,
-   "tmdb_vote": 8.665,
-   "tmdb_votes": 1260,
+   "popularity": 407.5,
+   "tmdb_vote": 8.667,
+   "tmdb_votes": 1266,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -436,7 +436,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "eb780427033b",
+   "input_hash": "0a664801520e",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -481,9 +481,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 333.5,
+   "popularity": 328.3,
    "tmdb_vote": 8.5,
-   "tmdb_votes": 6924,
+   "tmdb_votes": 6940,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -517,16 +517,8 @@
    "rt": null,
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
-   "trade": [
-    {
-     "title": "‘Spider-Man: Brand New Day’ Returning to Theaters with a New Rosario Dawson Cameo — and Box Office Records and Oscar Noms in Mind",
-     "link": "https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/",
-     "source": "IndieWire",
-     "published": "2026-11-16",
-     "snippet": "The extended version of the mega blockbuster opens December 4, and tickets go on sale November 19."
-    }
-   ],
-   "input_hash": "45427f3023a6",
+   "trade": [],
+   "input_hash": "9953cd3d6c4c",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -553,6 +545,40 @@
    }
   },
   {
+   "key": "tv-2224",
+   "kind": "tv",
+   "tmdb_id": 2224,
+   "title": "The Daily Show",
+   "studio": "Paramount Pictures",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Comedy Central",
+    "Comedy Central",
+    "MTV Entertainment Studios",
+    "Ark Angel",
+    "Busboy Productions"
+   ],
+   "release_date": "2026-10-22",
+   "first_air_date": "1996-07-22",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+   "popularity": 267.1,
+   "tmdb_vote": 6.427,
+   "tmdb_votes": 681,
+   "imdb_id": "tt0115147",
+   "tmdb_url": "https://www.themoviedb.org/tv/2224",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.3,
+   "imdb_votes": 49905.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "bb612eb378ab"
+  },
+  {
    "key": "tv-213375",
    "kind": "tv",
    "tmdb_id": 213375,
@@ -570,9 +596,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
    "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-   "popularity": 287.4,
-   "tmdb_vote": 8.324,
-   "tmdb_votes": 511,
+   "popularity": 256.5,
+   "tmdb_vote": 8.282,
+   "tmdb_votes": 532,
    "imdb_id": "tt23112594",
    "tmdb_url": "https://www.themoviedb.org/tv/213375",
    "tmdb_reviews": [
@@ -595,14 +621,16 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "11e89c6895af",
+   "input_hash": "29312709749e",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
     "audience_score": -60,
-    "critics_vs_audience": "Unclear",
+    "critics_vs_audience": "Aligned",
     "gap_note": null,
-    "praises": [],
+    "praises": [
+     "interesting episode one"
+    ],
     "complaints": [
      "vague criticisms",
      "dumbest execution",
@@ -610,80 +638,12 @@
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Audience finds the series confusing and poorly paced.",
+    "summary": "Audience finds the series confusing and poorly executed.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-16T14:00:24+00:00"
+    "analysed_at": "2026-11-18T14:34:15+00:00"
    }
-  },
-  {
-   "key": "tv-4656",
-   "kind": "tv",
-   "tmdb_id": 4656,
-   "title": "Raw",
-   "studio": "USA Network",
-   "parent": "Versant",
-   "group": "Tracked companies",
-   "companies": [
-    "USA Network",
-    "Spike",
-    "Netflix",
-    "The New TNN",
-    "WWE Home Video"
-   ],
-   "release_date": "2026-11-02",
-   "first_air_date": "1993-01-11",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 274.0,
-   "tmdb_vote": 6.728,
-   "tmdb_votes": 386,
-   "imdb_id": "tt0185103",
-   "tmdb_url": "https://www.themoviedb.org/tv/4656",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.7,
-   "imdb_votes": 11088.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "968eb183d1d0"
-  },
-  {
-   "key": "tv-2224",
-   "kind": "tv",
-   "tmdb_id": 2224,
-   "title": "The Daily Show",
-   "studio": "Paramount Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Comedy Central",
-    "Comedy Central",
-    "MTV Entertainment Studios",
-    "Ark Angel",
-    "Busboy Productions"
-   ],
-   "release_date": "2026-10-22",
-   "first_air_date": "1996-07-22",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 270.7,
-   "tmdb_vote": 6.424,
-   "tmdb_votes": 681,
-   "imdb_id": "tt0115147",
-   "tmdb_url": "https://www.themoviedb.org/tv/2224",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.3,
-   "imdb_votes": 49905.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "045b3530a3d5"
   },
   {
    "key": "tv-153312",
@@ -705,9 +665,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 260.0,
-   "tmdb_vote": 8.321,
-   "tmdb_votes": 2961,
+   "popularity": 253.5,
+   "tmdb_vote": 8.322,
+   "tmdb_votes": 2963,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -736,7 +696,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "29de1dc799fe",
+   "input_hash": "0a788eaac576",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -762,68 +722,98 @@
    }
   },
   {
-   "key": "movie-1813355",
-   "kind": "movie",
-   "tmdb_id": 1813355,
-   "title": "A Story of Derry",
-   "studio": "Warner Bros. Pictures",
+   "key": "tv-4614",
+   "kind": "tv",
+   "tmdb_id": 4614,
+   "title": "NCIS",
+   "studio": "CBS",
    "parent": "WBD / Skydance",
    "group": "Tracked companies",
    "companies": [
-    "Rideback",
-    "Vertigo Entertainment",
-    "Warner Bros. Television",
-    "FiveTen Productions",
-    "K Plus Ultra"
+    "CBS",
+    "Paramount Television",
+    "Belisarius Productions",
+    "CBS Studios"
    ],
-   "release_date": "2026-10-31",
-   "first_air_date": null,
+   "release_date": "2026-11-10",
+   "first_air_date": "2003-09-23",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
-   "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
-   "popularity": 247.3,
-   "tmdb_vote": 6.664,
-   "tmdb_votes": 131,
-   "imdb_id": "tt50389959",
-   "tmdb_url": "https://www.themoviedb.org/movie/1813355",
+   "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
+   "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+   "popularity": 241.7,
+   "tmdb_vote": 7.6,
+   "tmdb_votes": 2623,
+   "imdb_id": "tt0364845",
+   "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
     {
-     "author": "Sejian",
-     "rating": 4.0,
-     "text": "\"Guys! Guys! Have you heard the good word about the turtle children?!\" They took arguably the best part of It: Chapter 2 - the backstory - and gave us *this*. Yep! That's my review.",
-     "url": "https://www.themoviedb.org/review/6ae8492df9357a3c1ba6efe5"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 8.0,
-     "text": "Expanding on existing lore is always quite difficult because you are constrained by what some offhanded line has portrayed the entire story to be before you even start. To humanize it in a way that lets you engage with the story on screen is difficult, and I think that they did a good job here. There is a reason why the characters act the way they do, and there is genuine tension, even though we know for sure what is bound to happen because it already has.",
-     "url": "https://www.themoviedb.org/review/6af5c6ff212cb13598cc6afa"
+     "author": "drystyx",
+     "rating": 1.0,
+     "text": "Written to depress young men. It seems that Bellisario writes mostly the same depressing and predictable story each time. Everything is contrived to kill women with dark hair and dark eyes. I don't know if he was jilted by too many brunettes as a kid, or if he's just into worship of Hitler and the Nazi ideology. Either way, it makes for a depressing show for any young man. I watched about five of these shows, and it was always the same. He bent over backwards for the Nazi ideology, for whatever ",
+     "url": "https://www.themoviedb.org/review/643eef19aad9c205419f39e9"
     }
    ],
+   "imdb_rating": 7.8,
+   "imdb_votes": 178368.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
    "trade": [],
-   "input_hash": "7a5218408e75",
+   "input_hash": "aaf1ab409dd0",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
+    "audience_sentiment": "Negative",
+    "audience_score": -80,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
-    "praises": [
-     "humanizes the story",
-     "good job expanding lore"
-    ],
+    "praises": [],
     "complaints": [
-     "turtle children joke",
-     "borrowed best part of It"
+     "predictable",
+     "depressing",
+     "contrived"
     ],
-    "buzz": "Medium",
+    "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "A Story of Derry divides viewers, praised for its depth but criticized for derivative elements.",
+    "summary": "Viewers criticize the show as repetitive and overly grim.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-17T14:55:50+00:00"
+    "analysed_at": "2026-11-18T14:34:15+00:00"
    }
+  },
+  {
+   "key": "tv-4656",
+   "kind": "tv",
+   "tmdb_id": 4656,
+   "title": "Raw",
+   "studio": "USA Network",
+   "parent": "Versant",
+   "group": "Tracked companies",
+   "companies": [
+    "USA Network",
+    "Spike",
+    "Netflix",
+    "The New TNN",
+    "WWE Home Video"
+   ],
+   "release_date": "2026-11-02",
+   "first_air_date": "1993-01-11",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "popularity": 239.9,
+   "tmdb_vote": 6.721,
+   "tmdb_votes": 387,
+   "imdb_id": "tt0185103",
+   "tmdb_url": "https://www.themoviedb.org/tv/4656",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.7,
+   "imdb_votes": 11088.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "e4f4085a8527"
   },
   {
    "key": "movie-1003596",
@@ -843,7 +833,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 169.4,
+   "popularity": 176.2,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -893,9 +883,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 2149.4,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4420,
+   "popularity": 2003.1,
+   "tmdb_vote": 7.963,
+   "tmdb_votes": 4423,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -918,7 +908,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "03e00acbd642",
+   "input_hash": "038bc5a9c2c3",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -958,13 +948,13 @@
     "One Three Media",
     "United Artists Media Group"
    ],
-   "release_date": "2026-11-09",
+   "release_date": "2026-11-16",
    "first_air_date": "2011-04-26",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 1567.6,
-   "tmdb_vote": 5.848,
+   "popularity": 1447.0,
+   "tmdb_vote": 5.8,
    "tmdb_votes": 233,
    "imdb_id": "tt1839337",
    "tmdb_url": "https://www.themoviedb.org/tv/37678",
@@ -975,7 +965,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "295ed4e1ad4c"
+   "input_hash": "2bcd37197629"
   },
   {
    "key": "tv-1877",
@@ -995,9 +985,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 1076.1,
+   "popularity": 1312.0,
    "tmdb_vote": 7.9,
-   "tmdb_votes": 1092,
+   "tmdb_votes": 1094,
    "imdb_id": "tt0852863",
    "tmdb_url": "https://www.themoviedb.org/tv/1877",
    "tmdb_reviews": [],
@@ -1007,7 +997,119 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "4cf4d75ff813"
+   "input_hash": "20db4ce50166"
+  },
+  {
+   "key": "movie-1368337",
+   "kind": "movie",
+   "tmdb_id": 1368337,
+   "title": "The Odyssey",
+   "studio": "Universal Pictures",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "Universal Pictures",
+    "Syncopy"
+   ],
+   "release_date": "2026-07-15",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/zG7hzAyqa9KIjM0Yse0bxty4Cq8.jpg",
+   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+   "popularity": 478.6,
+   "tmdb_vote": 8.021,
+   "tmdb_votes": 5058,
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
+     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 10.0,
+     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
+     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
+    },
+    {
+     "author": "AlphaLucifer",
+     "rating": 1.0,
+     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
+     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
+    },
+    {
+     "author": "jwtx",
+     "rating": null,
+     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
+     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 544815.0,
+   "rt": null,
+   "metascore": 88.0,
+   "box_office_usd": 625595435.0,
+   "trade": [],
+   "input_hash": "c188e6e37def",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 0,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "maximalist faithful adaptation",
+     "quiet contemplative note",
+     "amazing IMAX experience"
+    ],
+    "complaints": [
+     "bloated self‑important disaster",
+     "woke DEI nonsense",
+     "overlong 172‑minute runtime"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "hit",
+    "summary": "The Odyssey divides viewers with its faithful epic scope but polarizing length and tone.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-17T14:56:17+00:00"
+   }
+  },
+  {
+   "key": "tv-22980",
+   "kind": "tv",
+   "tmdb_id": 22980,
+   "title": "Watch What Happens Live with Andy Cohen",
+   "studio": "Sony Pictures",
+   "parent": "Sony",
+   "group": "Rest of industry",
+   "companies": [
+    "Bravo",
+    "Embassy Row",
+    "Sony Pictures Television"
+   ],
+   "release_date": "2026-11-16",
+   "first_air_date": "2009-07-16",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+   "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+   "popularity": 451.1,
+   "tmdb_vote": 4.9,
+   "tmdb_votes": 101,
+   "imdb_id": "tt2057880",
+   "tmdb_url": "https://www.themoviedb.org/tv/22980",
+   "tmdb_reviews": [],
+   "imdb_rating": 5.6,
+   "imdb_votes": 1020.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "9e5673ba72cf"
   },
   {
    "key": "tv-82873",
@@ -1026,7 +1128,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/sBix25bie9UQFzbarN51DpFO5ky.jpg",
    "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
-   "popularity": 556.5,
+   "popularity": 437.6,
    "tmdb_vote": 6.227,
    "tmdb_votes": 75,
    "imdb_id": "tt9022950",
@@ -1068,142 +1170,67 @@
    }
   },
   {
-   "key": "tv-12323",
-   "kind": "tv",
-   "tmdb_id": 12323,
-   "title": "Beyond Belief: Fact or Fiction",
-   "studio": "FOX",
-   "parent": "FOX",
-   "group": "Rest of industry",
-   "companies": [
-    "FOX",
-    "Dick Clark Productions"
-   ],
-   "release_date": "2002-09-05",
-   "first_air_date": "1997-05-25",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
-   "overview": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences are chronicled during each episode. It is up to the viewer to decide which stories actually happened and which were completely fabricated by the show’s writers. The answer is revea",
-   "popularity": 492.8,
-   "tmdb_vote": 7.3,
-   "tmdb_votes": 65,
-   "imdb_id": "tt0138956",
-   "tmdb_url": "https://www.themoviedb.org/tv/12323",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.9,
-   "imdb_votes": 6134.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "a36ff23c6e79"
-  },
-  {
-   "key": "tv-22980",
-   "kind": "tv",
-   "tmdb_id": 22980,
-   "title": "Watch What Happens Live with Andy Cohen",
-   "studio": "Sony Pictures",
-   "parent": "Sony",
-   "group": "Rest of industry",
-   "companies": [
-    "Bravo",
-    "Embassy Row",
-    "Sony Pictures Television"
-   ],
-   "release_date": "2026-11-10",
-   "first_air_date": "2009-07-16",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
-   "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 463.1,
-   "tmdb_vote": 4.901,
-   "tmdb_votes": 101,
-   "imdb_id": "tt2057880",
-   "tmdb_url": "https://www.themoviedb.org/tv/22980",
-   "tmdb_reviews": [],
-   "imdb_rating": 5.6,
-   "imdb_votes": 1020.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "7a39c4afebd0"
-  },
-  {
-   "key": "movie-1368337",
+   "key": "movie-1400837",
    "kind": "movie",
-   "tmdb_id": 1368337,
-   "title": "The Odyssey",
-   "studio": "Universal Pictures",
-   "parent": "Comcast (NBCUniversal)",
+   "tmdb_id": 1400837,
+   "title": "Other Mommy",
+   "studio": "Spin a Black Yarn",
+   "parent": "Spin a Black Yarn",
    "group": "Rest of industry",
    "companies": [
-    "Universal Pictures",
-    "Syncopy"
+    "Spin a Black Yarn",
+    "Blumhouse Atomic"
    ],
-   "release_date": "2026-07-15",
+   "release_date": "2026-10-07",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 457.1,
-   "tmdb_vote": 8.026,
-   "tmdb_votes": 4999,
-   "imdb_id": "tt33764258",
-   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+   "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+   "popularity": 411.8,
+   "tmdb_vote": 6.4,
+   "tmdb_votes": 494,
+   "imdb_id": "tt36586020",
+   "tmdb_url": "https://www.themoviedb.org/movie/1400837",
    "tmdb_reviews": [
     {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
-     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+     "author": "CinemaSerf",
+     "rating": 5.0,
+     "text": "We could have had Legosi, or even Bartok, but no - this \"Bela\" (Arabella Olivia Clark) is just an ordinary little girl growing up in, yep you've already guessed - a family with some secrets to keep. Her \"Daddo\" (Jay Duplass) does most of her rearing as successful mommy (Jessica Chastain) is out making a good living for them all. It turns out, though, that it isn't just the parents who have secrets, \"Bela\" has one too - and it inhabits her closet. What becomes clear is that the young lass feels a",
+     "url": "https://www.themoviedb.org/review/6acfa74c72e8c5bdfb59f060"
     },
     {
-     "author": "Manuel São Bento",
-     "rating": 10.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
-     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
-    },
-    {
-     "author": "AlphaLucifer",
-     "rating": 1.0,
-     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
-     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
-    },
-    {
-     "author": "jwtx",
-     "rating": null,
-     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
-     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
+     "author": "Sierbahnn",
+     "rating": 7.0,
+     "text": "When I was watching this movie, I kept thinking of Poltergeist. The plot is similar enough to Poltergeist to make the comparison. Only in this one they actually believe the kid straight off the bat, which is refreshing and works quite well. It is a very spooky movie and it does play very well. It's well acted and well produced, and some of the violence feels very earned when you get to the twist at the end. I really did enjoy this movie, and I think that you will too.",
+     "url": "https://www.themoviedb.org/review/6ad09a712d9f82a489b8e352"
     }
    ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 544815.0,
+   "imdb_rating": null,
+   "imdb_votes": null,
    "rt": null,
-   "metascore": 88.0,
-   "box_office_usd": 625595435.0,
+   "metascore": null,
+   "box_office_usd": null,
    "trade": [],
-   "input_hash": "6f5ee3f37c77",
+   "input_hash": "620cf8d916ff",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 0,
+    "audience_score": -10,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "maximalist faithful adaptation",
-     "quiet contemplative note",
-     "amazing IMAX experience"
+     "spooky atmosphere",
+     "well‑acted cast",
+     "earned violence"
     ],
     "complaints": [
-     "bloated self‑important disaster",
-     "woke DEI nonsense",
-     "overlong 172‑minute runtime"
+     "ordinary protagonist premise",
+     "family secrets feel forced",
+     "comparisons to Poltergeist"
     ],
-    "buzz": "High",
-    "box_office_verdict": "hit",
-    "summary": "The Odyssey divides viewers with its faithful epic scope but polarizing length and tone.",
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "Other Mommy offers a spooky, well‑acted tale but struggles with a conventional story and mixed audience reactions.",
     "unverified_dropped": [
      "key"
     ],
@@ -1230,9 +1257,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 450.7,
-   "tmdb_vote": 7.508,
-   "tmdb_votes": 2291,
+   "popularity": 401.0,
+   "tmdb_vote": 7.5,
+   "tmdb_votes": 2335,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -1267,7 +1294,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "fc7e4d48f161",
+   "input_hash": "1a3c11a8d439",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1294,74 +1321,6 @@
    }
   },
   {
-   "key": "movie-1400837",
-   "kind": "movie",
-   "tmdb_id": 1400837,
-   "title": "Other Mommy",
-   "studio": "Spin a Black Yarn",
-   "parent": "Spin a Black Yarn",
-   "group": "Rest of industry",
-   "companies": [
-    "Spin a Black Yarn",
-    "Blumhouse Atomic"
-   ],
-   "release_date": "2026-10-07",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-   "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-   "popularity": 421.2,
-   "tmdb_vote": 6.4,
-   "tmdb_votes": 468,
-   "imdb_id": "tt36586020",
-   "tmdb_url": "https://www.themoviedb.org/movie/1400837",
-   "tmdb_reviews": [
-    {
-     "author": "CinemaSerf",
-     "rating": 5.0,
-     "text": "We could have had Legosi, or even Bartok, but no - this \"Bela\" (Arabella Olivia Clark) is just an ordinary little girl growing up in, yep you've already guessed - a family with some secrets to keep. Her \"Daddo\" (Jay Duplass) does most of her rearing as successful mommy (Jessica Chastain) is out making a good living for them all. It turns out, though, that it isn't just the parents who have secrets, \"Bela\" has one too - and it inhabits her closet. What becomes clear is that the young lass feels a",
-     "url": "https://www.themoviedb.org/review/6acfa74c72e8c5bdfb59f060"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 7.0,
-     "text": "When I was watching this movie, I kept thinking of Poltergeist. The plot is similar enough to Poltergeist to make the comparison. Only in this one they actually believe the kid straight off the bat, which is refreshing and works quite well. It is a very spooky movie and it does play very well. It's well acted and well produced, and some of the violence feels very earned when you get to the twist at the end. I really did enjoy this movie, and I think that you will too.",
-     "url": "https://www.themoviedb.org/review/6ad09a712d9f82a489b8e352"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "2abe5945f20d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": -10,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "spooky atmosphere",
-     "well‑acted cast",
-     "earned violence"
-    ],
-    "complaints": [
-     "ordinary protagonist premise",
-     "family secrets feel forced",
-     "comparisons to Poltergeist"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Other Mommy offers a spooky, well‑acted tale but struggles with a conventional story and mixed audience reactions.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-17T14:56:17+00:00"
-   }
-  },
-  {
    "key": "tv-59941",
    "kind": "tv",
    "tmdb_id": 59941,
@@ -1380,9 +1339,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 332.6,
-   "tmdb_vote": 5.8,
-   "tmdb_votes": 401,
+   "popularity": 377.8,
+   "tmdb_vote": 5.817,
+   "tmdb_votes": 402,
    "imdb_id": "tt3444938",
    "tmdb_url": "https://www.themoviedb.org/tv/59941",
    "tmdb_reviews": [
@@ -1399,27 +1358,58 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6a669349d8b2",
+   "input_hash": "6c45b32ffcc3",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
-    "audience_score": -70,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
+    "audience_score": -60,
+    "critics_vs_audience": "Audience higher",
+    "gap_note": "critics rate lower",
     "praises": [],
     "complaints": [
      "not funny",
      "not entertaining",
-     "backroom deals"
+     "bad memes"
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "Viewers criticize the show as unfunny and driven by questionable decisions.",
+    "summary": "The show is widely criticized as unfunny and poorly entertaining.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-10T06:38:15+00:00"
+    "analysed_at": "2026-11-18T14:34:41+00:00"
    }
+  },
+  {
+   "key": "tv-12323",
+   "kind": "tv",
+   "tmdb_id": 12323,
+   "title": "Beyond Belief: Fact or Fiction",
+   "studio": "FOX",
+   "parent": "FOX",
+   "group": "Rest of industry",
+   "companies": [
+    "FOX",
+    "Dick Clark Productions"
+   ],
+   "release_date": "2002-09-05",
+   "first_air_date": "1997-05-25",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+   "overview": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences are chronicled during each episode. It is up to the viewer to decide which stories actually happened and which were completely fabricated by the show’s writers. The answer is revea",
+   "popularity": 321.0,
+   "tmdb_vote": 7.235,
+   "tmdb_votes": 66,
+   "imdb_id": "tt0138956",
+   "tmdb_url": "https://www.themoviedb.org/tv/12323",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.9,
+   "imdb_votes": 6134.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "d896708ece77"
   },
   {
    "key": "movie-1058424",
@@ -1439,9 +1429,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalatin",
-   "popularity": 270.1,
-   "tmdb_vote": 6.8,
-   "tmdb_votes": 696,
+   "popularity": 250.3,
+   "tmdb_vote": 6.835,
+   "tmdb_votes": 711,
    "imdb_id": "tt27369017",
    "tmdb_url": "https://www.themoviedb.org/movie/1058424",
    "tmdb_reviews": [
@@ -1476,7 +1466,7 @@
    "metascore": 66.0,
    "box_office_usd": 2647000.0,
    "trade": [],
-   "input_hash": "457ba2810a50",
+   "input_hash": "eec8741e0cd0",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1502,157 +1492,38 @@
    }
   },
   {
-   "key": "tv-61818",
+   "key": "tv-549",
    "kind": "tv",
-   "tmdb_id": 61818,
-   "title": "Late Night with Seth Meyers",
+   "tmdb_id": 549,
+   "title": "Law & Order",
    "studio": "NBC & Peacock",
    "parent": "Comcast (NBCUniversal)",
    "group": "Rest of industry",
    "companies": [
     "NBC",
+    "Wolf Entertainment",
     "Universal Television",
-    "Sethmaker Shoemeyers Productions",
-    "Broadway Video"
+    "Universal Media Studios",
+    "Studios USA"
    ],
-   "release_date": "2026-11-12",
-   "first_air_date": "2014-02-25",
+   "release_date": "2026-11-05",
+   "first_air_date": "1990-09-13",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/qKFP9Se7LJtBaxrMS41iu63dtK3.jpg",
-   "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 243.8,
-   "tmdb_vote": 5.1,
-   "tmdb_votes": 139,
-   "imdb_id": "tt3513388",
-   "tmdb_url": "https://www.themoviedb.org/tv/61818",
-   "tmdb_reviews": [
-    {
-     "author": "AshenArcanist",
-     "rating": 1.0,
-     "text": "From Letterman to Seth, Late Night has lost it's way. Seth is boring, predictable and just not funny or entertaining. Moreover, he's a poor interviewer who seems to do little to no research into his guests. It's all self-aggrandizement where he is the focus.",
-     "url": "https://www.themoviedb.org/review/65b10e78a3144001515a9088"
-    }
-   ],
-   "imdb_rating": 6.4,
-   "imdb_votes": 8773.0,
+   "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
+   "popularity": 246.1,
+   "tmdb_vote": 7.279,
+   "tmdb_votes": 743,
+   "imdb_id": "tt0098844",
+   "tmdb_url": "https://www.themoviedb.org/tv/549",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.8,
+   "imdb_votes": 52301.0,
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "c758fc027505",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Negative",
-    "audience_score": 10,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [],
-    "complaints": [
-     "boring",
-     "predictable",
-     "poor interviewer"
-    ],
-    "buzz": "Low",
-    "box_office_verdict": "not stated",
-    "summary": "Show criticized as boring and unfunny.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-17T14:56:44+00:00"
-   }
-  },
-  {
-   "key": "movie-1300968",
-   "kind": "movie",
-   "tmdb_id": 1300968,
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "studio": "Lionsgate",
-   "parent": "Lionsgate",
-   "group": "Rest of industry",
-   "companies": [
-    "Lionsgate",
-    "Color Force",
-    "about:blank",
-    "Studio Babelsberg"
-   ],
-   "release_date": "2026-11-18",
-   "first_air_date": null,
-   "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
-   "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 88.8,
-   "tmdb_vote": 9.5,
-   "tmdb_votes": 12,
-   "imdb_id": "tt32558705",
-   "tmdb_url": "https://www.themoviedb.org/movie/1300968",
-   "tmdb_reviews": [
-    {
-     "author": "Manuel São Bento",
-     "rating": 7.0,
-     "text": "Check out my full review @ https://movieswetextedabout.com/the-hunger-games-sunrise-on-the-reaping-movie-review-joseph-zada-gives-haymitch-the-story-he-deserved/ Rating: B+ THE HUNGER GAMES: SUNRISE ON THE REAPING is my second favorite film in the franchise. Joseph Zada is extremely compelling in his first big lead, and the story finally turns Haymitch from a familiar archetype into a complex, tragic, oddly inspiring character. Mckenna Grace, Glenn Close, Jesse Plemons, and Kieran Culkin lead a ",
-     "url": "https://www.themoviedb.org/review/6afc5e34b26d578ceab68f4c"
-    }
-   ],
-   "trade": [
-    {
-     "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: Not as Deadly as ‘Songbirds & Snakes,’ the Haymitch Origin Story Makes for a Watchable if Meandering Prequel",
-     "link": "https://variety.com/2026/film/reviews/the-hunger-games-sunrise-on-the-reaping-review-1236944341/",
-     "source": "Variety",
-     "published": "2026-11-17",
-     "snippet": "Based on the second of Collins’ two prequel novels, the film is meandering and more than a bit thin, but unlike “The Ballad of Songbirds & Snakes” it’s been directed, by Francis Lawrence, in that lavish mode of surface intensity we might now call Hunger Games Classic."
-    },
-    {
-     "title": "‘The Hunger Games: Sunrise On The Reaping’ Review: Is Time Finally Running Out For The Dystopic Game Show Franchise?",
-     "link": "https://deadline.com/2026/11/the-hunger-games-sunrise-on-the-reaping-review-1237224967/",
-     "source": "Deadline",
-     "published": "2026-11-17",
-     "snippet": "Not so long ago, the old it’s-funny-because-it’s-true joke about soap operas was that people in soap operas never seemed to watch soap operas. But now that reality shows have all but taken over that space, the function of soaps has evaporated almost entirely, while “unscripted TV” has absorbed all of its clichés. When it first […]"
-    },
-    {
-     "title": "‘Ramayana’ VFX House DNEG Partners With Meta on 3D Movies for VR Glasses, Including ‘The Hunger Games: Sunrise on the Reaping’ (EXCLUSIVE)",
-     "link": "https://variety.com/2026/biz/news/ramayana-vfx-firm-dneg-meta-3d-movies-vr-glasses-1236950144/",
-     "source": "Variety",
-     "published": "2026-11-17",
-     "snippet": "A catalog of popular films is being converted into stereo 3D for Meta VR Glasses ahead of the device’s spring 2027 launch, under a new technology partnership between Meta and DNEG, the visual effects and animation company whose slate includes “Ramayana: Rise of a Legend.” DNEG’s Stereo team has already begun work on several of […]"
-    },
-    {
-     "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn",
-     "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/",
-     "source": "The Hollywood Reporter",
-     "published": "2026-11-17",
-     "snippet": "The ensemble of Francis Lawrence’s saga of fascism and rebellion also features Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin and Elle Fanning."
-    },
-    {
-     "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: They Shoot Franchises, Don’t They?",
-     "link": "https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/",
-     "source": "IndieWire",
-     "published": "2026-11-17",
-     "snippet": "Kidding, mostly, as this underwhelming sixth \"Hunger Games\" movie is about to make a hysterical amount of money."
-    }
-   ],
-   "input_hash": "926a09f30e55",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "watchable prequel",
-     "worthier than previous entry"
-    ],
-    "complaints": [
-     "meandering",
-     "thin storyline"
-    ],
-    "buzz": "High",
-    "box_office_verdict": "not stated",
-    "summary": "Prequel seen as watchable but meandering and thin.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-17T14:56:44+00:00"
-   }
+   "input_hash": "3ea986effff0"
   }
  ]
 }
