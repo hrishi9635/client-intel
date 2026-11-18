@@ -1265,60 +1265,76 @@
   "sentiment_reason": "No performance numbers disclosed in the sources.",
   "it_signals": [
    {
+    "type": "M&A / spin-off",
+    "detail": "Acquires AgileMD for up to 100 million, $40 million upfront",
+    "source_id": 12,
+    "link": "https://www.vcpost.com/articles/130942/20261116/wolters-kluwer-agrees-buy-clinical-ai-firm-agilemd-100-million-40-million-upfront.htm",
+    "source": "vcpost.com",
+    "published": "2026-11-16"
+   },
+   {
+    "type": "M&A / spin-off",
+    "detail": "AgileMD acquisition announced by Wolters Kluwer",
+    "source_id": 14,
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXNNTnBXanNZU3YxWF93enVQOTFqVWEwbDBXTnhpOVhPLXN1Ykc4UkprMGtnMlJMb19WQ3JLTUNacVJydU9VTGs5STJUa2NqTDIxNlh4bDNsUEY4S215eFBiS0RWLTVHVGRrVnNhSWNURGJTR1FheS04T0laclg5VWtmc3hReUNpLTN1eVZJNzhleEZiZ3FqaFF1Z3dkYUcteEwwdTAwdXNWUUs4YnZhVlltQUpFZnZN?oc=5",
+    "source": "Wolters Kluwer",
+    "published": "2026-11-13"
+   },
+   {
     "type": "AI & tech investment",
-    "detail": "Libra AI expanded to the Czech Republic",
+    "detail": "Viz.ai partnership to integrate UpToDate AI into care workflows",
     "source_id": 3,
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNXgybEVPNWFBQ0g5Y3RuTVhwcXBBdnk5Rkp6VlN3N0J6R2xZdTVjU3dtR0FpZzIwbW5sNUlMUGFFallEbml0WjN3R2NvVktuNmdKMjJSVk50ZUxfT3c1RjhPTEJ5RlZXYXFSR2FIVVp6cWtGTHk5Mk82dEtSbVVBRDJYMnFMWU1MRVB6X3EydTBORU0?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-11-10"
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnlZeXM1dlN4ZE8zVWo0dEJjVFRTRWR5VzFPSVRfY0h1RDNQYjZYTE9SXzVqeUxBZWl4TlF4QklYY1laOGhId0xfTFJtd0staTBwZXpWMk9HSzNUeUg5QWc4OUw2TFpJSS1xYk1tNGU1aWZVTFhkOUpaN3M4R1NVM3R6RGsyLVpHbHA4THFLYVJ6dmtSVmM0OUFyVGptZ3lUR3Fsd1p6RzVZWGNRTDZIVkV2ZThVdw?oc=5",
+    "source": "Digital Health News",
+    "published": "2026-11-18"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Libra AI capabilities added to InView Legal and Tax in the Netherlands",
-    "source_id": 17,
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXRhQjZydkJ6cFR4d2RDVmxCVm41ZWUyQWlaRmR2VUotSWpLUnIzd0FDcFZSZjR5RGNFZkVEQUcweWZUeGFVYVltUW0xMTBLbW5iNlVvTW9vbWYwOFlod0gzQXljMGVtR2twN0RYcVZIN2NsYS1HcW5jTk9OdkJ5ZUpYZUlLX1Z1Xzh4Y1JNSzROOExGRHJJZTdYTVRDYnBSckExRDVhWUJCVEZEWFNMVHgyUk83SGRRM3loWHl3?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-10-21"
+    "detail": "Viz.ai partnership detailed across multiple outlets",
+    "source_id": 5,
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHVfRjJXOG84Z3dRZWRfVGJOWWxhVHVlNThWTzNIYUo2OGQxd0lqUkxMM2pYNHFtS2MxMVdGdzRicl9zWHZGeWxLVmVZYnBqajhRQldmUXNEa24xNjA1Tl9oRV9KdFNxS2FPY1Z3T0RnNUtDczVmSXhSVHFEeEE3QjQ0VTYtQzhJM0J3S3V4REhWLVRpdEQzOTM2Z0xjYWUyTkJRdVFFdlNFSVRTZG9DcjNpQ0FyS1U?oc=5",
+    "source": "MedCity News",
+    "published": "2026-11-18"
    },
    {
-    "type": "AI & tech investment",
-    "detail": "Agentic tax‑preparation launched in CCH Axcess platform",
-    "source_id": 15,
+    "type": "Other",
+    "detail": "Appointed Tom Vanhoorne as VP of technology product management for Tax & Accounting",
+    "source_id": 13,
+    "link": "https://finance.yahoo.com/news/wolters-kluwer-appoints-technology-vp-105203803.html",
+    "source": "finance.yahoo.com",
+    "published": "2026-11-16"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Launched agentic tax preparation in CCH Axcess",
+    "source_id": 27,
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEp6bTB6dnBjYkVjZ2tRcGJvR0d2eldMOVFSN0x4ZGVwU0dNMnlNZ3piLXJCUGlhMjZvWS16b2hPVGdpcTdjRnRUNFVZNG8tQmVqNjhpd0M3dFF0bmNKUHg3VDZaWVNIQVpVWE85eEdpLWc4RldUYmR5VWdGZGRfcDQ5N2dCOGIyU1Q1bUs4WEtscEZDZC1PUzJJRVJtbVF6?oc=5",
     "source": "Wolters Kluwer",
     "published": "2026-10-23"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Conversational AI and automated bank reconciliation introduced in Genya cloud suite for Italian professional service firms",
-    "source_id": 20,
-    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQUmNBMFpFekhxdnlGYS1ISnFTMkFqNVFlTnJWZm9obXNMd3F1c0YyMWMweEtlbHZjQldRdnExbDhSNlJjOVloWnl2eHBlM2ttcDdTcGFhVFRmV3RJYk1ucG5ZaHJPbXdVY3l0eHpSeGRJQ3BybXRBZjBhUFpQaWVRc1p1YTU4T1p3czVSYVp6cmw0aUgwQWRBaHcyQV92SDlkS2RWOTM1bGVxelpVWU9IQnlweWxXTWlaZWl2cHdUaG5tVk5tWU10ZGItVm9TX29GdUhNZHBzOUZHMHFkZExKYU0zV3puWUVSV2c1YndQYmNsSHo0OEtleUFKZFhhMXc1ejRZYncybFR3UE1FNTdZeXg5QWl3cXloem4wVExobkxtTWhiRjU1ak42SWJVMy1faVBz?oc=5",
-    "source": "Business Wire",
-    "published": "2026-10-13"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "Partnership with Doximity to integrate UpToDate into its offering",
-    "source_id": 18,
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJGTm1ab2RIYXg2YlhXR3NfMHRZSGU0ZlNCa0ZiSWR4WGltck83ZDJha3JkUTYzdkRoUG9kbmczZEFYV1hjWTNaZE11X1h3N3V2ZHdwbWk0aXNlZXpQQmFTNjAzeVVOWS1SdHd0NEhCajFwLXN2LVRRVnNxeElzbWZHV3Vzd1IyY0dV?oc=5",
+    "detail": "Made Libra AI capabilities available in InView Legal and InView Tax",
+    "source_id": 30,
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXRhQjZydkJ6cFR4d2RDVmxCVm41ZWUyQWlaRmR2VUotSWpLUnIzd0FDcFZSZjR5RGNFZkVEQUcweWZUeGFVYVltUW0xMTBLbW5iNlVvTW9vbWYwOFlod0gzQXljMGVtR2twN0RYcVZIN2NsYS1HcW5jTk9OdkJ5ZUpYZUlLX1Z1Xzh4Y1JNSzROOExGRHJJZTdYTVRDYnBSckExRDVhWUJCVEZEWFNMVHgyUk83SGRRM3loWHl3?oc=5",
     "source": "Wolters Kluwer",
-    "published": "2026-10-20"
+    "published": "2026-10-21"
    },
    {
-    "type": "M&A / spin-off",
-    "detail": "Divestiture of German consumer tax business",
-    "source_id": 10,
+    "type": "Cost-cutting / restructuring",
+    "detail": "Divested German consumer tax business",
+    "source_id": 22,
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjhwNm9YNHZ6NUY0Q0h2eTZoWlI4bW14QkZXRXV2YnlDTG4tYXZkYlgzT2o5TVM4dE5jbVhOX2lRMXU2dHdDRGVyaHFSYkRVbU9tVTNZMGRfS0xsWktfUzJGbTlyY2E1LVFhRzNMekRyYTNncVRfVVpGRi1yVjBFamdUcjdvUkZyQWtzcEhmVnlJSHFpTWc?oc=5",
     "source": "Wolters Kluwer",
     "published": "2026-10-30"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Company is actively investing in AI capabilities and new cloud features across multiple divisions",
+  "it_spend_reason": "Significant AI acquisitions and platform launches indicate increased technology investment",
   "talking_points": [
-   "How can our AI and cloud services support Wolters Kluwer’s rapid Libra AI rollout?",
-   "Opportunities to assist with integration and scaling of the new agentic tax‑prep and Genya cloud AI modules",
-   "Implications of the German consumer‑tax divestiture for future technology partnership needs"
+   "Discuss how Wolters Kluwer's AgileMD acquisition can enhance clinical AI offerings and integration opportunities",
+   "Explore collaboration possibilities around the Viz.ai UpToDate integration for healthcare clients",
+   "Assess the impact of new agentic tax tools and Libra AI on their digital transformation roadmap"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1377,20 +1393,41 @@
    "published": "2026-08-05T07:00:00+00:00"
   },
   "release_key": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRkRYUkEzSzRaMktpcmpiNEh5WlZQU2RMcjFBNUN2OXk1Z2Z4S1dJclk2TDFnbm9VS3lUVmFiRm9ic0tqa3FlSlhRQjViYl9zcjJpLXlrcjhleXkzRnFBSjJLLXRuekQybi00eE93V2RBV0J1MUl6MEF5a2ZlVTBlN2J5UDBEeVZkNkhUUmkzR2dHX0E5V1BKVUR0VnVHWmJsSktuM2ZnaFZfVm1ybEJLYjFCZjI3Z2VSU0hvUkstNnByMXl1Y0NHWkRneUkxYkpfQ3p0Ml80T1U?oc=5",
-  "signals_at": "2026-11-11T18:53:00+00:00",
+  "signals_at": "2026-11-18T19:32:32+00:00",
   "signal_sources": [
    {
-    "title": "Wolters Kluwer expands Libra AI in the Czech Republic",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNXgybEVPNWFBQ0g5Y3RuTVhwcXBBdnk5Rkp6VlN3N0J6R2xZdTVjU3dtR0FpZzIwbW5sNUlMUGFFallEbml0WjN3R2NvVktuNmdKMjJSVk50ZUxfT3c1RjhPTEJ5RlZXYXFSR2FIVVp6cWtGTHk5Mk82dEtSbVVBRDJYMnFMWU1MRVB6X3EydTBORU0?oc=5",
-    "source": "Wolters Kluwer",
-    "published": "2026-11-10T14:00:37+00:00",
+    "title": "Wolters Kluwer Agrees to Buy Clinical AI Firm AgileMD for Up to $100 Million With $40 Million Upfront",
+    "link": "https://www.vcpost.com/articles/130942/20261116/wolters-kluwer-agrees-buy-clinical-ai-firm-agilemd-100-million-40-million-upfront.htm",
+    "source": "vcpost.com",
+    "published": "2026-11-16T03:59:00+00:00",
     "official": false
    },
    {
-    "title": "Wolters Kluwer to divest German consumer tax business",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjhwNm9YNHZ6NUY0Q0h2eTZoWlI4bW14QkZXRXV2YnlDTG4tYXZkYlgzT2o5TVM4dE5jbVhOX2lRMXU2dHdDRGVyaHFSYkRVbU9tVTNZMGRfS0xsWktfUzJGbTlyY2E1LVFhRzNMekRyYTNncVRfVVpGRi1yVjBFamdUcjdvUkZyQWtzcEhmVnlJSHFpTWc?oc=5",
+    "title": "Wolters Kluwer to acquire AI-powered clinical decision support platform AgileMD",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXNNTnBXanNZU3YxWF93enVQOTFqVWEwbDBXTnhpOVhPLXN1Ykc4UkprMGtnMlJMb19WQ3JLTUNacVJydU9VTGs5STJUa2NqTDIxNlh4bDNsUEY4S215eFBiS0RWLTVHVGRrVnNhSWNURGJTR1FheS04T0laclg5VWtmc3hReUNpLTN1eVZJNzhleEZiZ3FqaFF1Z3dkYUcteEwwdTAwdXNWUUs4YnZhVlltQUpFZnZN?oc=5",
     "source": "Wolters Kluwer",
-    "published": "2026-10-30T07:00:00+00:00",
+    "published": "2026-11-13T17:11:33+00:00",
+    "official": false
+   },
+   {
+    "title": "Viz.ai, Wolters Kluwer Partner to Integrate UpToDate Into AI-Driven Care Workflows",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnlZeXM1dlN4ZE8zVWo0dEJjVFRTRWR5VzFPSVRfY0h1RDNQYjZYTE9SXzVqeUxBZWl4TlF4QklYY1laOGhId0xfTFJtd0staTBwZXpWMk9HSzNUeUg5QWc4OUw2TFpJSS1xYk1tNGU1aWZVTFhkOUpaN3M4R1NVM3R6RGsyLVpHbHA4THFLYVJ6dmtSVmM0OUFyVGptZ3lUR3Fsd1p6RzVZWGNRTDZIVkV2ZThVdw?oc=5",
+    "source": "Digital Health News",
+    "published": "2026-11-18T10:54:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Viz.ai Partners with Wolters Kluwer Health to Add UpToDate Resource to its Platform",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHVfRjJXOG84Z3dRZWRfVGJOWWxhVHVlNThWTzNIYUo2OGQxd0lqUkxMM2pYNHFtS2MxMVdGdzRicl9zWHZGeWxLVmVZYnBqajhRQldmUXNEa24xNjA1Tl9oRV9KdFNxS2FPY1Z3T0RnNUtDczVmSXhSVHFEeEE3QjQ0VTYtQzhJM0J3S3V4REhWLVRpdEQzOTM2Z0xjYWUyTkJRdVFFdlNFSVRTZG9DcjNpQ0FyS1U?oc=5",
+    "source": "MedCity News",
+    "published": "2026-11-18T00:00:43+00:00",
+    "official": false
+   },
+   {
+    "title": "Wolters Kluwer appoints new technology VP for tax and accounting",
+    "link": "https://finance.yahoo.com/news/wolters-kluwer-appoints-technology-vp-105203803.html",
+    "source": "finance.yahoo.com",
+    "published": "2026-11-16T02:52:00+00:00",
     "official": false
    },
    {
@@ -1408,17 +1445,10 @@
     "official": false
    },
    {
-    "title": "Doximity and Wolters Kluwer Sign Partnership to Bring UpToDate to Doximity Ask",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXJGTm1ab2RIYXg2YlhXR3NfMHRZSGU0ZlNCa0ZiSWR4WGltck83ZDJha3JkUTYzdkRoUG9kbmczZEFYV1hjWTNaZE11X1h3N3V2ZHdwbWk0aXNlZXpQQmFTNjAzeVVOWS1SdHd0NEhCajFwLXN2LVRRVnNxeElzbWZHV3Vzd1IyY0dV?oc=5",
+    "title": "Wolters Kluwer to divest German consumer tax business",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjhwNm9YNHZ6NUY0Q0h2eTZoWlI4bW14QkZXRXV2YnlDTG4tYXZkYlgzT2o5TVM4dE5jbVhOX2lRMXU2dHdDRGVyaHFSYkRVbU9tVTNZMGRfS0xsWktfUzJGbTlyY2E1LVFhRzNMekRyYTNncVRfVVpGRi1yVjBFamdUcjdvUkZyQWtzcEhmVnlJSHFpTWc?oc=5",
     "source": "Wolters Kluwer",
-    "published": "2026-10-20T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Wolters Kluwer introduces conversational AI and automated bank reconciliation into the Genya cloud suite for Italian professional service firms and SMEs",
-    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQUmNBMFpFekhxdnlGYS1ISnFTMkFqNVFlTnJWZm9obXNMd3F1c0YyMWMweEtlbHZjQldRdnExbDhSNlJjOVloWnl2eHBlM2ttcDdTcGFhVFRmV3RJYk1ucG5ZaHJPbXdVY3l0eHpSeGRJQ3BybXRBZjBhUFpQaWVRc1p1YTU4T1p3czVSYVp6cmw0aUgwQWRBaHcyQV92SDlkS2RWOTM1bGVxelpVWU9IQnlweWxXTWlaZWl2cHdUaG5tVk5tWU10ZGItVm9TX29GdUhNZHBzOUZHMHFkZExKYU0zV3puWUVSV2c1YndQYmNsSHo0OEtleUFKZFhhMXc1ejRZYncybFR3UE1FNTdZeXg5QWl3cXloem4wVExobkxtTWhiRjU1ak42SWJVMy1faVBz?oc=5",
-    "source": "Business Wire",
-    "published": "2026-10-13T07:00:00+00:00",
+    "published": "2026-10-30T10:14:37+00:00",
     "official": false
    }
   ]
@@ -1455,13 +1485,46 @@
   ],
   "sentiment": "Negative",
   "sentiment_reason": "Operating loss and revenue decline",
-  "it_signals": [],
+  "it_signals": [
+   {
+    "type": "AI & tech investment",
+    "detail": "Introduced AI‑based cheating detection tools for the CSAT",
+    "source_id": 4,
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45LVQ2TmFJdWdNeXFrRmE4TmpGMnZJWkNJMHVtel95Mks1NWFydDBtdEloZHhkVjlhM3JyQjMxaXZCcGExeGkwRXYycmlsWFJsS2I1M3pZemc0VUhsQURwdFlR?oc=5",
+    "source": "재경일보",
+    "published": "2026-11-17"
+   },
+   {
+    "type": "Other",
+    "detail": "AI cheating 'Pandora's Box' discussion highlighted rapid deployment concerns",
+    "source_id": 8,
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpcnE3QWZ3RVZFeUlXTVlhV1hsbEVRUnY5OFY2QThERDNQNHlCdkpuZkdFTFhXYWJleFVsc3RkbFBIZ0hoRkw0OGh3X3AycUdWSWc?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-15"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Investigation by Pomerantz LLP on behalf of investors may affect vendor contracts",
+    "source_id": 12,
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3NPbzRMSm5lcUp2UzlMUXp0MURFRUVMTVl0NGVQVGsyb09zcXI0M2l4YzdyRjB6enZ1aDhlU3pOVkJURmtiUmJpV2lGSlo5ZDRnazR0bGFLTUpFWXZvek52NUJORVloR3pKeVkydDY5YzhXT1BpNWo0ZGNGR0dCb1VGSldWYkZicE9CbGpOZjlfb0lJMTFMNEEtMFMzLXNQWVF3?oc=5",
+    "source": "Pluang",
+    "published": "2026-11-10"
+   },
+   {
+    "type": "Other",
+    "detail": "Secured $19.5 M insurance win, potentially impacting risk‑management spending",
+    "source_id": 13,
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NrVWp4MVNnZl9WV3JkdlBfRG56clVGXzRORVB6N2tBYjRyM0c2ejdpTHQwRC1PU3dBaTZGY1RNc0xvYzJVU2twVjREUEcyMDdUNFNSLUJoUjd1RFpNYnlobkR1UzF6Tzg0dzZXUDZIVmp1MEdKeUdyS3RJV0Q4bm9ubmlrQUNjUFY0QU9KenFYRFZQZDk2ZEw5Zzc0UnNUNmfSAVZBVV95cUxQSS14SFZFb2wtdWYtZlI4Skl1NFBwWGx1T1kyZGZmaDlJcUFBT01TY0Q4dDJzbVVqaDhxQUU3dkdMQl8xWEg5YTJuUDZUckhDN1BjTUtQZw?oc=5",
+    "source": "Law360",
+    "published": "2026-11-09"
+   }
+  ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No explicit technology investment or cost‑cutting information in the sources",
+  "it_spend_reason": "New AI monitoring rollout suggests increased spend, but legal investigations may constrain budgets",
   "talking_points": [
-   "Discuss how ongoing legal investigations might affect future technology budgeting",
-   "Explore opportunities to support Scholastic’s digital education platforms amid market uncertainty",
-   "Assess potential needs for compliance and data security solutions"
+   "How is Scholastic planning to refine its AI‑based testing security after teacher feedback?",
+   "What impact might the investor investigation have on Scholastic’s technology vendor strategy?",
+   "Can Scholastic’s literacy partnership create opportunities for digital learning platforms?"
   ],
   "unverified_dropped": [
    "metrics.revenue_growth_yoy_pct",
@@ -1498,13 +1561,27 @@
    "published": "2026-09-24"
   },
   "release_key": "0000866729-26-000022",
-  "signals_at": "2026-11-11T18:53:26+00:00",
+  "signals_at": "2026-11-18T19:32:59+00:00",
   "signal_sources": [
    {
-    "title": "Scholastic faces securities fraud probe after m...",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTYyekVHVVUxN1NuWHBVR2FnS21YVE45dDcwbGQ4WEZlNDk4ZHNFaFI0SVJPNzhlY3V4VGRzRTFlOHg4U1ZFdy1uNGgtUGNoLTBOMmxTZ0N3M0VtaFdlcTdLTnh4aG8teVcxX0xRS21CVUtPQ2J0UFZtdEVrei1kT3ZXZUQweEMzMER2WUo4OWE0a285SHlrN0VMdlhQd3hmbDlJ?oc=5",
+    "title": "Teachers protest AI cheating measures hastily prepared two days before Scholastic Ability Test",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45LVQ2TmFJdWdNeXFrRmE4TmpGMnZJWkNJMHVtel95Mks1NWFydDBtdEloZHhkVjlhM3JyQjMxaXZCcGExeGkwRXYycmlsWFJsS2I1M3pZemc0VUhsQURwdFlR?oc=5",
+    "source": "재경일보",
+    "published": "2026-11-17T10:15:04+00:00",
+    "official": false
+   },
+   {
+    "title": "Four days before the College Scholastic Ability Test, the AI cheating \"Pandora's Box\" was held. This..",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpcnE3QWZ3RVZFeUlXTVlhV1hsbEVRUnY5OFY2QThERDNQNHlCdkpuZkdFTFhXYWJleFVsc3RkbFBIZ0hoRkw0OGh3X3AycUdWSWc?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-15T04:13:25+00:00",
+    "official": false
+   },
+   {
+    "title": "Pomerantz LLP investigates Scholastic for possi...",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3NPbzRMSm5lcUp2UzlMUXp0MURFRUVMTVl0NGVQVGsyb09zcXI0M2l4YzdyRjB6enZ1aDhlU3pOVkJURmtiUmJpV2lGSlo5ZDRnazR0bGFLTUpFWXZvek52NUJORVloR3pKeVkydDY5YzhXT1BpNWo0ZGNGR0dCb1VGSldWYkZicE9CbGpOZjlfb0lJMTFMNEEtMFMzLXNQWVF3?oc=5",
     "source": "Pluang",
-    "published": "2026-10-29T07:00:00+00:00",
+    "published": "2026-11-10T22:45:21+00:00",
     "official": false
    },
    {
@@ -1519,13 +1596,6 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW41N2RSV3gxamFzNnZpSS1IdFlaU2E3a3hWaVpBYXpkc3FubjNxWWZ1aXNIN3BvRVduY2hkLXAyalVmdkFlQlpndXNMOUwxVWNVRWtiUFdHU0dXSHp6QjdGSThjcnVnMzNvVFg3eUJ2dEF0enNfbm9WMzBSaEloYmNfVWlPazJYYXJyenlKV1FpcUFET1hoRGZ2UlVLTFIxVGtQeE9JajBDUTUybDFfRkU0U040SWFjSUpOR0xVNUFUUDJoRTBj?oc=5",
     "source": "Scholastic",
     "published": "2026-10-28T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Scholastic Entertainment and 9 Story Media Group Bring New Series and Returning Favorites to MIPCOM 2026",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yaUMtOWhFWnN3dmYtMWtWNVVmZGZ1VG82RFFVYXNRWGFSWThPMW5YRmFUYjc3RjMyTGZwM09FS2Uwa1JrM1BrU1ZELXhLRmpNMDFGTjRPQnhtVkF4SjdWaw?oc=5",
-    "source": "WebWire",
-    "published": "2026-10-13T07:00:00+00:00",
     "official": false
    }
   ]
@@ -1767,71 +1837,57 @@
   "signals_at": "2026-11-12T02:26:03+00:00"
  },
  "SLU": {
-  "headline": "Saint Louis University announces layoffs of its main campus custodial staff and shifts to an external provider",
+  "headline": "Saint Louis University announces layoffs of its entire main‑campus custodial staff and shifts services to an external provider",
   "highlights": [
-   "SLU reviewing academic programs including African American Studies department",
-   "Black Studies department faces uncertain future",
-   "Entire main campus custodial staff laid off and outsourced",
-   "SLU leaders visited Madrid to strengthen collaboration",
-   "First exercise science students begin program in Madrid"
+   "Layoffs affect all custodial employees on the main campus",
+   "University will contract an outside provider for custodial services",
+   "Staff expressed strong opposition to the cuts"
   ],
   "risks": [
-   "Potential cuts to academic programs",
-   "Uncertainty for Black Studies department",
-   "Reliance on external vendor for custodial services"
+   "Employee morale and campus community backlash",
+   "Potential service continuity issues during transition"
   ],
   "sentiment": "Negative",
-  "sentiment_reason": "Layoffs and program uncertainties dominate recent news",
+  "sentiment_reason": "Layoffs and outsourcing generated negative reactions",
   "segments": [
    {
-    "name": "Operations",
+    "name": "Finances",
     "trend": "Down",
-    "note": "Custodial staff eliminated and outsourced"
-   },
-   {
-    "name": "Academics",
-    "trend": "Mixed",
-    "note": "Program reviews and department uncertainties"
+    "note": "Cost‑cutting measure announced"
    }
   ],
   "it_signals": [
    {
     "type": "Layoffs",
-    "detail": "SLU announced layoffs of the entire main campus custodial staff and will move services to an outside provider",
-    "source_id": 13,
+    "detail": "University announced layoffs of the entire main‑campus custodial staff",
+    "source_id": 7,
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTVKUnQ4dS13VmNBWENTU2VnS2plOERLNDBlMlVkQURhNVpZeW1wazVrakk0MkxZdFFkZlljTm5vY0xhak1RVVJDTEF4WXFrYzA2c044V2NwNkNIVjc5UEdoa3daMldaN25XOU5CN2pkU1ZtazBsODZLVjBrTExoZ0laZS1yempiTE0tU2FwSGJiMzktdkR6bzNfZG5iZTdiSnVYY0FsUlk1QWhOREE?oc=5",
+    "source": "STLPR",
+    "published": "2026-11-16"
+   },
+   {
+    "type": "Vendor / outsourcing",
+    "detail": "Custodial services will be moved to an outside provider",
+    "source_id": 19,
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3lpZVVFNWMzdlZVeWMyS29hd1gzamZVRHdPSTBOcXdyeG1lTERyc0JjSS1TUTVpWm1uLUNFcDdlZ2diNUd6TnVseE5QVmhRUWRvVUdmbjlrRzNHdTFDNHZVSFlHN2dZaXRkaExRdlotV2pBXzVaODdnUnpDcGdyOWNjOEZBbl96cGFES25uaTRtUXVYb2JHZWtEUExuYm9oRnBQVzNKcFI0N3lQOEplNWtUakYtZWFWTkUw?oc=5",
     "source": "The University News",
     "published": "2026-11-03"
    }
   ],
   "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Cost‑cutting measures such as staff layoffs and outsourcing indicate reduced IT and facilities spending",
+  "it_spend_reason": "The university is reducing internal staffing and outsourcing functions to cut costs",
   "talking_points": [
-   "Discuss how outsourcing custodial services might open opportunities for campus technology integration",
-   "Explore potential needs for digital platforms to support program reviews and departmental transitions",
-   "Assess whether SLU’s Madrid collaboration could drive demand for cloud or data solutions"
+   "How can our managed services support the new custodial vendor’s technology needs?",
+   "Are there opportunities to offer cloud‑based facilities‑management platforms during the transition?",
+   "What impact might the layoffs have on campus IT support and security?"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Saint Louis University reviewing programs; Students, staff advocate for African American Studies Department",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRlY2V2hGWWpueW1iaW1Kemg4RG82azFLUDQ0TUZtLW02Z01CVDA4NElsalIzSUFZV0hwN25EamJQZDRzd3VOTHFnYlB6VHZGbEtRMWg2NHZ0Z1Z1M1ZFUjg2NFZnMlhVeXc5azR0cGhVWmdXd2JlcnZzdmJ6OTNwWkRDYThaaG1JNUhkS3BhUUNSUjRjN3dqRDRMY1dVZnM0TUt2dExub2xNbzEzeUZ1emJ2YkZ1Z3E4LThSTF9iTzlSZW1JZG9iQUYtU3gybnZPUjNhMkxuYWlnTzc0?oc=5",
-    "source": "Audacy",
-    "published": "2026-11-11T15:31:00+00:00",
-    "official": false
-   },
-   {
-    "title": "SLU Black Studies department faces uncertain future",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVRKNVpzaFRFUUFFUEh1THp5eVZQRDQ1dUxIMHZCWTJSMVBuTWlSVF9Nckt0WkFVNC1BbEljemZ6V0IzeFoyOHExTkI3YXExbU10aHR1QkZkRWFvSlVBTG9HbnNDRUxTdGliX25jcFBVRElEM05mdnZzSXFMNldKS1dnbkRDc0FKUGJPT3p3?oc=5",
-    "source": "St. Louis American",
-    "published": "2026-11-10T20:56:13+00:00",
-    "official": false
-   },
-   {
-    "title": "SLU-Madrid's First Exercise Science Students Begin Building Scientific Foundation : SLU",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NQnFwYUJNX3dmaVg2ektsZDFlUmV0TW5KVHZodUwtVGdDaVBpRkNSV21YWC01SWRGUmhBcWFwa1Z4dkNPTGg0MUhZNWxpMk10czhTckFxOFdWVGF5RVZmR2h2dU9PSmdaeXMtZUJkcGtPOGdqckVPWkE0NmE?oc=5",
-    "source": "Saint Louis University",
-    "published": "2026-11-10T15:51:18+00:00",
+    "title": "SLU custodian calls campus-wide layoffs a ‘slap in the face’ for employees",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTVKUnQ4dS13VmNBWENTU2VnS2plOERLNDBlMlVkQURhNVpZeW1wazVrakk0MkxZdFFkZlljTm5vY0xhak1RVVJDTEF4WXFrYzA2c044V2NwNkNIVjc5UEdoa3daMldaN25XOU5CN2pkU1ZtazBsODZLVjBrTExoZ0laZS1yempiTE0tU2FwSGJiMzktdkR6bzNfZG5iZTdiSnVYY0FsUlk1QWhOREE?oc=5",
+    "source": "STLPR",
+    "published": "2026-11-16T11:03:46+00:00",
     "official": false
    },
    {
@@ -1840,20 +1896,13 @@
     "source": "The University News",
     "published": "2026-11-03T07:19:30+00:00",
     "official": false
-   },
-   {
-    "title": "SLU Leaders Visit Madrid to Strengthen Collaboration and Shape a Shared Future : SLU",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGx6YzRCU2JpRFdtV2xfc0FxUWhkVTJELXdsWWlxRXhhVzdjdE9PQjBGWVJhM1p4eUg5ZTQtVDNZLVJvdXdxZUM4a2JhajJZUzc3UGxSSEUtSWZ5YmNNWXJENHU0VmpSSEUzNHhmWkc4Tzh4M0s0RUk5dGJpc0U3X0lvR2pmem40VjlWU2dPZFQ4ZEtM?oc=5",
-    "source": "Saint Louis University",
-    "published": "2026-10-22T07:00:00+00:00",
-    "official": false
    }
   ],
   "company": "SLU",
   "mode": "signals",
-  "analysed_at": "2026-11-11T18:53:53+00:00",
+  "analysed_at": "2026-11-18T19:33:25+00:00",
   "guidance_change": null,
-  "signals_at": "2026-11-11T18:53:53+00:00"
+  "signals_at": "2026-11-18T19:33:25+00:00"
  },
  "ACT": {
   "headline": "ACT scores show mixed state trends with declines in Georgia and gains in Utah and Wyoming",

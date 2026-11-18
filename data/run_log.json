@@ -1,5 +1,23 @@
 [
  {
+  "started": "2026-11-18T19:30:29+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: Wolters Kluwer, Scholastic, SLU",
+   "Wolters Kluwer: 0 documents from the company's results page",
+   "account updates written: none"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-11-18T19:33:54+00:00",
+  "ai_calls": 4,
+  "ai_tokens": 11201
+ },
+ {
   "started": "2026-11-18T14:33:56+00:00",
   "part": "daily",
   "steps": [
@@ -654,23 +672,5 @@
   "finished": "2026-11-10T15:16:14+00:00",
   "ai_calls": 2,
   "ai_tokens": 7619
- },
- {
-  "started": "2026-11-10T12:19:05+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: Brightstar (IGT)",
-   "Wolters Kluwer: 0 documents from the company's results page",
-   "account updates written: Brightstar (IGT)"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-11-10T12:22:32+00:00",
-  "ai_calls": 4,
-  "ai_tokens": 11928
  }
 ]

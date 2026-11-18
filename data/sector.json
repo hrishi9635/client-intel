@@ -1,141 +1,188 @@
 {
- "headline": "Media, gaming, publishing and education firms show mixed performance with varied IT spending signals.",
- "summary": "Revenue growth is uneven across sectors. Media giants report strong top‑line gains but also cost‑cutting pressure. Gaming shows both profit loss and high growth in digital revenue. Publishing and education see AI investments alongside earnings misses and layoffs.",
+ "headline": "Media sees revenue growth but cost cuts, gaming balances profit pressure with tech spend, publishing is mixed, education shows divergent trends.",
+ "summary": "Disney and WBD posted revenue gains while tightening IT budgets and pursuing cost cuts. Bally's grew strongly in gaming, yet Caesars widened losses. Wolters Kluwer and Pearson invest in AI and digital platforms, while Scholastic missed revenue. In education, Pearson and NYU expand tech spend, but SLU cuts staff.",
  "industries": [
   {
    "industry": "Media & Entertainment",
-   "mood": "Mixed",
-   "summary": "Disney posted 8% revenue growth and a 43% jump in operating income, while WBD/Skydance and Versant posted modest or declining margins. Cost‑cutting dominates the agenda, with $3 bn savings targeted at Disney and $6 bn cuts at WBD/Skydance. Some firms, like Versant, are expanding digital platforms.",
+   "mood": "Positive",
+   "summary": "Disney posted 8% revenue growth and a 43% jump in operating income. WBD delivered modest earnings on flat revenue. Versant added streaming channels and kept guidance. Cost‑cutting dominates the agenda.",
    "leaders": [
     {
      "company": "Disney",
-     "why": "8% revenue growth and 43% operating‑income increase"
+     "why": "Revenue up 8% and operating income up 43%"
     }
    ],
    "laggards": [
     {
      "company": "WBD / Skydance",
-     "why": "Revenue grew only 5% YoY and operating margin fell to 5.2%"
+     "why": "Revenue growth slowed and margin low at 5.2%"
     }
    ],
    "themes": [
     {
      "title": "Cost‑cutting",
-     "detail": "Multiple firms announced multi‑billion dollar savings programs and layoffs.",
+     "detail": "Disney targets $3 bn savings by 2029; WBD plans $6 bn annual cuts post‑merger.",
      "companies": [
       "Disney",
-      "WBD / Skydance",
-      "Light & Wonder"
+      "WBD / Skydance"
      ]
     },
     {
-     "title": "Digital platform expansion",
-     "detail": "Versant added FAST channels and new streaming memberships.",
+     "title": "AI & tech investment",
+     "detail": "Disney explores AI in parks; Versant expands FAST channels and streaming memberships.",
      "companies": [
+      "Disney",
       "Versant"
      ]
     },
     {
-     "title": "AI & tech pilots",
-     "detail": "Disney’s CEO highlighted AI use in parks and future tech initiatives.",
+     "title": "Digital rebuild",
+     "detail": "Versant added four FAST channels and launched a new streaming membership.",
      "companies": [
-      "Disney"
+      "Versant"
      ]
     }
    ],
-   "it_outlook": "Mixed",
-   "it_note": "IT spend is tightening at Disney and WBD/Skydance, but expanding at Versant and Cox."
+   "it_outlook": "Tightening",
+   "it_note": "IT budgets are being trimmed as companies pursue $3‑$6 bn cost‑saving programs, though some digital initiatives continue."
   },
   {
    "industry": "Gaming & Lottery",
    "mood": "Mixed",
-   "summary": "Caesars posted record revenue but widened its net loss. Bally's saw strong revenue growth and is expanding technology. Light & Wonder and Brightstar focus on cost reduction and product innovation.",
+   "summary": "Caesars posted $2.94 bn revenue but a $123 m loss. Bally's revenue jumped 21.7% with strong interactive growth. Light & Wonder focuses on debt reduction, Brightstar rolls out new lottery tech.",
    "leaders": [
     {
      "company": "Bally's",
-     "why": "Revenue up 21.7% YoY and expanding tech investments"
+     "why": "Revenue up 21.7% YoY driven by interactive segments"
     }
    ],
    "laggards": [
     {
      "company": "Caesars",
-     "why": "Widened GAAP net loss despite revenue growth"
+     "why": "Widened net loss despite revenue growth"
     }
    ],
    "themes": [
     {
      "title": "Digital revenue growth",
-     "detail": "Bally's and Caesars reported double‑digit digital revenue increases.",
+     "detail": "Bally's sees 5%+ digital revenue lift; Brightstar unveiled next‑gen lottery solutions.",
      "companies": [
       "Bally's",
-      "Caesars"
+      "Brightstar"
      ]
     },
     {
-     "title": "Cost‑reduction focus",
-     "detail": "Light & Wonder prioritises debt reduction; Caesars emphasizes AI will not replace face‑to‑face meetings.",
+     "title": "Cost‑cutting pressure",
+     "detail": "Light & Wonder prioritises debt reduction; Caesars tightens IT spend.",
      "companies": [
       "Light & Wonder",
       "Caesars"
      ]
     },
     {
-     "title": "Product innovation",
-     "detail": "Brightstar launched next‑gen lottery solutions and a new Cash Pop game.",
+     "title": "AI skepticism",
+     "detail": "Caesars’ CEO says AI won’t replace face‑to‑face meetings.",
      "companies": [
-      "Brightstar"
+      "Caesars"
      ]
     }
    ],
-   "it_outlook": "Mixed",
-   "it_note": "IT spend is tightening at Caesars and Light & Wonder, while Bally's is expanding its digital platform."
+   "it_outlook": "Tightening",
+   "it_note": "Most operators are tightening IT spend while allocating funds to digital platform upgrades."
   },
   {
    "industry": "Publishing & Information",
    "mood": "Mixed",
-   "summary": "Wolters Kluwer expands AI tools across Europe. Scholastic missed revenue targets and posted a large operating loss. Pearson shows accelerated growth and AI‑driven product launches.",
+   "summary": "Wolters Kluwer expands with AI partnerships and an AgileMD acquisition. Scholastic missed revenue and widened losses. Pearson shows accelerated growth and AI‑driven product launches.",
    "leaders": [
     {
      "company": "Pearson",
-     "why": "Accelerated revenue growth and AI‑powered platform rollout"
+     "why": "Accelerated revenue growth and AI‑powered learning platform"
     }
    ],
    "laggards": [
     {
      "company": "Scholastic",
-     "why": "Revenue miss and widening operating loss"
+     "why": "Revenue miss and operating loss expansion"
     }
    ],
    "themes": [
     {
-     "title": "AI expansion",
-     "detail": "Wolters Kluwer and Pearson are adding AI capabilities to legal, tax and language products.",
+     "title": "AI & tech investment",
+     "detail": "Wolters Kluwer partners with Viz.ai; Pearson rolls out AI English platform and testing AI personas.",
      "companies": [
       "Wolters Kluwer",
       "Pearson"
      ]
     },
     {
+     "title": "M&A activity",
+     "detail": "Wolters Kluwer acquires AgileMD for up to $100 m.",
+     "companies": [
+      "Wolters Kluwer"
+     ]
+    },
+    {
      "title": "Revenue pressure",
-     "detail": "Scholastic reported a $216.8 m revenue miss and a -42.5% operating margin.",
+     "detail": "Scholastic reports a $216.8 m miss and a -3.9% YoY decline.",
      "companies": [
       "Scholastic"
      ]
     }
    ],
    "it_outlook": "Expanding",
-   "it_note": "Both Wolters Kluwer and Pearson signal expanding IT spend on AI and digital platforms."
+   "it_note": "Investments in AI and digital platforms are driving an expanding IT spend outlook."
+  },
+  {
+   "industry": "Education",
+   "mood": "Mixed",
+   "summary": "Pearson and NYU receive sizable public AI and quantum funding and expand tech programs. SLU cuts custodial staff and outsources services. ACT shows mixed performance with no clear tech signal.",
+   "leaders": [
+    {
+     "company": "Pearson",
+     "why": "Strong revenue growth and AI‑driven product expansion"
+    }
+   ],
+   "laggards": [
+    {
+     "company": "SLU",
+     "why": "Campus-wide custodial layoffs and outsourcing"
+    }
+   ],
+   "themes": [
+    {
+     "title": "AI & quantum funding",
+     "detail": "NYU awarded $29.2 m for a quantum fab and $30 m city investment.",
+     "companies": [
+      "NYU"
+     ]
+    },
+    {
+     "title": "Outsourcing moves",
+     "detail": "SLU outsources custodial services after campus layoffs.",
+     "companies": [
+      "SLU"
+     ]
+    },
+    {
+     "title": "Mixed performance metrics",
+     "detail": "ACT reports state‑by‑state score variations with no clear trend.",
+     "companies": [
+      "ACT"
+     ]
+    }
+   ],
+   "it_outlook": "Mixed",
+   "it_note": "While Pearson and NYU expand tech spend, SLU’s outsourcing signals a tightening of internal IT resources."
   }
  ],
  "watch_next": [
-  "How Disney’s AI initiatives affect park operations",
-  "Impact of WBD/Skydance’s $6 bn cost‑cutting on content output",
-  "Bally’s digital revenue trajectory post‑expansion",
-  "Pearson’s AI‑driven assessment tools adoption rates",
-  "NYU’s quantum lab commercialization progress"
+  "Cost‑saving program outcomes at Disney and WBD",
+  "Bally's ability to sustain interactive growth",
+  "Scholastic’s turnaround strategy",
+  "NYU’s quantum lab commercialization",
+  "SLU’s outsourcing impact on campus services"
  ],
- "unverified_dropped": [
-  "industries.3.leaders.1.why"
- ],
- "written_at": "2026-11-18T03:04:57+00:00"
+ "unverified_dropped": [],
+ "written_at": "2026-11-18T19:33:54+00:00"
 }
