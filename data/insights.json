@@ -1701,51 +1701,51 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "AI‑powered English learning platform rollout in Thailand",
-    "source_id": 8,
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JeEVMSG53djNNNVhqOUdEeFZSRUVFdG91N3duMlc2Zlk4eXFnLXNuSmhvVllmbENUVVUtcElWNGg3OXEyRTBqSU9LemE1NUlMVHFOdQ?oc=5",
-    "source": "Taiwan News",
-    "published": "2026-11-03"
+    "detail": "AI credentials on Credly rose 506% in two years",
+    "source_id": 1,
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDNLT3lPN3ltbjluSHE1MjJxMktKMWlZbUZMYnZGblRCaktVWndoVTNSaDAtV1dUM2RiZC1RR2o4RXB5MGplSHNxNjM2T1JvQ3pfYnB2MDZGdno5VWtodUFvY25vdkstMWVDN3dGdllHQjFneTlUUjNpdlpfYVpEbnJieUk2VHVIaUloV0xib0VOT2JHUW12eTQ1ZnViM25DNkt4YnlUZUhVR2hDaElJV0ZyYm56REV4?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-19"
    },
    {
     "type": "AI & tech investment",
-    "detail": "Testing AI personas to develop assessments",
-    "source_id": 36,
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2FVM1ZBSjZXWTFTaDNLbnVGTkNEZ1AxVUxNM1VuRU9aeDRKU05NaVg1SVZBT2ZmYzMtRV9rNC0zSm10WjFZLUp5elF1MXVVdHhMVjdWMl9lS3R2RU1PMkdIQ3hRX3dUck1sa0NGZzVJWjNVN3g3V044RUJyT2U4bERqY3BSNS03T3Z4allITWRSZw?oc=5",
-    "source": "Schools Week",
-    "published": "2026-10-15"
-   },
-   {
-    "type": "Digital / platform rebuild",
-    "detail": "New Pearson Studio suite connecting learning, career readiness and credentials",
-    "source_id": 37,
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjU5alR2YzFJUTZ2M3YwMF9Ha0w0LUhHT3FoYl9PUmVSR3ZRT20za3piZWxfSzBScGpxVXdfQkVmSnQ2WER4dm9mN2kxM3ZrYndRbGZZdVM1VVVZU2kwVXRUUk8tSFpOTlZkVTJxSFYxbGp1Vjk5TFBtal9hWnpRZGhONVltRXlsYjAwdTRIc3JaTVFkNGR4aHN0a2ZzTEFwalY0ZzRLUkc?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-14"
+    "detail": "Credly platform reached 150 million credentials",
+    "source_id": 2,
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmlZdUdfZDZpMjRTQXlhbUJRRU85c3UxNl9MS2MtVU4yOXVad3hhNGJFc2s5RTZSOUhCQVk2R1FfUTFUdXpVWGJENDdGRlY2U2pkcWxNMUZWSkZSZ0dOQnNQVkFiOFEtNjJWU1ZvTHpRemo0d3NkLWo1ZXNpcFY0RHI2WEtaNXEtTk05WFNPdXRDWDdKV2t6NUp5cTFtalNWVzNkODFWWXdJR05Tb2NZblZ0b1h4RlNDT09hNks0bWVSZTBqYVUyNmxUTWVLenVNTEE?oc=5",
+    "source": "Investing.com South Africa",
+    "published": "2026-11-19"
    },
    {
     "type": "Cost-cutting / restructuring",
-    "detail": "Major business restructure announced with Q3 revenue growth",
-    "source_id": 17,
+    "detail": "Pearson announced a major business restructure",
+    "source_id": 20,
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOemdZRkpGY2YzdnJvdndhQ08wbVRTV2lPUnBjNk1xMmJpM1RpTGxFeTZRZ0VfR2xVSW1OYnhrS3I3OXlOM2VIWTh4Q2tqZVNfLVpCWF84VnlCYS1TbkdjdjlycjdscEwybzBzQkNNalZINHV5RklLSEVXcUZXYmVVclBKbjRKX3RTSXNkSE5NdVpJMjB5QmkzTTA2UHN3NXJHTG54Nmp3bUtUaHVXNGExc05laEdWQ3c?oc=5",
     "source": "EdTech Innovation Hub",
     "published": "2026-10-28"
    },
    {
-    "type": "Layoffs",
-    "detail": "Management change with departure of President Higher Education and Virtual Learning",
-    "source_id": 30,
+    "type": "M&A / spin-off",
+    "detail": "List of 36 acquisitions announced in November 2026",
+    "source_id": 19,
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQm9mTDBIenlPVnZmUDcyQjh2RXI3bmhRR0FHTXhRTVdxY2pHTUpzanZ5V2VsS2JCWU5fbEVCT1piVGxxWWRLQU5DNW9XWkQ4Vkc5QU5ROWktVFNNS3dpXzdXdkVxc1Y1UkpHcm14amo1c0JVLXdibmxoTlFPT3JqZXQwclJCQjJZVzBZRE1IblpKV18xQmVrdG9oTlZQelpTNXA1V1ZR?oc=5",
+    "source": "Tracxn",
+    "published": "2026-11-01"
+   },
+   {
+    "type": "Other",
+    "detail": "President of Higher Education and Virtual Learning left; new US Higher Education unit formed",
+    "source_id": 31,
     "link": "https://www.marketscreener.com/news/pearson-plc-announces-management-changes-ce785cd9d089f12c",
     "source": "marketscreener.com",
     "published": "2026-10-22"
    }
   ],
   "it_spend_outlook": "Expanding",
-  "it_spend_reason": "Multiple AI and digital product launches indicate increased technology investment",
+  "it_spend_reason": "Significant AI‑focused credentialing initiatives and acquisition activity indicate higher technology spend",
   "talking_points": [
-   "Discuss how Pearson's AI‑driven English learning platform could integrate with our language‑learning solutions",
-   "Explore partnership opportunities around Pearson's new Studio products for career‑focused learning",
-   "Assess support needs for Pearson's restructuring, especially in higher‑education technology services"
+   "How can your AI platform support Pearson’s rapid expansion of digital credentials?",
+   "What opportunities exist to assist with the integration of recent acquisitions into a unified tech stack?",
+   "Can we help mitigate disruption from the restructuring and leadership changes with managed services?"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -1771,13 +1771,27 @@
    "published": "2026-10-22"
   },
   "release_key": "0001654954-26-009084",
-  "signals_at": "2026-11-12T19:04:47+00:00",
+  "signals_at": "2026-11-19T19:37:49+00:00",
   "signal_sources": [
    {
-    "title": "Pearson puts teachers at the heart of Thailand's AI-powered English learning future",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JeEVMSG53djNNNVhqOUdEeFZSRUVFdG91N3duMlc2Zlk4eXFnLXNuSmhvVllmbENUVVUtcElWNGg3OXEyRTBqSU9LemE1NUlMVHFOdQ?oc=5",
-    "source": "Taiwan News",
-    "published": "2026-11-03T12:37:00+00:00",
+    "title": "AI credentials on Pearson's Credly platform rose 506% in two years.",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDNLT3lPN3ltbjluSHE1MjJxMktKMWlZbUZMYnZGblRCaktVWndoVTNSaDAtV1dUM2RiZC1RR2o4RXB5MGplSHNxNjM2T1JvQ3pfYnB2MDZGdno5VWtodUFvY25vdkstMWVDN3dGdllHQjFneTlUUjNpdlpfYVpEbnJieUk2VHVIaUloV0xib0VOT2JHUW12eTQ1ZnViM25DNkt4YnlUZUhVR2hDaElJV0ZyYm56REV4?oc=5",
+    "source": "Stock Titan",
+    "published": "2026-11-19T14:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "Exclusive: Pearson’s Credly hits 150 million credentials as AI skills demand grows By Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmlZdUdfZDZpMjRTQXlhbUJRRU85c3UxNl9MS2MtVU4yOXVad3hhNGJFc2s5RTZSOUhCQVk2R1FfUTFUdXpVWGJENDdGRlY2U2pkcWxNMUZWSkZSZ0dOQnNQVkFiOFEtNjJWU1ZvTHpRemo0d3NkLWo1ZXNpcFY0RHI2WEtaNXEtTk05WFNPdXRDWDdKV2t6NUp5cTFtalNWVzNkODFWWXdJR05Tb2NZblZ0b1h4RlNDT09hNks0bWVSZTBqYVUyNmxUTWVLenVNTEE?oc=5",
+    "source": "Investing.com South Africa",
+    "published": "2026-11-19T13:54:44+00:00",
+    "official": false
+   },
+   {
+    "title": "List of 36 Acquisitions by Pearson (Nov 2026)",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQm9mTDBIenlPVnZmUDcyQjh2RXI3bmhRR0FHTXhRTVdxY2pHTUpzanZ5V2VsS2JCWU5fbEVCT1piVGxxWWRLQU5DNW9XWkQ4Vkc5QU5ROWktVFNNS3dpXzdXdkVxc1Y1UkpHcm14amo1c0JVLXdibmxoTlFPT3JqZXQwclJCQjJZVzBZRE1IblpKV18xQmVrdG9oTlZQelpTNXA1V1ZR?oc=5",
+    "source": "Tracxn",
+    "published": "2026-11-01T07:00:00+00:00",
     "official": false
    },
    {
@@ -1792,20 +1806,6 @@
     "link": "https://www.marketscreener.com/news/pearson-plc-announces-management-changes-ce785cd9d089f12c",
     "source": "marketscreener.com",
     "published": "2026-10-22T01:35:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Pearson tests ‘AI personas’ that could help develop assessments",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2FVM1ZBSjZXWTFTaDNLbnVGTkNEZ1AxVUxNM1VuRU9aeDRKU05NaVg1SVZBT2ZmYzMtRV9rNC0zSm10WjFZLUp5elF1MXVVdHhMVjdWMl9lS3R2RU1PMkdIQ3hRX3dUck1sa0NGZzVJWjNVN3g3V044RUJyT2U4bERqY3BSNS03T3Z4allITWRSZw?oc=5",
-    "source": "Schools Week",
-    "published": "2026-10-15T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "New Pearson Studio products to connect learning, career readiness, and workplace credentials",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjU5alR2YzFJUTZ2M3YwMF9Ha0w0LUhHT3FoYl9PUmVSR3ZRT20za3piZWxfSzBScGpxVXdfQkVmSnQ2WER4dm9mN2kxM3ZrYndRbGZZdVM1VVVZU2kwVXRUUk8tSFpOTlZkVTJxSFYxbGp1Vjk5TFBtal9hWnpRZGhONVltRXlsYjAwdTRIc3JaTVFkNGR4aHN0a2ZzTEFwalY0ZzRLUkc?oc=5",
-    "source": "Yahoo Finance",
-    "published": "2026-10-14T07:00:00+00:00",
     "official": false
    }
   ]
