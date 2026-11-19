@@ -1,5 +1,23 @@
 [
  {
+  "started": "2026-11-19T07:45:04+00:00",
+  "part": "results",
+  "steps": [
+   "market data for 10 listed companies",
+   "news updated",
+   "AI analysed: none",
+   "Wolters Kluwer: 0 documents from the company's results page",
+   "account updates written: none"
+  ],
+  "errors": [
+   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
+   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
+  ],
+  "finished": "2026-11-19T07:47:25+00:00",
+  "ai_calls": 0,
+  "ai_tokens": 0
+ },
+ {
   "started": "2026-11-19T02:43:47+00:00",
   "part": "results",
   "steps": [
@@ -654,23 +672,5 @@
   "finished": "2026-11-11T06:41:01+00:00",
   "ai_calls": 5,
   "ai_tokens": 10647
- },
- {
-  "started": "2026-11-11T01:34:07+00:00",
-  "part": "results",
-  "steps": [
-   "market data for 10 listed companies",
-   "news updated",
-   "AI analysed: Disney, Caesars",
-   "Wolters Kluwer: 0 documents from the company's results page",
-   "account updates written: none"
-  ],
-  "errors": [
-   "yahoo WBD / Skydance: a period seems missing between 2025-06-30 and 2026-03-31",
-   "yahoo Bally's: a period seems missing between 2025-09-30 and 2026-03-31"
-  ],
-  "finished": "2026-11-11T01:37:14+00:00",
-  "ai_calls": 3,
-  "ai_tokens": 10386
  }
 ]
