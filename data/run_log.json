@@ -1,5 +1,17 @@
 [
  {
+  "started": "2026-11-22T13:36:43+00:00",
+  "part": "daily",
+  "steps": [
+   "audience pulse: 25 titles, 19 with AI notes",
+   "industry news: 450 stories"
+  ],
+  "errors": [],
+  "finished": "2026-11-22T13:38:40+00:00",
+  "ai_calls": 5,
+  "ai_tokens": 9882
+ },
+ {
   "started": "2026-11-22T07:15:38+00:00",
   "part": "results",
   "steps": [
@@ -660,17 +672,5 @@
   "finished": "2026-11-14T17:18:02+00:00",
   "ai_calls": 0,
   "ai_tokens": 0
- },
- {
-  "started": "2026-11-14T12:30:30+00:00",
-  "part": "daily",
-  "steps": [
-   "audience pulse: 26 titles, 21 with AI notes",
-   "industry news: 427 stories"
-  ],
-  "errors": [],
-  "finished": "2026-11-14T12:32:28+00:00",
-  "ai_calls": 5,
-  "ai_tokens": 9818
  }
 ]
