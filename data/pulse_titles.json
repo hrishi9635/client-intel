@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:36:55+00:00",
+ "updated": "2026-11-23T16:31:37+00:00",
  "titles": [
   {
    "key": "tv-1413",
@@ -21,8 +21,8 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 2007.4,
-   "tmdb_vote": 8.078,
+   "popularity": 1918.5,
+   "tmdb_vote": 8.1,
    "tmdb_votes": 6316,
    "imdb_id": "tt1844624",
    "tmdb_url": "https://www.themoviedb.org/tv/1413",
@@ -46,28 +46,24 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "86401408beef",
+   "input_hash": "76efccb72105",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
     "audience_score": 30,
-    "critics_vs_audience": "Aligned",
+    "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "thought‑provoking themes",
-     "fresh relevance"
+     "thought‑provoking themes"
     ],
-    "complaints": [
-     "fragmented excerpt",
-     "unclear focus"
-    ],
+    "complaints": [],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Viewers note the show’s ambitious ideas but find the presentation uneven.",
+    "summary": "Viewers note intriguing concepts but are split on execution.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-21T13:43:22+00:00"
+    "analysed_at": "2026-11-23T16:29:50+00:00"
    }
   },
   {
@@ -81,16 +77,17 @@
    "companies": [
     "Prime Video",
     "Amazon Studios",
-    "New Line Cinema"
+    "New Line Cinema",
+    "Amazon MGM Studios"
    ],
    "release_date": "2026-11-18",
    "first_air_date": "2022-09-01",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 1825.3,
+   "popularity": 1660.4,
    "tmdb_vote": 7.223,
-   "tmdb_votes": 4128,
+   "tmdb_votes": 4135,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -125,30 +122,28 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "cc39bba96d55",
+   "input_hash": "6e28baa32af1",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": -20,
+    "audience_score": 0,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
      "impressive visuals",
-     "world building",
-     "talented cast"
+     "rich world‑building"
     ],
     "complaints": [
-     "hollow adaptation",
-     "abominable to Tolkien fans",
-     "woke criticism"
+     "deviates from Tolkien",
+     "hollow storytelling"
     ],
-    "buzz": "Medium",
+    "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "Divisive reactions focus on strong production values but disappointment over faithfulness to source material.",
+    "summary": "Reactions range from praise for production values to criticism of faithfulness to source material.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:22:41+00:00"
+    "analysed_at": "2026-11-23T16:29:50+00:00"
    }
   },
   {
@@ -171,9 +166,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 1011.8,
-   "tmdb_vote": 8.199,
-   "tmdb_votes": 11146,
+   "popularity": 1073.9,
+   "tmdb_vote": 8.2,
+   "tmdb_votes": 11147,
    "imdb_id": "tt0413573",
    "tmdb_url": "https://www.themoviedb.org/tv/1416",
    "tmdb_reviews": [
@@ -202,28 +197,27 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "e523c341b021",
+   "input_hash": "073b8a1e3da1",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
-    "audience_score": -50,
+    "audience_score": -60,
     "critics_vs_audience": "Aligned",
     "gap_note": null,
     "praises": [
      "early seasons were strong"
     ],
     "complaints": [
-     "repetitive hospital drama",
-     "overreliance on sexual tension",
-     "declining quality"
+     "poor writing",
+     "overused sexual tension"
     ],
-    "buzz": "Low",
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Viewers criticize the series for losing its edge after early success.",
+    "summary": "Current season viewed as a decline after earlier success.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:22:41+00:00"
+    "analysed_at": "2026-11-23T16:29:50+00:00"
    }
   },
   {
@@ -246,9 +240,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 953.5,
+   "popularity": 1025.7,
    "tmdb_vote": 8.029,
-   "tmdb_votes": 11196,
+   "tmdb_votes": 11197,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -283,29 +277,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "e0930e2ade15",
+   "input_hash": "2e8962c0b70e",
    "ai": {
     "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 40,
-    "critics_vs_audience": "Aligned",
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "iconic humor",
-     "heartfelt moments",
-     "relatable family"
+     "fun",
+     "right amount of heart",
+     "all‑time favorite show"
     ],
     "complaints": [
-     "stale jokes in some episodes",
-     "not the classic era"
+     "humor feels stale",
+     "past its use‑by date",
+     "not the best episode"
     ],
-    "buzz": "High",
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Generally praised for its lasting charm despite occasional feeling of dated humor.",
+    "summary": "The Simpsons draws love for its classic heart but faces criticism for dated humor.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:22:41+00:00"
+    "analysed_at": "2026-11-23T16:30:17+00:00"
    }
   },
   {
@@ -328,9 +323,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 471.4,
-   "tmdb_vote": 8.7,
-   "tmdb_votes": 1289,
+   "popularity": 458.8,
+   "tmdb_vote": 8.681,
+   "tmdb_votes": 1301,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -359,17 +354,17 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "c7fff5e9aa79",
+   "input_hash": "4379663cc957",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
+    "audience_sentiment": "Positive",
+    "audience_score": 40,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "Tom Hardy brilliant",
      "entertaining gangster story",
-     "Guy Ritchie classic"
+     "Tom Hardy brilliant",
+     "Pierce Brosnan standout"
     ],
     "complaints": [
      "predictable stereotypes",
@@ -378,11 +373,11 @@
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "A loud British crime drama that entertains but suffers from cliché and uneven plotting.",
+    "summary": "MobLand offers solid crime drama thrills with strong performances, though some find it formulaic.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:23:07+00:00"
+    "analysed_at": "2026-11-23T16:30:17+00:00"
    }
   },
   {
@@ -405,9 +400,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 385.0,
-   "tmdb_vote": 7.821,
-   "tmdb_votes": 1131,
+   "popularity": 391.4,
+   "tmdb_vote": 7.851,
+   "tmdb_votes": 1168,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -442,30 +437,65 @@
    "metascore": 66.0,
    "box_office_usd": 67176594.0,
    "trade": [],
-   "input_hash": "e15d40d7eab7",
+   "input_hash": "183823f10624",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
+    "audience_sentiment": "Positive",
     "audience_score": 30,
     "critics_vs_audience": "Aligned",
     "gap_note": null,
     "praises": [
-     "gripping",
-     "excellent direction",
+     "brave emotional beautiful",
+     "Brad Pitt outstanding",
      "stunning cinematography"
     ],
     "complaints": [
-     "story seen before",
-     "not actual Alaska"
+     "story feels familiar",
+     "not filmed in actual Alaska",
+     "some tropes"
     ],
     "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "A visually striking survival tale that feels familiar, drawing mixed reactions.",
+    "box_office_verdict": "hit",
+    "summary": "Heart of the Beast delivers an emotionally charged wilderness tale praised for performances and visuals, despite familiar plot beats.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:23:07+00:00"
+    "analysed_at": "2026-11-23T16:30:17+00:00"
    }
+  },
+  {
+   "key": "tv-2224",
+   "kind": "tv",
+   "tmdb_id": 2224,
+   "title": "The Daily Show",
+   "studio": "Paramount Pictures",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Comedy Central",
+    "Comedy Central",
+    "MTV Entertainment Studios",
+    "Ark Angel",
+    "Busboy Productions"
+   ],
+   "release_date": "2026-10-22",
+   "first_air_date": "1996-07-22",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+   "popularity": 312.4,
+   "tmdb_vote": 6.429,
+   "tmdb_votes": 682,
+   "imdb_id": "tt0115147",
+   "tmdb_url": "https://www.themoviedb.org/tv/2224",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.3,
+   "imdb_votes": 49905.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "c375d720cd7f"
   },
   {
    "key": "tv-153312",
@@ -487,9 +517,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 315.9,
-   "tmdb_vote": 8.321,
-   "tmdb_votes": 2973,
+   "popularity": 310.2,
+   "tmdb_vote": 8.322,
+   "tmdb_votes": 2976,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -518,64 +548,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2801b9ed3f81",
+   "input_hash": "517b6a966b99",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
-    "audience_score": 77,
+    "audience_score": 60,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
      "fun show after work",
-     "unique setting outside NYC/LA",
-     "charisma and rhythm"
+     "charisma and rhythm",
+     "different setting from NYC/LA"
     ],
     "complaints": [
-     "not terribly original",
-     "not Shakespeare"
+     "not original plot",
+     "not deep or innovative"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Generally liked for its fun tone and charisma despite a familiar plot",
+    "summary": "Viewers enjoy its charm and setting despite a familiar premise.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:23:34+00:00"
+    "analysed_at": "2026-11-23T16:30:44+00:00"
    }
-  },
-  {
-   "key": "tv-2224",
-   "kind": "tv",
-   "tmdb_id": 2224,
-   "title": "The Daily Show",
-   "studio": "Paramount Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Comedy Central",
-    "Comedy Central",
-    "MTV Entertainment Studios",
-    "Ark Angel",
-    "Busboy Productions"
-   ],
-   "release_date": "2026-10-22",
-   "first_air_date": "1996-07-22",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 302.9,
-   "tmdb_vote": 6.429,
-   "tmdb_votes": 682,
-   "imdb_id": "tt0115147",
-   "tmdb_url": "https://www.themoviedb.org/tv/2224",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.3,
-   "imdb_votes": 49905.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "c375d720cd7f"
   },
   {
    "key": "movie-969681",
@@ -596,9 +592,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 301.1,
+   "popularity": 310.0,
    "tmdb_vote": 8.458,
-   "tmdb_votes": 7043,
+   "tmdb_votes": 7068,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -633,65 +629,30 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "0a04ec95a02f",
+   "input_hash": "c2b963220466",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 35,
+    "audience_score": 0,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "emotionally mature",
-     "personal Peter Parker story",
-     "high box office"
+     "emotionally mature Peter Parker story",
+     "personal storytelling"
     ],
     "complaints": [
-     "misnomer, nothing new",
+     "misleading title, nothing new",
      "drags and boring",
-     "marketing‑heavy"
+     "over‑marketing feel"
     ],
     "buzz": "High",
     "box_office_verdict": "hit",
-    "summary": "A big‑budget Spider‑Man entry that delivers emotional depth for some, but feels overlong and familiar to others.",
+    "summary": "Fans are split, praising its depth while criticizing pacing and lack of novelty.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:23:07+00:00"
+    "analysed_at": "2026-11-23T16:30:44+00:00"
    }
-  },
-  {
-   "key": "tv-4656",
-   "kind": "tv",
-   "tmdb_id": 4656,
-   "title": "Raw",
-   "studio": "USA Network",
-   "parent": "Versant",
-   "group": "Tracked companies",
-   "companies": [
-    "USA Network",
-    "Spike",
-    "Netflix",
-    "The New TNN",
-    "WWE Home Video"
-   ],
-   "release_date": "2026-11-16",
-   "first_air_date": "1993-01-11",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 263.7,
-   "tmdb_vote": 6.7,
-   "tmdb_votes": 387,
-   "imdb_id": "tt0185103",
-   "tmdb_url": "https://www.themoviedb.org/tv/4656",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.7,
-   "imdb_votes": 11088.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "ec3dfab5d4b0"
   },
   {
    "key": "tv-4614",
@@ -712,7 +673,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 244.9,
+   "popularity": 267.5,
    "tmdb_vote": 7.601,
    "tmdb_votes": 2629,
    "imdb_id": "tt0364845",
@@ -754,6 +715,40 @@
    }
   },
   {
+   "key": "tv-4656",
+   "kind": "tv",
+   "tmdb_id": 4656,
+   "title": "Raw",
+   "studio": "USA Network",
+   "parent": "Versant",
+   "group": "Tracked companies",
+   "companies": [
+    "USA Network",
+    "Spike",
+    "Netflix",
+    "The New TNN",
+    "WWE Home Video"
+   ],
+   "release_date": "2026-11-16",
+   "first_air_date": "1993-01-11",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "popularity": 266.6,
+   "tmdb_vote": 6.7,
+   "tmdb_votes": 387,
+   "imdb_id": "tt0185103",
+   "tmdb_url": "https://www.themoviedb.org/tv/4656",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.7,
+   "imdb_votes": 11088.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "ec3dfab5d4b0"
+  },
+  {
    "key": "tv-279246",
    "kind": "tv",
    "tmdb_id": 279246,
@@ -773,9 +768,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
    "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-   "popularity": 228.5,
-   "tmdb_vote": 8.7,
-   "tmdb_votes": 132,
+   "popularity": 220.6,
+   "tmdb_vote": 8.677,
+   "tmdb_votes": 141,
    "imdb_id": "tt39325975",
    "tmdb_url": "https://www.themoviedb.org/tv/279246",
    "tmdb_reviews": [
@@ -792,7 +787,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "114389488181",
+   "input_hash": "252d97afdd4e",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -830,36 +825,57 @@
    "release_date": "2026-12-16",
    "first_air_date": null,
    "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 167.9,
+   "popularity": 162.6,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
    "tmdb_url": "https://www.themoviedb.org/movie/1003596",
    "tmdb_reviews": [],
-   "trade": [],
-   "input_hash": "1d253905c51f",
+   "trade": [
+    {
+     "title": "‘Avengers: Doomsday’ Final Trailer Shows Major X-Men Moment",
+     "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061/",
+     "source": "The Hollywood Reporter",
+     "published": "2026-11-23",
+     "snippet": "The final trailer for the Marvel superhero mashup is the best look yet at the upcoming blockbuster."
+    },
+    {
+     "title": "Final ‘Avengers: Doomsday’ Trailer Has Fantastic Four Pulling Steve Rogers Out Of His Quiet Life",
+     "link": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535/",
+     "source": "Deadline",
+     "published": "2026-11-23",
+     "snippet": "No, Steve Rogers, you won’t travel into that quiet, dad, country life. Not if the Fantastic Four has anything to do with it. The supes of four show up in the final trailer for Disney/Marvel Studios’ Avengers: Doomsday to tell the man who was Captain America about a greater evil that’s prevailing in the world. […]"
+    },
+    {
+     "title": "‘Avengers: Doomsday’ Final Trailer: Captain America’s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men",
+     "link": "https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/",
+     "source": "Variety",
+     "published": "2026-11-23",
+     "snippet": "Marvel has dropped the final trailer for “Avengers: Doomsday” ahead of its Dec. 18 release. The new trailer picks up after the new scene featuring Steve Rogers and Peggy Carter that was added to “Avengers: Endgame Encore, which reveals the couple’s teenaged son. The Fantastic Four somehow travel back in time to pick up Steve […]"
+    }
+   ],
+   "input_hash": "362f00e901cc",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 30,
+    "audience_sentiment": "Positive",
+    "audience_score": 70,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "star‑studded writer lineup",
-     "Deadpool and Wolverine appearances"
+     "major X‑Men moment",
+     "Fantastic Four involvement",
+     "Captain America’s son revealed"
     ],
-    "complaints": [
-     "overcrowded writing team"
-    ],
+    "complaints": [],
     "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "Anticipation is high for the ensemble cast, though some worry the many writers may dilute the story.",
+    "summary": "Anticipation is high as trailers tease major Marvel team‑ups and new characters.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-13T13:26:28+00:00"
+    "analysed_at": "2026-11-23T16:30:44+00:00"
    }
   },
   {
@@ -881,7 +897,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing",
-   "popularity": 1807.3,
+   "popularity": 2456.4,
    "tmdb_vote": 7.5,
    "tmdb_votes": 218,
    "imdb_id": "tt2396135",
@@ -894,6 +910,110 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "28be1af2c9e0"
+  },
+  {
+   "key": "tv-95480",
+   "kind": "tv",
+   "tmdb_id": 95480,
+   "title": "Slow Horses",
+   "studio": "Apple",
+   "parent": "Apple",
+   "group": "Rest of industry",
+   "companies": [
+    "Apple TV",
+    "See-Saw Films",
+    "Flying Studio Pictures",
+    "Sony Pictures Television"
+   ],
+   "release_date": "2026-10-21",
+   "first_air_date": "2022-04-01",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+   "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+   "popularity": 2053.0,
+   "tmdb_vote": 8.078,
+   "tmdb_votes": 1150,
+   "imdb_id": "tt5875444",
+   "tmdb_url": "https://www.themoviedb.org/tv/95480",
+   "tmdb_reviews": [
+    {
+     "author": "Chandler Danier",
+     "rating": 9.0,
+     "text": "Source material seems great. Oldman is a wonderful piece of work. Twisty spy craft with good humour. Bureaucratic nonsense and secret dealings.",
+     "url": "https://www.themoviedb.org/review/658c7414ebb99d085def0dce"
+    },
+    {
+     "author": "misubisu",
+     "rating": 9.0,
+     "text": "## **Slow Horses: A Gloriously Grubby Masterclass in Spycraft** Forget the slick, high-tech world of James Bond. In the shadowy corners of London, there’s a crumbling, foul-smelling building on Slough House where failed MI5 agents are sent to rot. They are the \"Slow Horses,\" and their story is the best spy thriller on television. A potent cocktail of whip-smart writing, flawless performances, and unapologetic grit, *Slow Horses* is a near-perfect series that consistently exceeds expectations. ##",
+     "url": "https://www.themoviedb.org/review/6902e30865d9cca8119a7a41"
+    },
+    {
+     "author": "TarynsEyes",
+     "rating": null,
+     "text": "A little late to this site, and certainly wish I knew about it sooner. This is a fantastic show with a awesome cast with each filling their role incredibly. Gary Oldman is by far a most underrated actor. The plots, dialog, settingsare wonderful. Do not ignore this show.",
+     "url": "https://www.themoviedb.org/review/69b465be01e1361e4d718f80"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 162097.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "437ed970536c",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 80,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "great source material",
+     "wonderful cast",
+     "twisty spy craft with humour"
+    ],
+    "complaints": [],
+    "buzz": "High",
+    "box_office_verdict": "not stated",
+    "summary": "Slow Horses is praised for its smart writing, strong cast and gritty spy atmosphere.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-23T16:31:11+00:00"
+   }
+  },
+  {
+   "key": "tv-1877",
+   "kind": "tv",
+   "tmdb_id": 1877,
+   "title": "Phineas and Ferb",
+   "studio": "Disney XD",
+   "parent": "Disney XD",
+   "group": "Rest of industry",
+   "companies": [
+    "Disney XD",
+    "Disney Channel",
+    "Disney Television Animation"
+   ],
+   "release_date": "2026-10-06",
+   "first_air_date": "2007-08-17",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+   "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+   "popularity": 1508.5,
+   "tmdb_vote": 7.9,
+   "tmdb_votes": 1098,
+   "imdb_id": "tt0852863",
+   "tmdb_url": "https://www.themoviedb.org/tv/1877",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.1,
+   "imdb_votes": 69718.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "b69433a4c3a3"
   },
   {
    "key": "tv-37678",
@@ -915,7 +1035,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 1563.9,
+   "popularity": 1486.6,
    "tmdb_vote": 5.9,
    "tmdb_votes": 235,
    "imdb_id": "tt1839337",
@@ -928,38 +1048,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "e9f2d763f7e3"
-  },
-  {
-   "key": "tv-1877",
-   "kind": "tv",
-   "tmdb_id": 1877,
-   "title": "Phineas and Ferb",
-   "studio": "Disney XD",
-   "parent": "Disney XD",
-   "group": "Rest of industry",
-   "companies": [
-    "Disney XD",
-    "Disney Channel",
-    "Disney Television Animation"
-   ],
-   "release_date": "2026-10-06",
-   "first_air_date": "2007-08-17",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-   "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 1511.4,
-   "tmdb_vote": 7.892,
-   "tmdb_votes": 1097,
-   "imdb_id": "tt0852863",
-   "tmdb_url": "https://www.themoviedb.org/tv/1877",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.1,
-   "imdb_votes": 69718.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "92eb3b01c214"
   },
   {
    "key": "tv-2734",
@@ -981,7 +1069,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 1475.7,
+   "popularity": 1464.1,
    "tmdb_vote": 8.0,
    "tmdb_votes": 4428,
    "imdb_id": "tt0203259",
@@ -1032,78 +1120,6 @@
    }
   },
   {
-   "key": "tv-95480",
-   "kind": "tv",
-   "tmdb_id": 95480,
-   "title": "Slow Horses",
-   "studio": "Apple",
-   "parent": "Apple",
-   "group": "Rest of industry",
-   "companies": [
-    "Apple TV",
-    "See-Saw Films",
-    "Flying Studio Pictures",
-    "Sony Pictures Television"
-   ],
-   "release_date": "2026-10-21",
-   "first_air_date": "2022-04-01",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-   "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "popularity": 1417.1,
-   "tmdb_vote": 8.078,
-   "tmdb_votes": 1148,
-   "imdb_id": "tt5875444",
-   "tmdb_url": "https://www.themoviedb.org/tv/95480",
-   "tmdb_reviews": [
-    {
-     "author": "Chandler Danier",
-     "rating": 9.0,
-     "text": "Source material seems great. Oldman is a wonderful piece of work. Twisty spy craft with good humour. Bureaucratic nonsense and secret dealings.",
-     "url": "https://www.themoviedb.org/review/658c7414ebb99d085def0dce"
-    },
-    {
-     "author": "misubisu",
-     "rating": 9.0,
-     "text": "## **Slow Horses: A Gloriously Grubby Masterclass in Spycraft** Forget the slick, high-tech world of James Bond. In the shadowy corners of London, there’s a crumbling, foul-smelling building on Slough House where failed MI5 agents are sent to rot. They are the \"Slow Horses,\" and their story is the best spy thriller on television. A potent cocktail of whip-smart writing, flawless performances, and unapologetic grit, *Slow Horses* is a near-perfect series that consistently exceeds expectations. ##",
-     "url": "https://www.themoviedb.org/review/6902e30865d9cca8119a7a41"
-    },
-    {
-     "author": "TarynsEyes",
-     "rating": null,
-     "text": "A little late to this site, and certainly wish I knew about it sooner. This is a fantastic show with a awesome cast with each filling their role incredibly. Gary Oldman is by far a most underrated actor. The plots, dialog, settingsare wonderful. Do not ignore this show.",
-     "url": "https://www.themoviedb.org/review/69b465be01e1361e4d718f80"
-    }
-   ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 162097.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "abd0445c6b4d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "wonderful cast",
-     "twisty spycraft with humour",
-     "gloriously grubby masterclass"
-    ],
-    "complaints": [],
-    "buzz": "High",
-    "box_office_verdict": "not stated",
-    "summary": "Slow Horses is praised for its strong cast, clever spy storytelling and humor",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-20T14:24:00+00:00"
-   }
-  },
-  {
    "key": "tv-22980",
    "kind": "tv",
    "tmdb_id": 22980,
@@ -1121,7 +1137,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 553.5,
+   "popularity": 572.0,
    "tmdb_vote": 4.892,
    "tmdb_votes": 102,
    "imdb_id": "tt2057880",
@@ -1152,9 +1168,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 481.5,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 5307,
+   "popularity": 499.7,
+   "tmdb_vote": 8.024,
+   "tmdb_votes": 5400,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1188,31 +1204,39 @@
    "rt": null,
    "metascore": 88.0,
    "box_office_usd": 625595435.0,
-   "trade": [],
-   "input_hash": "895456b91ef9",
+   "trade": [
+    {
+     "title": "‘The Odyssey’ Star Samantha Morton Honored With BFI Fellowship",
+     "link": "https://www.hollywoodreporter.com/movies/movie-news/samantha-morton-bfi-fellowship-the-odyssey-film-award-oscar-1236761014/",
+     "source": "The Hollywood Reporter",
+     "published": "2026-11-23",
+     "snippet": "\"To have female working-class voices amongst past esteemed recipients means I can reach and hopefully teach and inspire a whole new generation,\" said the actress."
+    }
+   ],
+   "input_hash": "12b6ed4e84e3",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 0,
+    "audience_score": 20,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
      "faithful epic adaptation",
      "maximalist vision",
-     "spectacular IMAX experience"
+     "strong visual experience"
     ],
     "complaints": [
-     "bloated runtime",
-     "self‑important disaster",
-     "woke DEI nonsense"
+     "overlong and bloated",
+     "perceived woke agenda",
+     "historical inaccuracies"
     ],
-    "buzz": "High",
-    "box_office_verdict": "hit",
-    "summary": "The Odyssey divides viewers with its ambitious scope and faithful source material but polarizing execution",
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "The Odyssey divides viewers with its ambitious scope but polarizing execution.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:24:00+00:00"
+    "analysed_at": "2026-11-23T16:31:11+00:00"
    }
   },
   {
@@ -1234,7 +1258,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 470.2,
+   "popularity": 470.1,
    "tmdb_vote": 5.804,
    "tmdb_votes": 405,
    "imdb_id": "tt3444938",
@@ -1292,11 +1316,11 @@
    "release_date": "2026-11-18",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 343.1,
-   "tmdb_vote": 7.7,
-   "tmdb_votes": 186,
+   "popularity": 383.3,
+   "tmdb_vote": 7.8,
+   "tmdb_votes": 258,
    "imdb_id": "tt32558705",
    "tmdb_url": "https://www.themoviedb.org/movie/1300968",
    "tmdb_reviews": [
@@ -1325,28 +1349,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "0a21aa32a7c1",
+   "input_hash": "8663f29f94bb",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Aligned",
+    "audience_score": 40,
+    "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "compelling lead performance",
-     "anniversary feel"
+     "compelling new lead",
+     "fan‑service anniversary elements",
+     "entertaining action"
     ],
     "complaints": [
-     "overly repetitive praise",
-     "grim moments"
+     "repetitive plot",
+     "risky character choices",
+     "uneven pacing"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Fans are split, appreciating the lead and nostalgic elements while noting a grim tone.",
+    "summary": "The Hunger Games: Sunrise on the Reaping offers fresh moments but uneven storytelling.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-21T13:43:22+00:00"
+    "analysed_at": "2026-11-23T16:31:11+00:00"
    }
   },
   {
@@ -1366,9 +1392,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-   "popularity": 320.3,
-   "tmdb_vote": 6.454,
-   "tmdb_votes": 572,
+   "popularity": 316.6,
+   "tmdb_vote": 6.503,
+   "tmdb_votes": 597,
    "imdb_id": "tt36586020",
    "tmdb_url": "https://www.themoviedb.org/movie/1400837",
    "tmdb_reviews": [
@@ -1391,11 +1417,11 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "396139a77cc4",
+   "input_hash": "9802cbda6a4a",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 30,
+    "audience_score": 0,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
@@ -1405,16 +1431,15 @@
     ],
     "complaints": [
      "ordinary plot",
-     "secret‑family premise",
-     "comparisons to Poltergeist"
+     "unfinished description"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Other Mommy offers a spooky, well‑acted story but feels conventional and derivative",
+    "summary": "A spooky, well‑produced family thriller that feels ordinary in places.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:24:00+00:00"
+    "analysed_at": "2026-11-23T16:31:37+00:00"
    }
   },
   {
@@ -1436,7 +1461,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/9T7nQYH98nwha0oj3rVIDe1gTiZ.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 299.9,
+   "popularity": 306.9,
    "tmdb_vote": 5.1,
    "tmdb_votes": 140,
    "imdb_id": "tt3513388",
@@ -1497,9 +1522,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 285.6,
-   "tmdb_vote": 7.529,
-   "tmdb_votes": 2464,
+   "popularity": 288.3,
+   "tmdb_vote": 7.524,
+   "tmdb_votes": 2509,
    "imdb_id": "tt35538033",
    "tmdb_url": "https://www.themoviedb.org/movie/1423191",
    "tmdb_reviews": [
@@ -1534,30 +1559,30 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "cae845137269",
+   "input_hash": "88fa5ccdb66d",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 20,
+    "audience_score": 30,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "good cast",
      "captures game feeling",
-     "strong atmosphere"
+     "strong atmosphere",
+     "original story"
     ],
     "complaints": [
+     "second‑part problems",
      "bad finale",
-     "generic comedy horror",
-     "stupidity"
+     "generic comedy‑horror tone"
     ],
-    "buzz": "Medium",
+    "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "The film is praised for its cast, game‑faithful tone and atmosphere but criticized for a weak finale and uneven comedy‑horror elements.",
+    "summary": "A faithful yet uneven adaptation that delivers strong horror vibes but stumbles in its latter half.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:24:26+00:00"
+    "analysed_at": "2026-11-23T16:31:37+00:00"
    }
   }
  ]
