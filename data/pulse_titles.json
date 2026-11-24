@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:31:37+00:00",
+ "updated": "2026-11-24T16:27:08+00:00",
  "titles": [
   {
    "key": "tv-1413",
@@ -21,7 +21,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 1918.5,
+   "popularity": 1759.6,
    "tmdb_vote": 8.1,
    "tmdb_votes": 6316,
    "imdb_id": "tt1844624",
@@ -85,9 +85,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 1660.4,
-   "tmdb_vote": 7.223,
-   "tmdb_votes": 4135,
+   "popularity": 1517.8,
+   "tmdb_vote": 7.222,
+   "tmdb_votes": 4139,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -122,7 +122,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6e28baa32af1",
+   "input_hash": "cdc264b65af9",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -166,7 +166,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 1073.9,
+   "popularity": 1163.7,
    "tmdb_vote": 8.2,
    "tmdb_votes": 11147,
    "imdb_id": "tt0413573",
@@ -240,9 +240,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1025.7,
+   "popularity": 1031.5,
    "tmdb_vote": 8.029,
-   "tmdb_votes": 11197,
+   "tmdb_votes": 11198,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -277,7 +277,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "2e8962c0b70e",
+   "input_hash": "cc6b067876c9",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -323,9 +323,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
    "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 458.8,
-   "tmdb_vote": 8.681,
-   "tmdb_votes": 1301,
+   "popularity": 755.8,
+   "tmdb_vote": 8.679,
+   "tmdb_votes": 1306,
    "imdb_id": "tt31510819",
    "tmdb_url": "https://www.themoviedb.org/tv/247718",
    "tmdb_reviews": [
@@ -354,7 +354,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "4379663cc957",
+   "input_hash": "7fec979c3690",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -381,6 +381,147 @@
    }
   },
   {
+   "key": "tv-79744",
+   "kind": "tv",
+   "tmdb_id": 79744,
+   "title": "The Rookie",
+   "studio": "ABC",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "ABC",
+    "ABC Studios",
+    "Entertainment One",
+    "Lionsgate Television",
+    "ABC Signature"
+   ],
+   "release_date": "2026-05-04",
+   "first_air_date": "2018-10-16",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+   "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+   "popularity": 671.1,
+   "tmdb_vote": 8.532,
+   "tmdb_votes": 3632,
+   "imdb_id": "tt7587890",
+   "tmdb_url": "https://www.themoviedb.org/tv/79744",
+   "tmdb_reviews": [
+    {
+     "author": "superbro",
+     "rating": 10.0,
+     "text": "Wow wow wow thats all I can say I watched the premeire of this show and it was a all out blast this is not a show that takes itsself too seriously or jokes too much it's kinda in the middle just rhe way I love it hilarious and also kick-ass the guy from castle is upbeat and charming. As well I love love loved this show it was fantastic no doubt one of the falls best",
+     "url": "https://www.themoviedb.org/review/5bca5294c3a36840aa01c352"
+    },
+    {
+     "author": "Dean",
+     "rating": 10.0,
+     "text": "What a great show! No propaganda, agenda or any political BS. Characters are very well developed. You care about them, you love them. I really can't say anything bad about this show. It's great. Definitely deserves 10/10!",
+     "url": "https://www.themoviedb.org/review/667a865c4641262f1a566eaa"
+    },
+    {
+     "author": "misubisu",
+     "rating": 7.0,
+     "text": "**Score: 7/10 — A Fun, Flawed, and Unapologetically Idealistic Procedural** *The Rookie* succeeds because of [not in spite of] its well crafted contradictions... It is a show that is at once deeply entertaining and profoundly naive, a character-driven workplace drama wrapped in the glossy, sun-drenched packaging of a police recruitment ad. For what it sets out to do—provide optimistic, weekly escapism with a beloved cast—it earns its keep, even as its disconnect from reality grows more pronounce",
+     "url": "https://www.themoviedb.org/review/667f757e5d2fbf285257304b"
+    },
+    {
+     "author": "ephraimk",
+     "rating": 9.0,
+     "text": "Really good. Like really good. The way it navigated through the drama following George Floyd's death was really good. A balance between a need for reform and a need for police. Well done.",
+     "url": "https://www.themoviedb.org/review/67a7d77c58d93cefedc8c3bd"
+    }
+   ],
+   "imdb_rating": 8.0,
+   "imdb_votes": 137322.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "9632168e5132",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 80,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "hilarious and kick‑ass",
+     "well developed characters",
+     "balanced drama"
+    ],
+    "complaints": [
+     "flawed",
+     "naive"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "not stated",
+    "summary": "The Rookie is praised for its humor, character depth and balanced handling of serious topics, though some note its flaws and idealism.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-24T16:26:42+00:00"
+   }
+  },
+  {
+   "key": "tv-81723",
+   "kind": "tv",
+   "tmdb_id": 81723,
+   "title": "The Gilded Age",
+   "studio": "HBO",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "HBO",
+    "Universal Television",
+    "HBO",
+    "Neamo Film and Television"
+   ],
+   "release_date": "2026-11-15",
+   "first_air_date": "2022-01-24",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+   "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decid",
+   "popularity": 377.5,
+   "tmdb_vote": 7.688,
+   "tmdb_votes": 303,
+   "imdb_id": "tt4406178",
+   "tmdb_url": "https://www.themoviedb.org/tv/81723",
+   "tmdb_reviews": [
+    {
+     "author": "Martin Oaks",
+     "rating": null,
+     "text": "**Aristocratic sobriety** This sensational period drama is set in New York City during the 1880s, an era of profound economic and technological change, as well as massive social conflict. Against this backdrop, we meet Marian Brook (Louisa Jacobson), a young woman with aristocratic but impoverished roots who moves in with her old-money New York aunts (the amazing Christine Baranski totally steals the show here). She immediately finds herself caught in a fierce social war between the traditional ",
+     "url": "https://www.themoviedb.org/review/6ad3b7acfc6413a6b91d3aa4"
+    }
+   ],
+   "imdb_rating": 8.1,
+   "imdb_votes": 54903.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "c4670ab3f263",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "sensational period drama",
+     "aristocratic sobriety"
+    ],
+    "complaints": [],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "The Gilded Age is noted for its period setting and tone, but limited feedback leaves overall sentiment mixed.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-24T16:26:42+00:00"
+   }
+  },
+  {
    "key": "movie-1263337",
    "kind": "movie",
    "tmdb_id": 1263337,
@@ -400,9 +541,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 391.4,
-   "tmdb_vote": 7.851,
-   "tmdb_votes": 1168,
+   "popularity": 343.4,
+   "tmdb_vote": 7.869,
+   "tmdb_votes": 1200,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -437,7 +578,7 @@
    "metascore": 66.0,
    "box_office_usd": 67176594.0,
    "trade": [],
-   "input_hash": "183823f10624",
+   "input_hash": "870098547246",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -483,7 +624,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 312.4,
+   "popularity": 336.0,
    "tmdb_vote": 6.429,
    "tmdb_votes": 682,
    "imdb_id": "tt0115147",
@@ -517,9 +658,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 310.2,
+   "popularity": 313.7,
    "tmdb_vote": 8.322,
-   "tmdb_votes": 2976,
+   "tmdb_votes": 2977,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -548,7 +689,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "517b6a966b99",
+   "input_hash": "1f3917c685c9",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -592,9 +733,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 310.0,
-   "tmdb_vote": 8.458,
-   "tmdb_votes": 7068,
+   "popularity": 296.3,
+   "tmdb_vote": 8.5,
+   "tmdb_votes": 7087,
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "tmdb_reviews": [
@@ -629,7 +770,7 @@
    "metascore": 66.0,
    "box_office_usd": 954994964.0,
    "trade": [],
-   "input_hash": "c2b963220466",
+   "input_hash": "e3a4fd19bef2",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -673,7 +814,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 267.5,
+   "popularity": 289.0,
    "tmdb_vote": 7.601,
    "tmdb_votes": 2629,
    "imdb_id": "tt0364845",
@@ -715,101 +856,6 @@
    }
   },
   {
-   "key": "tv-4656",
-   "kind": "tv",
-   "tmdb_id": 4656,
-   "title": "Raw",
-   "studio": "USA Network",
-   "parent": "Versant",
-   "group": "Tracked companies",
-   "companies": [
-    "USA Network",
-    "Spike",
-    "Netflix",
-    "The New TNN",
-    "WWE Home Video"
-   ],
-   "release_date": "2026-11-16",
-   "first_air_date": "1993-01-11",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 266.6,
-   "tmdb_vote": 6.7,
-   "tmdb_votes": 387,
-   "imdb_id": "tt0185103",
-   "tmdb_url": "https://www.themoviedb.org/tv/4656",
-   "tmdb_reviews": [],
-   "imdb_rating": 7.7,
-   "imdb_votes": 11088.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "ec3dfab5d4b0"
-  },
-  {
-   "key": "tv-279246",
-   "kind": "tv",
-   "tmdb_id": 279246,
-   "title": "The Remarried Empress",
-   "studio": "Disney+ originals",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "Disney+",
-    "Studio N",
-    "Beyond Story",
-    "Heavyweight",
-    "Disney Channel"
-   ],
-   "release_date": "2026-11-18",
-   "first_air_date": "2026-11-03",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-   "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-   "popularity": 220.6,
-   "tmdb_vote": 8.677,
-   "tmdb_votes": 141,
-   "imdb_id": "tt39325975",
-   "tmdb_url": "https://www.themoviedb.org/tv/279246",
-   "tmdb_reviews": [
-    {
-     "author": "Muhammad AYAZ",
-     "rating": 10.0,
-     "text": "The Remarried Empress (2026) – A Royal Tale of Betrayal, Revenge, and Love The Remarried Empress is a beautifully crafted Korean fantasy-romance drama that combines royal politics, emotional betrayal, romance, and palace intrigue into an engaging story. What makes this series particularly interesting is its strong female lead, Navier, whose dignity, intelligence, and determination make her a truly compelling character. The storyline becomes increasingly fascinating as love, jealousy, ambition, a",
-     "url": "https://www.themoviedb.org/review/6aefa16a929707bc6f57dbbf"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "252d97afdd4e",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "beautifully crafted",
-     "strong female lead",
-     "engaging story"
-    ],
-    "complaints": [],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "A well‑received Korean fantasy‑romance praised for its craft and lead character.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-22T13:36:55+00:00"
-   }
-  },
-  {
    "key": "movie-1003596",
    "kind": "movie",
    "tmdb_id": 1003596,
@@ -825,9 +871,9 @@
    "release_date": "2026-12-16",
    "first_air_date": null,
    "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 162.6,
+   "popularity": 207.4,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -835,28 +881,14 @@
    "tmdb_reviews": [],
    "trade": [
     {
-     "title": "‘Avengers: Doomsday’ Final Trailer Shows Major X-Men Moment",
-     "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061/",
-     "source": "The Hollywood Reporter",
+     "title": "Why Is the ‘Avengers: Doomsday’ Trailer So… Gloomy? Internet Erupts Over Latest Look at Marvel Movie",
+     "link": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/",
+     "source": "IndieWire",
      "published": "2026-11-23",
-     "snippet": "The final trailer for the Marvel superhero mashup is the best look yet at the upcoming blockbuster."
-    },
-    {
-     "title": "Final ‘Avengers: Doomsday’ Trailer Has Fantastic Four Pulling Steve Rogers Out Of His Quiet Life",
-     "link": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535/",
-     "source": "Deadline",
-     "published": "2026-11-23",
-     "snippet": "No, Steve Rogers, you won’t travel into that quiet, dad, country life. Not if the Fantastic Four has anything to do with it. The supes of four show up in the final trailer for Disney/Marvel Studios’ Avengers: Doomsday to tell the man who was Captain America about a greater evil that’s prevailing in the world. […]"
-    },
-    {
-     "title": "‘Avengers: Doomsday’ Final Trailer: Captain America’s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men",
-     "link": "https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/",
-     "source": "Variety",
-     "published": "2026-11-23",
-     "snippet": "Marvel has dropped the final trailer for “Avengers: Doomsday” ahead of its Dec. 18 release. The new trailer picks up after the new scene featuring Steve Rogers and Peggy Carter that was added to “Avengers: Endgame Encore, which reveals the couple’s teenaged son. The Fantastic Four somehow travel back in time to pick up Steve […]"
+     "snippet": "Are the Russo brothers afraid of color or what?"
     }
    ],
-   "input_hash": "362f00e901cc",
+   "input_hash": "67b5ba2a472d",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -879,6 +911,52 @@
    }
   },
   {
+   "key": "movie-1538497",
+   "kind": "movie",
+   "tmdb_id": 1538497,
+   "title": "Hexed",
+   "studio": "Walt Disney Animation Studios",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "Walt Disney Animation Studios"
+   ],
+   "release_date": "2026-11-25",
+   "first_air_date": null,
+   "upcoming": true,
+   "poster": "https://image.tmdb.org/t/p/w342/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+   "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries tha",
+   "popularity": 50.8,
+   "tmdb_vote": 8.2,
+   "tmdb_votes": 4,
+   "imdb_id": "tt38077943",
+   "tmdb_url": "https://www.themoviedb.org/movie/1538497",
+   "tmdb_reviews": [],
+   "trade": [],
+   "input_hash": "376662d07eca",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 60,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "high anticipation for animation",
+     "interest in story"
+    ],
+    "complaints": [
+     "concerns about release timing"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Hexed generates excitement for its animation and story, with some worries about its release schedule.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-24T16:26:42+00:00"
+   }
+  },
+  {
    "key": "tv-46923",
    "kind": "tv",
    "tmdb_id": 46923,
@@ -897,9 +975,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing",
-   "popularity": 2456.4,
-   "tmdb_vote": 7.5,
-   "tmdb_votes": 218,
+   "popularity": 2328.0,
+   "tmdb_vote": 7.539,
+   "tmdb_votes": 219,
    "imdb_id": "tt2396135",
    "tmdb_url": "https://www.themoviedb.org/tv/46923",
    "tmdb_reviews": [],
@@ -909,7 +987,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "28be1af2c9e0"
+   "input_hash": "07acd1915fc7"
   },
   {
    "key": "tv-95480",
@@ -930,9 +1008,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "popularity": 2053.0,
-   "tmdb_vote": 8.078,
-   "tmdb_votes": 1150,
+   "popularity": 2324.1,
+   "tmdb_vote": 8.08,
+   "tmdb_votes": 1153,
    "imdb_id": "tt5875444",
    "tmdb_url": "https://www.themoviedb.org/tv/95480",
    "tmdb_reviews": [
@@ -961,7 +1039,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "437ed970536c",
+   "input_hash": "a9e382b25a46",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1001,7 +1079,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 1508.5,
+   "popularity": 1473.3,
    "tmdb_vote": 7.9,
    "tmdb_votes": 1098,
    "imdb_id": "tt0852863",
@@ -1014,40 +1092,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "b69433a4c3a3"
-  },
-  {
-   "key": "tv-37678",
-   "kind": "tv",
-   "tmdb_id": 37678,
-   "title": "The Voice",
-   "studio": "NBC & Peacock",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "NBC",
-    "Warner Horizon Television",
-    "Mark Burnett Productions",
-    "One Three Media",
-    "United Artists Media Group"
-   ],
-   "release_date": "2026-11-16",
-   "first_air_date": "2011-04-26",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
-   "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 1486.6,
-   "tmdb_vote": 5.9,
-   "tmdb_votes": 235,
-   "imdb_id": "tt1839337",
-   "tmdb_url": "https://www.themoviedb.org/tv/37678",
-   "tmdb_reviews": [],
-   "imdb_rating": 6.5,
-   "imdb_votes": 14186.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "e9f2d763f7e3"
   },
   {
    "key": "tv-2734",
@@ -1069,7 +1113,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 1464.1,
+   "popularity": 1435.9,
    "tmdb_vote": 8.0,
    "tmdb_votes": 4428,
    "imdb_id": "tt0203259",
@@ -1120,6 +1164,40 @@
    }
   },
   {
+   "key": "tv-37678",
+   "kind": "tv",
+   "tmdb_id": 37678,
+   "title": "The Voice",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "NBC",
+    "Warner Horizon Television",
+    "Mark Burnett Productions",
+    "One Three Media",
+    "United Artists Media Group"
+   ],
+   "release_date": "2026-11-16",
+   "first_air_date": "2011-04-26",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+   "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+   "popularity": 1339.6,
+   "tmdb_vote": 5.9,
+   "tmdb_votes": 235,
+   "imdb_id": "tt1839337",
+   "tmdb_url": "https://www.themoviedb.org/tv/37678",
+   "tmdb_reviews": [],
+   "imdb_rating": 6.5,
+   "imdb_votes": 14186.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "e9f2d763f7e3"
+  },
+  {
    "key": "tv-22980",
    "kind": "tv",
    "tmdb_id": 22980,
@@ -1137,7 +1215,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 572.0,
+   "popularity": 630.2,
    "tmdb_vote": 4.892,
    "tmdb_votes": 102,
    "imdb_id": "tt2057880",
@@ -1150,94 +1228,6 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "ea8a7377e7b6"
-  },
-  {
-   "key": "movie-1368337",
-   "kind": "movie",
-   "tmdb_id": 1368337,
-   "title": "The Odyssey",
-   "studio": "Universal Pictures",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "Universal Pictures",
-    "Syncopy"
-   ],
-   "release_date": "2026-07-15",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 499.7,
-   "tmdb_vote": 8.024,
-   "tmdb_votes": 5400,
-   "imdb_id": "tt33764258",
-   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
-     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
-    },
-    {
-     "author": "Manuel São Bento",
-     "rating": 10.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
-     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
-    },
-    {
-     "author": "AlphaLucifer",
-     "rating": 1.0,
-     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
-     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
-    },
-    {
-     "author": "jwtx",
-     "rating": null,
-     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
-     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
-    }
-   ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 544815.0,
-   "rt": null,
-   "metascore": 88.0,
-   "box_office_usd": 625595435.0,
-   "trade": [
-    {
-     "title": "‘The Odyssey’ Star Samantha Morton Honored With BFI Fellowship",
-     "link": "https://www.hollywoodreporter.com/movies/movie-news/samantha-morton-bfi-fellowship-the-odyssey-film-award-oscar-1236761014/",
-     "source": "The Hollywood Reporter",
-     "published": "2026-11-23",
-     "snippet": "\"To have female working-class voices amongst past esteemed recipients means I can reach and hopefully teach and inspire a whole new generation,\" said the actress."
-    }
-   ],
-   "input_hash": "12b6ed4e84e3",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "faithful epic adaptation",
-     "maximalist vision",
-     "strong visual experience"
-    ],
-    "complaints": [
-     "overlong and bloated",
-     "perceived woke agenda",
-     "historical inaccuracies"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The Odyssey divides viewers with its ambitious scope but polarizing execution.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:31:11+00:00"
-   }
   },
   {
    "key": "tv-59941",
@@ -1258,7 +1248,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 470.1,
+   "popularity": 565.6,
    "tmdb_vote": 5.804,
    "tmdb_votes": 405,
    "imdb_id": "tt3444938",
@@ -1300,6 +1290,86 @@
    }
   },
   {
+   "key": "movie-1368337",
+   "kind": "movie",
+   "tmdb_id": 1368337,
+   "title": "The Odyssey",
+   "studio": "Universal Pictures",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "Universal Pictures",
+    "Syncopy"
+   ],
+   "release_date": "2026-07-15",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+   "popularity": 446.2,
+   "tmdb_vote": 8.0,
+   "tmdb_votes": 5431,
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
+     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 10.0,
+     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
+     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
+    },
+    {
+     "author": "AlphaLucifer",
+     "rating": 1.0,
+     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
+     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
+    },
+    {
+     "author": "jwtx",
+     "rating": null,
+     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
+     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 544815.0,
+   "rt": null,
+   "metascore": 88.0,
+   "box_office_usd": 625595435.0,
+   "trade": [],
+   "input_hash": "01026ba3d646",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "faithful epic adaptation",
+     "maximalist vision",
+     "strong visual experience"
+    ],
+    "complaints": [
+     "overlong and bloated",
+     "perceived woke agenda",
+     "historical inaccuracies"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "The Odyssey divides viewers with its ambitious scope but polarizing execution.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-23T16:31:11+00:00"
+   }
+  },
+  {
    "key": "movie-1300968",
    "kind": "movie",
    "tmdb_id": 1300968,
@@ -1316,11 +1386,11 @@
    "release_date": "2026-11-18",
    "first_air_date": null,
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/nzIXSQNgYZwFOMrmv0d0I3ulvkM.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 383.3,
-   "tmdb_vote": 7.8,
-   "tmdb_votes": 258,
+   "popularity": 385.9,
+   "tmdb_vote": 7.804,
+   "tmdb_votes": 299,
    "imdb_id": "tt32558705",
    "tmdb_url": "https://www.themoviedb.org/movie/1300968",
    "tmdb_reviews": [
@@ -1349,7 +1419,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "8663f29f94bb",
+   "input_hash": "d5f5573e4a28",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1376,73 +1446,6 @@
    }
   },
   {
-   "key": "movie-1400837",
-   "kind": "movie",
-   "tmdb_id": 1400837,
-   "title": "Other Mommy",
-   "studio": "Spin a Black Yarn",
-   "parent": "Spin a Black Yarn",
-   "group": "Rest of industry",
-   "companies": [
-    "Spin a Black Yarn",
-    "Blumhouse Atomic"
-   ],
-   "release_date": "2026-10-07",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-   "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-   "popularity": 316.6,
-   "tmdb_vote": 6.503,
-   "tmdb_votes": 597,
-   "imdb_id": "tt36586020",
-   "tmdb_url": "https://www.themoviedb.org/movie/1400837",
-   "tmdb_reviews": [
-    {
-     "author": "CinemaSerf",
-     "rating": 5.0,
-     "text": "We could have had Legosi, or even Bartok, but no - this \"Bela\" (Arabella Olivia Clark) is just an ordinary little girl growing up in, yep you've already guessed - a family with some secrets to keep. Her \"Daddo\" (Jay Duplass) does most of her rearing as successful mommy (Jessica Chastain) is out making a good living for them all. It turns out, though, that it isn't just the parents who have secrets, \"Bela\" has one too - and it inhabits her closet. What becomes clear is that the young lass feels a",
-     "url": "https://www.themoviedb.org/review/6acfa74c72e8c5bdfb59f060"
-    },
-    {
-     "author": "Sierbahnn",
-     "rating": 7.0,
-     "text": "When I was watching this movie, I kept thinking of Poltergeist. The plot is similar enough to Poltergeist to make the comparison. Only in this one they actually believe the kid straight off the bat, which is refreshing and works quite well. It is a very spooky movie and it does play very well. It's well acted and well produced, and some of the violence feels very earned when you get to the twist at the end. I really did enjoy this movie, and I think that you will too.",
-     "url": "https://www.themoviedb.org/review/6ad09a712d9f82a489b8e352"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "9802cbda6a4a",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "spooky atmosphere",
-     "well acted",
-     "earned violence"
-    ],
-    "complaints": [
-     "ordinary plot",
-     "unfinished description"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "A spooky, well‑produced family thriller that feels ordinary in places.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:31:37+00:00"
-   }
-  },
-  {
    "key": "tv-61818",
    "kind": "tv",
    "tmdb_id": 61818,
@@ -1456,12 +1459,12 @@
     "Sethmaker Shoemeyers Productions",
     "Broadway Video"
    ],
-   "release_date": "2026-11-19",
+   "release_date": "2026-11-23",
    "first_air_date": "2014-02-25",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/9T7nQYH98nwha0oj3rVIDe1gTiZ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w342/hZYQjSo7mHZ06w52mzfN8izFTwZ.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 306.9,
+   "popularity": 339.4,
    "tmdb_vote": 5.1,
    "tmdb_votes": 140,
    "imdb_id": "tt3513388",
@@ -1503,87 +1506,76 @@
    }
   },
   {
-   "key": "movie-1423191",
-   "kind": "movie",
-   "tmdb_id": 1423191,
-   "title": "Resident Evil",
-   "studio": "Sony Pictures",
-   "parent": "Sony",
+   "key": "tv-549",
+   "kind": "tv",
+   "tmdb_id": 549,
+   "title": "Law & Order",
+   "studio": "NBC & Peacock",
+   "parent": "Comcast (NBCUniversal)",
    "group": "Rest of industry",
    "companies": [
-    "Constantin Film",
-    "Subconscious",
-    "Vertigo Entertainment",
-    "Davis Films",
-    "Columbia Pictures"
+    "NBC",
+    "Wolf Entertainment",
+    "Universal Television",
+    "Universal Media Studios",
+    "Studios USA"
    ],
-   "release_date": "2026-09-16",
-   "first_air_date": null,
+   "release_date": "2026-11-12",
+   "first_air_date": "1990-09-13",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-   "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-   "popularity": 288.3,
-   "tmdb_vote": 7.524,
-   "tmdb_votes": 2509,
-   "imdb_id": "tt35538033",
-   "tmdb_url": "https://www.themoviedb.org/movie/1423191",
-   "tmdb_reviews": [
-    {
-     "author": "magik_7o",
-     "rating": null,
-     "text": "This film is good, i really like the cast and the trame. This film have some problem in the second part of the film. The finale scene is bad. I can accepted that if you tell me there is going to be another movie. But this film is still good.",
-     "url": "https://www.themoviedb.org/review/6aaea8027d78cf7d7666f72e"
-    },
-    {
-     "author": "Nick",
-     "rating": 9.0,
-     "text": "Zach Cregger takes Capcom's zombie-outbreak survival horror and does exactly what a video game adaptation should do: capture the *feeling* of the games instead of slavishly recreating cutscenes. Rather than shoehorning in Leon or Claire, he builds an original story around Bryan (Austin Abrams), a hapless medical courier who stumbles into an outbreak near Raccoon City — and it works because Cregger clearly loves this world rather than just licensing it. The tense, blood-soaked gore is offset by m",
-     "url": "https://www.themoviedb.org/review/6aaf837733ff6bc5d9064ac1"
-    },
-    {
-     "author": "michaelgtr",
-     "rating": null,
-     "text": "RE? NO, a generic comedy horror. It's really hard to accept that 'comedy horror' genre is a thing, like this one. A Uber courier (with no car) sets out to make a delivery-sparking uproarious laughter in what looks like a festival of stupidity-and ends up dead. RE (game saga) centers on an imminent pathological outbreak that triggers a massive socio-economic transformation of society. A group attempts to expose the details regarding the responsible corporation-which defends itself by weaponizing ",
-     "url": "https://www.themoviedb.org/review/6aafff1600014ffbe29763a2"
-    },
-    {
-     "author": "TheFilmCritics.org",
-     "rating": 7.0,
-     "text": "The best kind of survival horror knows that darkness is not merely a lack of light—it is a promise that something is waiting just beyond it. That instinct serves *Resident Evil* remarkably well, delivering a film that finally understands the eerie isolation and creeping dread that made the games so enduring. The atmosphere is easily one of the movie's greatest strengths. Dark corridors, quiet stretches and an almost oppressive sense of isolation give the film the texture of survival horror rathe",
-     "url": "https://www.themoviedb.org/review/6ab2e91bdf9e806692253e8c"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
+   "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
+   "popularity": 301.4,
+   "tmdb_vote": 7.3,
+   "tmdb_votes": 744,
+   "imdb_id": "tt0098844",
+   "tmdb_url": "https://www.themoviedb.org/tv/549",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.8,
+   "imdb_votes": 52301.0,
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "88fa5ccdb66d",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 30,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "captures game feeling",
-     "strong atmosphere",
-     "original story"
-    ],
-    "complaints": [
-     "second‑part problems",
-     "bad finale",
-     "generic comedy‑horror tone"
-    ],
-    "buzz": "High",
-    "box_office_verdict": "not stated",
-    "summary": "A faithful yet uneven adaptation that delivers strong horror vibes but stumbles in its latter half.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:31:37+00:00"
-   }
+   "input_hash": "a7d2c0ee3d30"
+  },
+  {
+   "key": "tv-291",
+   "kind": "tv",
+   "tmdb_id": 291,
+   "title": "Coronation Street",
+   "studio": "ITV1",
+   "parent": "ITV1",
+   "group": "Rest of industry",
+   "companies": [
+    "ITV1",
+    "ITV Studios"
+   ],
+   "release_date": "2026-10-30",
+   "first_air_date": "1960-12-09",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+   "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+   "popularity": 275.7,
+   "tmdb_vote": 5.289,
+   "tmdb_votes": 121,
+   "imdb_id": "tt0053494",
+   "tmdb_url": "https://www.themoviedb.org/tv/291",
+   "tmdb_reviews": [
+    {
+     "author": "Peter McGinn",
+     "rating": 8.0,
+     "text": "If I were rating the Coronation Street classic shows from the 60s to the early 90s, I would give it 10 stars. For the last 30 years, however, it would garner more like 5 or 6 stars. This drama started out being fairly realistic, with humor and drama in equal measure, and a cast you pretty much like from top to bottom, and which tried to represent the people of northern England, (Manchester and thereabouts). There were low expectations for the show, but it took off and made rock stars ut of the p",
+     "url": "https://www.themoviedb.org/review/5e89bf3260b58d0015ecf6e2"
+    }
+   ],
+   "imdb_rating": 5.6,
+   "imdb_votes": 6725.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "1495f2a5bfa1"
   }
  ]
 }
