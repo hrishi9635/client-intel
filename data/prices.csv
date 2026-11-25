@@ -370,9 +370,9 @@ date,company,close
 2026-05-13,WBD / Skydance,10.3721
 2026-05-14,WBD / Skydance,10.0154
 2026-05-15,WBD / Skydance,9.7975
-2026-05-18,WBD / Skydance,9.7282
+2026-05-18,WBD / Skydance,9.7281
 2026-05-19,WBD / Skydance,9.8074
-2026-05-20,WBD / Skydance,10.0352
+2026-05-20,WBD / Skydance,10.0353
 2026-05-21,WBD / Skydance,10.1838
 2026-05-22,WBD / Skydance,10.3622
 2026-05-26,WBD / Skydance,10.273
@@ -533,7 +533,7 @@ date,company,close
 2026-01-26,Versant,32.0303
 2026-01-27,Versant,32.1077
 2026-01-28,Versant,32.5143
-2026-01-29,Versant,31.798
+2026-01-29,Versant,31.7979
 2026-01-30,Versant,31.5366
 2026-02-02,Versant,31.4495
 2026-02-03,Versant,29.9298
@@ -1499,258 +1499,258 @@ date,company,close
 2026-11-20,Light & Wonder,116.85
 2026-11-23,Light & Wonder,116.47
 2026-11-24,Light & Wonder,119.2
-2026-11-25,Light & Wonder,118.85
-2025-11-24,Brightstar (IGT),14.7522
-2025-11-25,Brightstar (IGT),15.0258
-2025-11-26,Brightstar (IGT),14.7617
-2025-11-28,Brightstar (IGT),14.7522
-2025-12-01,Brightstar (IGT),14.7617
-2025-12-02,Brightstar (IGT),14.4598
-2025-12-03,Brightstar (IGT),14.4787
-2025-12-04,Brightstar (IGT),14.2429
-2025-12-05,Brightstar (IGT),14.1297
-2025-12-08,Brightstar (IGT),14.0542
-2025-12-09,Brightstar (IGT),14.4315
-2025-12-10,Brightstar (IGT),14.639
-2025-12-11,Brightstar (IGT),15.0541
-2025-12-12,Brightstar (IGT),15.0541
-2025-12-15,Brightstar (IGT),15.1012
-2025-12-16,Brightstar (IGT),14.9032
-2025-12-17,Brightstar (IGT),14.79
-2025-12-18,Brightstar (IGT),15.1484
-2025-12-19,Brightstar (IGT),15.1767
-2025-12-22,Brightstar (IGT),15.0918
-2025-12-23,Brightstar (IGT),14.7805
-2025-12-24,Brightstar (IGT),14.7805
-2025-12-26,Brightstar (IGT),14.8371
-2025-12-29,Brightstar (IGT),14.6485
-2025-12-30,Brightstar (IGT),14.6202
-2025-12-31,Brightstar (IGT),14.6013
-2026-01-02,Brightstar (IGT),14.4315
-2026-01-05,Brightstar (IGT),14.5353
-2026-01-06,Brightstar (IGT),14.7994
-2026-01-07,Brightstar (IGT),14.1391
-2026-01-08,Brightstar (IGT),14.4504
-2026-01-09,Brightstar (IGT),14.2712
-2026-01-12,Brightstar (IGT),14.1108
-2026-01-13,Brightstar (IGT),13.8562
-2026-01-14,Brightstar (IGT),13.7618
-2026-01-15,Brightstar (IGT),13.7807
-2026-01-16,Brightstar (IGT),13.4411
-2026-01-20,Brightstar (IGT),13.1299
-2026-01-21,Brightstar (IGT),13.1582
-2026-01-22,Brightstar (IGT),13.2431
-2026-01-23,Brightstar (IGT),13.2808
-2026-01-26,Brightstar (IGT),13.3279
-2026-01-27,Brightstar (IGT),13.4128
-2026-01-28,Brightstar (IGT),13.1487
-2026-01-29,Brightstar (IGT),13.3185
-2026-01-30,Brightstar (IGT),13.6581
-2026-02-02,Brightstar (IGT),13.5449
-2026-02-03,Brightstar (IGT),13.3751
-2026-02-04,Brightstar (IGT),13.5732
-2026-02-05,Brightstar (IGT),13.3185
-2026-02-06,Brightstar (IGT),13.4694
-2026-02-09,Brightstar (IGT),13.46
-2026-02-10,Brightstar (IGT),13.5449
-2026-02-11,Brightstar (IGT),13.4317
-2026-02-12,Brightstar (IGT),12.7337
-2026-02-13,Brightstar (IGT),12.6865
-2026-02-17,Brightstar (IGT),12.6582
-2026-02-18,Brightstar (IGT),12.8092
-2026-02-19,Brightstar (IGT),12.828
-2026-02-20,Brightstar (IGT),12.696
-2026-02-23,Brightstar (IGT),12.3092
-2026-02-24,Brightstar (IGT),12.9412
-2026-02-25,Brightstar (IGT),13.0355
-2026-02-26,Brightstar (IGT),12.9884
-2026-02-27,Brightstar (IGT),12.7903
-2026-03-02,Brightstar (IGT),12.6677
-2026-03-03,Brightstar (IGT),12.6677
-2026-03-04,Brightstar (IGT),12.7997
-2026-03-05,Brightstar (IGT),12.8752
-2026-03-06,Brightstar (IGT),12.6394
-2026-03-09,Brightstar (IGT),12.5356
-2026-03-10,Brightstar (IGT),12.2477
-2026-03-11,Brightstar (IGT),12.4492
-2026-03-12,Brightstar (IGT),12.1325
-2026-03-13,Brightstar (IGT),12.1613
-2026-03-16,Brightstar (IGT),12.2573
-2026-03-17,Brightstar (IGT),12.2285
-2026-03-18,Brightstar (IGT),12.1133
-2026-03-19,Brightstar (IGT),12.43
-2026-03-20,Brightstar (IGT),12.2765
-2026-03-23,Brightstar (IGT),12.526
-2026-03-24,Brightstar (IGT),12.4972
-2026-03-25,Brightstar (IGT),12.4204
-2026-03-26,Brightstar (IGT),12.3629
-2026-03-27,Brightstar (IGT),12.1037
-2026-03-30,Brightstar (IGT),11.9789
-2026-03-31,Brightstar (IGT),12.2285
-2026-04-01,Brightstar (IGT),12.2957
-2026-04-02,Brightstar (IGT),12.2189
-2026-04-06,Brightstar (IGT),12.0365
-2026-04-07,Brightstar (IGT),11.7773
-2026-04-08,Brightstar (IGT),11.9981
-2026-04-09,Brightstar (IGT),11.8637
-2026-04-10,Brightstar (IGT),11.7581
-2026-04-13,Brightstar (IGT),11.7677
-2026-04-14,Brightstar (IGT),12.0845
-2026-04-15,Brightstar (IGT),12.3053
-2026-04-16,Brightstar (IGT),12.3341
-2026-04-17,Brightstar (IGT),12.622
-2026-04-20,Brightstar (IGT),12.4876
-2026-04-21,Brightstar (IGT),12.6412
-2026-04-22,Brightstar (IGT),12.1325
-2026-04-23,Brightstar (IGT),12.2861
-2026-04-24,Brightstar (IGT),12.4012
-2026-04-27,Brightstar (IGT),12.3341
-2026-04-28,Brightstar (IGT),12.382
-2026-04-29,Brightstar (IGT),12.4204
-2026-04-30,Brightstar (IGT),12.6028
-2026-05-01,Brightstar (IGT),12.2861
-2026-05-04,Brightstar (IGT),11.8829
-2026-05-05,Brightstar (IGT),12.0077
-2026-05-06,Brightstar (IGT),12.1517
-2026-05-07,Brightstar (IGT),12.1805
-2026-05-08,Brightstar (IGT),12.526
-2026-05-11,Brightstar (IGT),12.2573
-2026-05-12,Brightstar (IGT),11.0863
-2026-05-13,Brightstar (IGT),10.5295
-2026-05-14,Brightstar (IGT),10.6735
-2026-05-15,Brightstar (IGT),10.2992
-2026-05-18,Brightstar (IGT),10.4624
-2026-05-19,Brightstar (IGT),10.184
-2026-05-20,Brightstar (IGT),10.2512
-2026-05-21,Brightstar (IGT),10.6063
-2026-05-22,Brightstar (IGT),10.7503
-2026-05-26,Brightstar (IGT),10.5871
-2026-05-27,Brightstar (IGT),10.6735
-2026-05-28,Brightstar (IGT),10.9578
-2026-05-29,Brightstar (IGT),11.0068
-2026-06-01,Brightstar (IGT),11.3498
-2026-06-02,Brightstar (IGT),11.1048
-2026-06-03,Brightstar (IGT),10.8205
-2026-06-04,Brightstar (IGT),11.2812
-2026-06-05,Brightstar (IGT),11.0166
-2026-06-08,Brightstar (IGT),11.0264
-2026-06-09,Brightstar (IGT),11.3204
-2026-06-10,Brightstar (IGT),11.5164
-2026-06-11,Brightstar (IGT),11.732
-2026-06-12,Brightstar (IGT),11.634
-2026-06-15,Brightstar (IGT),11.34
-2026-06-16,Brightstar (IGT),11.3596
-2026-06-17,Brightstar (IGT),10.8793
-2026-06-18,Brightstar (IGT),11.0852
-2026-06-22,Brightstar (IGT),10.7323
-2026-06-23,Brightstar (IGT),10.6049
-2026-06-24,Brightstar (IGT),10.6049
-2026-06-25,Brightstar (IGT),10.6343
-2026-06-26,Brightstar (IGT),10.9774
-2026-06-29,Brightstar (IGT),10.6931
-2026-06-30,Brightstar (IGT),10.5069
-2026-07-01,Brightstar (IGT),10.9185
-2026-07-02,Brightstar (IGT),11.0362
-2026-07-06,Brightstar (IGT),10.8989
-2026-07-07,Brightstar (IGT),10.9676
-2026-07-08,Brightstar (IGT),10.6735
-2026-07-09,Brightstar (IGT),10.7813
-2026-07-10,Brightstar (IGT),10.7029
-2026-07-13,Brightstar (IGT),10.6049
-2026-07-14,Brightstar (IGT),10.4971
-2026-07-15,Brightstar (IGT),10.5167
-2026-07-16,Brightstar (IGT),10.7715
-2026-07-17,Brightstar (IGT),10.5265
-2026-07-20,Brightstar (IGT),10.5265
-2026-07-21,Brightstar (IGT),10.4285
-2026-07-22,Brightstar (IGT),10.2325
-2026-07-23,Brightstar (IGT),10.1148
-2026-07-24,Brightstar (IGT),10.2031
-2026-07-27,Brightstar (IGT),10.2717
-2026-07-28,Brightstar (IGT),10.2619
-2026-07-29,Brightstar (IGT),10.1443
-2026-07-30,Brightstar (IGT),9.9678
-2026-07-31,Brightstar (IGT),9.8404
-2026-08-03,Brightstar (IGT),9.909
-2026-08-04,Brightstar (IGT),11.0754
-2026-08-05,Brightstar (IGT),11.0754
-2026-08-06,Brightstar (IGT),10.8499
-2026-08-07,Brightstar (IGT),10.8303
-2026-08-10,Brightstar (IGT),10.7813
-2026-08-11,Brightstar (IGT),11.0264
-2026-08-12,Brightstar (IGT),11.0852
-2026-08-13,Brightstar (IGT),11.4576
-2026-08-14,Brightstar (IGT),11.5556
-2026-08-17,Brightstar (IGT),11.34
-2026-08-18,Brightstar (IGT),11.0
-2026-08-19,Brightstar (IGT),11.38
-2026-08-20,Brightstar (IGT),11.58
-2026-08-21,Brightstar (IGT),12.1
-2026-08-24,Brightstar (IGT),11.82
-2026-08-25,Brightstar (IGT),11.61
-2026-08-26,Brightstar (IGT),11.47
-2026-08-27,Brightstar (IGT),11.32
-2026-08-28,Brightstar (IGT),11.57
-2026-08-31,Brightstar (IGT),11.27
-2026-09-01,Brightstar (IGT),11.17
-2026-09-02,Brightstar (IGT),11.17
-2026-09-03,Brightstar (IGT),11.34
-2026-09-04,Brightstar (IGT),11.3
-2026-09-08,Brightstar (IGT),11.11
-2026-09-09,Brightstar (IGT),11.12
-2026-09-10,Brightstar (IGT),10.66
-2026-09-11,Brightstar (IGT),10.8
-2026-09-14,Brightstar (IGT),10.69
-2026-09-15,Brightstar (IGT),10.58
-2026-09-16,Brightstar (IGT),10.53
-2026-09-17,Brightstar (IGT),10.41
-2026-09-18,Brightstar (IGT),10.18
-2026-09-21,Brightstar (IGT),10.28
-2026-09-22,Brightstar (IGT),10.42
-2026-09-23,Brightstar (IGT),10.26
-2026-09-24,Brightstar (IGT),9.74
-2026-09-25,Brightstar (IGT),9.96
-2026-09-28,Brightstar (IGT),9.87
-2026-09-29,Brightstar (IGT),9.93
-2026-09-30,Brightstar (IGT),9.99
-2026-10-01,Brightstar (IGT),9.89
-2026-10-02,Brightstar (IGT),9.85
-2026-10-05,Brightstar (IGT),9.93
-2026-10-06,Brightstar (IGT),10.21
-2026-10-07,Brightstar (IGT),10.04
-2026-10-08,Brightstar (IGT),9.99
-2026-10-09,Brightstar (IGT),9.84
-2026-10-12,Brightstar (IGT),9.92
-2026-10-13,Brightstar (IGT),9.96
-2026-10-14,Brightstar (IGT),9.56
-2026-10-15,Brightstar (IGT),9.7
-2026-10-16,Brightstar (IGT),9.5
-2026-10-19,Brightstar (IGT),9.43
-2026-10-20,Brightstar (IGT),9.36
-2026-10-21,Brightstar (IGT),9.23
-2026-10-22,Brightstar (IGT),9.56
-2026-10-23,Brightstar (IGT),9.48
-2026-10-26,Brightstar (IGT),9.5
-2026-10-27,Brightstar (IGT),9.49
-2026-10-28,Brightstar (IGT),9.29
-2026-10-29,Brightstar (IGT),9.6
-2026-10-30,Brightstar (IGT),9.65
-2026-11-02,Brightstar (IGT),10.03
-2026-11-03,Brightstar (IGT),9.86
-2026-11-04,Brightstar (IGT),10.12
-2026-11-05,Brightstar (IGT),10.02
-2026-11-06,Brightstar (IGT),9.9
-2026-11-09,Brightstar (IGT),10.01
-2026-11-10,Brightstar (IGT),9.59
-2026-11-11,Brightstar (IGT),10.28
-2026-11-12,Brightstar (IGT),9.69
-2026-11-13,Brightstar (IGT),9.81
-2026-11-16,Brightstar (IGT),9.48
-2026-11-17,Brightstar (IGT),8.95
-2026-11-18,Brightstar (IGT),9.21
-2026-11-19,Brightstar (IGT),8.83
-2026-11-20,Brightstar (IGT),8.56
-2026-11-23,Brightstar (IGT),8.89
+2026-11-25,Light & Wonder,119.92
+2025-11-24,Brightstar (IGT),14.3706
+2025-11-25,Brightstar (IGT),14.637
+2025-11-26,Brightstar (IGT),14.3798
+2025-11-28,Brightstar (IGT),14.3706
+2025-12-01,Brightstar (IGT),14.3798
+2025-12-02,Brightstar (IGT),14.0857
+2025-12-03,Brightstar (IGT),14.1041
+2025-12-04,Brightstar (IGT),13.8744
+2025-12-05,Brightstar (IGT),13.7641
+2025-12-08,Brightstar (IGT),13.6906
+2025-12-09,Brightstar (IGT),14.0582
+2025-12-10,Brightstar (IGT),14.2603
+2025-12-11,Brightstar (IGT),14.6646
+2025-12-12,Brightstar (IGT),14.6646
+2025-12-15,Brightstar (IGT),14.7105
+2025-12-16,Brightstar (IGT),14.5176
+2025-12-17,Brightstar (IGT),14.4073
+2025-12-18,Brightstar (IGT),14.7565
+2025-12-19,Brightstar (IGT),14.784
+2025-12-22,Brightstar (IGT),14.7013
+2025-12-23,Brightstar (IGT),14.3981
+2025-12-24,Brightstar (IGT),14.3981
+2025-12-26,Brightstar (IGT),14.4533
+2025-12-29,Brightstar (IGT),14.2695
+2025-12-30,Brightstar (IGT),14.2419
+2025-12-31,Brightstar (IGT),14.2236
+2026-01-02,Brightstar (IGT),14.0582
+2026-01-05,Brightstar (IGT),14.1592
+2026-01-06,Brightstar (IGT),14.4165
+2026-01-07,Brightstar (IGT),13.7733
+2026-01-08,Brightstar (IGT),14.0765
+2026-01-09,Brightstar (IGT),13.902
+2026-01-12,Brightstar (IGT),13.7458
+2026-01-13,Brightstar (IGT),13.4977
+2026-01-14,Brightstar (IGT),13.4058
+2026-01-15,Brightstar (IGT),13.4242
+2026-01-16,Brightstar (IGT),13.0934
+2026-01-20,Brightstar (IGT),12.7902
+2026-01-21,Brightstar (IGT),12.8177
+2026-01-22,Brightstar (IGT),12.9004
+2026-01-23,Brightstar (IGT),12.9372
+2026-01-26,Brightstar (IGT),12.9831
+2026-01-27,Brightstar (IGT),13.0658
+2026-01-28,Brightstar (IGT),12.8085
+2026-01-29,Brightstar (IGT),12.9739
+2026-01-30,Brightstar (IGT),13.3047
+2026-02-02,Brightstar (IGT),13.1945
+2026-02-03,Brightstar (IGT),13.0291
+2026-02-04,Brightstar (IGT),13.222
+2026-02-05,Brightstar (IGT),12.9739
+2026-02-06,Brightstar (IGT),13.121
+2026-02-09,Brightstar (IGT),13.1118
+2026-02-10,Brightstar (IGT),13.1945
+2026-02-11,Brightstar (IGT),13.0842
+2026-02-12,Brightstar (IGT),12.4043
+2026-02-13,Brightstar (IGT),12.3583
+2026-02-17,Brightstar (IGT),12.3308
+2026-02-18,Brightstar (IGT),12.4778
+2026-02-19,Brightstar (IGT),12.4961
+2026-02-20,Brightstar (IGT),12.3675
+2026-02-23,Brightstar (IGT),11.9908
+2026-02-24,Brightstar (IGT),12.6064
+2026-02-25,Brightstar (IGT),12.6983
+2026-02-26,Brightstar (IGT),12.6523
+2026-02-27,Brightstar (IGT),12.4594
+2026-03-02,Brightstar (IGT),12.3399
+2026-03-03,Brightstar (IGT),12.3399
+2026-03-04,Brightstar (IGT),12.4686
+2026-03-05,Brightstar (IGT),12.5421
+2026-03-06,Brightstar (IGT),12.3124
+2026-03-09,Brightstar (IGT),12.2113
+2026-03-10,Brightstar (IGT),11.9308
+2026-03-11,Brightstar (IGT),12.1272
+2026-03-12,Brightstar (IGT),11.8186
+2026-03-13,Brightstar (IGT),11.8467
+2026-03-16,Brightstar (IGT),11.9402
+2026-03-17,Brightstar (IGT),11.9121
+2026-03-18,Brightstar (IGT),11.7999
+2026-03-19,Brightstar (IGT),12.1085
+2026-03-20,Brightstar (IGT),11.9589
+2026-03-23,Brightstar (IGT),12.202
+2026-03-24,Brightstar (IGT),12.1739
+2026-03-25,Brightstar (IGT),12.0991
+2026-03-26,Brightstar (IGT),12.043
+2026-03-27,Brightstar (IGT),11.7905
+2026-03-30,Brightstar (IGT),11.669
+2026-03-31,Brightstar (IGT),11.9121
+2026-04-01,Brightstar (IGT),11.9776
+2026-04-02,Brightstar (IGT),11.9028
+2026-04-06,Brightstar (IGT),11.7251
+2026-04-07,Brightstar (IGT),11.4726
+2026-04-08,Brightstar (IGT),11.6877
+2026-04-09,Brightstar (IGT),11.5568
+2026-04-10,Brightstar (IGT),11.4539
+2026-04-13,Brightstar (IGT),11.4633
+2026-04-14,Brightstar (IGT),11.7718
+2026-04-15,Brightstar (IGT),11.9869
+2026-04-16,Brightstar (IGT),12.015
+2026-04-17,Brightstar (IGT),12.2955
+2026-04-20,Brightstar (IGT),12.1646
+2026-04-21,Brightstar (IGT),12.3142
+2026-04-22,Brightstar (IGT),11.8186
+2026-04-23,Brightstar (IGT),11.9682
+2026-04-24,Brightstar (IGT),12.0804
+2026-04-27,Brightstar (IGT),12.015
+2026-04-28,Brightstar (IGT),12.0617
+2026-04-29,Brightstar (IGT),12.0991
+2026-04-30,Brightstar (IGT),12.2768
+2026-05-01,Brightstar (IGT),11.9682
+2026-05-04,Brightstar (IGT),11.5755
+2026-05-05,Brightstar (IGT),11.697
+2026-05-06,Brightstar (IGT),11.8373
+2026-05-07,Brightstar (IGT),11.8653
+2026-05-08,Brightstar (IGT),12.202
+2026-05-11,Brightstar (IGT),11.9402
+2026-05-12,Brightstar (IGT),10.7994
+2026-05-13,Brightstar (IGT),10.2571
+2026-05-14,Brightstar (IGT),10.3974
+2026-05-15,Brightstar (IGT),10.0327
+2026-05-18,Brightstar (IGT),10.1917
+2026-05-19,Brightstar (IGT),9.9205
+2026-05-20,Brightstar (IGT),9.986
+2026-05-21,Brightstar (IGT),10.3319
+2026-05-22,Brightstar (IGT),10.4722
+2026-05-26,Brightstar (IGT),10.3132
+2026-05-27,Brightstar (IGT),10.3974
+2026-05-28,Brightstar (IGT),10.6743
+2026-05-29,Brightstar (IGT),10.722
+2026-06-01,Brightstar (IGT),11.0562
+2026-06-02,Brightstar (IGT),10.8175
+2026-06-03,Brightstar (IGT),10.5406
+2026-06-04,Brightstar (IGT),10.9893
+2026-06-05,Brightstar (IGT),10.7315
+2026-06-08,Brightstar (IGT),10.7411
+2026-06-09,Brightstar (IGT),11.0275
+2026-06-10,Brightstar (IGT),11.2185
+2026-06-11,Brightstar (IGT),11.4285
+2026-06-12,Brightstar (IGT),11.333
+2026-06-15,Brightstar (IGT),11.0466
+2026-06-16,Brightstar (IGT),11.0657
+2026-06-17,Brightstar (IGT),10.5979
+2026-06-18,Brightstar (IGT),10.7984
+2026-06-22,Brightstar (IGT),10.4547
+2026-06-23,Brightstar (IGT),10.3305
+2026-06-24,Brightstar (IGT),10.3305
+2026-06-25,Brightstar (IGT),10.3592
+2026-06-26,Brightstar (IGT),10.6934
+2026-06-29,Brightstar (IGT),10.4165
+2026-06-30,Brightstar (IGT),10.2351
+2026-07-01,Brightstar (IGT),10.6361
+2026-07-02,Brightstar (IGT),10.7506
+2026-07-06,Brightstar (IGT),10.617
+2026-07-07,Brightstar (IGT),10.6838
+2026-07-08,Brightstar (IGT),10.3974
+2026-07-09,Brightstar (IGT),10.5024
+2026-07-10,Brightstar (IGT),10.426
+2026-07-13,Brightstar (IGT),10.3305
+2026-07-14,Brightstar (IGT),10.2255
+2026-07-15,Brightstar (IGT),10.2446
+2026-07-16,Brightstar (IGT),10.4929
+2026-07-17,Brightstar (IGT),10.2542
+2026-07-20,Brightstar (IGT),10.2542
+2026-07-21,Brightstar (IGT),10.1587
+2026-07-22,Brightstar (IGT),9.9677
+2026-07-23,Brightstar (IGT),9.8532
+2026-07-24,Brightstar (IGT),9.9391
+2026-07-27,Brightstar (IGT),10.0059
+2026-07-28,Brightstar (IGT),9.9964
+2026-07-29,Brightstar (IGT),9.8818
+2026-07-30,Brightstar (IGT),9.7099
+2026-07-31,Brightstar (IGT),9.5858
+2026-08-03,Brightstar (IGT),9.6527
+2026-08-04,Brightstar (IGT),10.7888
+2026-08-05,Brightstar (IGT),10.7888
+2026-08-06,Brightstar (IGT),10.5692
+2026-08-07,Brightstar (IGT),10.5501
+2026-08-10,Brightstar (IGT),10.5024
+2026-08-11,Brightstar (IGT),10.7411
+2026-08-12,Brightstar (IGT),10.7984
+2026-08-13,Brightstar (IGT),11.1612
+2026-08-14,Brightstar (IGT),11.2567
+2026-08-17,Brightstar (IGT),11.0466
+2026-08-18,Brightstar (IGT),10.7154
+2026-08-19,Brightstar (IGT),11.0856
+2026-08-20,Brightstar (IGT),11.2804
+2026-08-21,Brightstar (IGT),11.787
+2026-08-24,Brightstar (IGT),11.5142
+2026-08-25,Brightstar (IGT),11.3096
+2026-08-26,Brightstar (IGT),11.1733
+2026-08-27,Brightstar (IGT),11.0271
+2026-08-28,Brightstar (IGT),11.2707
+2026-08-31,Brightstar (IGT),10.9784
+2026-09-01,Brightstar (IGT),10.881
+2026-09-02,Brightstar (IGT),10.881
+2026-09-03,Brightstar (IGT),11.0466
+2026-09-04,Brightstar (IGT),11.0076
+2026-09-08,Brightstar (IGT),10.8226
+2026-09-09,Brightstar (IGT),10.8323
+2026-09-10,Brightstar (IGT),10.3842
+2026-09-11,Brightstar (IGT),10.5206
+2026-09-14,Brightstar (IGT),10.4134
+2026-09-15,Brightstar (IGT),10.3063
+2026-09-16,Brightstar (IGT),10.2576
+2026-09-17,Brightstar (IGT),10.1407
+2026-09-18,Brightstar (IGT),9.9166
+2026-09-21,Brightstar (IGT),10.014
+2026-09-22,Brightstar (IGT),10.1504
+2026-09-23,Brightstar (IGT),9.9946
+2026-09-24,Brightstar (IGT),9.488
+2026-09-25,Brightstar (IGT),9.7023
+2026-09-28,Brightstar (IGT),9.6146
+2026-09-29,Brightstar (IGT),9.6731
+2026-09-30,Brightstar (IGT),9.7315
+2026-10-01,Brightstar (IGT),9.6341
+2026-10-02,Brightstar (IGT),9.5952
+2026-10-05,Brightstar (IGT),9.6731
+2026-10-06,Brightstar (IGT),9.9458
+2026-10-07,Brightstar (IGT),9.7802
+2026-10-08,Brightstar (IGT),9.7315
+2026-10-09,Brightstar (IGT),9.5854
+2026-10-12,Brightstar (IGT),9.6634
+2026-10-13,Brightstar (IGT),9.7023
+2026-10-14,Brightstar (IGT),9.3127
+2026-10-15,Brightstar (IGT),9.449
+2026-10-16,Brightstar (IGT),9.2542
+2026-10-19,Brightstar (IGT),9.186
+2026-10-20,Brightstar (IGT),9.1178
+2026-10-21,Brightstar (IGT),8.9912
+2026-10-22,Brightstar (IGT),9.3127
+2026-10-23,Brightstar (IGT),9.2347
+2026-10-26,Brightstar (IGT),9.2542
+2026-10-27,Brightstar (IGT),9.2445
+2026-10-28,Brightstar (IGT),9.0497
+2026-10-29,Brightstar (IGT),9.3516
+2026-10-30,Brightstar (IGT),9.4003
+2026-11-02,Brightstar (IGT),9.7705
+2026-11-03,Brightstar (IGT),9.6049
+2026-11-04,Brightstar (IGT),9.8582
+2026-11-05,Brightstar (IGT),9.7608
+2026-11-06,Brightstar (IGT),9.6439
+2026-11-09,Brightstar (IGT),9.751
+2026-11-10,Brightstar (IGT),9.3419
+2026-11-11,Brightstar (IGT),10.014
+2026-11-12,Brightstar (IGT),9.4393
+2026-11-13,Brightstar (IGT),9.5562
+2026-11-16,Brightstar (IGT),9.2347
+2026-11-17,Brightstar (IGT),8.7184
+2026-11-18,Brightstar (IGT),8.9717
+2026-11-19,Brightstar (IGT),8.6016
+2026-11-20,Brightstar (IGT),8.3385
+2026-11-23,Brightstar (IGT),8.66
 2026-11-24,Brightstar (IGT),8.76
 2025-11-24,Wolters Kluwer,87.9393
 2025-11-25,Wolters Kluwer,87.7856
@@ -2038,7 +2038,7 @@ date,company,close
 2026-01-06,Scholastic,31.1018
 2026-01-07,Scholastic,31.5023
 2026-01-08,Scholastic,31.8149
-2026-01-09,Scholastic,32.6648
+2026-01-09,Scholastic,32.6647
 2026-01-12,Scholastic,33.1629
 2026-01-13,Scholastic,33.3778
 2026-01-14,Scholastic,33.1141
@@ -2152,7 +2152,7 @@ date,company,close
 2026-06-22,Scholastic,41.9878
 2026-06-23,Scholastic,41.9286
 2026-06-24,Scholastic,42.3432
-2026-06-25,Scholastic,43.37
+2026-06-25,Scholastic,43.3699
 2026-06-26,Scholastic,45.4234
 2026-06-29,Scholastic,45.5123
 2026-06-30,Scholastic,45.4136
@@ -2319,7 +2319,7 @@ date,company,close
 2026-02-16,Pearson,9.0378
 2026-02-17,Pearson,9.2957
 2026-02-18,Pearson,9.2757
-2026-02-19,Pearson,9.2318
+2026-02-19,Pearson,9.2317
 2026-02-20,Pearson,9.2777
 2026-02-23,Pearson,9.2817
 2026-02-24,Pearson,9.3337
@@ -2512,7 +2512,6 @@ date,company,close
 2026-11-19,Pearson,13.005
 2026-11-20,Pearson,12.995
 2026-11-23,Pearson,12.895
-2026-11-24,Pearson,13.05
 2025-11-25,S&P 500,6765.88
 2025-11-26,S&P 500,6812.61
 2025-11-28,S&P 500,6849.09
@@ -3014,3 +3013,4 @@ date,company,close
 2026-11-19,STOXX Europe 600,638.41
 2026-11-20,STOXX Europe 600,625.65
 2026-11-23,STOXX Europe 600,636.97
+2026-11-24,STOXX Europe 600,632.74

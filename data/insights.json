@@ -758,35 +758,43 @@
   "it_signals": [
    {
     "type": "AI & tech investment",
-    "detail": "Michael Massari says AI won’t replace face‑to‑face meetings",
-    "source_id": 14,
+    "detail": "CEO Michael Massari said AI will support, not replace, in‑person meetings",
+    "source_id": 28,
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXVJSXplTG4zZXROcUJ4ckFzTHdKTWVsS21OVWNPVTE2d1d5a1hoSXJCREdyd1h5V0VtUGdjcnhKN2U5Rmh5TlQ5eTJxb1F1VDBMY280ODl2V3VzbzJTUHlXR2JYc3d5bEV2UUl6T3hBRGJUMFJkN3QxNkFKd2JWc3ZRZGtyZE5OeWZuQ0ZnVzQ0RWJTbklFYXNxaXF0VjZDalMtYVlR?oc=5",
     "source": "Trade Show News Network",
     "published": "2026-11-09"
    },
    {
     "type": "Digital / platform rebuild",
-    "detail": "Digital revenue grew 5% in Q3",
-    "source_id": 28,
+    "detail": "Digital EBITDA grew in Q3",
+    "source_id": 41,
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHFrLU5jSTFPSkhPMzJ3RUN0TTRPd1o1Y1RaSWNLbzQxVDdhV2hGV04zbEpQSjdZNWJYOF82NjhaMWlYY2dpWGx0YXIwYnRfaWc3NlVyeEtUODF0MUxEYkxzVk1fQXo2dy05bkVpdlVhQXkxbVVMaHlSckZzczllRHcxNEpsZw?oc=5",
+    "source": "iGamingFuture",
+    "published": "2026-10-29"
+   },
+   {
+    "type": "Digital / platform rebuild",
+    "detail": "Digital revenue up 5% YoY",
+    "source_id": 43,
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRG1SeEpyV0Z3aG5ROURJSWRaVjhRWFRESVdiTU5QYXA4YXoxTFJQZHdqUkVORlpXNVBZOGRrenhOMU9uZjh1czJqdks1M3NmeGNUMVkyZ2FXUU1HTl9mcm11RGNEQWtsWXR5T0U1RVZNbzRVOGhjeG1iQXJfNlVXdno2Z2hpRmZwV2c?oc=5",
     "source": "NEXT.io",
     "published": "2026-10-28"
    },
    {
-    "type": "M&A / spin-off",
-    "detail": "Fertitta acquisition expected to reshape operations",
-    "source_id": 23,
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2RGalc5LTZPbnV4aFFmb21GZHpWeUQwWE1NUlFYYVRGQUlMLUZuanJWWVctWUZHektCT21ORDBOeWQyT0RzV3VGRDlrTW1FbkpSWkE3dUp3OVRzWGxIcVhVSTlHQm1oTW1jZjdMVTZOVVlxQlFYZ0VUc3g4OXJzMEtGN2V1aV9reTA0ZTdET1ZhQVQyN2hIUTg1RkcyVjl1WEh3WE96UU9IcWlmYXdDRUFJanJBSFo1R3VMZl9MbkdWZw?oc=5",
-    "source": "Morningstar",
-    "published": "2026-11-02"
+    "type": "Other",
+    "detail": "$44.26 million investment by Caxton Associates",
+    "source_id": 3,
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYUhscno1ZXZ1ZVRuaFVsZU5SV3RhN2FzQnZxNDd4aWJ5al9VSWFwU0t3OXI1WVVpOV9TVWxWNHQ4LW5zMi1xTm8zME1ZSGZmNEppcmFiMGRJeW9ZRjV2SmVyYURBWVVsZHUyOVdpYlNEV3Z3VVhNSjE2b1dkZ0cwU1A1c1BKYnk2MTlxcVR4Sm5GbW1zV2hZeVh2X3RLcVhyNFBIT3RyZ2ZybnlHVThGTVZldl9oNWJfXzZKVDN5ZXhISXhtWWpaVURWX2VjNHgtTXpYbFZNeXczbWRpNXMtd3A3Yw?oc=5",
+    "source": "MarketBeat",
+    "published": "2026-11-24"
    }
   ],
-  "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Losses and upcoming integration drive cost‑control focus",
+  "it_spend_outlook": "Unclear",
+  "it_spend_reason": "Strong digital growth suggests continued spend, but overall financial pressure creates uncertainty",
   "talking_points": [
-   "How can Caesars leverage its 5% digital revenue growth into a broader tech platform strategy?",
-   "What AI initiatives might be prioritized given the leadership’s view on AI’s role?",
-   "How will the Fertitta acquisition affect existing IT contracts and potential outsourcing opportunities?"
+   "How can Caesars leverage AI to enhance guest experiences while controlling costs?",
+   "Opportunities to support the digital platform expansion that drove recent revenue growth",
+   "Assessing the impact of the Fertitta acquisition on IT budgeting and potential restructuring"
   ],
   "unverified_dropped": [],
   "sources": [
@@ -812,13 +820,20 @@
    "published": "2026-10-27"
   },
   "release_key": "0001590895-26-000032",
-  "signals_at": "2026-11-18T03:04:28+00:00",
+  "signals_at": "2026-11-25T04:30:25+00:00",
   "signal_sources": [
    {
     "title": "AI Won’t Replace Face-to-Face Meetings: Caesars’ Michael Massari",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXVJSXplTG4zZXROcUJ4ckFzTHdKTWVsS21OVWNPVTE2d1d5a1hoSXJCREdyd1h5V0VtUGdjcnhKN2U5Rmh5TlQ5eTJxb1F1VDBMY280ODl2V3VzbzJTUHlXR2JYc3d5bEV2UUl6T3hBRGJUMFJkN3QxNkFKd2JWc3ZRZGtyZE5OeWZuQ0ZnVzQ0RWJTbklFYXNxaXF0VjZDalMtYVlR?oc=5",
     "source": "Trade Show News Network",
     "published": "2026-11-09T13:28:20+00:00",
+    "official": false
+   },
+   {
+    "title": "Caesars Q3 Loss Widens Despite Digital EBITDA Growth",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHFrLU5jSTFPSkhPMzJ3RUN0TTRPd1o1Y1RaSWNLbzQxVDdhV2hGV04zbEpQSjdZNWJYOF82NjhaMWlYY2dpWGx0YXIwYnRfaWc3NlVyeEtUODF0MUxEYkxzVk1fQXo2dy05bkVpdlVhQXkxbVVMaHlSckZzczllRHcxNEpsZw?oc=5",
+    "source": "iGamingFuture",
+    "published": "2026-10-29T07:00:00+00:00",
     "official": false
    },
    {
@@ -829,16 +844,23 @@
     "official": false
    },
    {
-    "title": "Caesars Set To Be Acquired by Fertitta Amid Elevated Inflation Headwinds",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2RGalc5LTZPbnV4aFFmb21GZHpWeUQwWE1NUlFYYVRGQUlMLUZuanJWWVctWUZHektCT21ORDBOeWQyT0RzV3VGRDlrTW1FbkpSWkE3dUp3OVRzWGxIcVhVSTlHQm1oTW1jZjdMVTZOVVlxQlFYZ0VUc3g4OXJzMEtGN2V1aV9reTA0ZTdET1ZhQVQyN2hIUTg1RkcyVjl1WEh3WE96UU9IcWlmYXdDRUFJanJBSFo1R3VMZl9MbkdWZw?oc=5",
-    "source": "Morningstar",
-    "published": "2026-11-02T20:24:29+00:00",
+    "title": "Caesars Entertainment Digital Profits Surge as Las Vegas Strip Struggles",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXFwWF9ENWRzTERTMjk4R3o1aEtSVHFpMDlBVmpSdTZjbzFCNmowRER3R2thYXo4MEpCRDRYb3pLX2FMV09yT2V4NmtrSGhzNjF0TjRjbl9UU0V1MnF4YU5tbVh4Vm1XR2d5YWRJWGJYUXNIaWkwaXl2MmstRVFGRXBSWkZyNjlRZklZaVNZQzE5OVVtVFE3S05JNVpHamkwaTl0SHlqNzZPNnZjSU1Naw?oc=5",
+    "source": "SportsBoom US",
+    "published": "2026-10-28T07:00:00+00:00",
     "official": false
    },
    {
-    "title": "Caesars Q3 2026: $123M Net Loss, Las Vegas Down, Regional Up",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEI3Y0NCR1FLVExsaGJxekNwQnVnQ0RVbTVFTHI3MHhXRmx4Q2M3Y2JMdUZvT0F4c05YNkF4NTFFQkZESTdrNFIwOXFsUHNfZEJyaWxUYXB0VDF3cV9DWmZjSkJWSjI5eFB0bzBYdlFIRHNEbVIwYVNXQzQtMjU4Nmg3UllBVm1oVHQ2SlU5aGlDTEZiUGhXcUZaa2VjQQ?oc=5",
-    "source": "Gaming America",
+    "title": "Caxton Associates LLP Makes New $44.26 Million Investment in Caesars Entertainment, Inc. $CZR",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYUhscno1ZXZ1ZVRuaFVsZU5SV3RhN2FzQnZxNDd4aWJ5al9VSWFwU0t3OXI1WVVpOV9TVWxWNHQ4LW5zMi1xTm8zME1ZSGZmNEppcmFiMGRJeW9ZRjV2SmVyYURBWVVsZHUyOVdpYlNEV3Z3VVhNSjE2b1dkZ0cwU1A1c1BKYnk2MTlxcVR4Sm5GbW1zV2hZeVh2X3RLcVhyNFBIT3RyZ2ZybnlHVThGTVZldl9oNWJfXzZKVDN5ZXhISXhtWWpaVURWX2VjNHgtTXpYbFZNeXczbWRpNXMtd3A3Yw?oc=5",
+    "source": "MarketBeat",
+    "published": "2026-11-24T09:46:25+00:00",
+    "official": false
+   },
+   {
+    "title": "Caesars posts Q3 Las Vegas declines as Fertitta takeover looms",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWlJajRHNGREVzc1LV9mRWJxY1JnVVRNVUVYNUVGY0Vwd2JSaW5aWWpTZW1vaVBNTnpSVjVNRXhGbWZpN0pZMGpWZEZudFVFaFhBTnl4QWgzMThXdW9XNlY5X2ZoUnFaZFRsMG45V3FFVXQyU2FXOFF4YkltSEl3cVl1cw?oc=5",
+    "source": "Hotel Dive",
     "published": "2026-10-28T07:00:00+00:00",
     "official": false
    },
@@ -847,6 +869,13 @@
     "link": "https://www.newsnet5.com/news/caesars-entertainment-property-sales-fertitta-acquisition/",
     "source": "newsnet5.com",
     "published": "2026-11-10T06:00:00+00:00",
+    "official": false
+   },
+   {
+    "title": "VICI Q3 Earnings Call Highlights: Buybacks and Caesars Lease Risks",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmt5bV9PRFdqclFXdzZkUkd3M2ZXM1dab1VCbmpmUVNxSDRHOGh1N3lqc0xkdWNuSzJGQ2M2S3NEdHI4MlA3S3JZZzFDdXZqY05ZY3dsVDZSSWh1a2o0YWppWjVVcVRNaGlRcEpVOEh2TU03VFg0cnRuemp2Y01wSHJDaXg2YnNNREFORFExT1dOUVlsdUdEc25zT3ZFZw?oc=5",
+    "source": "Yahoo Finance",
+    "published": "2026-10-30T07:00:00+00:00",
     "official": false
    }
   ]
