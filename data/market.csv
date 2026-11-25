@@ -1,11 +1,11 @@
 company,name,ticker,price,price_currency,price_date,market_cap_m,currency,market_cap_usd_m,return_1m,return_3m,return_1y,high_52w,low_52w,pe_ttm,next_results
-Disney,The Walt Disney Company,DIS,125.78,USD,2026-11-25,214827.0,USD,214827.0,13.93,14.73,23.36,125.78,91.72,21.7,2027-02-01
-WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,6.51,USD,2026-11-25,32863.0,USD,32863.0,-13.02,-39.06,-57.97,15.73,6.2,96.9,
+Disney,The Walt Disney Company,DIS,125.6,USD,2026-11-25,214529.0,USD,214529.0,13.77,14.57,23.19,125.6,91.72,21.7,2027-02-01
+WBD / Skydance,Skydance Corp. (Warner Bros. Discovery + Paramount),SKYD,6.53,USD,2026-11-25,32939.0,USD,32939.0,-12.82,-38.92,-57.88,15.73,6.2,97.2,
 Versant,Versant Media Group,VSNT,35.31,USD,2026-11-25,4827.0,USD,4827.0,15.28,-9.01,,45.93,26.54,6.7,
-Caesars,Caesars Entertainment,CZR,29.26,USD,2026-11-25,5964.0,USD,5964.0,0.95,-1.33,27.57,30.41,18.14,,2027-02-16
-Bally's,Bally's Corporation,BALY,8.88,USD,2026-11-25,448.0,USD,448.0,-34.11,-2.37,-47.61,18.13,8.74,,
+Caesars,Caesars Entertainment,CZR,29.26,USD,2026-11-25,5963.0,USD,5963.0,0.93,-1.35,27.55,30.41,18.14,,2027-02-16
+Bally's,Bally's Corporation,BALY,9.07,USD,2026-11-25,458.0,USD,458.0,-32.67,-0.22,-46.46,18.13,8.74,,
 Light & Wonder,Light & Wonder,LNW.AX,121.78,AUD,2026-11-25,6340.0,USD,6340.0,-5.23,-6.34,-15.17,182.5,102.66,21.9,
-Brightstar (IGT),IGT / Brightstar Lottery,BRSL,8.85,USD,2026-11-25,1596.0,USD,1596.0,-4.42,-20.84,-38.49,14.78,8.34,10.4,
-Wolters Kluwer,Wolters Kluwer,WKL.AS,86.54,EUR,2026-11-25,19249.0,EUR,21337.0,-0.05,27.16,-1.76,92.42,54.85,,
-Scholastic,Scholastic,SCHL,37.84,USD,2026-11-25,697.0,USD,697.0,-1.75,-4.06,29.78,46.74,26.37,12.3,2026-12-17
+Brightstar (IGT),IGT / Brightstar Lottery,BRSL,8.87,USD,2026-11-25,1601.0,USD,1601.0,-4.15,-20.61,-38.32,14.78,8.34,10.5,
+Wolters Kluwer,Wolters Kluwer,WKL.AS,86.5,EUR,2026-11-24,19249.0,EUR,21337.0,-1.91,26.26,-1.46,92.42,54.85,,
+Scholastic,Scholastic,SCHL,37.95,USD,2026-11-25,699.0,USD,699.0,-1.46,-3.78,30.15,46.74,26.37,12.3,2026-12-17
 Pearson,Pearson,PSON.L,13.14,GBP,2026-11-25,7901.0,GBP,10487.0,-4.19,7.97,33.24,13.74,8.91,,
