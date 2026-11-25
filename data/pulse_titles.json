@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:27:08+00:00",
+ "updated": "2026-11-25T16:05:45+00:00",
  "titles": [
   {
    "key": "tv-1413",
@@ -21,9 +21,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 1759.6,
-   "tmdb_vote": 8.1,
-   "tmdb_votes": 6316,
+   "popularity": 1638.4,
+   "tmdb_vote": 8.079,
+   "tmdb_votes": 6318,
    "imdb_id": "tt1844624",
    "tmdb_url": "https://www.themoviedb.org/tv/1413",
    "tmdb_reviews": [
@@ -46,7 +46,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "76efccb72105",
+   "input_hash": "3393d99f653d",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -85,9 +85,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 1517.8,
+   "popularity": 1473.4,
    "tmdb_vote": 7.222,
-   "tmdb_votes": 4139,
+   "tmdb_votes": 4141,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -122,7 +122,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "cdc264b65af9",
+   "input_hash": "331d501349dd",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -147,6 +147,83 @@
    }
   },
   {
+   "key": "tv-247718",
+   "kind": "tv",
+   "tmdb_id": 247718,
+   "title": "MobLand",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "Paramount+",
+    "MTV Entertainment Studios",
+    "101 Studios",
+    "Toff Guy Films"
+   ],
+   "release_date": "2026-11-20",
+   "first_air_date": "2025-03-30",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "popularity": 1445.8,
+   "tmdb_vote": 8.7,
+   "tmdb_votes": 1312,
+   "imdb_id": "tt31510819",
+   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 7.0,
+     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
+     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
+    },
+    {
+     "author": "mukundala",
+     "rating": 7.0,
+     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
+     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
+    },
+    {
+     "author": "PeaceMeal",
+     "rating": 10.0,
+     "text": "I'm not a fan of high violence or gang movies. Dexter, Breaking Bad, etc., aren't my thing. The trailer didn't motivate me either; it actually discouraged me. I gave it 15 minutes, but I couldn't stop watching. It's somewhat of a modern day Godfather and again the dynamic of the family and all the players pulls you in. I figured that it must be pretty good given the three A-list actors: Tom Hardy as Harry Da Souza, Pierce Brosnan as Conrad Harrigan and Helen Mirren as Maeve Harrigan. I burned th",
+     "url": "https://www.themoviedb.org/review/6af12ca3b0599317cdc70d43"
+    }
+   ],
+   "imdb_rating": 8.3,
+   "imdb_votes": 131558.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "6220626ecb2c",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 40,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "entertaining gangster story",
+     "Tom Hardy brilliant",
+     "Pierce Brosnan standout"
+    ],
+    "complaints": [
+     "predictable stereotypes",
+     "implausible plot twists",
+     "trailer discouraged"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "MobLand offers solid crime drama thrills with strong performances, though some find it formulaic.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-23T16:30:17+00:00"
+   }
+  },
+  {
    "key": "tv-1416",
    "kind": "tv",
    "tmdb_id": 1416,
@@ -166,7 +243,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 1163.7,
+   "popularity": 1284.5,
    "tmdb_vote": 8.2,
    "tmdb_votes": 11147,
    "imdb_id": "tt0413573",
@@ -240,9 +317,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1031.5,
+   "popularity": 1074.6,
    "tmdb_vote": 8.029,
-   "tmdb_votes": 11198,
+   "tmdb_votes": 11200,
    "imdb_id": "tt0096697",
    "tmdb_url": "https://www.themoviedb.org/tv/456",
    "tmdb_reviews": [
@@ -277,7 +354,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "cc6b067876c9",
+   "input_hash": "19e3e2a3bd36",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -304,80 +381,62 @@
    }
   },
   {
-   "key": "tv-247718",
+   "key": "tv-81723",
    "kind": "tv",
-   "tmdb_id": 247718,
-   "title": "MobLand",
-   "studio": "Paramount+ originals",
+   "tmdb_id": 81723,
+   "title": "The Gilded Age",
+   "studio": "HBO",
    "parent": "WBD / Skydance",
    "group": "Tracked companies",
    "companies": [
-    "Paramount+",
-    "Paramount+",
-    "MTV Entertainment Studios",
-    "101 Studios",
-    "Toff Guy Films"
+    "HBO",
+    "Universal Television",
+    "HBO",
+    "Neamo Film and Television"
    ],
-   "release_date": "2026-11-20",
-   "first_air_date": "2025-03-30",
+   "release_date": "2026-11-22",
+   "first_air_date": "2022-01-24",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 755.8,
-   "tmdb_vote": 8.679,
-   "tmdb_votes": 1306,
-   "imdb_id": "tt31510819",
-   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+   "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decid",
+   "popularity": 1017.5,
+   "tmdb_vote": 7.7,
+   "tmdb_votes": 303,
+   "imdb_id": "tt4406178",
+   "tmdb_url": "https://www.themoviedb.org/tv/81723",
    "tmdb_reviews": [
     {
-     "author": "MovieGuys",
-     "rating": 7.0,
-     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
-     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
-    },
-    {
-     "author": "mukundala",
-     "rating": 7.0,
-     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
-     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
-    },
-    {
-     "author": "PeaceMeal",
-     "rating": 10.0,
-     "text": "I'm not a fan of high violence or gang movies. Dexter, Breaking Bad, etc., aren't my thing. The trailer didn't motivate me either; it actually discouraged me. I gave it 15 minutes, but I couldn't stop watching. It's somewhat of a modern day Godfather and again the dynamic of the family and all the players pulls you in. I figured that it must be pretty good given the three A-list actors: Tom Hardy as Harry Da Souza, Pierce Brosnan as Conrad Harrigan and Helen Mirren as Maeve Harrigan. I burned th",
-     "url": "https://www.themoviedb.org/review/6af12ca3b0599317cdc70d43"
+     "author": "Martin Oaks",
+     "rating": null,
+     "text": "**Aristocratic sobriety** This sensational period drama is set in New York City during the 1880s, an era of profound economic and technological change, as well as massive social conflict. Against this backdrop, we meet Marian Brook (Louisa Jacobson), a young woman with aristocratic but impoverished roots who moves in with her old-money New York aunts (the amazing Christine Baranski totally steals the show here). She immediately finds herself caught in a fierce social war between the traditional ",
+     "url": "https://www.themoviedb.org/review/6ad3b7acfc6413a6b91d3aa4"
     }
    ],
-   "imdb_rating": 8.3,
-   "imdb_votes": 131558.0,
+   "imdb_rating": 8.1,
+   "imdb_votes": 54903.0,
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "7fec979c3690",
+   "input_hash": "09cbf3682ff3",
    "ai": {
     "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 40,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "entertaining gangster story",
-     "Tom Hardy brilliant",
-     "Pierce Brosnan standout"
+     "sensational period drama",
+     "aristocratic sobriety"
     ],
-    "complaints": [
-     "predictable stereotypes",
-     "implausible plot twists",
-     "trailer discouraged"
-    ],
+    "complaints": [],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "MobLand offers solid crime drama thrills with strong performances, though some find it formulaic.",
+    "summary": "The Gilded Age is noted for its period setting and tone, but limited feedback leaves overall sentiment mixed.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-23T16:30:17+00:00"
+    "analysed_at": "2026-11-24T16:26:42+00:00"
    }
   },
   {
@@ -400,9 +459,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-   "popularity": 671.1,
-   "tmdb_vote": 8.532,
-   "tmdb_votes": 3632,
+   "popularity": 951.6,
+   "tmdb_vote": 8.533,
+   "tmdb_votes": 3635,
    "imdb_id": "tt7587890",
    "tmdb_url": "https://www.themoviedb.org/tv/79744",
    "tmdb_reviews": [
@@ -437,7 +496,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "9632168e5132",
+   "input_hash": "d7a8617890cc",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -463,63 +522,38 @@
    }
   },
   {
-   "key": "tv-81723",
+   "key": "tv-2224",
    "kind": "tv",
-   "tmdb_id": 81723,
-   "title": "The Gilded Age",
-   "studio": "HBO",
+   "tmdb_id": 2224,
+   "title": "The Daily Show",
+   "studio": "Paramount Pictures",
    "parent": "WBD / Skydance",
    "group": "Tracked companies",
    "companies": [
-    "HBO",
-    "Universal Television",
-    "HBO",
-    "Neamo Film and Television"
+    "Comedy Central",
+    "Comedy Central",
+    "MTV Entertainment Studios",
+    "Ark Angel",
+    "Busboy Productions"
    ],
-   "release_date": "2026-11-15",
-   "first_air_date": "2022-01-24",
+   "release_date": "2026-10-22",
+   "first_air_date": "1996-07-22",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-   "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decid",
-   "popularity": 377.5,
-   "tmdb_vote": 7.688,
-   "tmdb_votes": 303,
-   "imdb_id": "tt4406178",
-   "tmdb_url": "https://www.themoviedb.org/tv/81723",
-   "tmdb_reviews": [
-    {
-     "author": "Martin Oaks",
-     "rating": null,
-     "text": "**Aristocratic sobriety** This sensational period drama is set in New York City during the 1880s, an era of profound economic and technological change, as well as massive social conflict. Against this backdrop, we meet Marian Brook (Louisa Jacobson), a young woman with aristocratic but impoverished roots who moves in with her old-money New York aunts (the amazing Christine Baranski totally steals the show here). She immediately finds herself caught in a fierce social war between the traditional ",
-     "url": "https://www.themoviedb.org/review/6ad3b7acfc6413a6b91d3aa4"
-    }
-   ],
-   "imdb_rating": 8.1,
-   "imdb_votes": 54903.0,
+   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+   "popularity": 350.7,
+   "tmdb_vote": 6.43,
+   "tmdb_votes": 683,
+   "imdb_id": "tt0115147",
+   "tmdb_url": "https://www.themoviedb.org/tv/2224",
+   "tmdb_reviews": [],
+   "imdb_rating": 8.3,
+   "imdb_votes": 49905.0,
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "c4670ab3f263",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "sensational period drama",
-     "aristocratic sobriety"
-    ],
-    "complaints": [],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The Gilded Age is noted for its period setting and tone, but limited feedback leaves overall sentiment mixed.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-24T16:26:42+00:00"
-   }
+   "input_hash": "be896f52f1de"
   },
   {
    "key": "movie-1263337",
@@ -541,9 +575,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 343.4,
-   "tmdb_vote": 7.869,
-   "tmdb_votes": 1200,
+   "popularity": 317.4,
+   "tmdb_vote": 7.9,
+   "tmdb_votes": 1223,
    "imdb_id": "tt7526136",
    "tmdb_url": "https://www.themoviedb.org/movie/1263337",
    "tmdb_reviews": [
@@ -578,7 +612,7 @@
    "metascore": 66.0,
    "box_office_usd": 67176594.0,
    "trade": [],
-   "input_hash": "870098547246",
+   "input_hash": "b0e663e5b5a0",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -605,40 +639,6 @@
    }
   },
   {
-   "key": "tv-2224",
-   "kind": "tv",
-   "tmdb_id": 2224,
-   "title": "The Daily Show",
-   "studio": "Paramount Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Comedy Central",
-    "Comedy Central",
-    "MTV Entertainment Studios",
-    "Ark Angel",
-    "Busboy Productions"
-   ],
-   "release_date": "2026-10-22",
-   "first_air_date": "1996-07-22",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-   "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 336.0,
-   "tmdb_vote": 6.429,
-   "tmdb_votes": 682,
-   "imdb_id": "tt0115147",
-   "tmdb_url": "https://www.themoviedb.org/tv/2224",
-   "tmdb_reviews": [],
-   "imdb_rating": 8.3,
-   "imdb_votes": 49905.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "c375d720cd7f"
-  },
-  {
    "key": "tv-153312",
    "kind": "tv",
    "tmdb_id": 153312,
@@ -658,9 +658,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 313.7,
-   "tmdb_vote": 8.322,
-   "tmdb_votes": 2977,
+   "popularity": 303.9,
+   "tmdb_vote": 8.323,
+   "tmdb_votes": 2978,
    "imdb_id": "tt16358384",
    "tmdb_url": "https://www.themoviedb.org/tv/153312",
    "tmdb_reviews": [
@@ -689,7 +689,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1f3917c685c9",
+   "input_hash": "521ebb598880",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -715,87 +715,6 @@
    }
   },
   {
-   "key": "movie-969681",
-   "kind": "movie",
-   "tmdb_id": 969681,
-   "title": "Spider-Man: Brand New Day",
-   "studio": "Marvel Studios",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "Marvel Studios",
-    "Columbia Pictures",
-    "Pascal Pictures",
-    "TSG Entertainment"
-   ],
-   "release_date": "2026-07-29",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-   "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to",
-   "popularity": 296.3,
-   "tmdb_vote": 8.5,
-   "tmdb_votes": 7087,
-   "imdb_id": "tt22084616",
-   "tmdb_url": "https://www.themoviedb.org/movie/969681",
-   "tmdb_reviews": [
-    {
-     "author": "Manuel São Bento",
-     "rating": 9.0,
-     "text": "Check out my full review @ movieswetextedabout.com/spider-man-brand-new-day-movie-review-destin-daniel-cretton-delivers-peter-parkers-most-personal-story-yet Rating: A SPIDER-MAN: BRAND NEW DAY had every excuse to become a bloated victory lap for the MCU’s biggest names, and instead it turns out to be the most emotionally mature, personal Peter Parker story we’ve gotten yet — one that treats its sprawling cast as tools in service of a single, aching question about isolation, identity, and what i",
-     "url": "https://www.themoviedb.org/review/6a68a88e728b93dbab812337"
-    },
-    {
-     "author": "nkuk",
-     "rating": 5.0,
-     "text": "The name \"Brand New Day\" is very much a misnomer, there is nothing new in this film, you've seen it all before. The film REALLY drags, is boring and I zoned out multiple times, the film didn't hold my attention at all. It feels like its twice the length of its runtime it goes on, and on, and on, and on. I think that Spiderman worked better when it was separate from the MCU shared universe goofiness, there is some really cringy MCU stuff shoehorned in. Not a bad film, its a perfectly competent ro",
-     "url": "https://www.themoviedb.org/review/6a6bb36be055bb37bb4796ee"
-    },
-    {
-     "author": "Sejian",
-     "rating": 4.0,
-     "text": "I enjoyed this, but I have a few glaring issues. SPOILERS AHEAD: 1. How many times are we gonna do this !@#$ where folks don't say what the !@#$ their problem is? We spent half of the movie with Jean terrorizing Peter simply because he got in her way. At no point does she think to reason with him and say, \"DEM MOFOS HAVE MY MOFO-ING SISTER, YOU MOFO-ING ARSEHOLE!\" Really? Really? We \"SSAAVVVEEE MMAAAAAARRRRRRTTTTHHHHAAAAA\"-ing this up again? 2. Damage Control has been out of control since WandaV",
-     "url": "https://www.themoviedb.org/review/6a6bf2a8b742963db164defb"
-    },
-    {
-     "author": "Brent Marchant",
-     "rating": 6.0,
-     "text": "When I watch a movie, I expect to be entertained, enlightened and/or informed (not necessarily in that order or all at once). But what I *don’t* want is to be treated like a marketing prospect. And that, unfortunately, is one of the problems with many of the releases in the Marvel Universe, including this latest installment in the Spider-Man franchise. Given the studio’s intricate web of properties (no pun intended) in this overlapping assortment of superhero franchises, there are considerable c",
-     "url": "https://www.themoviedb.org/review/6a6e8fde958a79021d967586"
-    }
-   ],
-   "imdb_rating": 8.0,
-   "imdb_votes": 327986.0,
-   "rt": null,
-   "metascore": 66.0,
-   "box_office_usd": 954994964.0,
-   "trade": [],
-   "input_hash": "e3a4fd19bef2",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 0,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "emotionally mature Peter Parker story",
-     "personal storytelling"
-    ],
-    "complaints": [
-     "misleading title, nothing new",
-     "drags and boring",
-     "over‑marketing feel"
-    ],
-    "buzz": "High",
-    "box_office_verdict": "hit",
-    "summary": "Fans are split, praising its depth while criticizing pacing and lack of novelty.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:30:44+00:00"
-   }
-  },
-  {
    "key": "tv-4614",
    "kind": "tv",
    "tmdb_id": 4614,
@@ -814,9 +733,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 289.0,
-   "tmdb_vote": 7.601,
-   "tmdb_votes": 2629,
+   "popularity": 300.6,
+   "tmdb_vote": 7.602,
+   "tmdb_votes": 2630,
    "imdb_id": "tt0364845",
    "tmdb_url": "https://www.themoviedb.org/tv/4614",
    "tmdb_reviews": [
@@ -833,27 +752,61 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6191ac4feb88",
+   "input_hash": "56c48cd4f53a",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
-    "audience_score": -80,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
+    "audience_score": -60,
+    "critics_vs_audience": "Critics higher",
+    "gap_note": "low review score",
     "praises": [],
     "complaints": [
-     "predictable plot",
      "depressing tone",
-     "questionable character focus"
+     "predictable story",
+     "contrived female deaths"
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "Audience reaction is strongly negative, citing repetitive and bleak storytelling.",
+    "summary": "The review finds the show overly bleak and formulaic.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-21T13:43:22+00:00"
+    "analysed_at": "2026-11-25T16:05:45+00:00"
    }
+  },
+  {
+   "key": "tv-4656",
+   "kind": "tv",
+   "tmdb_id": 4656,
+   "title": "Raw",
+   "studio": "USA Network",
+   "parent": "Versant",
+   "group": "Tracked companies",
+   "companies": [
+    "USA Network",
+    "Spike",
+    "Netflix",
+    "The New TNN",
+    "WWE Home Video"
+   ],
+   "release_date": "2026-11-16",
+   "first_air_date": "1993-01-11",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+   "popularity": 298.9,
+   "tmdb_vote": 6.7,
+   "tmdb_votes": 387,
+   "imdb_id": "tt0185103",
+   "tmdb_url": "https://www.themoviedb.org/tv/4656",
+   "tmdb_reviews": [],
+   "imdb_rating": 7.7,
+   "imdb_votes": 11088.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "ec3dfab5d4b0"
   },
   {
    "key": "movie-1003596",
@@ -873,22 +826,14 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 207.4,
+   "popularity": 248.5,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
    "tmdb_url": "https://www.themoviedb.org/movie/1003596",
    "tmdb_reviews": [],
-   "trade": [
-    {
-     "title": "Why Is the ‘Avengers: Doomsday’ Trailer So… Gloomy? Internet Erupts Over Latest Look at Marvel Movie",
-     "link": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/",
-     "source": "IndieWire",
-     "published": "2026-11-23",
-     "snippet": "Are the Russo brothers afraid of color or what?"
-    }
-   ],
-   "input_hash": "67b5ba2a472d",
+   "trade": [],
+   "input_hash": "1d253905c51f",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -911,52 +856,6 @@
    }
   },
   {
-   "key": "movie-1538497",
-   "kind": "movie",
-   "tmdb_id": 1538497,
-   "title": "Hexed",
-   "studio": "Walt Disney Animation Studios",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "Walt Disney Animation Studios"
-   ],
-   "release_date": "2026-11-25",
-   "first_air_date": null,
-   "upcoming": true,
-   "poster": "https://image.tmdb.org/t/p/w342/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
-   "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries tha",
-   "popularity": 50.8,
-   "tmdb_vote": 8.2,
-   "tmdb_votes": 4,
-   "imdb_id": "tt38077943",
-   "tmdb_url": "https://www.themoviedb.org/movie/1538497",
-   "tmdb_reviews": [],
-   "trade": [],
-   "input_hash": "376662d07eca",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 60,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "high anticipation for animation",
-     "interest in story"
-    ],
-    "complaints": [
-     "concerns about release timing"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Hexed generates excitement for its animation and story, with some worries about its release schedule.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-24T16:26:42+00:00"
-   }
-  },
-  {
    "key": "tv-46923",
    "kind": "tv",
    "tmdb_id": 46923,
@@ -970,13 +869,13 @@
     "ITV Studios",
     "BBC Scotland"
    ],
-   "release_date": "2026-11-12",
+   "release_date": "2026-11-19",
    "first_air_date": "2013-03-10",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing",
-   "popularity": 2328.0,
-   "tmdb_vote": 7.539,
+   "popularity": 2106.9,
+   "tmdb_vote": 7.5,
    "tmdb_votes": 219,
    "imdb_id": "tt2396135",
    "tmdb_url": "https://www.themoviedb.org/tv/46923",
@@ -987,7 +886,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "07acd1915fc7"
+   "input_hash": "2eef38895df6"
   },
   {
    "key": "tv-95480",
@@ -1008,9 +907,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "popularity": 2324.1,
-   "tmdb_vote": 8.08,
-   "tmdb_votes": 1153,
+   "popularity": 1884.7,
+   "tmdb_vote": 8.083,
+   "tmdb_votes": 1155,
    "imdb_id": "tt5875444",
    "tmdb_url": "https://www.themoviedb.org/tv/95480",
    "tmdb_reviews": [
@@ -1039,7 +938,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a9e382b25a46",
+   "input_hash": "47c4f198536a",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -1079,9 +978,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 1473.3,
-   "tmdb_vote": 7.9,
-   "tmdb_votes": 1098,
+   "popularity": 1460.5,
+   "tmdb_vote": 7.892,
+   "tmdb_votes": 1099,
    "imdb_id": "tt0852863",
    "tmdb_url": "https://www.themoviedb.org/tv/1877",
    "tmdb_reviews": [],
@@ -1091,7 +990,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "b69433a4c3a3"
+   "input_hash": "57fc1339e787"
   },
   {
    "key": "tv-2734",
@@ -1113,9 +1012,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 1435.9,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 4428,
+   "popularity": 1455.2,
+   "tmdb_vote": 7.963,
+   "tmdb_votes": 4429,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -1138,29 +1037,29 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "0d5fe823baf7",
+   "input_hash": "46b59e7fa428",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 60,
+    "audience_score": 20,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
      "compelling storylines",
-     "must‑watch each season",
-     "fresh cast changes"
+     "strong cast",
+     "long-running appeal"
     ],
     "complaints": [
-     "portrayal of justice system",
-     "changing cast members"
+     "perceived justice system critique",
+     "cast changes"
     ],
-    "buzz": "Medium",
+    "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "Divisive opinions split between praise for longevity and criticism of its justice portrayal",
+    "summary": "Viewers are split between praise for its longevity and criticism of its themes.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-20T14:23:34+00:00"
+    "analysed_at": "2026-11-25T16:05:45+00:00"
    }
   },
   {
@@ -1178,12 +1077,12 @@
     "One Three Media",
     "United Artists Media Group"
    ],
-   "release_date": "2026-11-16",
+   "release_date": "2026-11-23",
    "first_air_date": "2011-04-26",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 1339.6,
+   "popularity": 1330.8,
    "tmdb_vote": 5.9,
    "tmdb_votes": 235,
    "imdb_id": "tt1839337",
@@ -1215,7 +1114,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 630.2,
+   "popularity": 661.9,
    "tmdb_vote": 4.892,
    "tmdb_votes": 102,
    "imdb_id": "tt2057880",
@@ -1248,7 +1147,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 565.6,
+   "popularity": 566.9,
    "tmdb_vote": 5.804,
    "tmdb_votes": 405,
    "imdb_id": "tt3444938",
@@ -1306,9 +1205,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 446.2,
-   "tmdb_vote": 8.0,
-   "tmdb_votes": 5431,
+   "popularity": 410.8,
+   "tmdb_vote": 8.028,
+   "tmdb_votes": 5460,
    "imdb_id": "tt33764258",
    "tmdb_url": "https://www.themoviedb.org/movie/1368337",
    "tmdb_reviews": [
@@ -1343,7 +1242,7 @@
    "metascore": 88.0,
    "box_office_usd": 625595435.0,
    "trade": [],
-   "input_hash": "01026ba3d646",
+   "input_hash": "1d32e3f42206",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1370,82 +1269,6 @@
    }
   },
   {
-   "key": "movie-1300968",
-   "kind": "movie",
-   "tmdb_id": 1300968,
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "studio": "Lionsgate",
-   "parent": "Lionsgate",
-   "group": "Rest of industry",
-   "companies": [
-    "Lionsgate",
-    "Color Force",
-    "about:blank",
-    "Studio Babelsberg"
-   ],
-   "release_date": "2026-11-18",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-   "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 385.9,
-   "tmdb_vote": 7.804,
-   "tmdb_votes": 299,
-   "imdb_id": "tt32558705",
-   "tmdb_url": "https://www.themoviedb.org/movie/1300968",
-   "tmdb_reviews": [
-    {
-     "author": "Manuel São Bento",
-     "rating": 7.0,
-     "text": "Check out my full review @ https://movieswetextedabout.com/the-hunger-games-sunrise-on-the-reaping-movie-review-joseph-zada-gives-haymitch-the-story-he-deserved/ Rating: B+ THE HUNGER GAMES: SUNRISE ON THE REAPING is my second favorite film in the franchise. Joseph Zada is extremely compelling in his first big lead, and the story finally turns Haymitch from a familiar archetype into a complex, tragic, oddly inspiring character. Mckenna Grace, Glenn Close, Jesse Plemons, and Kieran Culkin lead a ",
-     "url": "https://www.themoviedb.org/review/6afc5e34b26d578ceab68f4c"
-    },
-    {
-     "author": "phuccuongnguyen",
-     "rating": 10.0,
-     "text": "Good movie! Good movie! Good movie! Good movie! Good movie! Good movie!Good movie!Good movie!Good movie!",
-     "url": "https://www.themoviedb.org/review/6afea561c3e648bd1ec568b3"
-    },
-    {
-     "author": "CinemaSerf",
-     "rating": 6.0,
-     "text": "You know that old saying about no good deed going unpunished, well rarely can that be more applicable than to poor old \"Haymitch\" (Joseph Zada) whose intervention at the selection for the 50th Hunger games sees him on that train en route to the Capitol arena and, we assume, certain death! This is one of those anniversary editions so there are two couples from each district taking place and so there's even more scope for murder and mayhem. Surprisingly, he finds that there is much more cohesion a",
-     "url": "https://www.themoviedb.org/review/6b005da1b14149a8cfeb3ec0"
-    }
-   ],
-   "imdb_rating": null,
-   "imdb_votes": null,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "d5f5573e4a28",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 40,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "compelling new lead",
-     "fan‑service anniversary elements",
-     "entertaining action"
-    ],
-    "complaints": [
-     "repetitive plot",
-     "risky character choices",
-     "uneven pacing"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The Hunger Games: Sunrise on the Reaping offers fresh moments but uneven storytelling.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:31:11+00:00"
-   }
-  },
-  {
    "key": "tv-61818",
    "kind": "tv",
    "tmdb_id": 61818,
@@ -1464,7 +1287,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hZYQjSo7mHZ06w52mzfN8izFTwZ.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 339.4,
+   "popularity": 379.5,
    "tmdb_vote": 5.1,
    "tmdb_votes": 140,
    "imdb_id": "tt3513388",
@@ -1506,6 +1329,88 @@
    }
   },
   {
+   "key": "movie-1300968",
+   "kind": "movie",
+   "tmdb_id": 1300968,
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "studio": "Lionsgate",
+   "parent": "Lionsgate",
+   "group": "Rest of industry",
+   "companies": [
+    "Lionsgate",
+    "Color Force",
+    "about:blank",
+    "Studio Babelsberg"
+   ],
+   "release_date": "2026-11-18",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+   "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+   "popularity": 379.0,
+   "tmdb_vote": 7.796,
+   "tmdb_votes": 339,
+   "imdb_id": "tt32558705",
+   "tmdb_url": "https://www.themoviedb.org/movie/1300968",
+   "tmdb_reviews": [
+    {
+     "author": "Manuel São Bento",
+     "rating": 7.0,
+     "text": "Check out my full review @ https://movieswetextedabout.com/the-hunger-games-sunrise-on-the-reaping-movie-review-joseph-zada-gives-haymitch-the-story-he-deserved/ Rating: B+ THE HUNGER GAMES: SUNRISE ON THE REAPING is my second favorite film in the franchise. Joseph Zada is extremely compelling in his first big lead, and the story finally turns Haymitch from a familiar archetype into a complex, tragic, oddly inspiring character. Mckenna Grace, Glenn Close, Jesse Plemons, and Kieran Culkin lead a ",
+     "url": "https://www.themoviedb.org/review/6afc5e34b26d578ceab68f4c"
+    },
+    {
+     "author": "phuccuongnguyen",
+     "rating": 10.0,
+     "text": "Good movie! Good movie! Good movie! Good movie! Good movie! Good movie!Good movie!Good movie!Good movie!",
+     "url": "https://www.themoviedb.org/review/6afea561c3e648bd1ec568b3"
+    },
+    {
+     "author": "CinemaSerf",
+     "rating": 6.0,
+     "text": "You know that old saying about no good deed going unpunished, well rarely can that be more applicable than to poor old \"Haymitch\" (Joseph Zada) whose intervention at the selection for the 50th Hunger games sees him on that train en route to the Capitol arena and, we assume, certain death! This is one of those anniversary editions so there are two couples from each district taking place and so there's even more scope for murder and mayhem. Surprisingly, he finds that there is much more cohesion a",
+     "url": "https://www.themoviedb.org/review/6b005da1b14149a8cfeb3ec0"
+    },
+    {
+     "author": "ianrathbone",
+     "rating": 8.0,
+     "text": "Film Review Haiku Ending known, still held / Good casting, all round / A better one, if honest #filmreviewhaiku",
+     "url": "https://www.themoviedb.org/review/6b056ac06f6559ec30c6e5fc"
+    }
+   ],
+   "imdb_rating": 7.6,
+   "imdb_votes": 22802.0,
+   "rt": null,
+   "metascore": 56.0,
+   "box_office_usd": 120000000.0,
+   "trade": [],
+   "input_hash": "37f9b2d90e0d",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 40,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "compelling new lead",
+     "fan‑service anniversary elements",
+     "entertaining action"
+    ],
+    "complaints": [
+     "repetitive plot",
+     "risky character choices",
+     "uneven pacing"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "The Hunger Games: Sunrise on the Reaping offers fresh moments but uneven storytelling.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-23T16:31:11+00:00"
+   }
+  },
+  {
    "key": "tv-549",
    "kind": "tv",
    "tmdb_id": 549,
@@ -1525,9 +1430,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 301.4,
-   "tmdb_vote": 7.3,
-   "tmdb_votes": 744,
+   "popularity": 332.6,
+   "tmdb_vote": 7.279,
+   "tmdb_votes": 745,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
    "tmdb_reviews": [],
@@ -1537,7 +1442,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "a7d2c0ee3d30"
+   "input_hash": "49ddfb5b833c"
   },
   {
    "key": "tv-291",
@@ -1556,7 +1461,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-   "popularity": 275.7,
+   "popularity": 297.4,
    "tmdb_vote": 5.289,
    "tmdb_votes": 121,
    "imdb_id": "tt0053494",
@@ -1575,7 +1480,27 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "1495f2a5bfa1"
+   "input_hash": "1495f2a5bfa1",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 40,
+    "critics_vs_audience": "Aligned",
+    "gap_note": null,
+    "praises": [
+     "realistic drama",
+     "balanced humor",
+     "strong ensemble"
+    ],
+    "complaints": [],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Recent episodes are viewed as solid, though not as iconic as earlier eras.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-25T16:05:45+00:00"
+   }
   }
  ]
 }

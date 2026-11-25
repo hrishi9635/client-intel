@@ -138,7 +138,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-11-21"
+   "_at": "2026-11-25"
   },
   "tt2057880": {
    "imdb_rating": 5.6,
@@ -498,7 +498,7 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-11-21"
+   "_at": "2026-11-25"
   },
   "tt0138956": {
    "imdb_rating": 7.9,
@@ -522,15 +522,15 @@
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
-   "_at": "2026-11-21"
+   "_at": "2026-11-25"
   },
   "tt32558705": {
-   "imdb_rating": null,
-   "imdb_votes": null,
+   "imdb_rating": 7.6,
+   "imdb_votes": 22802.0,
    "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "_at": "2026-11-21"
+   "metascore": 56.0,
+   "box_office_usd": 120000000.0,
+   "_at": "2026-11-25"
   },
   "tt4406178": {
    "imdb_rating": 8.1,
