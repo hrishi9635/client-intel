@@ -1,106 +1,188 @@
 {
- "headline": "Across media, gaming, publishing and education, revenue growth is uneven and IT spending signals mixed directions.",
- "summary": "Media firms show strong top‑line growth but mixed margins and varied IT outlooks. Gaming operators post solid revenues yet face divergent cost pressures and tightening IT budgets in parts of the sector. Publishing sees a blend of AI investments and revenue misses, while education players range from growth to cost‑cutting. Technology teams should track AI rollout, digital platform rebuilds and restructuring trends.",
+ "headline": "Across media, gaming, publishing and education, firms show mixed performance with pockets of growth and tightening IT spend.",
+ "summary": "Media & Entertainment sees strong revenue at Disney but mixed margins at WBD. Gaming revenue is rising at Bally's while Caesars struggles and IT budgets tighten. Publishing blends AI investments at Wolters Kluwer with a revenue miss at Scholastic. Education shows Pearson’s growth against cost cuts at SLU and uncertain spend elsewhere.",
  "industries": [
   {
    "industry": "Media & Entertainment",
-   "mood": "Mixed",
-   "summary": "Disney posted 8% revenue growth and expanding IT spend on AI tools. WBD/Skydance saw modest revenue growth and tightening IT outlook. Smaller players show neutral or unclear signals.",
+   "mood": "Positive",
+   "summary": "Disney posted 8% revenue growth and expanding IT spend. WBD’s margin fell and its IT outlook is tightening. Versant reaffirmed guidance and is expanding digital platforms.",
    "leaders": [
     {
      "company": "Disney",
-     "why": "8% revenue growth and AI platform investments"
+     "why": "8% revenue growth and 43% operating‑income jump"
     }
    ],
    "laggards": [
     {
-     "company": "LA Times",
-     "why": "Neutral sentiment and unclear IT outlook"
+     "company": "WBD / Skydance",
+     "why": "Low 5.2% operating margin and tightening IT spend"
     }
    ],
    "themes": [
     {
      "title": "AI & tech investment",
-     "detail": "Disney launched AI search summaries and a trip‑planning tool; Wolters Kluwer added AI decision‑support tools.",
+     "detail": "Disney launched AI search summaries and a trip‑planning tool; Wolters Kluwer (see Publishing) added AI decision‑support tools.",
      "companies": [
-      "Disney",
-      "Wolters Kluwer"
+      "Disney"
      ]
     },
     {
      "title": "Digital platform rebuild",
-     "detail": "Hulu app retirement into Disney+, Versant added FAST channels, and platform upgrades across the sector.",
+     "detail": "Versant added FAST channels and streaming memberships; Disney is merging Hulu into Disney+.",
      "companies": [
-      "Disney",
-      "Versant"
+      "Versant",
+      "Disney"
      ]
     },
     {
-     "title": "Cost‑cutting",
-     "detail": "WBD/Skydance announced staff buyouts and studio merges to reduce costs.",
+     "title": "Cost pressure",
+     "detail": "WBD is cutting staff and consolidating studios to save costs.",
      "companies": [
       "WBD / Skydance"
      ]
     }
    ],
-   "it_outlook": "Expanding",
-   "it_note": "IT teams should focus on supporting AI‑driven consumer experiences and the integration of Hulu content into Disney+."
+   "it_outlook": "Mixed",
+   "it_note": "IT spend is expanding at Disney and Versant but tightening at WBD; account teams should balance AI opportunities with cost‑control."
   },
   {
    "industry": "Gaming & Lottery",
    "mood": "Mixed",
-   "summary": "Caesars posted record revenue but a widened loss; Bally's grew revenue sharply with expanding IT spend; Light & Wonder tightened IT amid debt reduction.",
+   "summary": "Bally's revenue surged 21.7% with expanding IT spend. Caesars posted a net loss despite modest digital growth. Light & Wonder and Brightstar signal tighter budgets.",
    "leaders": [
     {
-     "company": "Caesars",
-     "why": "Highest revenue at $2.94 bn"
+     "company": "Bally's",
+     "why": "Revenue up 21.7% YoY and expanding IT spend"
     }
    ],
    "laggards": [
     {
-     "company": "Light & Wonder",
-     "why": "Tightening IT spend and negative margin pressure"
+     "company": "Brightstar (IGT)",
+     "why": "Revenue down 3.5% YoY and tightening IT outlook"
     }
    ],
    "themes": [
     {
-     "title": "Digital rebuild",
-     "detail": "Caesars saw digital EBITDA rise and revenue up 5% YoY; Bally's integrates Intralot systems.",
+     "title": "Digital revenue growth",
+     "detail": "Caesars saw digital revenue rise 5% YoY; Bally's digital EBITDA also improved.",
      "companies": [
       "Caesars",
       "Bally's"
      ]
     },
     {
-     "title": "Cost‑cutting",
-     "detail": "Light & Wonder focuses on debt reduction; Bally's refinances debt to improve liquidity.",
+     "title": "Debt reduction focus",
+     "detail": "Light & Wonder prioritises debt reduction; Brightstar cites rising debt pressure.",
      "companies": [
       "Light & Wonder",
-      "Bally's"
+      "Brightstar (IGT)"
      ]
     },
     {
-     "title": "AI support",
-     "detail": "Caesars plans AI to augment in‑person meetings rather than replace them.",
+     "title": "AI support messaging",
+     "detail": "Caesars emphasizes AI will support, not replace, in‑person meetings.",
      "companies": [
       "Caesars"
      ]
     }
    ],
    "it_outlook": "Mixed",
-   "it_note": "Technology should balance digital revenue initiatives with cost‑control measures, especially for operators tightening spend."
+   "it_note": "Bally's is expanding IT for integration, while Light & Wonder and Brightstar are tightening; monitor budget shifts."
+  },
+  {
+   "industry": "Publishing & Information",
+   "mood": "Mixed",
+   "summary": "Wolters Kluwer expands AI tools and IT spend. Scholastic missed revenue and posted a large loss. Pearson shows strong revenue growth and expanding IT.",
+   "leaders": [
+    {
+     "company": "Pearson",
+     "why": "Revenue of $1,779 m and expanding AI‑driven credential platform"
+    }
+   ],
+   "laggards": [
+    {
+     "company": "Scholastic",
+     "why": "Revenue miss and -42.5% operating margin"
+    }
+   ],
+   "themes": [
+    {
+     "title": "AI & tech investment",
+     "detail": "Wolters Kluwer acquires AgileMD and launches Blue Chip IQ AI; Pearson expands Credly credentials.",
+     "companies": [
+      "Wolters Kluwer",
+      "Pearson"
+     ]
+    },
+    {
+     "title": "Cost restructuring",
+     "detail": "Pearson announced a major business restructure to improve margins.",
+     "companies": [
+      "Pearson"
+     ]
+    },
+    {
+     "title": "Neutral reporting",
+     "detail": "Wolters Kluwer released a half‑year report with no major sentiment shift.",
+     "companies": [
+      "Wolters Kluwer"
+     ]
+    }
+   ],
+   "it_outlook": "Expanding",
+   "it_note": "AI‑focused projects drive IT expansion; account teams should highlight AI integration opportunities."
+  },
+  {
+   "industry": "Education",
+   "mood": "Mixed",
+   "summary": "Pearson reports accelerated revenue growth and expanding IT spend. SLU cuts custodial staff, indicating tightening. NYU and ACT show unclear IT direction.",
+   "leaders": [
+    {
+     "company": "Pearson",
+     "why": "Revenue growth and expanding AI credential platform"
+    }
+   ],
+   "laggards": [
+    {
+     "company": "SLU",
+     "why": "Outsourced custodial services and layoffs signal cost cuts"
+    }
+   ],
+   "themes": [
+    {
+     "title": "AI credential growth",
+     "detail": "Pearson’s Credly platform saw a 506% rise in AI credentials over two years.",
+     "companies": [
+      "Pearson"
+     ]
+    },
+    {
+     "title": "Cost‑cutting measures",
+     "detail": "SLU outsourced custodial work and laid off staff; Pearson also announced a restructure.",
+     "companies": [
+      "SLU",
+      "Pearson"
+     ]
+    },
+    {
+     "title": "Community data‑center focus",
+     "detail": "NYU highlights expectations for community‑focused data‑center services.",
+     "companies": [
+      "NYU"
+     ]
+    }
+   ],
+   "it_outlook": "Mixed",
+   "it_note": "Pearson expands IT for AI services, while other institutions face unclear or tightening budgets; tailor outreach accordingly."
   }
  ],
  "watch_next": [
   "Disney’s AI trip‑planning tool adoption rates",
-  "Bally’s integration of Intralot systems in early 2027",
-  "Wolters Kluwer’s AI‑driven clinical decision support rollout",
-  "Pearson’s Credly platform expansion and its impact on revenue",
-  "SLU’s outsourcing outcomes and potential ripple effects in higher education"
+  "Bally’s integration of Intralot systems in 2027",
+  "Wolters Kluwer’s rollout of AgileMD AI decision support",
+  "Pearson’s Credly credential platform scaling",
+  "SLU’s outsourcing outcomes and impact on campus services"
  ],
- "unverified_dropped": [
-  "industries.2.leaders.0.why",
-  "industries.3.leaders.0.why"
- ],
- "written_at": "2026-11-25T20:39:46+00:00"
+ "unverified_dropped": [],
+ "written_at": "2026-11-26T03:45:00+00:00"
 }

@@ -1059,43 +1059,19 @@
   "it_signals": [
    {
     "type": "Cost-cutting / restructuring",
-    "detail": "Targeting debt cuts and leverage reduction",
-    "source_id": 20,
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXd1TVR2Y3A2U1hPT21IWFRGUGpLYXlwOTJFcmtONVlodzRIMXVHWENfdF9fN294dDJJdFNKVGJocEhwTFJhVDFiQmxqWGRoNFZGa1pDa3h6ZDh1ejRMMWMweXVBd2s1V3VhQmUxTm1YeC1ROG01dlhYZXV2MGR2VGl1ZVlOMkd5cTAweWRkZE5LbFpyOE9hTGhqRF84NmRKdEpZYnFvVTNIcy1HSFJoWWllVjY1UUJ1LUUzb3hCQVZKdHgwSVVBNDM1dGRJand2NjY4?oc=5",
+    "detail": "Company is prioritising debt reduction over buy‑backs after Q3 results",
+    "source_id": 27,
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkJWVFdPVU1qYWItVWZvbWNXNFU5WGszS1NfOTV6SW50eE05LWdHRlpKZVREQWVlMzZ4ZXBDMFplUmVwclhURW12cnUtS2pNV0lvT2VYMVJSdDlqRFlpekxpR0NFdEtEM0NqVk85RWNWaWFnU291N1VVcnhzNlZxckVjTGRmNTNiQmNLcXhYckh5cVRTdTFGMk9Lb24zWFZnd25PdktLOGNwc3B6eDFGbzVfWnZMaHJEdWhEQ3prRHVsYmMwS3doQmQ0cGNrTUZDdEtJ?oc=5",
     "source": "Kalkine",
-    "published": "2026-11-06"
-   },
-   {
-    "type": "Cost-cutting / restructuring",
-    "detail": "Executives prioritise debt reduction in Q3 earnings call",
-    "source_id": 40,
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHlEWUNMc0daaWN0ZWRqZmxrdW5wOFU2NjBkT2FHZ2hoWmxxZS1LZ2lRNURCbHA5cFJSZ1JwY3ZQS3NnOW9fbE1Kd2FHR0ZQRkNIcmZSMGI2SVZmUFNQRlUwaDM4T1NPV19neldzMTFEaFFzRXF2TmFmOHJZVmdIcFZfTTFjLWRFU2lWa3MtT19mUVgxZXhnZkE2QUlYcURMWC05d3FB?oc=5",
-    "source": "CDC Gaming",
-    "published": "2026-11-04"
-   },
-   {
-    "type": "Vendor / outsourcing",
-    "detail": "RapidPlay Pay‑By‑Bank slots introduced at Crystal Bay Casino",
-    "source_id": 45,
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxWZ29vZEx5YklBekhSVzZqWDJwMlFqMFkyZE5taHZHVFBoa2JIZ3FUTk5SRUFjZWtBc3UyVzk3Tk1sMl96eTNka3BpTzBNNlI4ODlLa1REcHkxRjJEelV6cE9ORk1YdHRWaFdQaExpa2REeUhxVE9pOVdYZXpmWmlNYVNhWml4dmlBOEVoMXVwcGdiRFJOTjk0aDM?oc=5",
-    "source": "Gaming America",
-    "published": "2026-10-28"
-   },
-   {
-    "type": "Digital / platform rebuild",
-    "detail": "Launch of new ‘Kong: Skull Island Unchained’ slot game",
-    "source_id": 6,
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0pfeHFLTG01U3hQdC1Gc0xoY2laZlZlUTRIRUUtdW5aODV4bkZjWUNoV1pOOVBYQWh5WlZCV3I5Vmt3aVhmT18yTUNRUTJ1dXM5T1lXR3hWX0puM3QtV0xISEx0aUdVU0xua1BKVVR3UndWQ2VSc2k0MWlubUJmcDY2Q2Nud0hMeURhY0hsSXdpT2sxUkVCbHc5UXQ?oc=5",
-    "source": "IAG – Inside Asian Gaming",
-    "published": "2026-11-18"
+    "published": "2026-11-11"
    }
   ],
   "it_spend_outlook": "Tightening",
-  "it_spend_reason": "Company is focusing on debt reduction and cost control amid revenue pressure",
+  "it_spend_reason": "Focus on debt reduction suggests tighter IT budgeting",
   "talking_points": [
-   "How can your solutions help Light & Wonder accelerate its debt‑reduction while modernising legacy gaming platforms?",
-   "What opportunities exist to support the RapidPlay Pay‑By‑Bank integration across their casino network?",
-   "Can we assist in revitalising the SciPlay social‑casino segment through AI‑driven player engagement tools?"
+   "How can we help Light & Wonder optimise technology spend while supporting debt‑reduction goals?",
+   "What cloud or data solutions could improve efficiency in the SciPlay platform?",
+   "Are there AI‑driven tools that could boost iGaming revenue without heavy capex?"
   ],
   "unverified_dropped": [
    "metrics.operating_margin_pct",
@@ -1160,48 +1136,27 @@
    "published": "2026-11-04"
   },
   "release_key": "0000750004-26-000045",
-  "signals_at": "2026-11-19T02:45:55+00:00",
+  "signals_at": "2026-11-26T03:44:05+00:00",
   "signal_sources": [
    {
-    "title": "How Is Light & Wonder, Inc. (ASX:LNW) Reducing Leverage While Growing Gaming and iGaming Earnings?",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXd1TVR2Y3A2U1hPT21IWFRGUGpLYXlwOTJFcmtONVlodzRIMXVHWENfdF9fN294dDJJdFNKVGJocEhwTFJhVDFiQmxqWGRoNFZGa1pDa3h6ZDh1ejRMMWMweXVBd2s1V3VhQmUxTm1YeC1ROG01dlhYZXV2MGR2VGl1ZVlOMkd5cTAweWRkZE5LbFpyOE9hTGhqRF84NmRKdEpZYnFvVTNIcy1HSFJoWWllVjY1UUJ1LUUzb3hCQVZKdHgwSVVBNDM1dGRJand2NjY4?oc=5",
-    "source": "Kalkine",
+    "title": "Light & Wonder Q3 Net Profit Climbs 16.7% to US$133 Million Despite Revenue Decline",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWd2VmxHQ3BLMHVaaVl5TFIxcUV1U2F3LWpUNHBCQXN1LUVzcnhrVXAxaDJmVlVZSzhUeWI2QlFBU3JrNkxzdGROclZYV2diTE9UUU5OMFByZ3h3NnJXbWtUN2xDeTVwc0Z2VFpGQTlSd3BDMy1zYzJJUmhlclhlQWtuelFJWUJ3YVdyVWdWVEdaTU4xU3Y0ZmlBQ0UxOTdPd2lyY2NLSFJtRWlUblE?oc=5",
+    "source": "iGamingToday.com",
     "published": "2026-11-06T08:00:00+00:00",
     "official": false
    },
    {
-    "title": "Light & Wonder executives prioritize debt reduction in third-quarter earnings call",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHlEWUNMc0daaWN0ZWRqZmxrdW5wOFU2NjBkT2FHZ2hoWmxxZS1LZ2lRNURCbHA5cFJSZ1JwY3ZQS3NnOW9fbE1Kd2FHR0ZQRkNIcmZSMGI2SVZmUFNQRlUwaDM4T1NPV19neldzMTFEaFFzRXF2TmFmOHJZVmdIcFZfTTFjLWRFU2lWa3MtT19mUVgxZXhnZkE2QUlYcURMWC05d3FB?oc=5",
-    "source": "CDC Gaming",
-    "published": "2026-11-04T08:00:00+00:00",
+    "title": "Light & Wonder flags iGaming growth beyond flagship franchises",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXcwaGs5dVJjZUlwYWxfeDVSY2VIRy1TazFNa0tBbTFwZ0pFUGp3UEZ2ejdEeHBJVkMyTFlnR2p6SnBXTnVNRWxpX09hVERnNHZMcE9pOE5VbUs1ZFNHdEt3MGdOUERoZkphS2ZReUlXaUxTN1ZRSk1pRU9kY0hPWHBWY0U?oc=5",
+    "source": "NEXT.io",
+    "published": "2026-11-05T12:18:05+00:00",
     "official": false
    },
    {
-    "title": "Light & Wonder Debuts RAPIDPLAY Pay-By-Bank Slots At Crystal Bay Casino In Nevada",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWxWZ29vZEx5YklBekhSVzZqWDJwMlFqMFkyZE5taHZHVFBoa2JIZ3FUTk5SRUFjZWtBc3UyVzk3Tk1sMl96eTNka3BpTzBNNlI4ODlLa1REcHkxRjJEelV6cE9ORk1YdHRWaFdQaExpa2REeUhxVE9pOVdYZXpmWmlNYVNhWml4dmlBOEVoMXVwcGdiRFJOTjk0aDM?oc=5",
-    "source": "Gaming America",
-    "published": "2026-10-28T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder announces global debut of “Kong: Skull Island Unchained”",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0pfeHFLTG01U3hQdC1Gc0xoY2laZlZlUTRIRUUtdW5aODV4bkZjWUNoV1pOOVBYQWh5WlZCV3I5Vmt3aVhmT18yTUNRUTJ1dXM5T1lXR3hWX0puM3QtV0xISEx0aUdVU0xua1BKVVR3UndWQ2VSc2k0MWlubUJmcDY2Q2Nud0hMeURhY0hsSXdpT2sxUkVCbHc5UXQ?oc=5",
-    "source": "IAG – Inside Asian Gaming",
-    "published": "2026-11-18T20:35:25+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder Targets Debt Cuts as Q3 Net Income Rises",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmM3ZUFicnZpQ1NjWFh3aTZJUmxPVDVyc09iSzJGTm9lWmpzamg0Slg2UmoyT0VWNFRvOU9qOUMxNTdJdDlwUTU3OVRpcldVZkVhODdqTUhmLWRhV2NTejhROWNqTENScmN6Yk0wU1FZMFZoXy1fTzY0WUJOR0lrQU41cWs5MHU2Q0hvQlE4QnNQdC1yWUE?oc=5",
-    "source": "GamingToday",
-    "published": "2026-11-05T22:13:24+00:00",
-    "official": false
-   },
-   {
-    "title": "Light & Wonder (ASX:LNW) Expands Gaming Operations as Quarterly EBITDA Rises 9%",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWFmQ2xYbTU0Tjl3RFh1enV3RVhVdHVCUU40d0ZIUVJmZGF3aW5qYjhIX1dVb0pGcEIyZHRCTEZ6Vi1jN3N1MFdPNU5POVlKd2VwdUI2cjZXRV9zeFVYWlJJSWFyVVdlQVZCSVpJdVhkeHFjVmNHMmxyVEs1ZUFwQlg5VkE1a25LOXZIZXdlOVE1aVViQkhnVTEtNTRqbUdDSDF0UWsyMVlKMERkamVXT1FB?oc=5",
+    "title": "Why Light & Wonder (ASX:LNW) Is Prioritising Debt Reduction Over Buy-Backs After Its Third-Quarter Result",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkJWVFdPVU1qYWItVWZvbWNXNFU5WGszS1NfOTV6SW50eE05LWdHRlpKZVREQWVlMzZ4ZXBDMFplUmVwclhURW12cnUtS2pNV0lvT2VYMVJSdDlqRFlpekxpR0NFdEtEM0NqVk85RWNWaWFnU291N1VVcnhzNlZxckVjTGRmNTNiQmNLcXhYckh5cVRTdTFGMk9Lb24zWFZnd25PdktLOGNwc3B6eDFGbzVfWnZMaHJEdWhEQ3prRHVsYmMwS3doQmQ0cGNrTUZDdEtJ?oc=5",
     "source": "Kalkine",
-    "published": "2026-11-05T09:24:00+00:00",
+    "published": "2026-11-11T07:45:00+00:00",
     "official": false
    },
    {
@@ -1212,9 +1167,9 @@
     "official": false
    },
    {
-    "title": "Gaming and iGaming drive Light & Wonder to US$163 million third-quarter profit despite slight revenue decline",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeUFiLVpOZ1NmWWtTelFlVVBNeDRDZlB1R0ZzRC1BM29Oa2tkelZIRnNkUm9CeFkzMkV3dDZLdlZ1Z2pOamFHOXFvTEVEYTd5Ym5kUVJJbzJrX0ZFV25RN2haRmpOa3FPdUt1MGVESldsMmlrU0xDZl9OZEJYa1VQRTdUMExIbXRnamhoWTZZMEdNWUduWWNINUNORjdGQUNkU3lwLXZnblc1ZTg2Nlp2VFNOVVNwd0tCR19DY29lcGJMX2JwVS1pZmhZV0FYc0ttTEE?oc=5",
-    "source": "IAG – Inside Asian Gaming",
+    "title": "Light & Wonder (ASX:LNW) Expands Gaming Operations as Quarterly EBITDA Rises 9%",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWFmQ2xYbTU0Tjl3RFh1enV3RVhVdHVCUU40d0ZIUVJmZGF3aW5qYjhIX1dVb0pGcEIyZHRCTEZ6Vi1jN3N1MFdPNU5POVlKd2VwdUI2cjZXRV9zeFVYWlJJSWFyVVdlQVZCSVpJdVhkeHFjVmNHMmxyVEs1ZUFwQlg5VkE1a25LOXZIZXdlOVE1aVViQkhnVTEtNTRqbUdDSDF0UWsyMVlKMERkamVXT1FB?oc=5",
+    "source": "Kalkine",
     "published": "2026-11-05T08:00:00+00:00",
     "official": false
    }
@@ -1774,41 +1729,68 @@
   ]
  },
  "NYU": {
-  "headline": "NYU launches a shuttle‑bus pilot while its president proposes three‑year bachelor’s degrees",
+  "headline": "NYU highlights community‑focused data‑center expectations and launches free shuttle pilot",
   "highlights": [
-   "NYU began a free shuttle‑bus pilot for seniors (5)",
-   "President proposes offering three‑year bachelor’s degrees (7)",
-   "Distinguished scholar appointment announced (6)",
-   "Police searching for a suspect in a dorm rape case (1)"
+   "NYU researchers call for data centers to provide greater community benefits",
+   "NYU launches free shuttle bus service for seniors in Manhattan and Brooklyn",
+   "NYU Stern receives a $5 million gift to create a private‑wealth management initiative"
   ],
   "risks": [
-   "Safety and security concerns after a rape allegation in a dorm (1)",
-   "Potential enrollment impact from new three‑year degree model (7)"
+   "Potential regulatory or community push‑back on data‑center expansions",
+   "Funding reliance on gifts may affect long‑term program stability"
   ],
   "sentiment": "Neutral",
-  "sentiment_reason": "Mixed developments with both service expansion and safety concerns",
+  "sentiment_reason": "Mixed developments with community‑oriented initiatives but no clear financial impact",
   "segments": [
    {
-    "name": "Academic Programs",
+    "name": "Research & Community Engagement",
     "trend": "Mixed",
-    "note": "Three‑year degree proposal could affect enrollment"
+    "note": "New calls on data‑center policy and partnership projects"
+   },
+   {
+    "name": "Student Services",
+    "trend": "Up",
+    "note": "Free shuttle pilot expands senior mobility"
    }
   ],
-  "it_signals": [],
+  "it_signals": [
+   {
+    "type": "Cloud & data",
+    "detail": "Researchers say data centers must offer more to local communities",
+    "source_id": 18,
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEVfNkVibzhPcklNRk5TUWVTSUhwMm94WUhCYldpUGRNRUJmX0RnZFNIOUg1dElzcGV6VkxlWDVfMHMtdFkwOWc1b0JuVVJtOE1Ec05GUWVwZ0pFUTJVWEtHM0NJdUs0ZW56bC1JbzUwc2tISUR6R2NtOHhlRTZseExsMlFHZ3JTYmFuWWdRbE0xem5WZkdkUVhCTW0?oc=5",
+    "source": "Broadband Breakfast",
+    "published": "2026-11-11"
+   },
+   {
+    "type": "Other",
+    "detail": "Free shuttle bus pilot launched for seniors in Manhattan and Brooklyn",
+    "source_id": 32,
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUQ1dDFKV0h6Qk1nZUJRa3BVRGpDeTNrTnNwb1hmQ1lPLXZwTG1la3Zjc3I1MnhLVG15cnl0a1RVX3V2ajFwazBHQ0h2N1FkVGJzS0xXeE1SZHJybUxHUlprb1lDUWVPS2h2Q3FHaFN2OGtTSGFjMllpTjZQWHE0cjU4ZlZQYkhvX09OVG5feThzLUVhbkF4MEpXT3VNbE1Xa0xNY014RHBTUlhjMzlOSmJQVE84bWYtZzB0T0dkVQ?oc=5",
+    "source": "New York University",
+    "published": "2026-10-28"
+   }
+  ],
   "it_spend_outlook": "Unclear",
-  "it_spend_reason": "No specific IT investment or cost‑cutting information provided",
+  "it_spend_reason": "No explicit IT budgeting information is provided in the sources",
   "talking_points": [
-   "Discuss how the new shuttle‑bus pilot might create opportunities for campus mobility tech solutions",
-   "Explore whether the three‑year degree initiative will drive demand for digital learning platforms",
-   "Assess any security technology needs in light of recent safety incident"
+   "Discuss NYU’s community‑focused data‑center expectations and potential partnership opportunities",
+   "Explore how the new shuttle service could involve technology vendors for fleet management or IoT solutions"
   ],
   "unverified_dropped": [],
   "sources": [
    {
-    "title": "Police searching for man accused of raping NYU student inside Manhattan dorm",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjVjX3pfb0J6UnhmY3ZqaTZwb0Q5ZVpWX1pMRWtPc3FqUGdGUTRTSUs0RGZXSHBIc3h2SFVuaFIxZXpNTm5idDMwLVRoY2RHei1oUkdmRTJXWTFnUF9zYUwtWHlYSUpFNHZqdjhTQ21lYzhwMXFVdkxVaHcyZVp5dkFMa2xLSTjSAY8BQVVfeXFMUGdPbklZQnNLQlI0a1hGVVdOamsxSGVHb1NvNFhsOEM3X2tvWktyZGZCUTE4SFY5LV9HOVJKV0RuUHdiVmY2M0VQX2lxRnIxQklKOE5aYmdNa3kyd0x2amtCV0FWVkVMSk5QN1VvRW10bzA2NGw3QmlScGNmbjZ6ZGNJNTFseXJyT2Q0VnBaT2c?oc=5",
-    "source": "NBC New York",
-    "published": "2026-11-18T23:27:00+00:00",
+    "title": "NYU Stern Establishes Corient Private Wealth Management and Family Office Initiative with $5 Million Gift",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPV3NNTFR6QmUzY0VVR2RQay1Gb1ota3oxQzNwZ280cW1USTIzLXNNSDV3ZlVVS0RyNjE5N2cyNG1ldW1DVURHLXhtSWtHbGF6M3p3TGhCbmRCaHNKbGhYTm5xYl9XcURqY2NKUFg1QlYwNEVHREJ4WHZONDNoeHhkV1NFUk5oZ2dTOGpabUpDS1NEZlUzNFI4WFJQWFRRZVJYd081MnF3cTh3Ri1XdE1JY0RNTXJDVUEzRERSbndOTFJsbnJlMFJPMG16NHV5ckZwOGlXdDJlNDN1YjV6ZFVRdEFmX2Rma3phY1hqZkItSWZvRnFp?oc=5",
+    "source": "NYU Stern",
+    "published": "2026-11-16T17:49:15+00:00",
+    "official": false
+   },
+   {
+    "title": "NYU Researcher: Data Centers Must Offer More to Local Communities",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSEVfNkVibzhPcklNRk5TUWVTSUhwMm94WUhCYldpUGRNRUJmX0RnZFNIOUg1dElzcGV6VkxlWDVfMHMtdFkwOWc1b0JuVVJtOE1Ec05GUWVwZ0pFUTJVWEtHM0NJdUs0ZW56bC1JbzUwc2tISUR6R2NtOHhlRTZseExsMlFHZ3JTYmFuWWdRbE0xem5WZkdkUVhCTW0?oc=5",
+    "source": "Broadband Breakfast",
+    "published": "2026-11-11T08:00:00+00:00",
     "official": false
    },
    {
@@ -1819,25 +1801,18 @@
     "official": false
    },
    {
-    "title": "Hilary Beckles Named a Distinguished Scholar by New York University",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGt2Vmd1bzNPVVppWE9Nd2dyNlBlVmxqeEtta1BDLWx1aWtVNHFER1JQXzVYNHFtdFloanoxRFh4TXc1WVMtX2NqeHZua3JtOW8tb1V6LXVDbUVIdmNiNmxNU0I4VnhSUnhOdFkxXzN4SXE0SFdkMzB1QVlWdkU2TzFobFpyRnJ5VzJpV2l2a0x2cmF0MDFHUmlnandKbXBQckJpWUQ2SUpKZGxjYUstX0tRR2EzNFNlWTVDYTdFSFIwTTVxN0U2Z2xR?oc=5",
-    "source": "The Journal of Blacks in Higher Education",
-    "published": "2026-10-26T07:00:00+00:00",
-    "official": false
-   },
-   {
-    "title": "New York University President Proposes Offering Three-Year Bachelor’s Degrees",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORklsTTVHREFGYkJrS0k2QzVoVXplN0JRVUREX0pJTllMVTRpRFVkeHY4Z1k5TDNRZ2VZdWhaaFY1dzJJcjlDejVqVlFkNXF5OHROT2tGM1dtRDJ3eDZHaE9TeEpqUmNRcWdWVzNHSU5oM05vTzZhTlhPOVc0VXpvMFl3bHFaZFdQaFZWV3BUREl1UU5LNlZuMVRrd3Zma1FBV01Gdll5aF9QTzViRGVpeW9maTIwN3hQSGhkbm9rWDRsQjRndjF4U0x4ZGg3QQ?oc=5",
-    "source": "Forbes",
-    "published": "2026-10-24T07:00:00+00:00",
+    "title": "Easy ride: NYU launches free shuttle bus service for seniors in parts of Manhattan and Brooklyn",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9teXhtcTNnQkZmbmY1bnkzZ1J0dWdIYkhBeFdRa0NpaUVMbkgyX205RnA4by05U0ZHVmcxR01qcWZRZWRXcV83ZnZEM0MtMHpmVW5EVzVJSzhIZkwxRWQ0ZHYwN2RueG9qb21TU1RuZjJ5RVNvZUE?oc=5",
+    "source": "amNewYork",
+    "published": "2026-10-28T07:00:00+00:00",
     "official": false
    }
   ],
   "company": "NYU",
   "mode": "signals",
-  "analysed_at": "2026-11-19T02:46:21+00:00",
+  "analysed_at": "2026-11-26T03:44:32+00:00",
   "guidance_change": null,
-  "signals_at": "2026-11-19T02:46:21+00:00"
+  "signals_at": "2026-11-26T03:44:32+00:00"
  },
  "SLU": {
   "headline": "Saint Louis University outsources its main‑campus custodial services and lays off all 67 custodians",
