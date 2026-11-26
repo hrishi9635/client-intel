@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-25T16:05:45+00:00",
+ "updated": "2026-11-26T15:49:26+00:00",
  "titles": [
+  {
+   "key": "tv-247718",
+   "kind": "tv",
+   "tmdb_id": 247718,
+   "title": "MobLand",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "Paramount+",
+    "MTV Entertainment Studios",
+    "101 Studios",
+    "Toff Guy Films"
+   ],
+   "release_date": "2026-11-20",
+   "first_air_date": "2025-03-30",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+   "popularity": 1704.4,
+   "tmdb_vote": 8.684,
+   "tmdb_votes": 1315,
+   "imdb_id": "tt31510819",
+   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 7.0,
+     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
+     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
+    },
+    {
+     "author": "mukundala",
+     "rating": 7.0,
+     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
+     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
+    },
+    {
+     "author": "PeaceMeal",
+     "rating": 10.0,
+     "text": "I'm not a fan of high violence or gang movies. Dexter, Breaking Bad, etc., aren't my thing. The trailer didn't motivate me either; it actually discouraged me. I gave it 15 minutes, but I couldn't stop watching. It's somewhat of a modern day Godfather and again the dynamic of the family and all the players pulls you in. I figured that it must be pretty good given the three A-list actors: Tom Hardy as Harry Da Souza, Pierce Brosnan as Conrad Harrigan and Helen Mirren as Maeve Harrigan. I burned th",
+     "url": "https://www.themoviedb.org/review/6af12ca3b0599317cdc70d43"
+    }
+   ],
+   "imdb_rating": 8.3,
+   "imdb_votes": 147224.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "2dc3b9102ec4",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "Tom Hardy brilliant",
+     "Entertaining gangster story",
+     "modern day Godfather vibe"
+    ],
+    "complaints": [
+     "predictable stereotypes",
+     "implausible plot twists",
+     "trailer discouraged"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "A watchable British crime drama with strong performances but hampered by clichés and uneven plotting.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-26T15:48:07+00:00"
+   }
+  },
   {
    "key": "tv-1413",
    "kind": "tv",
@@ -21,9 +98,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-   "popularity": 1638.4,
-   "tmdb_vote": 8.079,
-   "tmdb_votes": 6318,
+   "popularity": 1500.5,
+   "tmdb_vote": 8.078,
+   "tmdb_votes": 6320,
    "imdb_id": "tt1844624",
    "tmdb_url": "https://www.themoviedb.org/tv/1413",
    "tmdb_reviews": [
@@ -46,24 +123,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "3393d99f653d",
+   "input_hash": "6188d46c2403",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
-    "audience_score": 30,
+    "audience_score": -10,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
-    "praises": [
-     "thought‑provoking themes"
+    "praises": [],
+    "complaints": [
+     "overly abstract commentary",
+     "disconnected references",
+     "lack of clear narrative"
     ],
-    "complaints": [],
-    "buzz": "Medium",
+    "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "Viewers note intriguing concepts but are split on execution.",
+    "summary": "The latest season offers thematic musings that many find confusing and disconnected from the core horror premise.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-23T16:29:50+00:00"
+    "analysed_at": "2026-11-26T15:48:07+00:00"
    }
   },
   {
@@ -80,14 +159,14 @@
     "New Line Cinema",
     "Amazon MGM Studios"
    ],
-   "release_date": "2026-11-18",
+   "release_date": "2026-11-25",
    "first_air_date": "2022-09-01",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the ",
-   "popularity": 1473.4,
-   "tmdb_vote": 7.222,
-   "tmdb_votes": 4141,
+   "popularity": 1425.5,
+   "tmdb_vote": 7.221,
+   "tmdb_votes": 4149,
    "imdb_id": "tt7631058",
    "tmdb_url": "https://www.themoviedb.org/tv/84773",
    "tmdb_reviews": [
@@ -122,7 +201,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "331d501349dd",
+   "input_hash": "683a0c72986b",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -130,97 +209,81 @@
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "impressive visuals",
-     "rich world‑building"
+     "Impressive visuals",
+     "Great HDR colors",
+     "Extensive world‑building"
     ],
     "complaints": [
-     "deviates from Tolkien",
-     "hollow storytelling"
+     "Heinous abomination to source material",
+     "Hollow facsimile",
+     "Perceived woke agenda"
     ],
-    "buzz": "High",
+    "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "Reactions range from praise for production values to criticism of faithfulness to source material.",
+    "summary": "Visually stunning but divisive, with praise for production values and criticism for its handling of Tolkien’s legacy.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-23T16:29:50+00:00"
+    "analysed_at": "2026-11-26T15:48:07+00:00"
    }
   },
   {
-   "key": "tv-247718",
+   "key": "tv-81723",
    "kind": "tv",
-   "tmdb_id": 247718,
-   "title": "MobLand",
-   "studio": "Paramount+ originals",
+   "tmdb_id": 81723,
+   "title": "The Gilded Age",
+   "studio": "HBO",
    "parent": "WBD / Skydance",
    "group": "Tracked companies",
    "companies": [
-    "Paramount+",
-    "Paramount+",
-    "MTV Entertainment Studios",
-    "101 Studios",
-    "Toff Guy Films"
+    "HBO",
+    "Universal Television",
+    "HBO",
+    "Neamo Film and Television"
    ],
-   "release_date": "2026-11-20",
-   "first_air_date": "2025-03-30",
+   "release_date": "2026-11-22",
+   "first_air_date": "2022-01-24",
    "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-   "popularity": 1445.8,
-   "tmdb_vote": 8.7,
-   "tmdb_votes": 1312,
-   "imdb_id": "tt31510819",
-   "tmdb_url": "https://www.themoviedb.org/tv/247718",
+   "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+   "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decid",
+   "popularity": 1424.2,
+   "tmdb_vote": 7.7,
+   "tmdb_votes": 303,
+   "imdb_id": "tt4406178",
+   "tmdb_url": "https://www.themoviedb.org/tv/81723",
    "tmdb_reviews": [
     {
-     "author": "MovieGuys",
-     "rating": 7.0,
-     "text": "\"Mobland\" is a larger than life but nonetheless watchable, Brit crime drama. This series feels somewhat like a satire, of your British organised crime, figures.Its loud tones, predictable stereotypes and at times implausible plot twists, do tend to rob it, of certain, credibility. Tom Hardy is as brilliant as ever, in the role of the chief family enforcer, fixer, whilst Pierce Brosnan hands in a competent performance, as the family's patriarch. Helen Mirren, who, to be honest, has never much imp",
-     "url": "https://www.themoviedb.org/review/67eb2502b0a9ac74158bdda3"
-    },
-    {
-     "author": "mukundala",
-     "rating": 7.0,
-     "text": "Mobland is an entertaining gangster story. That's it. Nothing spectacular and nothing mediocre. With Guy Ritchie involved in the series there is indeed that classic many plots intermingling in the overall story treatment. One thing that stands out in this series is Pierce Brosnan's performance. Definitely not Tom Hardy's. Don't get fooled by the praise showered on Tom Hardy by his fanboys. Any third rate actor can do what Tom Hardy did in this series. He is a talented actor no doubt, but his per",
-     "url": "https://www.themoviedb.org/review/685cc44a4777e6c0c54951b3"
-    },
-    {
-     "author": "PeaceMeal",
-     "rating": 10.0,
-     "text": "I'm not a fan of high violence or gang movies. Dexter, Breaking Bad, etc., aren't my thing. The trailer didn't motivate me either; it actually discouraged me. I gave it 15 minutes, but I couldn't stop watching. It's somewhat of a modern day Godfather and again the dynamic of the family and all the players pulls you in. I figured that it must be pretty good given the three A-list actors: Tom Hardy as Harry Da Souza, Pierce Brosnan as Conrad Harrigan and Helen Mirren as Maeve Harrigan. I burned th",
-     "url": "https://www.themoviedb.org/review/6af12ca3b0599317cdc70d43"
+     "author": "Martin Oaks",
+     "rating": null,
+     "text": "**Aristocratic sobriety** This sensational period drama is set in New York City during the 1880s, an era of profound economic and technological change, as well as massive social conflict. Against this backdrop, we meet Marian Brook (Louisa Jacobson), a young woman with aristocratic but impoverished roots who moves in with her old-money New York aunts (the amazing Christine Baranski totally steals the show here). She immediately finds herself caught in a fierce social war between the traditional ",
+     "url": "https://www.themoviedb.org/review/6ad3b7acfc6413a6b91d3aa4"
     }
    ],
-   "imdb_rating": 8.3,
-   "imdb_votes": 131558.0,
+   "imdb_rating": 8.1,
+   "imdb_votes": 54903.0,
    "rt": null,
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "6220626ecb2c",
+   "input_hash": "09cbf3682ff3",
    "ai": {
     "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 40,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "entertaining gangster story",
-     "Tom Hardy brilliant",
-     "Pierce Brosnan standout"
+     "sensational period drama",
+     "aristocratic sobriety"
     ],
-    "complaints": [
-     "predictable stereotypes",
-     "implausible plot twists",
-     "trailer discouraged"
-    ],
+    "complaints": [],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "MobLand offers solid crime drama thrills with strong performances, though some find it formulaic.",
+    "summary": "The Gilded Age is noted for its period setting and tone, but limited feedback leaves overall sentiment mixed.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-23T16:30:17+00:00"
+    "analysed_at": "2026-11-24T16:26:42+00:00"
    }
   },
   {
@@ -243,7 +306,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/gO8Fo47KV1opiutRDdBS5jclTQB.jpg",
    "overview": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
-   "popularity": 1284.5,
+   "popularity": 1298.2,
    "tmdb_vote": 8.2,
    "tmdb_votes": 11147,
    "imdb_id": "tt0413573",
@@ -298,148 +361,6 @@
    }
   },
   {
-   "key": "tv-456",
-   "kind": "tv",
-   "tmdb_id": 456,
-   "title": "The Simpsons",
-   "studio": "20th Century Studios",
-   "parent": "Disney",
-   "group": "Tracked companies",
-   "companies": [
-    "FOX",
-    "Gracie Films",
-    "20th Century Fox Television",
-    "20th Television Animation",
-    "20th Television"
-   ],
-   "release_date": "2026-11-15",
-   "first_air_date": "1989-12-17",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-   "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
-   "popularity": 1074.6,
-   "tmdb_vote": 8.029,
-   "tmdb_votes": 11200,
-   "imdb_id": "tt0096697",
-   "tmdb_url": "https://www.themoviedb.org/tv/456",
-   "tmdb_reviews": [
-    {
-     "author": "Thomaxz",
-     "rating": 10.0,
-     "text": "The awkward of Homer, and his family, and the endless stories. Is fun, and of course Homer legendary expression \"Do'h\" with has been taking into the dictionary. If you one of the few, who has been living under a rock, go see an episode.",
-     "url": "https://www.themoviedb.org/review/58c47927925141638a00243e"
-    },
-    {
-     "author": "dgood826",
-     "rating": null,
-     "text": "I don’t think this is the best episode of the Simpsons, it’s not even in the period most consider the best seasons (4-8), but it’s my favorite episode. It perfectly encapsulates what made the Simpsons amazing in the 90s: right amount of heart, wacky but not balls to the wall, and integrating a celebrity without it seeming like the episode was one long promo for that celebrity – fully understand the irony of that because he’s playing Michael Jackson in the episode. You can read more of my review ",
-     "url": "https://www.themoviedb.org/review/595673e79251411dbd04a938"
-    },
-    {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Every now and again you find something hanging around in the back of the fridge or freezer you forgot to throw away. That's how I feel about The Simpsons. Its humour is, in my opinion, long past its \"use by\" date, feeling stale and tired. Its a shame it hasn't been shelved as what it did do back in the day, premiering on \"The Tracey Ullman Show\" (remember her?) was fantastic, witty and current. For myself I'd rather remember The Simpsons for what it was than what I believe its become. 4/10 from ",
-     "url": "https://www.themoviedb.org/review/5ca28b0c0e0a26059b8d77d8"
-    },
-    {
-     "author": "Adam Rife",
-     "rating": null,
-     "text": "The Simpsons is my all time favorite show! I am 13, and I can relate in so many ways since the Simpsons are an average American family! My favorite character is Lisa because even though she feels lonely because of her smarts, she prevails and overcomes so many ...",
-     "url": "https://www.themoviedb.org/review/5f57b26c84f2490038ff25ea"
-    }
-   ],
-   "imdb_rating": 8.6,
-   "imdb_votes": 473790.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "19e3e2a3bd36",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "fun",
-     "right amount of heart",
-     "all‑time favorite show"
-    ],
-    "complaints": [
-     "humor feels stale",
-     "past its use‑by date",
-     "not the best episode"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The Simpsons draws love for its classic heart but faces criticism for dated humor.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:30:17+00:00"
-   }
-  },
-  {
-   "key": "tv-81723",
-   "kind": "tv",
-   "tmdb_id": 81723,
-   "title": "The Gilded Age",
-   "studio": "HBO",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "HBO",
-    "Universal Television",
-    "HBO",
-    "Neamo Film and Television"
-   ],
-   "release_date": "2026-11-22",
-   "first_air_date": "2022-01-24",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
-   "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decid",
-   "popularity": 1017.5,
-   "tmdb_vote": 7.7,
-   "tmdb_votes": 303,
-   "imdb_id": "tt4406178",
-   "tmdb_url": "https://www.themoviedb.org/tv/81723",
-   "tmdb_reviews": [
-    {
-     "author": "Martin Oaks",
-     "rating": null,
-     "text": "**Aristocratic sobriety** This sensational period drama is set in New York City during the 1880s, an era of profound economic and technological change, as well as massive social conflict. Against this backdrop, we meet Marian Brook (Louisa Jacobson), a young woman with aristocratic but impoverished roots who moves in with her old-money New York aunts (the amazing Christine Baranski totally steals the show here). She immediately finds herself caught in a fierce social war between the traditional ",
-     "url": "https://www.themoviedb.org/review/6ad3b7acfc6413a6b91d3aa4"
-    }
-   ],
-   "imdb_rating": 8.1,
-   "imdb_votes": 54903.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "09cbf3682ff3",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "sensational period drama",
-     "aristocratic sobriety"
-    ],
-    "complaints": [],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The Gilded Age is noted for its period setting and tone, but limited feedback leaves overall sentiment mixed.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-24T16:26:42+00:00"
-   }
-  },
-  {
    "key": "tv-79744",
    "kind": "tv",
    "tmdb_id": 79744,
@@ -459,9 +380,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-   "popularity": 951.6,
+   "popularity": 1262.8,
    "tmdb_vote": 8.533,
-   "tmdb_votes": 3635,
+   "tmdb_votes": 3636,
    "imdb_id": "tt7587890",
    "tmdb_url": "https://www.themoviedb.org/tv/79744",
    "tmdb_reviews": [
@@ -496,7 +417,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "d7a8617890cc",
+   "input_hash": "247a6091c2cb",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -522,6 +443,89 @@
    }
   },
   {
+   "key": "tv-456",
+   "kind": "tv",
+   "tmdb_id": 456,
+   "title": "The Simpsons",
+   "studio": "20th Century Studios",
+   "parent": "Disney",
+   "group": "Tracked companies",
+   "companies": [
+    "FOX",
+    "Gracie Films",
+    "20th Century Fox Television",
+    "20th Television Animation",
+    "20th Television"
+   ],
+   "release_date": "2026-11-15",
+   "first_air_date": "1989-12-17",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+   "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to",
+   "popularity": 1044.2,
+   "tmdb_vote": 8.029,
+   "tmdb_votes": 11199,
+   "imdb_id": "tt0096697",
+   "tmdb_url": "https://www.themoviedb.org/tv/456",
+   "tmdb_reviews": [
+    {
+     "author": "Thomaxz",
+     "rating": 10.0,
+     "text": "The awkward of Homer, and his family, and the endless stories. Is fun, and of course Homer legendary expression \"Do'h\" with has been taking into the dictionary. If you one of the few, who has been living under a rock, go see an episode.",
+     "url": "https://www.themoviedb.org/review/58c47927925141638a00243e"
+    },
+    {
+     "author": "dgood826",
+     "rating": null,
+     "text": "I don’t think this is the best episode of the Simpsons, it’s not even in the period most consider the best seasons (4-8), but it’s my favorite episode. It perfectly encapsulates what made the Simpsons amazing in the 90s: right amount of heart, wacky but not balls to the wall, and integrating a celebrity without it seeming like the episode was one long promo for that celebrity – fully understand the irony of that because he’s playing Michael Jackson in the episode. You can read more of my review ",
+     "url": "https://www.themoviedb.org/review/595673e79251411dbd04a938"
+    },
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Every now and again you find something hanging around in the back of the fridge or freezer you forgot to throw away. That's how I feel about The Simpsons. Its humour is, in my opinion, long past its \"use by\" date, feeling stale and tired. Its a shame it hasn't been shelved as what it did do back in the day, premiering on \"The Tracey Ullman Show\" (remember her?) was fantastic, witty and current. For myself I'd rather remember The Simpsons for what it was than what I believe its become. 4/10 from ",
+     "url": "https://www.themoviedb.org/review/5ca28b0c0e0a26059b8d77d8"
+    },
+    {
+     "author": "Adam Rife",
+     "rating": null,
+     "text": "The Simpsons is my all time favorite show! I am 13, and I can relate in so many ways since the Simpsons are an average American family! My favorite character is Lisa because even though she feels lonely because of her smarts, she prevails and overcomes so many ...",
+     "url": "https://www.themoviedb.org/review/5f57b26c84f2490038ff25ea"
+    }
+   ],
+   "imdb_rating": 8.6,
+   "imdb_votes": 473790.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "231e5d8c2435",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 20,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "fun",
+     "right amount of heart",
+     "relatable characters"
+    ],
+    "complaints": [
+     "humor feels stale",
+     "past its use‑by date",
+     "not the best episode"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "not stated",
+    "summary": "Fans are split, enjoying the nostalgia but noting the jokes feel dated",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-26T15:48:33+00:00"
+   }
+  },
+  {
    "key": "tv-2224",
    "kind": "tv",
    "tmdb_id": 2224,
@@ -536,14 +540,14 @@
     "Ark Angel",
     "Busboy Productions"
    ],
-   "release_date": "2026-10-22",
+   "release_date": "2026-11-19",
    "first_air_date": "1996-07-22",
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
    "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-   "popularity": 350.7,
-   "tmdb_vote": 6.43,
-   "tmdb_votes": 683,
+   "popularity": 373.5,
+   "tmdb_vote": 6.4,
+   "tmdb_votes": 684,
    "imdb_id": "tt0115147",
    "tmdb_url": "https://www.themoviedb.org/tv/2224",
    "tmdb_reviews": [],
@@ -553,166 +557,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "be896f52f1de"
-  },
-  {
-   "key": "movie-1263337",
-   "kind": "movie",
-   "tmdb_id": 1263337,
-   "title": "Heart of the Beast",
-   "studio": "Paramount Pictures",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Paramount Pictures",
-    "Wild Chickens Productions",
-    "Temple Hill Entertainment",
-    "Domain Entertainment",
-    "GulfStream Pictures"
-   ],
-   "release_date": "2026-09-19",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-   "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-   "popularity": 317.4,
-   "tmdb_vote": 7.9,
-   "tmdb_votes": 1223,
-   "imdb_id": "tt7526136",
-   "tmdb_url": "https://www.themoviedb.org/movie/1263337",
-   "tmdb_reviews": [
-    {
-     "author": "dumasori",
-     "rating": 7.0,
-     "text": "**Brave, emotional, and beautiful** I had the opportunity to watch this movie before its official release, experiencing the premiere early. The film is gripping, and several scenes had me on the edge of my seat. The direction is excellent, and Brad Pitt's performance is outstanding. Although the story is set in Alaska, most of the shooting took place in New Zealand, showcasing a beautiful wilderness. The emotional scenes were well-executed, making it easy to relate to the protagonist. Not to men",
-     "url": "https://www.themoviedb.org/review/6aae5235aa033fd09e8da276"
-    },
-    {
-     "author": "Manuel São Bento",
-     "rating": 7.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/heart-of-the-beast-2026-david-ayer-finds-his-gentlest-film-yet-in-a-dogs-steady-gaze/ Rating: B HEART OF THE BEAST sends Brad Pitt and his real-life canine co-star(s) into New Zealand's wilderness for a survival story you've essentially seen before: man and dog, cold and hunger, one obstacle after another. What saves it is restraint. David Ayer lets his camera simply sit with two creatures who trust each other completely, and set against ab",
-     "url": "https://www.themoviedb.org/review/6ab7926ae10902b414be64be"
-    },
-    {
-     "author": "Zeus",
-     "rating": 10.0,
-     "text": "10/10 stars review ratings from me. As always Brad really nail it .. and he didn't even look like he is trying hard. Its just comes naturally for him to be ex vet.. special forces the usuals. But then again it is not a military movie . it's the effect and side effects.The cinematographic is stunning and although it is not the actual wild forest of Alaska. But it did the trick and still looks stunning. t manage to make yo glued to your seat and mesmerized by the journey .. the forest , river and ",
-     "url": "https://www.themoviedb.org/review/6ab8cba7ad1d2aeae30ed701"
-    },
-    {
-     "author": "CinemaSerf",
-     "rating": 6.0,
-     "text": "Anyone remember \"One Man and His Dog\" on the telly? Well instead of a sheepdog, this introduces us to \"Odin\" - an highly trained military canine that's clearly had a fairly torrid time and is now in the care of his ertswhile sergeant \"James\" (Brad Pitt). \"James\" has his own little Cessna and loves nothing more than to set off into the Alaskan wilderness to get back to nature. He, too, is not without his wartime injuries and it's while he is trying to outfly a storm that his plane ends up in a la",
-     "url": "https://www.themoviedb.org/review/6abce17400190935381e7950"
-    }
-   ],
-   "imdb_rating": 7.1,
-   "imdb_votes": 44562.0,
-   "rt": null,
-   "metascore": 66.0,
-   "box_office_usd": 67176594.0,
-   "trade": [],
-   "input_hash": "b0e663e5b5a0",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 30,
-    "critics_vs_audience": "Aligned",
-    "gap_note": null,
-    "praises": [
-     "brave emotional beautiful",
-     "Brad Pitt outstanding",
-     "stunning cinematography"
-    ],
-    "complaints": [
-     "story feels familiar",
-     "not filmed in actual Alaska",
-     "some tropes"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "hit",
-    "summary": "Heart of the Beast delivers an emotionally charged wilderness tale praised for performances and visuals, despite familiar plot beats.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:30:17+00:00"
-   }
-  },
-  {
-   "key": "tv-153312",
-   "kind": "tv",
-   "tmdb_id": 153312,
-   "title": "Tulsa King",
-   "studio": "Paramount+ originals",
-   "parent": "WBD / Skydance",
-   "group": "Tracked companies",
-   "companies": [
-    "Paramount+",
-    "101 Studios",
-    "MTV Entertainment Studios",
-    "Bosque Ranch Productions",
-    "Balboa Productions"
-   ],
-   "release_date": "2026-11-13",
-   "first_air_date": "2022-11-13",
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-   "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-   "popularity": 303.9,
-   "tmdb_vote": 8.323,
-   "tmdb_votes": 2978,
-   "imdb_id": "tt16358384",
-   "tmdb_url": "https://www.themoviedb.org/tv/153312",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 6.0,
-     "text": "I have to confess I stumbled across this, quite by chance. I don't watch a lot of US entertainment these days. I did however, grow up watching my share of Stallone action films, so a dash of nostalgia and curiosity, drew me in. There's nothing terribly original by now about the plot of Tulsa King. Its Mafia style antics are noting new. I think it was a smart move, playing this as a dark comedy. It fits the well worn character, Stallone, inhabits. That said, I guess the key question is, is it ent",
-     "url": "https://www.themoviedb.org/review/6372afbbed2ac2009b9f60e9"
-    },
-    {
-     "author": "Emily",
-     "rating": 9.0,
-     "text": "It's not Shakespeare but it's a fun show to watch after you get home from work or school. Plus it's nice to see a show that is set somewhere other then usual: NYC or LA. I really liked it and I'm looking forward to next season.",
-     "url": "https://www.themoviedb.org/review/68b792df55ff55b5e58cd610"
-    },
-    {
-     "author": "Marco-Hugo Landeta Vacas",
-     "rating": 8.0,
-     "text": "(CASTELLANO) Tulsa King me ha encantado. No será la serie más profunda, más innovadora ni más perfecta del mundo, pero tiene algo que muchas otras no tienen: carisma, ritmo y una forma muy consciente de divertirse con su propio planteamiento. Y eso, en un panorama lleno de series que van de importantísimas sin serlo tanto, se agradece muchísimo. Aquí se nota desde el principio que la serie sabe muy bien lo que quiere ser y no pierde el tiempo fingiendo otra cosa. Gran parte de su encanto está en",
-     "url": "https://www.themoviedb.org/review/69cc6a6d0626634fe4c9d34d"
-    }
-   ],
-   "imdb_rating": 7.9,
-   "imdb_votes": 121614.0,
-   "rt": null,
-   "metascore": null,
-   "box_office_usd": null,
-   "trade": [],
-   "input_hash": "521ebb598880",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Positive",
-    "audience_score": 60,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "fun show after work",
-     "charisma and rhythm",
-     "different setting from NYC/LA"
-    ],
-    "complaints": [
-     "not original plot",
-     "not deep or innovative"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "Viewers enjoy its charm and setting despite a familiar premise.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:30:44+00:00"
-   }
+   "input_hash": "31743d6ef980"
   },
   {
    "key": "tv-4614",
@@ -733,7 +578,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-   "popularity": 300.6,
+   "popularity": 326.5,
    "tmdb_vote": 7.602,
    "tmdb_votes": 2630,
    "imdb_id": "tt0364845",
@@ -794,7 +639,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
    "overview": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
-   "popularity": 298.9,
+   "popularity": 305.8,
    "tmdb_vote": 6.7,
    "tmdb_votes": 387,
    "imdb_id": "tt0185103",
@@ -807,6 +652,163 @@
    "box_office_usd": null,
    "trade": [],
    "input_hash": "ec3dfab5d4b0"
+  },
+  {
+   "key": "movie-1263337",
+   "kind": "movie",
+   "tmdb_id": 1263337,
+   "title": "Heart of the Beast",
+   "studio": "Paramount Pictures",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount Pictures",
+    "Wild Chickens Productions",
+    "Temple Hill Entertainment",
+    "Domain Entertainment",
+    "GulfStream Pictures"
+   ],
+   "release_date": "2026-09-23",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+   "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+   "popularity": 305.2,
+   "tmdb_vote": 7.9,
+   "tmdb_votes": 1235,
+   "imdb_id": "tt7526136",
+   "tmdb_url": "https://www.themoviedb.org/movie/1263337",
+   "tmdb_reviews": [
+    {
+     "author": "dumasori",
+     "rating": 7.0,
+     "text": "**Brave, emotional, and beautiful** I had the opportunity to watch this movie before its official release, experiencing the premiere early. The film is gripping, and several scenes had me on the edge of my seat. The direction is excellent, and Brad Pitt's performance is outstanding. Although the story is set in Alaska, most of the shooting took place in New Zealand, showcasing a beautiful wilderness. The emotional scenes were well-executed, making it easy to relate to the protagonist. Not to men",
+     "url": "https://www.themoviedb.org/review/6aae5235aa033fd09e8da276"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 7.0,
+     "text": "Check out my full review @ https://www.manuelsbento.com/heart-of-the-beast-2026-david-ayer-finds-his-gentlest-film-yet-in-a-dogs-steady-gaze/ Rating: B HEART OF THE BEAST sends Brad Pitt and his real-life canine co-star(s) into New Zealand's wilderness for a survival story you've essentially seen before: man and dog, cold and hunger, one obstacle after another. What saves it is restraint. David Ayer lets his camera simply sit with two creatures who trust each other completely, and set against ab",
+     "url": "https://www.themoviedb.org/review/6ab7926ae10902b414be64be"
+    },
+    {
+     "author": "Zeus",
+     "rating": 10.0,
+     "text": "10/10 stars review ratings from me. As always Brad really nail it .. and he didn't even look like he is trying hard. Its just comes naturally for him to be ex vet.. special forces the usuals. But then again it is not a military movie . it's the effect and side effects.The cinematographic is stunning and although it is not the actual wild forest of Alaska. But it did the trick and still looks stunning. t manage to make yo glued to your seat and mesmerized by the journey .. the forest , river and ",
+     "url": "https://www.themoviedb.org/review/6ab8cba7ad1d2aeae30ed701"
+    },
+    {
+     "author": "CinemaSerf",
+     "rating": 6.0,
+     "text": "Anyone remember \"One Man and His Dog\" on the telly? Well instead of a sheepdog, this introduces us to \"Odin\" - an highly trained military canine that's clearly had a fairly torrid time and is now in the care of his ertswhile sergeant \"James\" (Brad Pitt). \"James\" has his own little Cessna and loves nothing more than to set off into the Alaskan wilderness to get back to nature. He, too, is not without his wartime injuries and it's while he is trying to outfly a storm that his plane ends up in a la",
+     "url": "https://www.themoviedb.org/review/6abce17400190935381e7950"
+    }
+   ],
+   "imdb_rating": 7.1,
+   "imdb_votes": 44562.0,
+   "rt": null,
+   "metascore": 66.0,
+   "box_office_usd": 67176594.0,
+   "trade": [],
+   "input_hash": "a3fdcaca2a37",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Positive",
+    "audience_score": 60,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "gripping story",
+     "excellent direction",
+     "stunning cinematography"
+    ],
+    "complaints": [
+     "plot feels familiar"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "hit",
+    "summary": "Generally praised for its emotional impact and visuals, though some find the premise familiar",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-26T15:48:33+00:00"
+   }
+  },
+  {
+   "key": "tv-153312",
+   "kind": "tv",
+   "tmdb_id": 153312,
+   "title": "Tulsa King",
+   "studio": "Paramount+ originals",
+   "parent": "WBD / Skydance",
+   "group": "Tracked companies",
+   "companies": [
+    "Paramount+",
+    "101 Studios",
+    "MTV Entertainment Studios",
+    "Bosque Ranch Productions",
+    "Balboa Productions"
+   ],
+   "release_date": "2026-11-13",
+   "first_air_date": "2022-11-13",
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+   "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+   "popularity": 300.1,
+   "tmdb_vote": 8.322,
+   "tmdb_votes": 2981,
+   "imdb_id": "tt16358384",
+   "tmdb_url": "https://www.themoviedb.org/tv/153312",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 6.0,
+     "text": "I have to confess I stumbled across this, quite by chance. I don't watch a lot of US entertainment these days. I did however, grow up watching my share of Stallone action films, so a dash of nostalgia and curiosity, drew me in. There's nothing terribly original by now about the plot of Tulsa King. Its Mafia style antics are noting new. I think it was a smart move, playing this as a dark comedy. It fits the well worn character, Stallone, inhabits. That said, I guess the key question is, is it ent",
+     "url": "https://www.themoviedb.org/review/6372afbbed2ac2009b9f60e9"
+    },
+    {
+     "author": "Emily",
+     "rating": 9.0,
+     "text": "It's not Shakespeare but it's a fun show to watch after you get home from work or school. Plus it's nice to see a show that is set somewhere other then usual: NYC or LA. I really liked it and I'm looking forward to next season.",
+     "url": "https://www.themoviedb.org/review/68b792df55ff55b5e58cd610"
+    },
+    {
+     "author": "Marco-Hugo Landeta Vacas",
+     "rating": 8.0,
+     "text": "(CASTELLANO) Tulsa King me ha encantado. No será la serie más profunda, más innovadora ni más perfecta del mundo, pero tiene algo que muchas otras no tienen: carisma, ritmo y una forma muy consciente de divertirse con su propio planteamiento. Y eso, en un panorama lleno de series que van de importantísimas sin serlo tanto, se agradece muchísimo. Aquí se nota desde el principio que la serie sabe muy bien lo que quiere ser y no pierde el tiempo fingiendo otra cosa. Gran parte de su encanto está en",
+     "url": "https://www.themoviedb.org/review/69cc6a6d0626634fe4c9d34d"
+    }
+   ],
+   "imdb_rating": 7.9,
+   "imdb_votes": 121614.0,
+   "rt": null,
+   "metascore": null,
+   "box_office_usd": null,
+   "trade": [],
+   "input_hash": "0743a8bf78c3",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 30,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [
+     "fun after work",
+     "charisma and rhythm",
+     "unique setting outside NYC/LA"
+    ],
+    "complaints": [
+     "not very original",
+     "lacks depth"
+    ],
+    "buzz": "Medium",
+    "box_office_verdict": "not stated",
+    "summary": "Entertaining with charm, but critics note a lack of originality",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-26T15:48:33+00:00"
+   }
   },
   {
    "key": "movie-1003596",
@@ -826,7 +828,7 @@
    "upcoming": true,
    "poster": "https://image.tmdb.org/t/p/w342/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
    "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-   "popularity": 248.5,
+   "popularity": 261.4,
    "tmdb_vote": null,
    "tmdb_votes": 0,
    "imdb_id": "tt21357150",
@@ -874,7 +876,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/rKnxmir8m5I3RdSTdZr3jaQaCZi.jpg",
    "overview": "Created from the novels by award winning crime writer Ann Cleeves, Shetland follows DI Jimmy Perez and his team as they investigate crime within the close knit island community. In this isolated and sometimes inhospitable environment, the team have to rely on a uniquely resourceful style of policing",
-   "popularity": 2106.9,
+   "popularity": 1994.0,
    "tmdb_vote": 7.5,
    "tmdb_votes": 219,
    "imdb_id": "tt2396135",
@@ -907,9 +909,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
    "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-   "popularity": 1884.7,
-   "tmdb_vote": 8.083,
-   "tmdb_votes": 1155,
+   "popularity": 1823.8,
+   "tmdb_vote": 8.086,
+   "tmdb_votes": 1157,
    "imdb_id": "tt5875444",
    "tmdb_url": "https://www.themoviedb.org/tv/95480",
    "tmdb_reviews": [
@@ -938,7 +940,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "47c4f198536a",
+   "input_hash": "6166b3744195",
    "ai": {
     "key": null,
     "audience_sentiment": "Positive",
@@ -948,16 +950,16 @@
     "praises": [
      "great source material",
      "wonderful cast",
-     "twisty spy craft with humour"
+     "twisty spycraft with humor"
     ],
     "complaints": [],
     "buzz": "High",
     "box_office_verdict": "not stated",
-    "summary": "Slow Horses is praised for its smart writing, strong cast and gritty spy atmosphere.",
+    "summary": "Critics praise its spycraft, writing and Gary Oldman's performance.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-23T16:31:11+00:00"
+    "analysed_at": "2026-11-26T15:48:59+00:00"
    }
   },
   {
@@ -978,9 +980,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-   "popularity": 1460.5,
-   "tmdb_vote": 7.892,
-   "tmdb_votes": 1099,
+   "popularity": 1444.2,
+   "tmdb_vote": 7.894,
+   "tmdb_votes": 1100,
    "imdb_id": "tt0852863",
    "tmdb_url": "https://www.themoviedb.org/tv/1877",
    "tmdb_reviews": [],
@@ -990,7 +992,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "57fc1339e787"
+   "input_hash": "d7ec04696a9b"
   },
   {
    "key": "tv-2734",
@@ -1012,9 +1014,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg",
    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-   "popularity": 1455.2,
+   "popularity": 1389.6,
    "tmdb_vote": 7.963,
-   "tmdb_votes": 4429,
+   "tmdb_votes": 4428,
    "imdb_id": "tt0203259",
    "tmdb_url": "https://www.themoviedb.org/tv/2734",
    "tmdb_reviews": [
@@ -1037,7 +1039,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "46b59e7fa428",
+   "input_hash": "abcf382c438f",
    "ai": {
     "key": null,
     "audience_sentiment": "Mixed",
@@ -1082,7 +1084,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
    "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
-   "popularity": 1330.8,
+   "popularity": 1219.5,
    "tmdb_vote": 5.9,
    "tmdb_votes": 235,
    "imdb_id": "tt1839337",
@@ -1114,7 +1116,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
    "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-   "popularity": 661.9,
+   "popularity": 685.5,
    "tmdb_vote": 4.892,
    "tmdb_votes": 102,
    "imdb_id": "tt2057880",
@@ -1147,9 +1149,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
    "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-   "popularity": 566.9,
-   "tmdb_vote": 5.804,
-   "tmdb_votes": 405,
+   "popularity": 582.0,
+   "tmdb_vote": 5.802,
+   "tmdb_votes": 406,
    "imdb_id": "tt3444938",
    "tmdb_url": "https://www.themoviedb.org/tv/59941",
    "tmdb_reviews": [
@@ -1166,106 +1168,26 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "ddf6c31a0a3d",
+   "input_hash": "422046979269",
    "ai": {
     "key": null,
     "audience_sentiment": "Negative",
-    "audience_score": -60,
-    "critics_vs_audience": "Audience higher",
-    "gap_note": "critics rate lower",
+    "audience_score": -70,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
     "praises": [],
     "complaints": [
      "not funny",
-     "not entertaining",
-     "bad memes"
+     "poor entertainment value",
+     "backroom‑deal perception"
     ],
     "buzz": "Low",
     "box_office_verdict": "not stated",
-    "summary": "The show is widely criticized as unfunny and poorly entertaining.",
+    "summary": "Audience finds the show unfunny and unengaging.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-18T14:34:41+00:00"
-   }
-  },
-  {
-   "key": "movie-1368337",
-   "kind": "movie",
-   "tmdb_id": 1368337,
-   "title": "The Odyssey",
-   "studio": "Universal Pictures",
-   "parent": "Comcast (NBCUniversal)",
-   "group": "Rest of industry",
-   "companies": [
-    "Universal Pictures",
-    "Syncopy"
-   ],
-   "release_date": "2026-07-15",
-   "first_air_date": null,
-   "upcoming": false,
-   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-   "popularity": 410.8,
-   "tmdb_vote": 8.028,
-   "tmdb_votes": 5460,
-   "imdb_id": "tt33764258",
-   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
-   "tmdb_reviews": [
-    {
-     "author": "MovieGuys",
-     "rating": 4.0,
-     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
-     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
-    },
-    {
-     "author": "Manuel São Bento",
-     "rating": 10.0,
-     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
-     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
-    },
-    {
-     "author": "AlphaLucifer",
-     "rating": 1.0,
-     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
-     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
-    },
-    {
-     "author": "jwtx",
-     "rating": null,
-     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
-     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
-    }
-   ],
-   "imdb_rating": 8.4,
-   "imdb_votes": 544815.0,
-   "rt": null,
-   "metascore": 88.0,
-   "box_office_usd": 625595435.0,
-   "trade": [],
-   "input_hash": "1d32e3f42206",
-   "ai": {
-    "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 20,
-    "critics_vs_audience": "Unclear",
-    "gap_note": null,
-    "praises": [
-     "faithful epic adaptation",
-     "maximalist vision",
-     "strong visual experience"
-    ],
-    "complaints": [
-     "overlong and bloated",
-     "perceived woke agenda",
-     "historical inaccuracies"
-    ],
-    "buzz": "Medium",
-    "box_office_verdict": "not stated",
-    "summary": "The Odyssey divides viewers with its ambitious scope but polarizing execution.",
-    "unverified_dropped": [
-     "key"
-    ],
-    "analysed_at": "2026-11-23T16:31:11+00:00"
+    "analysed_at": "2026-11-26T15:48:59+00:00"
    }
   },
   {
@@ -1287,7 +1209,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hZYQjSo7mHZ06w52mzfN8izFTwZ.jpg",
    "overview": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has e",
-   "popularity": 379.5,
+   "popularity": 404.5,
    "tmdb_vote": 5.1,
    "tmdb_votes": 140,
    "imdb_id": "tt3513388",
@@ -1329,6 +1251,86 @@
    }
   },
   {
+   "key": "movie-1368337",
+   "kind": "movie",
+   "tmdb_id": 1368337,
+   "title": "The Odyssey",
+   "studio": "Universal Pictures",
+   "parent": "Comcast (NBCUniversal)",
+   "group": "Rest of industry",
+   "companies": [
+    "Universal Pictures",
+    "Syncopy"
+   ],
+   "release_date": "2026-07-15",
+   "first_air_date": null,
+   "upcoming": false,
+   "poster": "https://image.tmdb.org/t/p/w342/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+   "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+   "popularity": 383.1,
+   "tmdb_vote": 8.026,
+   "tmdb_votes": 5503,
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "tmdb_reviews": [
+    {
+     "author": "MovieGuys",
+     "rating": 4.0,
+     "text": "Monty Python couldn't improve on this. Suffice to say, someone doesn't know their classical Greek history/mythology too well. They have excavated remains from the site of Troy and undertaken facial recreations. Would it surprise anyone to know they look Greek? Would it surprise anyone, too, to know the main figures of Homer's work, are described clearly, as Greek? Upsides include reasonable if at times miscast acting, great sets, okay action and top locations. In summary, I wonder what actual Gr",
+     "url": "https://www.themoviedb.org/review/6a55abb707cf27ca7fcf26ba"
+    },
+    {
+     "author": "Manuel São Bento",
+     "rating": 10.0,
+     "text": "Check out my full review @ https://www.manuelsbento.com/the-odyssey-2026-christopher-nolans-most-faithful-epic-is-also-his-most-ambitious-one/ Rating: A+ (updated after second viewing) THE ODYSSEY is a maximalist, deeply faithful adaptation of Homer's poem that somehow ends on a quiet, contemplative note despite everything it throws at you along the way. Completely unafraid of its own scale and scope, it's ten years of war, myth, and horror (!) woven into the story so tightly that the whole thin",
+     "url": "https://www.themoviedb.org/review/6a57bb188acab94fa30511d1"
+    },
+    {
+     "author": "AlphaLucifer",
+     "rating": 1.0,
+     "text": "The hype was massive, the crowd was packed, but the boredom in the theatre at the end credits said it all. A 172-minute film felt like it was a 6+ hour watch. This isn’t a respectful adaptation of Homer’s epic; it’s a bloated, self-important disaster that butchers the source material, erases Greek identity, and rams woke DEI nonsense down your throat while delivering some of the worst big-name acting I’ve seen in years. Right from the opener, it was clear Nolan had zero interest in Homer’s actua",
+     "url": "https://www.themoviedb.org/review/6a5a45359163f0f6e3b855d8"
+    },
+    {
+     "author": "jwtx",
+     "rating": null,
+     "text": "This has to be the best movie theater experience I’ve ever had. I unfortunately couldn’t see it in 70MM IMAX as Houston doesn’t have one and didn’t want to drive to San Antonio. I watched it in standard IMAX at Regal Lonestar 12 minutes from home. I’m a Nolan fan but not everything he’s done has been great. The passing in this movie is amazing. I was waiting for a slow part in the movie to go the bathroom but it just kept going and kept you hooked. I’ve seen all the negative reactions of this fi",
+     "url": "https://www.themoviedb.org/review/6a5b38243e980640f259175c"
+    }
+   ],
+   "imdb_rating": 8.4,
+   "imdb_votes": 544815.0,
+   "rt": null,
+   "metascore": 88.0,
+   "box_office_usd": 625595435.0,
+   "trade": [],
+   "input_hash": "1a20d687dc87",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 0,
+    "critics_vs_audience": "Audience higher",
+    "gap_note": "Audience scores high while reviews are split",
+    "praises": [
+     "faithful adaptation",
+     "ambitious epic",
+     "spectacular visuals"
+    ],
+    "complaints": [
+     "overlong and boring",
+     "woke DEI content",
+     "poor pacing"
+    ],
+    "buzz": "High",
+    "box_office_verdict": "hit",
+    "summary": "A polarizing epic that earned massive box‑office despite mixed audience reactions.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-26T15:48:59+00:00"
+   }
+  },
+  {
    "key": "movie-1300968",
    "kind": "movie",
    "tmdb_id": 1300968,
@@ -1347,9 +1349,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
    "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-   "popularity": 379.0,
-   "tmdb_vote": 7.796,
-   "tmdb_votes": 339,
+   "popularity": 373.4,
+   "tmdb_vote": 7.8,
+   "tmdb_votes": 367,
    "imdb_id": "tt32558705",
    "tmdb_url": "https://www.themoviedb.org/movie/1300968",
    "tmdb_reviews": [
@@ -1384,30 +1386,29 @@
    "metascore": 56.0,
    "box_office_usd": 120000000.0,
    "trade": [],
-   "input_hash": "37f9b2d90e0d",
+   "input_hash": "cbf07866cea6",
    "ai": {
     "key": null,
-    "audience_sentiment": "Mixed",
-    "audience_score": 40,
+    "audience_sentiment": "Positive",
+    "audience_score": 78,
     "critics_vs_audience": "Unclear",
     "gap_note": null,
     "praises": [
-     "compelling new lead",
-     "fan‑service anniversary elements",
-     "entertaining action"
+     "compelling lead",
+     "good casting",
+     "better than previous"
     ],
     "complaints": [
-     "repetitive plot",
-     "risky character choices",
-     "uneven pacing"
+     "Haymitch portrayal",
+     "anniversary edition issues"
     ],
     "buzz": "Medium",
     "box_office_verdict": "not stated",
-    "summary": "The Hunger Games: Sunrise on the Reaping offers fresh moments but uneven storytelling.",
+    "summary": "Generally praised for lead performance and casting, with some concerns about character handling.",
     "unverified_dropped": [
      "key"
     ],
-    "analysed_at": "2026-11-23T16:31:11+00:00"
+    "analysed_at": "2026-11-26T15:49:26+00:00"
    }
   },
   {
@@ -1430,9 +1431,9 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonabl",
-   "popularity": 332.6,
-   "tmdb_vote": 7.279,
-   "tmdb_votes": 745,
+   "popularity": 355.8,
+   "tmdb_vote": 7.277,
+   "tmdb_votes": 744,
    "imdb_id": "tt0098844",
    "tmdb_url": "https://www.themoviedb.org/tv/549",
    "tmdb_reviews": [],
@@ -1442,7 +1443,7 @@
    "metascore": null,
    "box_office_usd": null,
    "trade": [],
-   "input_hash": "49ddfb5b833c"
+   "input_hash": "38c20c285831"
   },
   {
    "key": "tv-291",
@@ -1461,7 +1462,7 @@
    "upcoming": false,
    "poster": "https://image.tmdb.org/t/p/w342/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-   "popularity": 297.4,
+   "popularity": 311.9,
    "tmdb_vote": 5.289,
    "tmdb_votes": 121,
    "imdb_id": "tt0053494",
@@ -1500,6 +1501,48 @@
      "key"
     ],
     "analysed_at": "2026-11-25T16:05:45+00:00"
+   }
+  },
+  {
+   "key": "movie-1170608",
+   "kind": "movie",
+   "tmdb_id": 1170608,
+   "title": "Dune: Part Three",
+   "studio": "Legendary",
+   "parent": "Legendary",
+   "group": "Rest of industry",
+   "companies": [
+    "Legendary Pictures",
+    "Image Nation Studios"
+   ],
+   "release_date": "2026-12-15",
+   "first_air_date": null,
+   "upcoming": true,
+   "poster": "https://image.tmdb.org/t/p/w342/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+   "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of hi",
+   "popularity": 52.0,
+   "tmdb_vote": null,
+   "tmdb_votes": 0,
+   "imdb_id": "tt31378509",
+   "tmdb_url": "https://www.themoviedb.org/movie/1170608",
+   "tmdb_reviews": [],
+   "trade": [],
+   "input_hash": "1d253905c51f",
+   "ai": {
+    "key": null,
+    "audience_sentiment": "Mixed",
+    "audience_score": 0,
+    "critics_vs_audience": "Unclear",
+    "gap_note": null,
+    "praises": [],
+    "complaints": [],
+    "buzz": "Low",
+    "box_office_verdict": "not stated",
+    "summary": "No reviews yet; audience anticipation is uncertain.",
+    "unverified_dropped": [
+     "key"
+    ],
+    "analysed_at": "2026-11-26T15:49:26+00:00"
    }
   }
  ]
