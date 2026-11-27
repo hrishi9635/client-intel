@@ -1,5 +1,5 @@
 date,company,close
-2025-11-28,Disney,102.9789
+2025-11-28,Disney,102.9788
 2025-12-01,Disney,105.246
 2025-12-02,Disney,103.3337
 2025-12-03,Disney,104.2307
@@ -366,9 +366,9 @@ date,company,close
 2026-05-13,WBD / Skydance,10.3721
 2026-05-14,WBD / Skydance,10.0154
 2026-05-15,WBD / Skydance,9.7975
-2026-05-18,WBD / Skydance,9.7281
+2026-05-18,WBD / Skydance,9.7282
 2026-05-19,WBD / Skydance,9.8074
-2026-05-20,WBD / Skydance,10.0353
+2026-05-20,WBD / Skydance,10.0352
 2026-05-21,WBD / Skydance,10.1838
 2026-05-22,WBD / Skydance,10.3622
 2026-05-26,WBD / Skydance,10.273
@@ -2047,7 +2047,7 @@ date,company,close
 2026-01-27,Scholastic,33.2606
 2026-01-28,Scholastic,34.0909
 2026-01-29,Scholastic,34.7258
-2026-01-30,Scholastic,34.3525
+2026-01-30,Scholastic,34.3526
 2026-02-02,Scholastic,34.2248
 2026-02-03,Scholastic,34.5687
 2026-02-04,Scholastic,34.1266
@@ -2089,7 +2089,7 @@ date,company,close
 2026-03-27,Scholastic,38.056
 2026-03-30,Scholastic,38.1444
 2026-03-31,Scholastic,38.3703
-2026-04-01,Scholastic,38.0855
+2026-04-01,Scholastic,38.0854
 2026-04-02,Scholastic,38.5079
 2026-04-06,Scholastic,38.223
 2026-04-07,Scholastic,38.3703
@@ -2313,7 +2313,7 @@ date,company,close
 2026-02-16,Pearson,9.0378
 2026-02-17,Pearson,9.2957
 2026-02-18,Pearson,9.2757
-2026-02-19,Pearson,9.2317
+2026-02-19,Pearson,9.2318
 2026-02-20,Pearson,9.2777
 2026-02-23,Pearson,9.2817
 2026-02-24,Pearson,9.3337
